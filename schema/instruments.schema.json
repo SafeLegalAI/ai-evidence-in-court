@@ -1,0 +1,181 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "SafeLegalAI AI-evidence instrument",
+ "type": "object",
+ "additionalProperties": false,
+ "properties": {
+  "instrument_id": {
+   "type": "string",
+   "pattern": "^[a-z0-9][a-z0-9-]{3,90}$"
+  },
+  "title": {
+   "type": "string",
+   "maxLength": 200
+  },
+  "body": {
+   "type": "string",
+   "maxLength": 160
+  },
+  "country": {
+   "type": "string",
+   "pattern": "^[A-Z]{2}$"
+  },
+  "jurisdiction": {
+   "type": "string",
+   "enum": [
+    "uk",
+    "ireland",
+    "us-federal",
+    "us-state",
+    "eu",
+    "canada",
+    "australia",
+    "nz",
+    "india",
+    "singapore",
+    "hong-kong",
+    "south-africa",
+    "israel",
+    "brazil",
+    "gulf",
+    "international",
+    "other"
+   ]
+  },
+  "state": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "type": {
+   "type": "string",
+   "enum": [
+    "proposed-rule",
+    "rule",
+    "statute",
+    "bill",
+    "guidance",
+    "bench-card",
+    "survey",
+    "committee-report",
+    "practice-direction"
+   ]
+  },
+  "status": {
+   "type": "string",
+   "enum": [
+    "proposed",
+    "comment-period",
+    "not-advanced",
+    "under-study",
+    "adopted",
+    "in-force",
+    "vetoed",
+    "withdrawn",
+    "published"
+   ]
+  },
+  "status_date": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$"
+  },
+  "status_quote": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 220,
+   "description": "verbatim, ≤25 words, in quotation marks (longer only if public domain and the field says so)"
+  },
+  "effective_date": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "next_event": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 240
+  },
+  "operative_text": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 2000,
+   "description": "verbatim operative text (public domain) or ≤25 words"
+  },
+  "text_licence": {
+   "type": "string",
+   "enum": [
+    "public-domain",
+    "ogl",
+    "quoted-short"
+   ]
+  },
+  "summary": {
+   "type": "string",
+   "minLength": 120,
+   "maxLength": 520,
+   "description": "40–60 words, descriptive, present tense"
+  },
+  "source_url": {
+   "type": "string",
+   "format": "uri",
+   "description": "primary source (court/regulator/legislature/agency/vendor own site or official API)"
+  },
+  "archive_url": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "web.archive.org snapshot of source_url, or null"
+  },
+  "fetched_at": {
+   "type": "string",
+   "description": "ISO timestamp of the read"
+  },
+  "verification": {
+   "type": "string",
+   "enum": [
+    "fetched-and-read",
+    "page-read-no-document",
+    "link-only"
+   ]
+  },
+  "lead_source": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "where we learned the row exists (tracker/news/api/crawl); never a source_url"
+  },
+  "notes": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 600
+  }
+ },
+ "required": [
+  "instrument_id",
+  "title",
+  "body",
+  "country",
+  "jurisdiction",
+  "type",
+  "status",
+  "status_date",
+  "text_licence",
+  "summary",
+  "source_url",
+  "fetched_at",
+  "verification",
+  "lead_source"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "pretty_name": "AI-generated evidence and deepfakes in court — decisions and rule status",
+ "title": "AI-generated evidence and deepfakes in court",
+ "headline": "{n_decisions} court decisions worldwide on AI-generated, AI-altered or AI-\"enhanced\" evidence, deepfake defences and AI outputs tendered as evidence, coded by evidence type, challenge and ruling, plus {n_instruments} rules, proposals and guidance instruments with dated status (including proposed Federal Rule of Evidence 707).",
+ "canonical_path": "/courts/evidence",
+ "tags": [
+  "courts",
+  "evidence",
+  "deepfakes",
+  "authentication",
+  "fre-707",
+  "generative-ai"
+ ],
+ "what_a_row_is": "A `decisions` row is one ruling: `evidence_type`, `ai_role` (alleged-deepfake · ai-enhanced · ai-generated-submitted · acknowledged-ai-output · deepfake-defence · voice-clone), `offered_by`, `challenge`, `ruling` (admitted · excluded · authentication-ordered · expert-required · no-weight · sanction · not-adjudicated), `rules_cited[]`, the court's finding quoted (`court_finding_quote`), a 40–60-word summary and `sensitive`/`publication_ban_checked` flags. An `instruments` row is one rule, proposed rule, statute, bench card or guidance with `status`, `status_date`, `status_quote`, `next_event` and the `operative_text`.",
+ "method": "Leads: Damien Charlotin's CC0 deepfakes and AI-evidence databases, the Federal Judicial Center survey in the May 2026 Evidence Rules agenda book, CourtListener discovery searches, news. Every US decision was read from the court's own site or the public RECAP archive; Canadian, Australian and UK decisions were read by a human one at a time on CanLII/AustLII/Find Case Law and are linked, not reproduced. Rule status is taken from uscourts.gov committee materials and legislatures and re-checked after each committee meeting. No media is hosted or linked.",
+ "licence_note": "US opinions and federal committee materials are public domain; state statutes are edicts. Non-US judgments are quoted at ≤25 words and linked.",
+ "banned_hosts": [
+  "advance.lexis.com",
+  "westlaw.com",
+  "law360.com",
+  "justia.com",
+  "scholar.google",
+  "casetext.com",
+  "casemine.com",
+  "vlex.com"
+ ],
+ "tables": {
+  "decisions": {
+   "id_field": "decision_id",
+   "dedupe_fields": [
+    "case_name",
+    "date",
+    "court"
+   ],
+   "sort_field": "date",
+   "sort_desc": true,
+   "site_path": "/courts/evidence/{decision_id}",
+   "row_is": "one ruling on AI-generated/altered evidence or a deepfake challenge",
+   "count_fields": [
+    "country",
+    "ai_role",
+    "ruling",
+    "evidence_type",
+    "verification"
+   ]
+  },
+  "instruments": {
+   "id_field": "instrument_id",
+   "dedupe_fields": [
+    "title",
+    "body"
+   ],
+   "sort_field": "status_date",
+   "sort_desc": true,
+   "site_path": "/courts/evidence/rules/{instrument_id}",
+   "row_is": "one rule, proposal, statute or guidance on AI-generated evidence",
+   "count_fields": [
+    "status",
+    "type",
+    "country"
+   ]
+  }
+ },
+ "repo": "ai-evidence-in-court",
+ "version": "0.1.0"
+}

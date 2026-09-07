@@ -1,0 +1,234 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "SafeLegalAI AI-evidence decision",
+ "type": "object",
+ "additionalProperties": false,
+ "properties": {
+  "decision_id": {
+   "type": "string",
+   "pattern": "^[a-z0-9][a-z0-9-]{3,90}$"
+  },
+  "case_name": {
+   "type": "string",
+   "maxLength": 200
+  },
+  "court": {
+   "type": "string",
+   "maxLength": 140
+  },
+  "country": {
+   "type": "string",
+   "pattern": "^[A-Z]{2}$"
+  },
+  "jurisdiction": {
+   "type": "string",
+   "enum": [
+    "uk",
+    "ireland",
+    "us-federal",
+    "us-state",
+    "eu",
+    "canada",
+    "australia",
+    "nz",
+    "india",
+    "singapore",
+    "hong-kong",
+    "south-africa",
+    "israel",
+    "brazil",
+    "gulf",
+    "international",
+    "other"
+   ]
+  },
+  "state": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "date": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+  },
+  "citation": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "docket_number": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "evidence_type": {
+   "type": "string",
+   "enum": [
+    "video",
+    "audio",
+    "image",
+    "document",
+    "screenshot",
+    "expert-report",
+    "witness-statement",
+    "victim-statement",
+    "chat-output",
+    "mixed",
+    "other"
+   ]
+  },
+  "ai_role": {
+   "type": "string",
+   "enum": [
+    "alleged-deepfake",
+    "ai-enhanced",
+    "ai-generated-submitted",
+    "acknowledged-ai-output",
+    "deepfake-defence",
+    "voice-clone",
+    "other"
+   ]
+  },
+  "offered_by": {
+   "type": "string",
+   "enum": [
+    "prosecution",
+    "defence",
+    "plaintiff",
+    "defendant",
+    "petitioner",
+    "respondent",
+    "applicant",
+    "court",
+    "other"
+   ]
+  },
+  "challenge": {
+   "type": "string",
+   "enum": [
+    "authenticity",
+    "admissibility",
+    "weight",
+    "sanctions",
+    "expert-required",
+    "none",
+    "other"
+   ]
+  },
+  "ruling": {
+   "type": "string",
+   "enum": [
+    "admitted",
+    "excluded",
+    "authentication-ordered",
+    "expert-required",
+    "no-weight",
+    "sanction",
+    "not-adjudicated",
+    "other"
+   ]
+  },
+  "rules_cited": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "court_finding_quote": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 900,
+   "description": "verbatim; ≤25 words unless the document is public domain (US), then ≤120 words"
+  },
+  "text_licence": {
+   "type": "string",
+   "enum": [
+    "public-domain",
+    "quoted-short"
+   ]
+  },
+  "summary": {
+   "type": "string",
+   "minLength": 120,
+   "maxLength": 520,
+   "description": "40–60 words, descriptive, present tense"
+  },
+  "sensitive": {
+   "type": "boolean"
+  },
+  "publication_ban_checked": {
+   "type": "boolean"
+  },
+  "related_opinion_id": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "decision_id in us-genai-court-opinions if the same document"
+  },
+  "source_url": {
+   "type": "string",
+   "format": "uri",
+   "description": "primary source (court/regulator/legislature/agency/vendor own site or official API)"
+  },
+  "archive_url": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "web.archive.org snapshot of source_url, or null"
+  },
+  "fetched_at": {
+   "type": "string",
+   "description": "ISO timestamp of the read"
+  },
+  "verification": {
+   "type": "string",
+   "enum": [
+    "fetched-and-read",
+    "page-read-no-document",
+    "link-only"
+   ]
+  },
+  "lead_source": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "where we learned the row exists (tracker/news/api/crawl); never a source_url"
+  },
+  "notes": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 600
+  }
+ },
+ "required": [
+  "decision_id",
+  "case_name",
+  "court",
+  "country",
+  "jurisdiction",
+  "date",
+  "evidence_type",
+  "ai_role",
+  "offered_by",
+  "challenge",
+  "ruling",
+  "text_licence",
+  "summary",
+  "sensitive",
+  "publication_ban_checked",
+  "source_url",
+  "fetched_at",
+  "verification",
+  "lead_source"
+ ]
+}
