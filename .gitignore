@@ -1,4 +1,13 @@
 .venv/
 work/tmp/
+work/agents/cache*/
+work/agents/*/
+work/agents/*.py
+work/agents/*.sh
+work/agents/*.txt
+work/agents/*.html
+work/agents/*.pdf
+work/**/*.pdf
+work/**/*.html
 __pycache__/
 *.pdf
