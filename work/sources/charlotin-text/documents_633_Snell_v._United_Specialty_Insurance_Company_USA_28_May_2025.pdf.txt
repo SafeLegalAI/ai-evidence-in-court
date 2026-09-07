@@ -1,0 +1,1866 @@
+USCA11 Case: 22-12581    Document: 36-1        Date Filed: 05/28/2024   Page: 1 of 56
+
+
+
+
+                                                                [PUBLISH]
+                                      In the
+                 United States Court of Appeals
+                         For the Eleventh Circuit
+
+                           ____________________
+
+                                 No. 22-12581
+                           ____________________
+
+        JAMES SNELL,
+        d.b.a. Outdoor Expressions,
+                                                         Plaintiﬀ-Appellant,
+        versus
+        UNITED SPECIALTY INSURANCE COMPANY,
+
+
+                                                       Defendant-Appellee.
+
+
+                           ____________________
+
+                  Appeal from the United States District Court
+                     for the Southern District of Alabama
+                     D.C. Docket No. 1:21-cv-00229-CG-M
+                           ____________________
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024      Page: 2 of 56
+
+
+
+
+        2                      Opinion of the Court                  22-12581
+
+        Before NEWSOM, BRANCH, and LUCK, Circuit Judges.
+        BRANCH, Circuit Judge:
+                United Casualty Insurance Company (“United”) refused to
+        defend James Snell, a landscaper, in a civil lawsuit alleging that
+        Snell had negligently installed a ground-level trampoline in a
+        client’s backyard. Snell sued, contending that United had breached
+        its insurance contract with him in bad faith and seeking a
+        declaratory judgment that United had a duty to defend and
+        indemnify Snell. The district court granted summary judgment for
+        United, holding that the accident did not “arise from” Snell’s
+        “landscaping” work within the meaning of his commercial general
+        liability policy. On appeal, Snell argues that the district court
+        misconstrued the policy and his complaint, prematurely granted
+        summary judgment on United’s duty to indemnify him while the
+        underlying suit was still pending, and erred in granting summary
+        judgment on his bad faith claim.
+               After review, and with the benefit of oral argument, we
+        affirm. In the first place, the district court correctly concluded that
+        the allegations of the complaint did not trigger United’s duty to
+        defend and, though the facts United discovered in investigating the
+        claim present a closer question, Snell’s insurance application makes
+        clear that the policy does not cover his work here. Next, Alabama
+        law does not, as Snell suggests, preclude a decision on the duty to
+        indemnify before judgment in the underlying case. Finally, Snell’s
+        bad faith claim necessarily fails because United had a lawful basis
+        to deny the claim. But even if that were not so, Snell failed to meet
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024    Page: 3 of 56
+
+
+
+
+        22-12581               Opinion of the Court                        3
+
+        the high burden of showing bad faith under Alabama law because
+        he points to no evidence that United wholly failed to investigate
+        any part of his claim. Instead, he simply insists that if United had
+        done a more thorough investigation, it would agree with him,
+        which is insufficient to show bad faith under Alabama law.
+                                  I.       Background
+                   A. Factual Background
+              Snell’s landscaping company is named                “Outdoor
+        Expressions,” and it is located in Fairhope, Alabama.
+               Snell was hired by a family, the Westons, to turn an above
+        ground trampoline into a ground level trampoline. According to
+        Snell, the Westons wanted an in-ground trampoline because it
+        would be more aesthetically pleasing and sturdy than an above-
+        ground trampoline.
+               Snell’s project for the Westons involved various tasks like
+        tree pruning and removal; installation of shrubs, trees, and sod; and
+        setting up a sprinkler irrigation system. The trampoline aspect of
+        the project involved “site work” to make a place for the trampoline
+        and “assembly and installation” of the trampoline. Snell’s site work
+        included excavation of a pit, installation of a drain and drainage
+        sand, excavation of a trench to install a drainage pipe, installation
+        of the drainage pipe and of a drain pump, and, most relevant here,
+        construction of concrete block retainer walls and installation of a
+        wood cap on the retainer walls. The retaining walls aimed to
+        prevent erosion and collapse of the structure; the wood cap was for
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024    Page: 4 of 56
+
+
+
+
+        4                     Opinion of the Court                22-12581
+
+        aesthetics. Then, after all that, Snell unboxed the trampoline,
+        assembled it, and lowered it into the pit.
+               A few years later, Matthew Burton sued the Westons for
+        injuries his daughter suffered on the Westons’ trampoline.
+        Burton’s original complaint alleged that his daughter was injured
+        when she “fell off of the trampoline and struck her face on the
+        wooden board” surrounding the trampoline. The original
+        complaint further alleged that “[t]he trampoline had no padding
+        and no netting,” and that “[t]he conditions around the trampoline
+        were dangerous and inherently dangerous for those who used it.”
+               Burton later amended his complaint to add Snell, Outdoor
+        Expressions, and the trampoline manufacturer as defendants. The
+        amended complaint purported to incorporate all the allegations of
+        the original complaint.
+                Burton alleged two claims against the trampoline
+        manufacturer: the first under Alabama’s Extended Manufacturer’s
+        Liability Doctrine, and the second for Failure to Warn. These
+        claims alleged that the trampoline itself was defective and not in a
+        reasonably safe condition, and that the trampoline manufacturer
+        “failed to adequately warn the minor Plaintiff[ ] of the dangers
+        associated with the use of the trampoline in question.” “As
+        installed,” Burton alleged, “the trampoline had no netting,
+        inadequate padding and was surrounded by wooden decking.”
+              Burton alleged just one claim against Snell and Outdoor
+        Expressions: “Negligence and/or Wantonness.” Burton alleged
+        that Snell “wantonly assembled, constructed and installed the
+USCA11 Case: 22-12581         Document: 36-1          Date Filed: 05/28/2024         Page: 5 of 56
+
+
+
+
+        22-12581                   Opinion of the Court                                 5
+
+        trampoline in the backyard of the Weston[s]’s home,” creating “an
+        unreasonably dangerous condition and structure on the property.”
+        This “negligence and/or wantonness,” Burton alleged, “was the
+        proximate cause of the serious injuries suffered by the minor
+        Plaintiff[.]”
+               Snell notified United (his insurance carrier) of the lawsuit in
+        late December 2020. On January 5, 2021, United e-mailed Snell
+        stating that it was reviewing the policy to determine if there was
+        coverage. The following week, United informed Snell that it
+        would not defend him in the lawsuit. The denial letter noted that
+        the allegations dealt with wanton assembly of the trampoline and
+        explained that United had no duty to defend Snell against such an
+        action.
+              To explain its denial of coverage, United turned first to the
+        general coverage provisions of the policy, which provided as
+        follows:
+                [United] will pay those sums that the insured
+                becomes legally obligated to pay as damages because
+                of “bodily injury”[ 1] or “property damage”[2] to
+                which this insurance applies. [United] will have the
+                right and duty to defend the insured against any “suit”
+
+
+        1 “Bodily injury” is defined in the policy as “bodily injury, sickness or disease
+
+        sustained by a person, including death resulting from any of these at any time.”
+        2 “Property damage” is defined in the policy as “[p]hysical injury to tangible
+
+        property, including all resulting loss of use of that property” and “[l]oss of use
+        of tangible property that is not physically injured.”
+USCA11 Case: 22-12581        Document: 36-1         Date Filed: 05/28/2024         Page: 6 of 56
+
+
+
+
+        6                         Opinion of the Court                       22-12581
+
+               seeking those damages. However, [United] will have
+               no duty to defend the insured against any “suit”
+               seeking damages for “bodily injury” or “property
+               damage” to which this insurance does not apply.
+
+        United then turned to an endorsement to the policy which limited
+        the broad coverage otherwise provided to “Specified Operations,
+        Premises[ 3], or Projects” (which the parties call the “Specified
+        Operations provision”) 4—and, here, the specified “Operation(s)”
+        listed are “Insured performs landscaping.” United reasoned that,
+        because the underlying complaint alleged that the accident
+
+
+        3 The Schedule was left blank under “Premises” or “Projects(s) [sic].”
+
+        4 The Specified Operations Provision states:
+
+               The following item (4) is added to Section 1- Coverages, Coverage A.
+               Bodily Injury and Property Damage Liability, paragraph 1., Insuring
+               Agreement, subparagraph b.
+               b. This insurance applies to “bodily injury” and “property
+               damage” only if:
+                    (4) The “bodily injury” or “property damage” arises from
+                    one or more of the operations shown above; and if also
+                    scheduled above:
+                       (a) The ownership, maintenance or use of the premises
+                       shown above and operations necessary or incidental to
+                       those premises; and/or
+                       (b) The projects shown above.
+               ....
+               Coverage for operations, premises or projects not shown above can
+               only be covered if agreed to, in writing, by us as evidenced by
+               endorsement to this policy. (emphasis in original).
+USCA11 Case: 22-12581        Document: 36-1         Date Filed: 05/28/2024        Page: 7 of 56
+
+
+
+
+        22-12581                  Opinion of the Court                               7
+
+        stemmed from Snell’s “[a]ssembly and installation of a
+        Trampoline,” the injury did not “arise from [Snell’s] performance
+        of landscaping,” and “there [was] no coverage for such claims.”
+               Further, and though United did not specifically rely on it in
+        the letter, 5 Snell’s application for insurance is relevant. The
+        application, which predated the policy, specifically asked “[d]o you
+        do any recreational or playground equipment construction or
+        erection?” In response, Snell checked the “No” box.
+               After receiving the denial letter, Snell’s attorney charged
+        that the denial of coverage was in “bad faith” and demanded a
+        retraction and reimbursement for all legal expenses. United stood
+        by the decision.
+                   B. Procedural History
+               After United refused to defend or indemnify him, Snell filed
+        this lawsuit in Alabama state court. He alleged that United was
+        obligated to defend and indemnify him in the underlying lawsuit.
+        His complaint asserted claims for breach of contract and bad faith
+        denial of coverage, and he sought a declaratory judgment that
+        United had a duty to defend and indemnify him.
+               United removed the case to federal court based on diversity
+        jurisdiction. After discovery, the district court granted summary
+        judgment in favor of United.
+
+        5 The policy expressly states that “[t]here may be other reasons why coverage
+
+        does not apply” and United “reserves the right to rely on any additional facts,
+        policy positions, [etc.]”).
+USCA11 Case: 22-12581         Document: 36-1        Date Filed: 05/28/2024        Page: 8 of 56
+
+
+
+
+        8                         Opinion of the Court                      22-12581
+
+               As to the breach of contract and declaratory judgment
+        claims, the district court reasoned that “whether the claims are
+        covered depends upon whether the performance of ‘landscaping’
+        would include Snell’s installation of the trampoline” under the
+        specified operations provision. The court noted that the policy did
+        not define the word “landscaping,” and it concluded that the
+        “common, everyday meaning of the word” did not include
+        trampoline installation “even [under] the definitions submitted by
+        Snell” in his briefing. The court further concluded that “the
+        context of the Policy makes it clear that” the trampoline-related
+        work “is not covered.” Under Alabama law, the district court
+        explained, an insurance contract must be “construed according to
+        the entirety of its terms and conditions” including “as . . . modified
+        by any . . . application which is a part of the policy.” Ala. Code. §
+        27-14-17(a). 6 And “Snell was asked in the application whether his
+        work included ‘any recreational or playground equipment
+        construction or erection’ and Snell answered ‘No.’” “If Snell had
+        answered ‘Yes’ to that question,” the district court said, “or if he
+        had informed United [ ] at some time later that his operations were
+        going to include structural work for recreational equipment and
+        the installation of recreational equipment, then United [ ] could
+        have added that coverage and made any appropriate adjustments
+
+
+        6 Section 27-14-17(a) of the Alabama code provides that “[e]very insurance
+
+        contract shall be construed according to the entirety of its terms and
+        conditions as set forth in the policy and as amplified, extended or modified by
+        any rider, endorsement or application which is a part of the policy.”
+USCA11 Case: 22-12581        Document: 36-1        Date Filed: 05/28/2024       Page: 9 of 56
+
+
+
+
+        22-12581                 Opinion of the Court                              9
+
+        to Snell’s rate.”7 Thus, the district court concluded that the policy
+        was not ambiguous and that United had not breached the contract
+        because it had no duty to defend the lawsuit.
+                As to Snell’s bad faith claim, the district court concluded
+        that, because United “had a lawful basis for denying Snell’s claim
+        and [ ] Snell’s breach of contract claim fail[ed],” his “bad faith denial
+        [claim] also fail[ed].”
+               Snell appealed.
+                                II.     Standard of Review
+               “We review de novo a district court’s grant of summary
+        judgment, applying the same standard as the district court.” Bailey
+        v. Allgas, Inc., 284 F.3d 1237, 1243 (11th Cir. 2002). Namely,
+        summary judgment is appropriate “if the movant shows that there
+        is no genuine dispute as to any material fact and the movant is
+        entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a). The
+        court’s function is not “to weigh the evidence and determine the
+        truth of the matter but to determine whether there is a genuine
+        issue for trial.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249
+        (1986). “The mere existence of some evidence to support the non-
+        moving party is not sufficient for denial of summary judgment;
+        there must be ‘sufficient evidence favoring the nonmoving party
+        for a jury to return a verdict for that party.’” Bailey, 284 F.3d at
+        1243 (quoting Anderson, 477 U.S. at 249). In applying this standard,
+
+
+        7 The district court noted that “[i]t [wa]s undisputed that the trampoline is
+
+        ‘recreational equipment.’”
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024     Page: 10 of 56
+
+
+
+
+        10                     Opinion of the Court                  22-12581
+
+        the court must view all evidence in the light most favorable to the
+        non-moving party and draw all reasonable inferences in the non-
+        movant’s favor. Burton v. City of Belle Glade, 178 F.3d 1175, 1187
+        (11th Cir. 1999).
+                                  III.   Discussion
+               Snell makes three arguments on appeal. First, he contends
+        that the district court erred in granting summary judgment on the
+        duty to defend claim. Second, he argues that even if we affirm the
+        duty to defend claim, the district court’s ruling on the duty to
+        indemnify was premature. Third, he submits that his bad faith
+        claim should have survived along with his duty to defend claim.
+        We reject all three arguments.
+                  A. Duty to Defend
+              Whether United had a duty to defend Snell depends on the
+        scope of coverage in Snell’s commercial general liability policy. As
+        we explain below, the district court correctly held that Snell failed
+        to meet his burden to show coverage applies.
+                         i. Snell has the burden to show coverage.
+               The parties first debate who has the burden of proof in this
+        dispute. Snell contends that United had the burden to show there
+        was no duty to defend the underlying lawsuit because the Specified
+        Operations provision was “essentially an exclusion.” It appears
+        that the district court believed Snell had the burden to show
+        coverage and, for the following reasons, we agree.
+USCA11 Case: 22-12581        Document: 36-1        Date Filed: 05/28/2024    Page: 11 of 56
+
+
+
+
+        22-12581                  Opinion of the Court                         11
+
+                 Under Alabama law, 8 “the party seeking coverage under the
+        Policy[ ] bears the burden of proving that coverage exists,” Pa. Nat’l
+        Mut. Cas. Ins. Co. v. St. Catherine of Siena Parish, 790 F.3d 1173, 1180
+        (11th Cir. 2015) (citing Ala. Hosp. Ass’n Trust v. Mut. Assurance Soc’y
+        of Ala., 538 So. 2d 1209, 1216 (Ala. 1989)), but the insurer bears the
+        burden of proving an exclusion applies, Acceptance Ins. Co. v. Brown,
+        832 So. 2d 1, 12 (Ala. 2001). 9 See also Belt Auto. Indem. Ass’n v. Ensley
+        Transfer & Supply Co., 99 So. 787, 790 (Ala. 1924) (explaining that
+        the burden is on the insurer to show an exclusion applies because,
+        “[w]hen an insurance policy contains a general liability clause,
+        followed by a clause or clauses which except specified cases from the
+        operation of the policy,” the exceptions are in the nature “of [an]
+        affirmative defense,” as to which “the onus of allegation and proof
+        is . . .upon the defendant” (emphasis added)).
+               While the distinction between limits to coverage and
+        exclusions from coverage may be murky in some cases, the policy
+        here makes clear that the Specified Operations provision is a
+        limit—not an exclusion.
+               To begin with, the Policy’s “Schedule of Forms and
+        Endorsements” describes 27 different “exclusions”—and “Specified
+        Operations” is not one of them. “Specified Operations” is instead
+        described as a “Limitation of Coverage.”
+
+
+        8 It is undisputed that Alabama law governs this dispute.
+
+        9 We are not aware of any Alabama law or case explicitly delineating
+        limitations on coverage from exclusions from coverage.
+USCA11 Case: 22-12581     Document: 36-1     Date Filed: 05/28/2024      Page: 12 of 56
+
+
+
+
+        12                    Opinion of the Court                 22-12581
+
+                But we need not rest on the policy’s description of the
+        Specified Operations provision, because the operation of the policy
+        confirms its status. Commercial general liability policies generally
+        “give[] coverage through the general coverage provision, and ‘take[]
+        away’ coverage through the various exclusions.” Douglas L. Patin,
+        4 Law and Prac. of Ins. Coverage Litig. § 45:11 (July 2023 Update)
+        (emphasis added) (quotation omitted). Recall, the general
+        coverage provision provides that
+              [United] will pay those sums that the insured
+              becomes legally obligated to pay as damages because
+              of “bodily injury” or “property damage” to which this
+              insurance applies. [United] will have the right and duty
+              to defend the insured against any “suit” seeking those
+              damages. However, [United] will have no duty to defend
+              the insured against any “suit” seeking damages for
+              “bodily injury” or “property damage” to which this
+              insurance does not apply.
+
+        (emphasis added). By those terms, the policy sets out an (albeit
+        not-totally-fleshed-out) limit to coverage. However, this initial
+        explanation does not provide the full scope of coverage because it
+        very broadly tells us only that the insurer will pay damages “to
+        which this insurance applies” but not for any suit “to which this
+        insurance does not apply.” From there, the Specified Operations
+        provision fills in the details by adding, to that same section, the
+        following:
+              b. This insurance applies to “bodily injury” and “property
+              damage” only if:
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024        Page: 13 of 56
+
+
+
+
+        22-12581               Opinion of the Court                          13
+
+                     (4) The “bodily injury” or “property damage” arises
+                     from one or more of the operations shown above; and [i]f
+                     also scheduled above[.]”
+        (emphasis added). What “operations are shown” and “scheduled
+        above”? The policy states simply that “[the] Insured performs
+        landscaping.” In short, the Specified Operations provision (fitting
+        into the gap left by the general coverage provision) describes the
+        contours or boundaries of coverage—it does not purport to take
+        away coverage already granted.
+               Thus, the Specified Operations provision is a limitation of
+        coverage—not an exclusion—and Snell, “as the party seeking
+        coverage under the Policy, bears the burden [under Alabama law]
+        of proving that coverage exists.” St. Catherine of Siena Parish, 790
+        F.3d at 1180.
+                        ii. Snell has not shown that United had a duty to
+                            defend him.
+               Snell argues United had a duty to defend him. He asserts
+        that the district court arrived at the opposite conclusion because it
+        “ignored” or mistook “the plain meaning of undefined terms” like
+        “landscaping,” failed to give proper breadth to the phrase “arises
+        from,” and “applied an unreasonably narrow scope to the claims
+        and allegations in the Underlying Complaint[.]” Because Snell’s
+        insurance application—which Alabama law requires us to consider
+        part of the policy—expressly disclaims the work he did here, we
+        disagree.
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024     Page: 14 of 56
+
+
+
+
+        14                     Opinion of the Court                  22-12581
+
+                Under Alabama law, insurance contracts are subject to the
+        same rules of interpretation as any other contract. Safeway Ins. Co.
+        of Ala. v. Herrera, 912 So. 2d 1140, 1143 (Ala. 2005); Twin City Fire
+        Ins. Co. v. Alfa Mut. Ins. Co., 817 So. 2d 687, 691 (Ala. 2001). If the
+        terms of the insurance contract are unambiguous, the court must
+        enforce them as written. Safeway, 912 So. 2d at 1143; Liggans R.V.
+        Ctr. v. John Deere Ins. Co., 575 So. 2d 567, 569 (Ala. 1991).
+               “Whether an insurance company owes its insured a duty to
+        provide a defense in proceedings instituted against the insured is
+        determined” under Alabama law “primarily by the allegations
+        contained in the complaint.” Tanner v. State Farm Fire & Cas. Co.,
+        874 So. 2d 1058, 1063 (Ala. 2003). And an “insurer’s duty to defend
+        is more extensive than its duty to [indemnify],” Porterfield v.
+        Audubon Indem. Co., 856 So. 2d 789, 791 (Ala. 2002) (alteration in
+        original) (quoting United States Fid. & Guar. Co. v. Armstrong, 479
+        So. 2d 1164, 1168 (Ala. 1985)), meaning that, “[i]f the allegations of
+        the injured party’s complaint show an accident or occurrence
+        which comes within the coverage of the policy, the insurer is
+        obligated to defend regardless of the ultimate liability of the
+        insured,” Chandler v. Ala. Mun. Ins. Co., 585 So. 2d 1365, 1367 (Ala.
+        1991) (citation omitted). But the duty to defend does not exclusively
+        depend on the complaint: “[i]f the complaint against the insured
+        does not, on its face, allege a covered accident or occurrence, but
+        the evidence proves one, then the insurer likewise owes the duty
+        to defend.” Tanner, 874 So. 2d at 1065. Thus, “[t]he insurer owes
+        no duty to defend only if neither . . . the complaint against the
+        insured allege[s] . . . nor . . . the evidence in the litigation . . .
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024      Page: 15 of 56
+
+
+
+
+        22-12581                Opinion of the Court                         15
+
+        prove[s] a covered accident or occurrence.” Tanner, 874 So. 2d at
+        1065.
+                The parties expend significant energy parsing the words of
+        the policy, including whether the site work necessary to install the
+        trampoline was “landscaping” and whether the trampoline injury
+        “arises from” that work. We conclude we need not resolve those
+        issues here. Even taking the term “landscaping” as ambiguous,
+        construing it in Snell’s favor, and applying Alabama law’s broad
+        understanding of the causal term “arises out of,” Snell’s claim still
+        fails. As the district court explained, under Alabama law, “[e]very
+        insurance contract shall be construed . . . as . . . modified by any . .
+        . application which is a part of the policy.” Ala. Code. § 27-14-17(a).
+        And the district court’s analysis of Snell’s application under that
+        statute was correct:
+               Snell was asked in the application whether his work
+               included “any recreational or playground equipment
+               construction or erection” and Snell answered “No.” It
+               is undisputed that the trampoline is “recreational
+               equipment.” If Snell had answered “Yes” to that
+               question or if he had informed United Specialty at
+               some time later that his operations were going to
+               include structural work for recreational equipment
+               and the installation of recreational equipment, then
+               United Specialty could have added that coverage and
+               made any appropriate adjustments to Snell’s rate.
+
+        Accordingly, the information Snell provided in his insurance
+        application conclusively shows he is not entitled to coverage.
+USCA11 Case: 22-12581      Document: 36-1       Date Filed: 05/28/2024       Page: 16 of 56
+
+
+
+
+        16                      Opinion of the Court                    22-12581
+
+               Snell, for his part, contends that the district court overread
+        § 27-14-17(a) to mean that an application is necessarily part of the
+        insurance contract, rather than part of the contract if it is expressly
+        incorporated. But, however we might read that statute in the first
+        instance, the Alabama Supreme Court disagrees with Snell. In
+        Atlanta Casualty Company v. Russell, the Alabama Supreme Court
+        held that that § 27-14-17(a) means that “the insurance application is
+        to be construed as a part of the policy itself.” 798 So. 2d 664, 667 (Ala.
+        2001) (emphasis added). And we are bound by Alabama’s
+        interpretation of its own laws. See Turner v. Wells, 879 F.3d 1254,
+        1262 (11th Cir. 2018) (“Where the highest court” of a state “has
+        spoken on the topic, we follow its rule.”).
+                Taking the application as part of the policy itself, we agree
+        with the district court that Snell expressly disclaimed doing any of
+        the sort of work he did here—including the site work necessary to
+        install the trampoline that he now claims is “landscaping” out of
+        which the underlying injury “arises.”
+               In sum, the district court correctly held that Snell’s insurance
+        application—which Alabama law requires us to consider part of the
+        policy—expressly disclaims the work he did here. Accordingly, we
+        affirm the grant of summary judgment on Snell’s duty-to-defend
+        claim against United.
+                   B. Duty to Indemnify
+               Snell next argues that, even if he loses on the duty to defend
+        claim, “[g]ranting summary judgment on the duty to indemnify
+USCA11 Case: 22-12581         Document: 36-1         Date Filed: 05/28/2024         Page: 17 of 56
+
+
+
+
+        22-12581                   Opinion of the Court                                17
+
+        was premature.” 10 But Snell’s reading of Alabama law—i.e., as
+        prohibiting a decision on the duty to indemnify until the
+        underlying case goes to judgment—is incorrect.
+                True, under Alabama law, it is “often” the case that “a court
+        can only determine whether there is . . . a duty to indemnify—
+        based on facts adduced at the trial of the underlying action.” James
+        River Ins. Co. v. Ultratec Special Effects Inc., 22 F.4th 1246, 1252 n.5
+        (11th Cir. 2022); Hartford Cas. Ins. Co. v. Merchants & Farmers Bank,
+        928 So. 2d 1006, 1013 (Ala. 2005) (similar). And of course, “there
+        will be nothing to indemnify unless and until damages are assessed
+        against the insured in [the underlying] action.” James River Ins. Co.,
+        22 F.4th at 1252 n.5. But that does not mean, as Snell suggests, that
+        “the duty to indemnify is not ripe” for decision under Alabama law
+        unless and until “the insured is held liable in the underlying
+        litigation.”
+               The principal case on which Snell relies, Guaranty National
+        Insurance Company v. Beeline Stores, Inc., 11 held that, under Alabama
+
+
+        10 The district court did not explicitly rule on United’s duty to indemnify. The
+
+        district court did, however, grant summary judgment on the breach of
+        contract and declaratory judgment claims writ large, implicitly including the
+        duty to indemnify. For that reason, the district court’s implicit grant of
+        summary judgment on the indemnity issue is entirely dependent on its grant
+        of summary judgment on the duty to defend.
+        11 Snell cites another case from the same court, but that case largely copied
+
+        Beeline’s analysis—and it cited all the same authorities. See Auto-Owners Ins. Co.
+        v. Toole, 947 F. Supp. 1557, 1566 (M.D. Ala. 1996). So it does not require
+        separate attention.
+USCA11 Case: 22-12581      Document: 36-1       Date Filed: 05/28/2024      Page: 18 of 56
+
+
+
+
+        18                      Opinion of the Court                   22-12581
+
+        law, “a determination of the duty to indemnify cannot be made at
+        a preliminary stage in the proceedings, when it is still possible for
+        the plaintiff in the underlying lawsuit to change the theory of
+        liability and assert a claim that is covered by the policy at issue.”
+        945 F. Supp. 1510, 1514 (M.D. Ala. 1996). We are not persuaded.
+        As an initial matter, Beeline is a district court case and therefore does
+        not bind us. Further, the three Alabama cases Beeline cited for that
+        proposition of Alabama law do not support it. See id. at 1514–15
+        (citing Ladner & Co. v. S. Guar. Ins. Co., 347 So. 2d 100, 104 (Ala.
+        1977), Home Ins. Co. v. Rice, 585 So. 2d 859, 861 (Ala. 1991), and
+        Tapscott v. Allstate Ins. Co., 526 So. 2d 570, 573–75 (Ala. 1988)).
+               To start, Ladner did not hold that a court can never grant
+        summary judgment on the duty to indemnify before the
+        underlying case goes to judgment. The Alabama Supreme Court
+        certainly declined to decide the duty to indemnify despite finding
+        no duty to defend, but that was because, in that case, “[i]f the
+        plaintiffs change[d] their theory of liability and assert[ed] a claim
+        against Ladner which [was] covered by the policies,” the insurance
+        companies “may well be obligated to defend Ladner and pay any
+        judgment . . . rendered against him[.]” Ladner & Co., 347 So. 2d at
+        104. We do not take the refusal to decide the question in that case
+        to represent a categorical rule.
+               The same goes for Rice. As with Ladner, Rice did not
+        definitively hold that the duty to indemnify can never be
+        summarily adjudicated along with the duty to defend—it merely
+        held that a ruling on the duty to defend did not necessarily
+USCA11 Case: 22-12581        Document: 36-1        Date Filed: 05/28/2024        Page: 19 of 56
+
+
+
+
+        22-12581                  Opinion of the Court                              19
+
+        foreclose any question of the duty to indemnify. See Rice, 585
+        So. 2d at 861 (explaining that, as a result, the insurer’s contention
+        that the court had effectively created coverage by estoppel was
+        misplaced).
+                Finally, Tapscott affirmatively cuts against Snell’s argument
+        because it shows that the duty to indemnify can, under some
+        circumstances, be decided before the underlying case reaches
+        judgment. Tapscott was an appeal from an order granting
+        judgment to the insurer on both the duty to defend and the duty to
+        indemnify—which the Alabama Supreme Court affirmed. 526 So.
+        2d at 571. The Alabama Supreme Court “conclude[d] that Allstate
+        [was] not required to defend or indemnify [ ] Tapscott” because the
+        complaint alleged only intentional torts, which were not covered
+        by the policy. Id. at 572, 575. However, the court said, “if the
+        complaint [was] later amended to include claims for unintentional
+        torts, then Allstate may be required to defend and indemnify for
+        those claims.” Id. at 575. Thus, far from holding that a duty to
+        indemnify claim is not ripe until there is an underlying merits
+        judgment, Tapscott shows that a court can decide at summary
+        judgment that an insurer “is not required to defend or indemnify”
+        the insured—although that determination is subject to later
+        developments. Id. (emphasis added). 12
+
+        12 We recognize that, in an unpublished case, we said that a district court had
+
+        “correctly declined to consider [a duty to indemnify] claim because it was
+        premature and did not constitute a present case or controversy.” Am. Safety
+        Indem. Co. v. T.H. Taylor, Inc., 513 F. Appx. 807, 810 n.4 (11th Cir. 2013). As
+        always, we emphasize that “our unpublished opinions are not precedential;
+USCA11 Case: 22-12581          Document: 36-1          Date Filed: 05/28/2024           Page: 20 of 56
+
+
+
+
+        20                          Opinion of the Court                          22-12581
+
+              Simply put: Snell points us to no authority, and we are aware
+        of none, holding that the duty to indemnify under Alabama law
+        may not be decided before judgment in the underlying litigation.13
+
+
+        they do not bind us or district courts to any degree.” Barber v. Governor of Ala.,
+        73 F.4th 1306, 1320 (11th Cir.), cert. denied, 143 S. Ct. 2545 (2023) (alteration
+        adopted) (quotation omitted). They are persuasive authority at best. See id.
+        And because the Alabama Supreme Court’s decision in Tapscott shows that the
+        duty to indemnify may sometimes be summarily resolved along with the duty
+        to defend, we are persuaded otherwise.
+        We also appear to have taken for granted (this time in a published case) that
+        “the duty to indemnify cannot be determined” under Alabama law “at a
+        preliminary stage in the proceedings,” (i.e., before judgment) noting that
+        “district courts in our circuit have declined to address the duty to indemnify
+        when determining whether there is a duty to defend.” James River Ins. Co., 22
+        F.4th at 1252 & n.6 (quotation omitted). But this assumption was not a
+        binding holding because it was not necessary to our decision in that case. See
+        United States v. Aguillard, 217 F.3d 1319, 1321 (11th Cir. 2000) (“The holdings
+        of a prior decision can reach only as far as the facts and circumstances
+        presented to the Court in the case which produced that decision”). In James
+        River, we considered only the duty to defend, not the duty to indemnify, which
+        was still pending before the district court. See James River Ins. Co., 22 F.4th at
+        1251–52. Thus, our statement about Alabama law and indemnity was not a
+        holding, and we are not bound by it here.
+        13 Indeed, courts applying other states’ insurance law commonly conclude at
+
+        summary judgment that an insurer with no duty to defend also has no duty to
+        indemnify. See, e.g., Trailer Bridge, Inc. v. Ill. Nat’l Ins. Co., 657 F.3d 1135, 1146
+        (11th Cir. 2011) (applying Florida law and holding that “[a] court’s
+        determination that the insurer has no duty to defend requires a finding that
+        there is no duty to indemnify” (quoting Phila. Indem. Ins. Co. v. Yachtsman’s Inn
+        Condo Ass’n, Inc., 595 F. Supp. 2d 1319, 1322 (S.D. Fla. 2009)); Nat’l Cas. Co. v.
+        McFatridge, 604 F.3d 335, 338 (7th Cir. 2010) (applying Illinois law and
+        concluding that “[i]f an insurer has no duty to defend, it has no duty to
+        indemnify”); Nationwide Mut. Ins. Co. v. CPB Int’l, Inc., 562 F.3d 591, 595 n.3 (3d
+USCA11 Case: 22-12581       Document: 36-1        Date Filed: 05/28/2024       Page: 21 of 56
+
+
+
+
+        22-12581                  Opinion of the Court                           21
+
+               Turning back to Snell’s claim—we conclude that the duty to
+        indemnify issue is ripe. Unlike in Ladner and Rice, nothing about
+        this case suggests that the indemnity question is premature. To the
+        contrary, Snell’s insurance application forecloses any duty to
+        indemnify for the same reason it forecloses any duty to defend. Put
+        differently, we see no need to defer ruling on the duty to indemnify
+        because our conclusions about United’s obligations depend—not
+        on the facts and legal theories alleged in the underlying
+        complaint—but on Snell’s insurance application expressly
+        disclaiming the work he performed here.
+                In sum, we hold that the duty to indemnify under Alabama
+        insurance law can, at least under some circumstances, be decided
+        before the underlying action reaches judgment. So where, as here,
+        it can be shown that there is no dispute of material fact on the duty
+        to indemnify, summary judgment is appropriate. We therefore
+        affirm the judgment of the district court on the breach of contract
+        claim as to United’s duty to indemnify.
+                   C. Bad Faith
+               Finally, we reject Snell’s argument that the district court
+        erred in granting summary judgment on his bad faith denial claim.
+               Generally, to prove a claim for bad faith refusal to pay an
+        insurance claim, the plaintiff has the burden to prove “(1) the
+        existence of an insurance contract; (2) an intentional refusal to pay
+
+
+        Cir. 2009) (applying Pennsylvania law and holding that “[a] finding that the
+        duty to defend is not present will preclude a duty to indemnify”).
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024     Page: 22 of 56
+
+
+
+
+        22                     Opinion of the Court                  22-12581
+
+        the claim; and (3) the absence of any lawful basis for the refusal and
+        the insurer’s knowledge of that fact or the insurer’s intentional
+        failure to determine whether there is any lawful basis for its
+        refusal.” Brown, 832 So. 2d at 16; see also Nat’l Sav. Life Ins. Co. v.
+        Dutton, 419 So. 2d 1357, 1361 (Ala. 1982) (similar). The insured “has
+        a heavy burden of proof,” and “the remedy [of bad faith] will be
+        afforded in only extreme cases.” Blue Cross & Blue Shield of Ala. v.
+        Granger, 461 So. 2d 1320, 1325, 1329 (Ala. 1984) (alteration in
+        original) (quotation omitted). “Ordinarily, if the evidence
+        produced by either side creates a fact issue with regard to the
+        validity of the [insurance] claim and, thus, the legitimacy of the
+        denial thereof, the [bad faith] tort claim must fail and should not be
+        submitted to the jury.” Dutton, 419 So. 2d at 1362.
+               Snell advances what the Alabama Supreme Court calls an
+        “abnormal” bad faith claim—which is focused on bad faith failure
+        to investigate. See State Farm Fire & Cas. Co. v. Slade, 747 So. 2d 293
+        (Ala. 1999). A plaintiff advancing an “abnormal” bad faith claim
+        must prove that the insurer (1) intentionally or recklessly failed to
+        investigate a claim; (2) intentionally or recklessly failed to properly
+        subject a claim to a cognitive evaluation or review;
+        (3) manufactured a debatable reason to deny a claim; or (4) relied
+        on an ambiguous portion of a policy as a lawful basis for denying a
+        claim. See id. at 306–07. The plaintiff must also show “that the
+        insurer breached the contract for insurance coverage . . . when it
+        refused to pay the insured’s claim.” Id. at 318; Ex parte Simmons,
+        791 So. 2d 371, 379 (Ala. 2000) (same).
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024     Page: 23 of 56
+
+
+
+
+        22-12581               Opinion of the Court                         23
+
+               The district court correctly explained, therefore, that having
+        “found [ ] that United [ ] had a lawful basis for denying Snell’s claim
+        and that Snell’s breach of contract claim fails,” his “claim for bad
+        faith denial also fails.” See Slade, 747 So. 2d at 318.
+                Regardless, even if Snell’s failure to show a breach of
+        contract did not necessarily defeat his bad-faith claim, he has still
+        failed to meet the high burden of showing abnormal bad faith
+        under Alabama law. In Slade, for example, the insureds
+        demonstrated “abnormal” bad faith by the insurance company’s
+        total failure to send a qualified lightning investigator to their home
+        before denying their claim, or to interview any witnesses. Id. at
+        315. Here, by contrast, Snell complains mainly that the coverage
+        denial letter does not (1) explain its definition of landscaping
+        operations, (2) mention the allegation that the minor plaintiff was
+        injured on the wood cap, or (3) make any showing that the claims
+        attorney or anyone else was qualified to investigate “the sequence
+        of events regarding the preparatory site work versus the assembly
+        and placement of the trampoline into the pit.” He also protests that
+        he sent a letter to United pointing out these alleged deficiencies,
+        and that even when United finally responded, it “failed to discuss
+        the extent of its investigation, its cognitive evaluation of the facts,
+        and other items raised by the undersigned’s letter.”
+               Unlike the situation in Slade, Snell does not point to any
+        aspect of the case that United simply and intentionally ignored. See
+        742 So. 2d at 315 (holding that the insureds had demonstrated
+        “abnormal” bad faith because the insurance company had totally
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024     Page: 24 of 56
+
+
+
+
+        24                     Opinion of the Court                 22-12581
+
+        failed to send a qualified lightning investigator to their home before
+        denying their claim or even interviewed any witnesses). He simply
+        insists that, if United had worked a little harder or thought a little
+        more, it would have agreed with him. That insistence does not
+        show an “intentional failure to determine whether there is a
+        legitimate or arguable reason to refuse to pay the claim.” State
+        Farm Fire & Cas. Co. v. Brechbill, 144 So. 3d 248, 258–59 (Ala. 2013)
+        (“State Farm may or may not have perfectly investigated . . .
+        Brechbill’s claim to his satisfaction, but perfection is not the
+        standard here. . . . Bad faith . . . is not simply bad judgment or
+        negligence. It imports a dishonest purpose and means a breach of
+        known duty[.]” (quotations omitted)).
+               Thus, one way or the other, Snell has not shown it was error
+        to grant summary judgment on his bad faith claim.
+                                  IV.    Conclusion
+               In sum, we reject Snell’s arguments that the district court
+        erred in granting summary judgment for United. We therefore
+        affirm the judgment of the district court.
+              AFFIRMED.
+USCA11 Case: 22-12581      Document: 36-1       Date Filed: 05/28/2024      Page: 25 of 56
+
+
+
+
+        22-12581               Newsom, J., Concurring                          1
+
+        NEWSOM, Circuit Judge, concurring:
+               I concur in the Court’s judgment and join its opinion in full.
+        I write separately (and I’ll confess this is a little unusual1) simply to
+        pull back the curtain on the process by which I thought through
+        one of the issues in this case—and using my own experience here
+        as backdrop, to make a modest proposal regarding courts’
+        interpretations of the words and phrases used in legal instruments.
+              Here’s the proposal, which I suspect many will reflexively
+        condemn as heresy, but which I promise to unpack if given the
+        chance: Those, like me, who believe that “ordinary meaning” is
+        the foundational rule for the evaluation of legal texts should
+        consider—consider—whether and how AI-powered large language
+        models like OpenAI’s ChatGPT, Google’s Gemini, and Anthropic’s
+        Claude might—might—inform the interpretive analysis. There,
+        having thought the unthinkable, I’ve said the unsayable.
+               Now let me explain myself.
+                                            I
+                First, a bit of background. As today’s majority opinion
+        recounts, both in the district court and before us, the parties
+        litigated this as an “ordinary meaning” case. In particular, they
+        waged war over whether James Snell’s installation of an in-ground
+        trampoline, an accompanying retaining wall, and a decorative
+        wooden “cap” fit within the common understanding of the term
+
+
+        1 Even for me.
+USCA11 Case: 22-12581        Document: 36-1         Date Filed: 05/28/2024         Page: 26 of 56
+
+
+
+
+        2                        Newsom, J., Concurring                       22-12581
+
+        “landscaping” as used in the insurance policy that Snell had
+        purchased from United Specialty Insurance Company.
+               So, for instance, the district court observed that “whether
+        the claims are covered depends upon whether the performance of
+        ‘landscaping’ would include Snell’s installation of the trampoline.”
+        Doc. 23 at 10. Because the policy didn’t define the term
+        “landscaping,” the court said, the coverage determination turned
+        on whether Snell’s trampoline-related work fit the “common,
+        everyday meaning of the word.” Id. at 10–11. Having reviewed
+        multiple dictionary definitions provided by the parties, the court
+        concluded that Snell’s work didn’t constitute “landscaping.” Id. at
+        13. As the majority opinion explains, the plain-meaning battle
+        continued on appeal, with the parties “expend[ing] significant
+        energy parsing the words of the policy, including whether the site
+        work necessary to install the trampoline was ‘landscaping.’” Maj.
+        Op. at 17. Snell insisted, for example, that the district court had
+        erred by “ignor[ing] the plain meaning of undefined terms” in the
+        policy—most notably, “landscaping.” Br. of Appellant at 20, 21.
+               Now, as it turned out, we managed to resolve this case
+        without having to delve too deeply into the definitional issue that
+        the parties featured—due in large part to (1) a quirk of Alabama law
+        that, according to the state supreme court, makes every insurance
+        application ipso facto part of the policy that it precedes 2 and (2) the
+
+
+        2 For what it’s worth, I don’t think the governing Alabama statute says that.
+
+        In relevant part, it provides that “[e]very insurance contract shall be construed
+        according to the entirety of its terms and conditions as set forth in the policy
+USCA11 Case: 22-12581         Document: 36-1         Date Filed: 05/28/2024         Page: 27 of 56
+
+
+
+
+        22-12581                 Newsom, J., Concurring                                 3
+
+        fact that in his application Snell had expressly denied that his work
+        included “any recreational or playground equipment construction
+        or erection.” Maj. Op. at 17–18 (quotation marks omitted).
+        Combined, those two premises yield the majority opinion’s
+        controlling conclusion: “Snell’s insurance application—which
+        Alabama law requires us to consider part of the policy—expressly
+        disclaims the work he did here” and thus defeats his claim. Id. at
+        18.
+               Importantly, though, that off-ramp wasn’t always obviously
+        available to us—or at least as I saw things, to me. Accordingly, I
+        spent hours and hours (and hours) laboring over the question
+        whether Snell’s trampoline-installation project qualified as
+        “landscaping” as that term is ordinarily understood. And it was
+        midway along that journey that I had the disconcerting thought
+        that underlies this separate writing: Is it absurd to think that
+        ChatGPT might be able to shed some light on what the term “landscaping”
+        means? Initially, I answered my own question in the affirmative:
+
+
+
+
+        and as . . . modified by any rider, endorsement or application which is part of
+        the policy.” Ala. Code § 27-14-17(a). The absence of a comma before the
+        clause “which is part of the policy” strongly indicates, to my mind, that an
+        insured’s “application” should be deemed to “modif[y]” the contract only if it
+        is made “part of the policy.” Be that as it may, as the majority opinion correctly
+        notes, the Alabama Supreme Court has read § 27-14-17(a), in effect, to
+        incorporate every insured’s application into the terms of his policy, and we’re
+        stuck with that interpretation, even if erroneous. See Maj. Op. at 18 (citing
+        Atlanta Cas. Co. v. Russell, 798 So. 2d 664, 667 (Ala. 2001)).
+USCA11 Case: 22-12581     Document: 36-1       Date Filed: 05/28/2024    Page: 28 of 56
+
+
+
+
+        4                     Newsom, J., Concurring                22-12581
+
+        Yes, Kevin, that is positively absurd. But the longer and more deeply
+        I considered it, the less absurd it seemed.
+                But I’m getting ahead of myself. I should tell the full story,
+        from beginning to end. In what follows, I’ll first explain how my
+        initial efforts to pinpoint the ordinary meaning of the term
+        “landscaping” left me feeling frustrated and stuck, and ultimately
+        led me—initially half-jokingly, later more seriously—to wonder
+        whether ChatGPT and other AI-powered large language models
+        (“LLMs”) might provide a helping hand. Next, I’ll explore what I
+        take to be some of the strengths and weaknesses of using LLMs to
+        aid in ordinary-meaning interpretation. Finally, given the pros and
+        cons as I see them, I’ll offer a few ideas about how we—judges,
+        lawyers, academics, and the broader AI community—might make
+        LLMs more valuable to the interpretive enterprise.
+                                          II
+               First things first. I’m unabashedly a plain-language guy—
+        firmly of the view that “[t]he ordinary meaning rule is the most
+        fundamental semantic rule of interpretation” and that it should
+        govern our reading not only of “constitutions, statutes, [and]
+        rules,” but also, as relevant here, of “private instruments.” Antonin
+        Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal
+        Texts 69 (2012). Accordingly, I take it as gospel truth that absent a
+        clear indication that some idiosyncratic, specialized meaning was
+        intended, “[w]ords are to be understood in their ordinary, everyday
+        meanings.” Id.; accord, e.g., Shiloh Christian Ctr. v. Aspen Specialty
+        Ins. Co., 65 F.4th 623, 629–30 (11th Cir. 2023) (Newsom, J.)
+USCA11 Case: 22-12581         Document: 36-1         Date Filed: 05/28/2024         Page: 29 of 56
+
+
+
+
+        22-12581                 Newsom, J., Concurring                                 5
+
+        (evaluating an insurance policy’s “plain language”); Heyman v.
+        Cooper, 31 F.4th 1315, 1319–20 (11th Cir. 2022) (Newsom, J.)
+        (evaluating a municipal ordinance’s “ordinary meaning”); Barton v.
+        U.S. Att’y Gen., 904 F.3d 1294, 1298–99 (11th Cir. 2018) (Newsom,
+        J.) (evaluating a federal statute’s “ordinary meaning”).
+                So, following the district court’s lead, I did here what any
+        self-respecting textualist would do when trying to assess the
+        ordinary meaning of a particular word, here “landscaping”: I went
+        to the dictionaries. 3 In his brief, Snell had served up a buffet of
+        definitions, ranging from Dictionary.com’s—“to improve the
+        appearance of (an area of land, a highway, etc.) as by planting trees,
+        shrubs, or grass, or altering the contours of the ground”—to
+        Wikipedia’s—“any activity that modifies the visible features of an
+        area of land.” See Br. of Appellant at 22–23. My own research
+        revealed, in addition, that Webster’s defined “landscaping” as “to
+        modify or ornament (a natural landscape) by altering the plant
+        cover,” Merriam-Webster’s Collegiate Dictionary 699 (11th ed.
+        2014), and that Oxford defined it to mean “improv[ing] the aesthetic
+        appearance of (an area) by changing its contours, adding
+        ornamental features, or by planting trees and shrubs,” Oxford
+        Dictionary of English 991 (3d ed. 2010).
+
+
+        3 Alabama law governs the interpretation of the insurance contract at issue in
+
+        this case, see St. Paul Fire & Marine Ins. Co. v. ERA Oxford Realty Co. Greystone,
+        LLC, 572 F.3d 893, 894 n.1 (11th Cir. 2009), and privileges “ordinary meaning”
+        in that endeavor, see Safeway Ins. Co of Alabama v. Herrera, 912 So. 2d 1140, 1144
+        (Ala. 2005).
+USCA11 Case: 22-12581     Document: 36-1     Date Filed: 05/28/2024   Page: 30 of 56
+
+
+
+
+        6                    Newsom, J., Concurring               22-12581
+
+               As occasionally happens, the dictionaries left a little
+        something to be desired. From their definitions alone, it was tough
+        to discern a single controlling criterion. Must an improvement be
+        natural to count as “landscaping”? Maybe, but that would
+        presumably exclude walkways and accent lights, both of which
+        intuitively seemed (to me, anyway) to qualify.             Perhaps
+        “landscaping” work has to be done for aesthetic reasons? That,
+        though, would rule out, for instance, a project to regrade a yard,
+        say away from a house’s foundation to prevent basement flooding.
+        I once regraded my own yard, and while my efforts did nothing to
+        improve my house’s curb appeal, they served an important
+        functional purpose—and for what it’s worth, I definitely thought I
+        was engaged in “landscaping.”
+               After languishing in definitional purgatory for a while, I
+        decided to look at the case from a different perspective—and I do
+        mean look. The record contains a series of photographs of Snell’s
+        trampoline-related project. Here’s one, which shows his prep
+        work—in particular, the empty sand pit and the below-ground
+        retaining wall that reinforced its borders:
+USCA11 Case: 22-12581   Document: 36-1    Date Filed: 05/28/2024   Page: 31 of 56
+
+
+
+
+        22-12581           Newsom, J., Concurring                    7
+
+
+
+
+        And another, which depicts the finished product, including both
+        the polypropylene mat (the fun part) and the decorative wooden
+        “cap”:
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024     Page: 32 of 56
+
+
+
+
+        8                     Newsom, J., Concurring                22-12581
+
+               I’m not particularly proud of it, but I’ll confess that the
+        photos affected the way I thought about the case. Nothing in them
+        really struck me as particularly “landscaping”-y. The problem, of
+        course, was that I couldn’t articulate why. And visceral, gut-instinct
+        decisionmaking has always given me the willies—I definitely didn’t
+        want to be that guy. So in a way, I felt like I was back to square
+        one.
+                And that’s when things got weird. Perhaps in a fit of
+        frustration, and most definitely on what can only be described as a
+        lark, I said to one of my clerks, “I wonder what ChatGPT thinks
+        about all this.” So he ran a query: “What is the ordinary meaning
+        of ‘landscaping’?” Here’s what ChatGPT said in response:
+              “Landscaping” refers to the process of altering the
+              visible features of an area of land, typically a yard,
+              garden or outdoor space, for aesthetic or practical
+              purposes. This can include activities such as planting
+              trees, shrubs, ﬂowers, or grass, as well as installing
+              paths, fences, water features, and other elements to
+              enhance the appearance and functionality of the
+              outdoor space.
+
+        Interesting, for two reasons. First, ChatGPT’s explanation seemed
+        more sensible than I had thought it might—and definitely less nutty
+        than I had feared. Second, it squared with my own impression—
+        informed by my own experience writing, reading, speaking, and
+        listening to American English in the real world—that ordinary
+        people might well use the word “landscaping” (1) to include more
+        than just botanical and other natural improvements and (2) to
+USCA11 Case: 22-12581      Document: 36-1       Date Filed: 05/28/2024       Page: 33 of 56
+
+
+
+
+        22-12581               Newsom, J., Concurring                           9
+
+        cover both aesthetic and functional objectives. In fact, several of
+        the examples that ChatGPT flagged—“paths, fences, [and] water
+        features”—jibed with the sorts of things that had sprung to mind
+        when I first started thinking about the case.
+               Suffice it to say, my interest was piqued. But I definitely
+        didn’t want to fall into the trap of embracing ChatGPT’s definition
+        just because it aligned with my priors. (Bad.) So, in what might
+        have been a mistake—more on that later—we went ahead and
+        asked it the ultimate question: “Is installing an in-ground
+        trampoline ‘landscaping’”? ChatGPT responded as follows:
+               Yes, installing an in-ground trampoline can be
+               considered a part of landscaping. Landscaping
+               involves altering the visible features of an outdoor
+               area for aesthetic or practical purposes, and adding an
+               in-ground trampoline would modify the appearance
+               and function of the space. It’s a deliberate change to
+               the outdoor environment, often aimed at enhancing
+               the overall landscape and usability of the area.
+
+        For good measure, I posed the same questions to Google’s Bard
+        (since replaced by Gemini). 4 The precise details aren’t particularly
+        important, but the upshot is that both models’ answers indicated
+
+
+        4 Generally, Bard’s response to my general question—“What is the ordinary
+
+        meaning of ‘landscaping’?”—was pretty similar to ChatGPT’s, though notably
+        longer. When asked the more specific question—“Is installing an in-ground
+        trampoline ‘landscaping’?”—Bard was more equivocal than ChatGPT had
+        been. I’ve included my questions and the models’ responses in an appendix
+        for readers’ reference.
+USCA11 Case: 22-12581     Document: 36-1       Date Filed: 05/28/2024   Page: 34 of 56
+
+
+
+
+        10                   Newsom, J., Concurring                22-12581
+
+        that the trampoline-related work Snell had performed—the
+        excavation of the pit, the construction of the retaining wall, the
+        installation of the mat, and the addition of the decorative wooden
+        cap—just might be landscaping.
+                                       * * *
+               As I’ve said, intervening developments—in particular, the
+        focus on a statement in Snell’s application, which Alabama law
+        makes part of his policy and in which Snell disclaimed doing any
+        recreation-related work—alleviated the need to settle on the
+        ordinary meaning of the term “landscaping.” But my own process
+        of working through the plain-language issue was a valuable one, if
+        only because it got me thinking about what was to me a previously
+        unimaginable possibility:         Might LLMs be useful in the
+        interpretation of legal texts? Having initially thought the idea
+        positively ludicrous, I think I’m now a pretty firm “maybe.” At the
+        very least, it seems to me, it’s an issue worth exploring.
+              So let’s explore.
+                                         III
+               In what follows, I’ll try to sketch out what I take to be some
+        of the primary benefits and risks of using LLMs—to be clear, as one
+        implement among several in the textualist toolkit—to inform
+        ordinary-meaning analyses of legal instruments.
+USCA11 Case: 22-12581      Document: 36-1     Date Filed: 05/28/2024   Page: 35 of 56
+
+
+
+
+        22-12581              Newsom, J., Concurring                     11
+
+                                         A
+                I’ll start with the pros as I see them, and then turn to the
+        cons.
+               1. LLMs train on ordinary-language inputs. Let me begin
+        with what I take to be the best reason to think that LLMs might
+        provide useful information to those engaged in the interpretive
+        enterprise. Recall what is (for many of us, anyway) the “most
+        fundamental semantic rule of interpretation”: Absent a clear
+        indication that they bear some technical or specialized sense, the
+        words and phrases used in written legal instruments “are to be
+        understood in the ordinary, everyday meanings.” Scalia & Garner,
+        Reading Law, supra, at 69. The premise underlying the ordinary-
+        meaning rule is that “[i]n everyday life, the people to whom rules
+        are addressed continually understand and apply them.” Id. at 71.
+        Accordingly, the ordinary-meaning rule, as its name suggests, has
+        always emphasized “common language,” Nix v. Hedden, 149 U.S.
+        304, 307 (1893), “common speech,” Sonn v. Magone, 159 U.S. 417,
+        421 (1895), and “common parlance,” Helix Energy Sols. Grp. v.
+        Hewitt, 598 U.S. 39, 52 (2023)—in short, as I’ve explained it
+        elsewhere, “how people talk,” United States v. Caniff, 916 F.3d 929,
+        941 (11th Cir. 2019) (Newsom, J., concurring in part and dissenting
+        in part), vacated and superseded, 955 F.3d 1183 (11th Cir. 2020).
+                The ordinary-meaning rule’s foundation in the common
+        speech of common people matters here because LLMs are quite
+        literally “taught” using data that aim to reflect and capture how
+        individuals use language in their everyday lives. Specifically, the
+USCA11 Case: 22-12581        Document: 36-1         Date Filed: 05/28/2024         Page: 36 of 56
+
+
+
+
+        12                       Newsom, J., Concurring                       22-12581
+
+        models train on a mind-bogglingly enormous amount of raw data
+        taken from the internet—GPT-3.5 Turbo, for example, trained on
+        between 400 and 500 billion words 5—and at least as I understand
+        LLM design, those data run the gamut from the highest-minded to
+        the lowest, from Hemmingway novels and Ph.D. dissertations to
+        gossip rags and comment threads. 6 Because they cast their nets so
+        widely, LLMs can provide useful statistical predictions about how,
+        in the main, ordinary people ordinarily use words and phrases in
+        ordinary life.7 So, for instance, and as relevant here, LLMs can be
+
+        5 See Christoph Engel & Richard H. McAdams, Asking GPT for the Ordinary
+
+        Meaning of Statutory Terms 10–11 (Max Planck Inst. Discussion Paper 2024/5).
+        6 I’ll confess to a bit of uncertainty about exactly what data LLMs use for
+
+        training. This seems like an area ripe for a transparency boost, especially as
+        LLMs become increasingly relevant to legal work. But here’s what I think I’ve
+        gathered from some sleuthing. A significant chunk of the raw material used
+        to train many LLMs—i.e., the “stuff” from which the models learn—comes
+        from something called the Common Crawl, which is, in essence, a massive
+        data dump from the internet. See, e.g., Yiheng Liu, et al., Understanding LLMs:
+        A Comprehensive Overview from Training to Inference 6–8 (arXiv:2401.02038,
+        2024). The Common Crawl isn’t “the entire web”; rather, it’s a collection of
+        samples from online sites, which AI companies further refine for training
+        purposes. See Stefan Baack, Training Data for the Price of a Sandwich: Common
+        Craw’s Impact on Generative AI 5, 16–24, Mozilla Insights (Feb. 2024). That said,
+        the samples are massive.
+        7 To be clear, I do mean “predictions.”  As I understand things, the LLM that
+        underlies a user interface like ChatGPT creates, in effect, a complex statistical
+        “map” of how people use language—that, as machine-learning folks would
+        say, is the model’s “objective function.” How does it do it? Well, to dumb it
+        way down, drawing on its seemingly bottomless reservoir of linguistic data,
+        the model learns what words are most likely to appear where, and which ones
+        are most likely to precede or follow others—and by doing so, it can make
+USCA11 Case: 22-12581         Document: 36-1          Date Filed: 05/28/2024          Page: 37 of 56
+
+
+
+
+        22-12581                  Newsom, J., Concurring                                 13
+
+        expected to offer meaningful insight into the ordinary meaning of
+        the term “landscaping” because the internet data on which they
+        train contain so many uses of that term, from so many different
+        sources—e.g., professional webpages, DIY sites, news stories,
+        advertisements, government records, blog posts, and general
+        online chatter about the topic.8
+               To be sure, LLMs’ training data aren’t a perfect universe
+        from which to draw hard-and-fast conclusions about ordinary
+        meaning, principally because they don’t capture what I’ll call “pure
+        offline” usages—i.e., those that neither (1) occur online in the first
+        instance nor (2) originate offline, in hard copy, but are eventually
+        digitized and uploaded to some online site. And indeed, the
+        absence of offline usages from the training pool—and in particular,
+        the implications for underrepresented populations—strikes me as
+        a sufficiently serious concern that I’ve broken it out for separate
+        discussion below. See infra at 21–23. Even so, those omissions
+        aside, it seems to me scarcely debatable that the LLMs’ training
+        data are at the very least relevant to the ordinary-meaning analysis.
+        In fact, an LLMs’ dataset may well be the most “perfectly
+        imperfect” on offer because (1) scads of people either use the
+
+
+        probabilistic, predictive judgments about ordinary meaning and usage. See
+        Yonathan A. Arbel & David A. Hoffman, Generative Interpretation, 99 N.Y.U. L.
+        Rev. (forthcoming 2024) (manuscript at 24–29); Engel & McAdams, supra, at
+        10–11.
+        8 So far as I understand things, it’s next to impossible to pinpoint exactly what
+
+        training data an LLM draws on when answering a particular question, but
+        from what I’ve seen, I think it’s fair to say that it’s a pretty wide cross-section.
+USCA11 Case: 22-12581        Document: 36-1        Date Filed: 05/28/2024        Page: 38 of 56
+
+
+
+
+        14                      Newsom, J., Concurring                     22-12581
+
+        internet or create content that finds its way onto the internet (or
+        more likely both), (2) the information available online reflects
+        people’s use of terminology in a wide array of contexts and settings,
+        from the sublime to the ridiculous, and (3) there’s little reason (that
+        I can think of) to worry that writers and speakers whose
+        communications end up online manipulate the inputs (i.e., their
+        words) in a way that might artificially skew the data.
+              Put simply, ordinary-meaning interpretation aims to capture
+        how normal people use language in their everyday lives—and the
+        bulk of the LLMs’ training data seem to reflect exactly that.9
+               2. LLMs can “understand” context. So far as I can tell,
+        researchers powering the AI revolution have created, and are
+        continuing to develop, increasingly sophisticated ways to convert
+        language (and I’m not making this up) into math that computers
+        can “understand.” See Yonathan A. Arbel & David A. Hoffman,
+        Generative Interpretation, 99 N.Y.U. L. Rev. (forthcoming 2024)
+        (manuscript at 26) (describing “attention mechanism,” a feature of
+        LLMs that facilitates the recognition of how words are used in
+        context). The combination of the massive datasets used for
+        training and this cutting-edge “mathematization” of language
+        enables LLMs to absorb and assess the use of terminology in
+        context and empowers them to detect language patterns at a
+
+
+        9 I’ll bracket for the time being whether LLMs might be useful (or less so) in
+
+        the fraction of cases in which we’re focused on technical or specialized
+        meaning, rather than ordinary meaning. See Scalia & Garner, Reading Law,
+        supra, at 73.
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024     Page: 39 of 56
+
+
+
+
+        22-12581              Newsom, J., Concurring                       15
+
+        granular level. So, for instance, modern LLMs can easily discern
+        the difference—and distinguish—between the flying-mammal
+        “bat” that uses echolocation and may or may not be living in your
+        attic, on the one hand, and the wooden “bat” that Shohei Otani
+        uses to hit dingers, on the other. See id. And that, as I understand
+        it, is just the tip of the iceberg. LLM predictions about how we use
+        words and phrases have gotten so sophisticated that they can (for
+        better or worse) produce full-blown conversations, write essays
+        and computer code, draft emails to co-workers, etc. And as anyone
+        who has used them can attest, modern LLMs’ results are often
+        sensible—so sensible, in fact, that they can border on the creepy.
+        Now let’s be clear, LLMs aren’t perfect—and again, we’ll discuss
+        their shortcomings in due course. But let’s be equally clear about
+        what they are: high-octane language-prediction machines capable
+        of probabilistically mapping, among other things, how ordinary
+        people use words and phrases in context.
+                3. LLMs are accessible. LLMs are readily accessible (and
+        increasingly so) to judges, lawyers, and, perhaps most importantly,
+        ordinary citizens. In recent years, the use of LLMs has proliferated,
+        and as with all other internet-related tools, one can only assume
+        that usage will continue to accelerate, likely at an exponential rate.
+        The LLMs’ easy accessibility is important in at least two respects.
+        First, it offers the promise of “democratizing” the interpretive
+        enterprise, both (as already explained) by leveraging inputs from
+        ordinary people and by being available for use by ordinary people.
+        Second, it provides judges, lawyers, and litigants an inexpensive
+        research tool. My “landscaping”-related queries, for instance,
+USCA11 Case: 22-12581         Document: 36-1        Date Filed: 05/28/2024         Page: 40 of 56
+
+
+
+
+        16                       Newsom, J., Concurring                       22-12581
+
+        while no doubt imperfect, cost me nothing. To be sure, querying
+        a more advanced LLM may come with a pricetag, at least for now.
+        But so does, for example, searching the Oxford English Dictionary,
+        the online version of which exists behind a paywall. 10 And I’d be
+        willing to bet that the costs associated with even the more
+        advanced LLMs pale in comparison to subscriptions for Westlaw
+        and Lexis, which power most modern legal research, including
+        some involving dictionaries. 11 And of course there’s always the
+        promise that open-source LLMs might soon approximate the for-
+        profit models’ productivity.
+                4. LLM research is relatively transparent. Using LLMs to
+        facilitate ordinary-meaning interpretation may actually enhance
+        the transparency and reliability of the interpretive enterprise itself,
+        at least vis-à-vis current practice. Two brief observations.
+               First, although we tend to take dictionaries for granted, as if
+        delivered by a prophet, the precise details of their construction
+        aren’t always self-evident. Who exactly compiles them, and by
+        what criteria do the compilers choose and order the definitions
+        within any given entry? To be sure, we’re not totally in the dark;
+        the online version of Merriam-Webster’s, for instance, provides a
+        useful primer explaining “[h]ow . . . a word get[s] into” that
+
+
+        10 See Purchase, Oxford English Dictionary, https://www.oed.com/purchase
+
+        (last visited May 23, 2024).
+        11 Westlaw, for instance, allows paid subscribers to access the latest edition of
+
+        Black’s Law Dictionary. Lexis permits its users to access similar offerings,
+        including Ballentine’s Law Dictionary.
+USCA11 Case: 22-12581      Document: 36-1       Date Filed: 05/28/2024      Page: 41 of 56
+
+
+
+
+        22-12581               Newsom, J., Concurring                         17
+
+        dictionary. 12 It describes a process by which human editors spend
+        a couple of hours a day “reading a cross section of published
+        material” and looking for new words, usages, and spellings, which
+        they then mark for inclusion (along with surrounding context) in a
+        “searchable text database” that totals “more than 70 million words
+        drawn from a great variety of sources”—followed, as I understand
+        things, by a step in which a “definer” consults the available
+        evidence and exercises his or her judgment to “decide[] . . . the best
+        course of action by reading through the citations and using the
+        evidence in them to adjust entries or create new ones.” 13
+                Such explainers aside, Justice Scalia and Bryan Garner
+        famously warned against “an uncritical approach to dictionaries.”
+        Antonin Scalia & Bryan A. Garner, A Note on the Use of Dictionaries,
+        16 Green Bag 2d 419, 420 (2013). They highlighted as risks, for
+        instance, that a volume could “have been hastily put together by
+        two editors on short notice, and very much on the cheap,” and that
+        without “consult[ing] the prefatory material” one might not be
+        able “to understand the principles on which the dictionary [was]
+        assembled” or the “ordering of [the] senses” of a particular term.
+        Id. at 420, 423.
+
+
+
+        12 Help: How does a word get into a Merriam-Webster dictionary?, Merriam-
+
+        Webster (last visited May 23, 2024), https://www.merriam-
+        webster.com/help/faq-words-into-dictionary [https://perma.cc/446C-
+        WYMN].
+        13 Id.
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024    Page: 42 of 56
+
+
+
+
+        18                   Newsom, J., Concurring                22-12581
+
+               To be clear, I’m neither a nihilist nor a conspiracy theorist,
+        but I do think that we textualists need to acknowledge (and guard
+        against the fact) that dictionary definitions present a few known
+        unknowns. See id. at 419–28; cf. Thomas R. Lee & Stephen C.
+        Mouritsen, The Corpus and the Critics, 88 U. Chi. L. Rev. 275, 286–
+        88 (2021) (highlighting potential interpretive pitfalls associated
+        with dictionaries). And while I certainly appreciate that we also
+        lack perfect knowledge about the training data used by cutting-
+        edge LLMs, many of which are proprietary in nature, see supra
+        notes 6 & 8, I think it’s fair to say that we do know both (1) what
+        LLMs are learning from—namely, tons and tons of internet data—
+        and (2) one of the things that makes LLMs so useful—namely, their
+        ability to accurately predict how normal people use language in
+        their everyday lives.
+               A second transparency-related thought: When a judge
+        confronts a case that requires a careful assessment of a word’s
+        meaning, he’ll typically consult a range of dictionary definitions,
+        engage in a “comparative weighing,” Scalia & Garner, A Note,
+        supra, at 422, and, in his written opinion, deploy one, two, or a few
+        of them. The cynic, of course, will insist that the judge just
+        dictionary-shopped for the definitions that would enable him to
+        reverse-engineer his preferred outcome. See James J. Brudney &
+        Lawrence Baum, Oasis or Mirage: The Supreme Court’s Thirst for
+        Dictionaries in the Rehnquist and Roberts Eras, 55 Wm. & Mary L.
+        Rev. 483, 539 (2013). I’m not so jaded; I trust that ordinary-
+        meaning-focused judges genuinely seek out definitions that best fit
+        the context of the instruments that they’re charged with
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024     Page: 43 of 56
+
+
+
+
+        22-12581              Newsom, J., Concurring                       19
+
+        interpreting. See, e.g., Hoever v. Marks, 993 F.3d 1353, 1366–68 (11th
+        Cir. 2021) (en banc) (Newsom, J., concurring in judgment in part
+        and dissenting in part) (choosing, based on contextual clues, from
+        among competing definitions of the word “for”). Even so, I have
+        to admit (1) that the choice among dictionary definitions involves
+        a measure of discretion and (2) that judges seldom “show their
+        work”—that is, they rarely explain in any detail the process by
+        which they selected one definition over others. Contrast my M.O.
+        in this case, which I would recommend as a best practice: full
+        disclosure of both the queries put to the LLMs (imperfect as mine
+        might have been) and the models’ answers.
+               Anyway, I don’t mean to paint either too grim a picture of
+        our current, dictionary-centric practice—my own opinions are
+        chock full of dictionary definitions, I hope to good effect—or too
+        rosy a picture of the LLMs’ potentiality. My point is simply that I
+        don’t think using LLMs entails any more opacity or involves any
+        more discretion than is already inherent in interpretive practices
+        that we currently take for granted—and in fact, that on both scores
+        it might actually involve less.
+               5. LLMs hold advantages over other empirical interpretive
+        methods. One final point before moving on. Recently, some
+        empiricists have begun to critique the traditional dictionary-
+        focused approach to plain-meaning interpretation. Some, for
+        instance, have conducted wide-ranging surveys of ordinary
+        citizens, seeking to demonstrate that dictionaries don’t always
+        capture ordinary understandings of legal texts. See, e.g., Kevin P.
+        Tobia, Testing Ordinary Meaning, 134 Harv. L. Rev. 726 (2020).
+USCA11 Case: 22-12581     Document: 36-1       Date Filed: 05/28/2024    Page: 44 of 56
+
+
+
+
+        20                    Newsom, J., Concurring                22-12581
+
+        Others have turned to corpus linguistics, which aims to gauge
+        ordinary meaning by quantifying the patterns of words’ usages and
+        occurrences in large bodies of language. See, e.g., Thomas R. Lee
+        & Stephen C. Mouritsen, Judging Ordinary Meaning, 127 Yale L.J.
+        788, 795 (2018).
+                On balance, reliance on LLMs seems to me preferable to
+        both. The survey method is interesting, but it seems wildly
+        impractical—judges and lawyers have neither the time nor the
+        resources to poll ordinary citizens on a widespread basis. By
+        contrast, as already explained, LLMs are widely available and easily
+        accessible. And corpus methods have been challenged on the
+        ground, among others, that those tasked with compiling the data
+        exercise too much discretion in selecting among the inputs. See,
+        e.g., Jonathan H. Choi, Measuring Clarity in Legal Text, 91 U. Chi. L.
+        Rev. 1, 26 (2024). For reasons already explained, I don’t think LLM-
+        based methods necessarily carry the same risk.
+                                       * * *
+               For all these reasons, and perhaps others I haven’t identified,
+        it seems to me that it’s at least worth considering whether and how
+        we might leverage LLMs in the ordinary-meaning enterprise—
+        again, not as the be all and end all, but rather as one aid to be used
+        alongside dictionaries, the semantic canons, etc.
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024      Page: 45 of 56
+
+
+
+
+        22-12581              Newsom, J., Concurring                         21
+
+                                           B
+               Now, let’s examine a few potential drawbacks. I suppose it
+        could turn out that one or more of them are deal-killers. I tend to
+        doubt it, but let’s put them on the table.
+                1. LLMs can “hallucinate.” First, the elephant in the room:
+        What about LLMs’ now-infamous “hallucinations”? Put simply, an
+        LLM “hallucinates” when, in response to a user’s query, it
+        generates facts that, well, just aren’t true—or at least not quite true.
+        See, e.g., Arbel & Hoffman, supra, at 48–50. Remember the lawyer
+        who got caught using ChatGPT to draft a brief when it ad-libbed
+        case citations—which is to say cited precedents that didn’t exist?
+        See, e.g., Benjamin Weiser, Here’s What Happens When Your Lawyer
+        Uses ChatGPT, N.Y. Times (May 29, 2023). To me, this is among
+        the most serious objections to using LLMs in the search for
+        ordinary meaning. Even so, I don’t think it’s a conversation-
+        stopper. For one thing, LLM technology is improving at breakneck
+        speed, and there’s every reason to believe that hallucinations will
+        become fewer and farther between. Moreover, hallucinations
+        would seem to be most worrisome when asking a specific question
+        that has a specific answer—less so, it seems to me, when more
+        generally seeking the “ordinary meaning” of some word or phrase.
+        Finally, let’s shoot straight: Flesh-and-blood lawyers hallucinate
+        too. Sometimes, their hallucinations are good-faith mistakes. But
+        all too often, I’m afraid, they’re quite intentional—in their zeal,
+        attorneys sometimes shade facts, finesse (and even omit altogether)
+        adverse authorities, etc. So at worst, the “hallucination” problem
+        counsels against blind-faith reliance on LLM outputs—in exactly
+USCA11 Case: 22-12581       Document: 36-1        Date Filed: 05/28/2024       Page: 46 of 56
+
+
+
+
+        22                      Newsom, J., Concurring                   22-12581
+
+        the same way that no conscientious judge would blind-faith rely on
+        a lawyer’s representations.
+               2. LLMs don’t capture offline speech, and thus might not fully
+        account for underrepresented populations’ usages. I flagged this one
+        earlier, but I think it’s a serious enough concern to merit separate
+        treatment. Here’s the objection, as I see it: People living in poorer
+        communities (perhaps disproportionately minorities and those in
+        rural areas) are less likely to have ready internet access and thus
+        may be less likely to contribute to the sources from which LLMs
+        draw in crafting their responses to queries. Accordingly, the
+        argument goes, their understandings—as manifested, for instance,
+        in their written speech—won’t get “counted” in the LLMs’
+        ordinary-meaning assessment.
+                 As I say, I think this is a serious issue. Even so, I don’t believe
+        it fatally undermines LLMs’ utility, at least as one tool among many
+        for evaluating ordinary meaning. Ideally, of course, the universe
+        of information from which any source of meaning draws would
+        capture every conceivable input. But we should guard against
+        overreaction. Presumably, LLMs train not only on data that were
+        born (so to speak) online but also on material that was created in
+        the physical world and only thereafter digitized and uploaded to
+        the internet. And there is (I think) less reason to fear that those in
+        underserved communities are at a dramatic comparative
+        disadvantage with respect to the latter category. Moreover, to the
+        extent we’re worried about a lack of real-world, documentary
+        evidence representing underrepresented populations’ usages, then
+        we have bigger fish to fry, because there’s reason to doubt the
+USCA11 Case: 22-12581         Document: 36-1        Date Filed: 05/28/2024         Page: 47 of 56
+
+
+
+
+        22-12581                    Newsom, J., Concurring                            23
+
+        utility of dictionaries, as well—which, as Merriam-Webster’s editors
+        have explained, also rely on hard-copy sources to evaluate terms’
+        ordinary meanings. See supra at 16–17 & note 12.
+               Anyway, the risk that certain communities’ word-usage
+        outputs aren’t adequately reflected in LLMs’ training-data inputs is
+        real, and I’d note it as a candidate for improvement, but I don’t
+        think it’s either fatal or insurmountable. 14
+               3. Lawyers, judges, and would-be litigants might try to
+        manipulate LLMs. I suppose there’s a risk that lawyers and judges
+        might try to use LLMs strategically to reverse-engineer a preferred
+        answer—say, by shopping around among the available models or
+        manipulating queries. Maybe, but that’s an evergreen issue, isn’t
+        it? Although they shouldn’t, lawyers and judges can cast about for
+        advantageous dictionary definitions and exploit the interpretive
+        canons, but no one thinks that’s a sufficient reason to abandon
+        those as interpretive tools. And if anything, I tend to think that the
+        LLMs are probably less vulnerable to manipulation than
+
+        14 A quasi-related issue: Some words have acquired “regionalized” meanings
+        over time. So, for instance, the noun “toboggan” can refer to either (1) a “long
+        flat-bottomed light sled,” (2) a “downward course or sharp decline,” or (3) a
+        “stocking cap.” Merriam-Webster’s Collegiate Dictionary, supra, at 1313.
+        Notably, though, the third sense is “chiefly Southern [and] Midland.” Id.
+        When we asked ChatGPT, “What is the ordinary meaning of ‘toboggan’?”, it
+        responded with only the first, sled-based explanation. The lesson is simply that
+        interpreters using LLMs for assistance would be wise to remember, as always,
+        that “context is king,” Wachovia Bank, N.A. v. United States, 455 F.3d 1261, 1267
+        (11th Cir. 2006), and, accordingly, that they might need to adjust their queries
+        to account for its influence.
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024    Page: 48 of 56
+
+
+
+
+        24                   Newsom, J., Concurring                22-12581
+
+        dictionaries and canons, at least when coupled with (as I’ve tried to
+        provide here) full disclosure of one’s research process.
+               Relatedly, might prospective litigants seek to corrupt the
+        inputs—the data on which the LLMs train and base their responses
+        to user queries—in an effort to rig the system to spit out their
+        preferred interpretations? It’s a real concern—perhaps especially
+        considering that the same AI companies that have developed and
+        are training the LLMs might themselves be litigants. But given the
+        nature of the technology as I understand it, hardly insurmountable.
+        For one thing, most models embody some training “cutoff”—for
+        instance, though things might have changed, it was once common
+        knowledge that GPT-4 learned on data up to and including
+        September 2021. See Open AI, GPT-4 Technical Report 10
+        (arXiv:2303.08774, 2024). Accordingly, it would likely be difficult,
+        if not impossible, to pollute the inputs retroactively. More
+        fundamentally, it seems almost inconceivable that a would-be
+        malefactor could surreptitiously flood any given dataset with
+        enough new inputs to move the needle—remember, just by way
+        of example, that GPT-3.5 Turbo trained on more than 400 billion
+        words. Finally, while I tend to doubt that any AI company would
+        conclude that corrupting its own product in order to obtain an
+        interpretive advantage in a single case was in its long-term business
+        interest, that risk, it seems to me, could be mitigated, if not
+        eliminated, by querying multiple models rather than just one.
+              4. Reliance on LLMs will lead us into dystopia. Would the
+        consideration of LLM outputs in interpreting legal texts inevitably
+USCA11 Case: 22-12581     Document: 36-1     Date Filed: 05/28/2024    Page: 49 of 56
+
+
+
+
+        22-12581             Newsom, J., Concurring                      25
+
+        put us on some dystopian path toward “robo judges”
+        algorithmically resolving human disputes? I don’t think so. As
+        Chief Justice Roberts recently observed, the law will always require
+        “gray area[]” decisionmaking that entails the “application of human
+        judgment.” Chief Justice John G. Roberts, Jr., 2023 Year-End Report
+        on the Federal Judiciary 6 (Dec. 31, 2023). And I hope it’s clear by
+        this point that I am not—not, not, not—suggesting that any judge
+        should ever query an LLM concerning the ordinary meaning of
+        some word (say, “landscaping”) and then mechanistically apply it
+        to her facts and render judgment. My only proposal—and, again, I
+        think it’s a pretty modest one—is that we consider whether LLMs
+        might provide additional datapoints to be used alongside
+        dictionaries, canons, and syntactical context in the assessment of
+        terms’ ordinary meaning. That’s all; that’s it.
+                                        IV
+               Which brings me to my final question: If I’m not all wet,
+        and it’s at least worth considering whether LLMs have a role to
+        play in the interpretation of legal instruments, how might we
+        maximize their utility? I’ve already flagged a few suggestions for
+        improvement along the way—more data, from more sources,
+        representing a more representative cross-section of Americans.
+        But beyond the obvious, what else?
+               First, I think it’ll be helpful to clarify the objective.
+        Remember that in my clumsy first crack at this, I asked two
+        different models two different questions: (1) “What is the ordinary
+        meaning of ‘landscaping’?”; and (2) “Is an in-ground trampoline
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024     Page: 50 of 56
+
+
+
+
+        26                    Newsom, J., Concurring                 22-12581
+
+        ‘landscaping’?” Which is the proper question? In retrospect, if my
+        contention is—as it is—that LLMs might aid in the search for the
+        ordinary, everyday meaning of common words and phrases, then
+        it seems pretty clear to me that my first, more general query is the
+        more appropriate one. The models’ highest and best use is (like a
+        dictionary) helping to discern how normal people use and
+        understand language, not in applying a particular meaning to a
+        particular set of facts to suggest an answer to a particular question.
+               Second, and relatedly, how can we best query LLMs? Those
+        in the know refer to the question a user asks a model as a “prompt.”
+        I’ll confess that I gave relatively little thought to my own
+        prompts—they were just the questions that immediately sprang to
+        mind. But research indicates that the models can be sensitive to
+        prompts and that the results can vary accordingly. See, e.g., Arbel
+        & Hoffman, supra, at 36. So it may be wise for users to try different
+        prompts, and, importantly, to report the prompts they use and the
+        range of results they obtain. Id. at 36–37. Better still to do all that
+        and query multiple models to ensure that the results are
+        consistent—or, in statistics-speak, “robust.”
+               Third, we need to clarify the particular output we’re after.
+        The questions I asked sought a discrete, one-time answer. In
+        particular, I asked for a single definition of “landscaping” and,
+        separately, whether installation of an in-ground trampoline
+        qualified. One potential challenge is that this approach obscures
+        the fact, already explained, that LLMs make probabilistic,
+        predictive judgments about language. With that in mind, some
+USCA11 Case: 22-12581       Document: 36-1       Date Filed: 05/28/2024       Page: 51 of 56
+
+
+
+
+        22-12581               Newsom, J., Concurring                           27
+
+        who have considered how LLMs might be used to interpret
+        contracts have suggested that users seek not just answers but also
+        “confidence” levels. See id. at 23. So, for instance, an LLM might
+        reveal that its prediction about a provision’s meaning is “high” or,
+        by contrast, only “ambiguous.” Alternatively, but to the same end,
+        a researcher might ask an LLM the same question multiple times
+        and note the percentage of instances in which it agrees that, say,
+        installation of an in-ground trampoline is landscaping. See
+        Christoph Engel & Richard H. McAdams, Asking GPT for the
+        Ordinary Meaning of Statutory Terms 15 (Max Planck Inst. Discussion
+        Paper 2024/5). 15
+               Fourth and finally, there are temporal considerations to
+        mull. The ordinary-meaning rule has an important corollary—
+        namely, that “[w]ords must be given the meaning they had when
+        the text was adopted.” Scalia & Garner, Reading Law, supra, at 78
+        (emphasis added). That principle—“originalism,” if you will—
+        most obviously applies to constitutional and statutory texts. See,
+        e.g., United States v. Pate, 84 F.4th 1196, 1201 (11th Cir. 2023) (en
+        banc) (“[W]hen called on to resolve a dispute over a statute’s
+        meaning, [a court] normally seeks to afford the law’s terms their
+        ordinary meaning at the time Congress adopted them.” (quoting
+
+        15 Some might worry that seeking a range of responses could cause the LLM
+
+        to respond with uncommon usages. Of course, if the rogue results are rare,
+        then, almost by definition, they won’t move the “ordinary meaning” needle.
+        And if, by contrast, they’re not rare—and thus aren’t rogues at all—then
+        perhaps they indicate that we need to rethink our intuitions about what the
+        “ordinary meaning” really is. Fine, and good.
+USCA11 Case: 22-12581        Document: 36-1        Date Filed: 05/28/2024        Page: 52 of 56
+
+
+
+
+        28                      Newsom, J., Concurring                     22-12581
+
+        Niz-Chavez v. Garland, 593 U.S. 155, 160 (2021)). To be clear,
+        though, it holds for private instruments like contracts and
+        insurance policies, as well. See Scalia & Garner, Reading Law, supra,
+        at 78. This case didn’t present a particularly knotty temporal
+        difficulty because the policy in question was issued relatively
+        recently, in 2017. But cases routinely arise in which the relevant
+        question is what a particular term meant in the more distant past—
+        say, in 1787, 1868, or 1964. If LLMs are to be deployed to aid more
+        broadly in the search for ordinary meaning, it would be
+        enormously helpful—if it’s not already possible—for AI engineers
+        to devise a way in which queries could be limited to particular
+        timeframes. Cf. Engel & McAdams, supra, at 34–37. 16
+                                             V
+                In his most recent year-end report on the state of the federal
+        judiciary, Chief Justice Roberts cautioned that the “use of AI
+        requires caution and humility.” Roberts, supra, at 5. I
+        wholeheartedly agree. Importantly, though, I also agree with what
+        I take to be the report’s assumption that AI is here to stay. Now, it
+        seems to me, is the time to figure out how to use it profitably and
+        responsibly. It’s in that spirit that I’ve offered these preliminary
+        thoughts about whether and how LLMs might aid lawyers and
+        judges in the interpretive enterprise. Plenty of questions remain,
+
+
+        16 Relatedly, might we have a “start date” problem? Are we limited to ordinary
+
+        understandings that post-date the launch of the internet? Or might it be that
+        the information contained on the internet is so extensive that it can aid in
+        understanding historical usages, as well?
+USCA11 Case: 22-12581     Document: 36-1      Date Filed: 05/28/2024     Page: 53 of 56
+
+
+
+
+        22-12581              Newsom, J., Concurring                       29
+
+        and I’m sure I haven’t even identified all of them. But—and this is
+        my bottom line—I think that LLMs have promise. At the very
+        least, it no longer strikes me as ridiculous to think that an LLM like
+        ChatGPT might have something useful to say about the common,
+        everyday meaning of the words and phrases used in legal texts.
+              Just my two cents.
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024     Page: 54 of 56
+
+
+
+
+        30                    Newsom, J., Concurring                 22-12581
+
+                                      Appendix
+             Below are the questions that I asked OpenAI’s ChatGPT and
+        Google’s Bard models, along with their responses.
+                                      ChatGPT
+        Question: What is the ordinary meaning of “landscaping”?
+        Response: “Landscaping” refers to the process of altering the
+        visible features of an area of land, typically a yard, garden or
+        outdoor space, for aesthetic or practical purposes. This can include
+        activities such as planting trees, shrubs, ﬂowers, or grass, as well as
+        installing paths, fences, water features, and other elements to
+        enhance the appearance and functionality of the outdoor space.
+        Question: Is installing an in-ground trampoline “landscaping”?
+        Response: Yes, installing an in-ground trampoline can be
+        considered a part of landscaping. Landscaping involves altering the
+        visible features of an outdoor area for aesthetic or practical
+        purposes, and adding an in-ground trampoline would modify the
+        appearance and function of the space. It’s a deliberate change to
+        the outdoor environment, often aimed at enhancing the overall
+        landscape and usability of the area.
+                                        Bard
+        Question: What is the ordinary meaning of “landscaping”?
+        Response: The ordinary meaning of landscaping" is the process of
+        modifying the visible features of an area of land, including:
+USCA11 Case: 22-12581      Document: 36-1      Date Filed: 05/28/2024     Page: 55 of 56
+
+
+
+
+        22-12581              Newsom, J., Concurring                        31
+
+           • Adding or removing vegetation, such as trees, shrubs, and
+               flowers
+           • Installing hardscape elements, such as walkways, patios,
+               and retaining walls
+           • Creating or enhancing natural features, such as ponds,
+               waterfalls, and rock gardens
+        Landscaping can be used to improve the aesthetics of an area,
+        increase its functionality, and/or protect it from erosion. It can also
+        be used to create a sense of privacy, deﬁne spaces, and add value to
+        a property.
+        Here are some examples of landscaping projects:
+           • Planting a new lawn or garden
+           • Adding a patio or walkway
+           • Building a retaining wall
+           • Installing a sprinkler system
+           • Creating a pond or waterfall
+           • Planting trees and shrubs
+           • Adding mulch or gravel
+           • Edging a flower bed
+           • Trimming hedges
+        Landscaping can be a DIY project, or it can be hired out to a
+        professional landscaping company. The cost of landscaping will
+        vary depending on the size and scope of the project.
+        Question: Is installing an in-ground trampoline “landscaping”?
+        Response: Whether or not installing an in-ground trampoline is
+        considered landscaping depends on how you deﬁne the term. If
+USCA11 Case: 22-12581    Document: 36-1     Date Filed: 05/28/2024     Page: 56 of 56
+
+
+
+
+        32                  Newsom, J., Concurring                22-12581
+
+        you deﬁne landscaping broadly to include any modiﬁcation to the
+        visible features of an area of land, then installing an in-ground
+        trampoline would be considered landscaping. However, if you
+        deﬁne landscaping more narrowly to focus on the planting and
+        maintenance of vegetation, then installing an in-ground
+        trampoline would not be considered landscaping.
+        Here is a table that summarizes the diﬀerent ways to deﬁne
+        landscaping and whether or not installing an in-ground trampoline
+        would be considered landscaping under each deﬁnition:
+         Deﬁnition                        Includes installing an in-
+                                          ground trampoline?
+         Broad deﬁnition: Any             Yes
+         modiﬁcation to the visible
+         features of an area of land
+         Narrower deﬁnition: Planting No
+         and maintenance of vegetation
+        Ultimately, whether or not installing an in-ground trampoline is
+        considered landscaping is a matter of opinion. There is no right
+        or wrong answer.
+

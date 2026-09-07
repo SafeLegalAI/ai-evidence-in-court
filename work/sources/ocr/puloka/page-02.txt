@@ -1,0 +1,39 @@
+1 I. FINDINGSOFFACT:
+2 ,
+. 1, The use of artificial intelligence (AI) tools to enhance video introduced in a criminal trial ©
+3]} -  isanoveltechnique. ©
+4 2. Defense expert witness Brian Racherbaeumer utilized at least one AI enhancement tool to
+5] enhance a total of 7 (seven) videos, admitted on a flash drive as pre-trial Exhibit 5 (five).
+3. At trial, the defense intends to admit — at a minimum — an AJ-enhanced version of.a video
+6 recorded by a civilian witness on an iPhone. The original recording was streamed to
+Snapchat. The AI enhanced copy of the video recording was admitted pre-trial as Exhibit
+7 2 (two). . mo :
+8 4. A version of this iPhone video extracted directly from the civilian witness’s iPhone was
+‘admitted on a flash drive as pre-trial Exhibit 1 (one). This video — hereinafter referred to
+9 __ as the ‘source video’ — is about 10 (ten) seconds in duration.
+10 5. Defense witness Racherbaeumer was a self-identified videographer and filmmaker who ;
+started working with video in 1993. He was very candid and open about the fact that he is -
+1 not — and has not claimed to be — a forensic video technician and has not been
+‘ D forensically trained. .
+; 6. Racherbaeumer testified that the source video (Exhibit 1) was of low resolution, and
+13 contained substantial ‘motion blur’
+14 7. In contrast to Exhibit 1, the defense witness presented Exhibit 2 as an enhanced version
+of Exhibit 1 which he said added clarity through use of an AI video-editing tool in the
+1S program ‘Topaz Labs AI’, and was further processed on Adobe Premier Pro.
+16 8. Racherbaeumer testified that the Topaz Labs AI program uses 'technology to intelligently
+scale up the video’ to increase resolution. He stated that the tool adds sharpness,
+17 definition, and smoother edges to objects in the video, whereas the source video
+18 contained fuzzier images with ‘blocky’ edge patterns. ;
+9. Racherbaeumer was candid, and was unable to say whether the Topaz Labs AI tool he .
+ets ‘used, which has been commercially available for about 3 (three) years, is currently
+utilized by the forensic video analysis community, He described peer usage as
+20 ‘corporate.’ He was unaware of any testing, publications, or discussion groups within his
+peer group that was involved in evaluating the reliability of AI tools for video
+21 enhancement purposes. ;
+22 10. Racherbaeumer described that the Topaz Labs Al tool uses ‘machine learning,’ .
+employing specific processing models based on a vast library of videos, but he did not ;
+23 know what videos the Al-enhancement models are ‘trained’ on, did not know whether
+24 ,
+FINDINGS OF FACT & CONCLUSIONS OF LAW
+ON STATE’S MOTION TO SUPPRESS PURSUANT. - . .
+TO FRYE.

@@ -1,0 +1,216 @@
+Matter of Gabriel H. (N.Y. App. Div. 2024)
+ Court: New York Supreme Court, Appellate Division
+
+ Citation: 2024 NY Slip Op 03588
+
+ Docket Number: 187 CAF 23-01211
+
+ Date Decided: July 3, 2024
+
+
+Matter of Gabriel H. 2024 NY Slip Op 03588 Decided on July 3, 2024 Appellate Division, Fourth Department
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This opinion is
+uncorrected and subject to revision before publication in the Official Reports.
+
+Decided on July 3, 2024 SUPREME COURT OF THE STATE OF NEW YORK Appellate Division, Fourth Judicial
+Department
+PRESENT: SMITH, J.P., CURRAN, OGDEN, GREENWOOD, AND KEANE, JJ.
+187 CAF 23-01211
+
+[*1]IN THE MATTER OF GABRIEL H. ERIE COUNTY DEPARTMENT OF SOCIAL SERVICES, PETITIONER-
+RESPONDENT; DANIEL K., RESPONDENT-APPELLANT. (APPEAL NO. 1.)
+
+
+
+
+NICHOLAS T. TEXIDO, WEST SENECA, FOR RESPONDENT-APPELLANT.
+
+BENJAMIN MANNION, BUFFALO, FOR PETITIONER-RESPONDENT.
+
+DAVID J. PAJAK, ALDEN, ATTORNEY FOR THE CHILD.
+
+
+
+
+Appeal from an order of the Family Court, Erie County (Sharon M. LoVallo, J.), entered December 15, 2022, in a
+proceeding pursuant to Family Court Act article 10. The order, inter alia, determined that respondent
+derivatively abused the subject child.
+
+It is hereby ORDERED that the order so appealed from is affirmed without costs.
+  We use cookies to improve the experience of our website. By continuing to use our
+  website, you consent to the use of cookies. To understand more about how we use        Accept & Continue
+  cookies, please see our Privacy Policy.
+Memorandum: In these proceedings pursuant to Family Court Act article 10, respondent appeals in appeal No. 2
+from an order of fact-finding and disposition that, inter alia, determined that he abused the daughter of his
+girlfriend (mother) and, in appeal No. 1, he appeals from an order of fact-finding and disposition that, inter alia,
+determined that he derivatively abused the mother's son. The evidence against respondent at the fact-finding
+hearing consisted chiefly of videos depicting him sexually abusing the daughter in the living room of a house,
+and respondent contends with respect to both appeals that Family Court improperly admitted those videos in
+evidence. Although we disagree with petitioner that respondent failed to preserve that contention for our review,
+we nevertheless reject respondent's contention.
+
+The videos were discovered by the Federal Bureau of Investigation (FBI) during an unrelated investigation in
+late January 2022 into the trading of child pornography. The FBI executed a search warrant upon a person
+(suspect) who was a subject of their investigation. The suspect admitted to an FBI special agent that he had been
+hacking into security web cameras and that, in 2019, he had hacked into a security camera where he observed
+what he believed was an adult male sexually abusing a teenage girl. The FBI obtained from the suspect's
+computer three videos and details of the security camera login information, including an email address. Through
+the FBI's investigative work, together with the assistance of the New York State Police, it was determined that
+the videos came from a camera in a house where respondent resided with the mother and the children who are
+the subject of these proceedings. The FBI agent explained how he copied the videos from the suspect's computer
+onto a DVD, and he testified that the videos on the DVD that was admitted in evidence at the fact-finding
+hearing were true and accurate copies of the videos he viewed on the suspect's computer. He testified that he did
+not make any observations that led him to believe that the video footage had been tampered with or altered in
+any way. The videos were date-stamped from May, June, and July 2019. A detective with the State Police
+testified that he showed screenshots of the videos to the mother, who identified the female in one image as her
+daughter and the male in another as respondent, her live-in boyfriend. Upon entering the mother's residence,
+the detective observed cameras in the house, including in the living room, and he testified that the living room
+and its furnishings matched what was shown in the videos.
+
+Respondent contends that petitioner failed to authenticate the videos through the [*2]testimony of a person who
+witnessed the events, the maker of the videos, or someone with sufficient knowledge of the surveillance system
+to show that it accurately recorded the events. Respondent further contends that petitioner failed to establish
+that the videos were not fabricated by the suspect. It is well settled that the admissibility of video evidence rests
+within the sound discretion of the trial court so long as a sufficient foundation for its admissibility has been
+proffered (see People v Patterson, 93 NY2d 80, 84 [1999]). "[A]uthenticity is established by proof that the
+offered evidence is genuine and that there has been no tampering with it" (People v McGee, 49 NY2d 48, 59
+[1979], cert denied 446 US 942 [1980]; see People v Price, 29 NY3d 472, 476 [2017]). A video "may be
+authenticated by the testimony of a witness to the recorded events or of an operator or installer or maintainer of
+the equipment that the video[ ] accurately represents the subject matter depicted" (Patterson, 93 NY2d at 84). It
+may also be authenticated, however, by "[t]estimony, expert or otherwise . . . [to] establish that a video[ ] 'truly
+and accurately represents what was before the camera' " (id.). "[T]he foundation necessary to establish
+[authenticity] may differ according to the nature of the evidence sought to be admitted" (People v Goldman, 35
+NY3d 582, 595 [2020] [internal quotation marks omitted]).
+
+WeWe use with
+   agree cookies
+              theto improve
+                  court that the
+                              theexperience of sufficiently
+                                  videos were  our website.authenticated
+                                                            By continuing to
+                                                                          anduse our"any alleged uncertainty went to
+                                                                               that
+  website, you consent to the use of cookies. To understand more about how we use           Accept & Continue
+the weight to be accorded the evidence rather than its admissibility" (People v Houston, 181 AD3d 477, 478 [1st
+  cookies, please see our Privacy Policy.
+Dept 2020], lv denied 35 NY3d 1027 [2020] [internal quotation marks omitted]). The testimony of the special
+agent and detective authenticated the videos through circumstantial evidence of their "appearance, contents,
+substance, internal patterns, and other distinctive characteristics" (People v Franzese, 154 AD3d 706, 707 [2d
+Dept 2017], lv denied 30 NY3d 1105 [2018]; see Guide to NY Evid rule 9.05 [6], Methods of Authentication and
+Identification; see also People v Jordan, 181 AD3d 1248, 1249-1250 [4th Dept 2020], lv denied 35 NY3d 1067
+[2020]; see generally Goldman, 35 NY3d at 595-596). The testimony at the hearing established that the videos
+depicted a living room of the home where the mother, her children, and respondent lived. The detective testified
+that the mother identified her daughter and respondent in screenshots taken from the videos; that he observed
+cameras in the house, including in the living room; and that he observed that the living room and its furnishings
+matched what was shown in the videos. In other words, there were "distinctive identifying characteristics" in the
+videos themselves (Goldman, 35 NY3d at 595). There was also the "significant fact" that respondent "did not
+dispute that he was the individual who appeared in the video[s]" (id.). In addition, the special agent testified that
+he primarily investigated child pornography and performed digital forensic work, and he saw no signs of
+alteration or tampering with the videos. We therefore conclude that petitioner established that the videos
+"accurately represent[ed] the subject matter depicted" (id. [internal quotation marks omitted]), and we conclude
+that the court acted within its "founded discretion" (Patterson, 93 NY2d at 84) in admitting them in evidence.
+
+Contrary to respondent's further contention in appeal No. 2, there is a sound and substantial basis in the record
+supporting the court's determination that he abused the daughter (see Matter of Skyler D. [Joseph D.], 185 AD3d
+1515, 1516 [4th Dept 2020]; see generally Matter of Philip M., 82 NY2d 238, 243-244 [1993]). Respondent does
+not dispute that the acts shown on the videos constitute sex offenses (see Family Ct Act § 1012 [e] [iii]), but he
+contends that the videos should be given little to no weight because they could be "deepfakes." The court
+afforded the videos great weight based on clear evidence of their reliability, including that the room depicted in
+the videos was the same room that was shown on photographs taken by the police when they searched the home
+where respondent, the mother, and her children lived. As the court noted, the same couch, afghan, end table, and
+lamp were all visible in the videos and photographs. Other items the police recovered from the home were also
+seen in the videos. In addition, respondent, the mother, and the children were all easily identifiable in the videos,
+and we agree with the court's determination that the "actions, dialog, and behavior shown in the videos show no
+indication of any tampering." There were no visible cuts or edits, or jumps in the time stamps on the videos.
+
+We reject respondent's further contention in appeal No. 1 that the finding of derivative abuse with respect to the
+son is not supported by a preponderance of the evidence (see Skyler D., 185 AD3d at 1517). The abuse of the
+daughter occurred in the living room of the house, which is easily accessible to anyone in the house. The son was
+depicted in one video just 15 minutes before respondent abused the daughter. We conclude that the court
+properly determined that the son is an abused child "inasmuch as the abuse of [the daughter] 'is so closely
+connected with the [*3]care of [the son] as to indicate that [the son] is equally at risk' " (Matter of Alyssa C.M., 17
+AD3d 1023, 1024 [4th Dept 2005], lv denied 5 NY3d 706 [2005]; see Matter of Markeith G. [Deon W.], 152
+AD3d 424, 425 [1st Dept 2017]; see generally Matter of Marino S., 100 NY2d 361, 374 [2003], cert denied 540
+US 1059 [2003]).
+
+Respondent's contention in appeal No. 2 regarding the order of protection issued against him in favor of the
+daughter is moot inasmuch as that order has been vacated. Respondent's further contention in appeal No. 1 that
+the court erred in including a certain provision with respect to the order of protection issued against him in favor
+of We
+   the use
+       son cookies to improve
+           is not preserved   the
+                            for   experience
+                                our          of our
+                                    review (see     website.
+                                                Matter       By continuing
+                                                       of Ariel            to use our W.], 89 AD3d 1438, 1438 [4th
+                                                                 C.W.-H. [Christine
+  website, you consent to the use of cookies. To understand more about how we use             Accept & Continue
+Dept 2011]). We decline to address that contention in the interest of justice (see id.).
+  cookies, please see our Privacy Policy.
+We have considered respondent's remaining contentions and conclude that they do not require modification or
+reversal of the orders.
+
+All concur except Curran and Ogden, JJ., who dissent and vote to reverse in accordance with the following
+memorandum: We respectfully dissent and would reverse the orders and dismiss the petitions at the center of
+these two appeals because we conclude, contrary to the majority, that Family Court erred in admitting in
+evidence home surveillance videos depicting respondent sexually abusing the daughter of his girlfriend
+(mother). The videos formed the primary basis for the determinations that respondent abused the daughter and
+derivatively abused the mother's son. A joint fact-finding hearing was held with respect to the petitions against
+respondent and the mother, who herself was ultimately found—based on the same essential evidence—to have
+abused the daughter and derivatively abused the son because she knew or should have known about
+respondent's sexual abuse but did nothing to stop it. The mother separately appealed from the orders of fact-
+finding and disposition determining that she abused the daughter and derivatively abused the son, and this
+Court affirmed the orders in those appeals (Matter of Mekayla S. [Melanie H.] [appeal No. 1], — AD3d &mdash,
+— [July 3, 2024] [4th Dept 2024]; Matter of Gabriel H. [Melanie H.] [appeal No. 2], — AD3d &mdash, — [July 3,
+2024] [4th Dept 2024] [decided herewith]).
+
+Here, in concluding that the court erred in admitting in evidence the videos with respect to respondent's appeals,
+we agree with and adopt the rationale contained in the dissent of Presiding Justice Whalen in the mother's
+appeals concluding that, during the joint fact-finding hearing, petitioner did not sufficiently authenticate the
+videos inasmuch as there was no testimony, expert or otherwise establishing that the videos truly and accurately
+represented what was before the camera (see Mekayla S., — AD3d at — [Whalen, P.J., dissenting]; see People v
+Patterson, 93 NY2d 80, 84 [1999]; Torres v Hickman, 162 AD3d 821, 823 [2d Dept 2018]). That rationale applies
+with equal force here, in respondent's appeals, inasmuch as the abuse and derivative abuse determinations with
+respect to both the mother's appeals and respondent's appeals were based on identical evidence. Specifically, as
+noted in the dissent in the mother's appeals, petitioner did not offer any testimony from any person who
+witnessed the events depicted in the videos or who had controlled or maintained the system that recorded the
+videos. Instead, petitioner relied largely on the testimony of an agent of the Federal Bureau of Investigation
+(FBI) who—more than two years after the videos were recorded—transferred the videos from the computer of an
+individual who was a subject of an FBI investigation (suspect). The suspect had obtained the videos by hacking
+into a security camera at the house respondent shared with the mother and the subject children. We agree with
+the dissent in the mother's appeals that the FBI agent's testimony was insufficient, by itself, to authenticate the
+videos because he did not have any personal knowledge of the creation of the videos or how they were obtained
+by the suspect, nor did his testimony establish how his experience "perform[ing] digital forensic work" might
+have "trained him to identify alterations to [the] videos" or provide any basis for his belief that the videos had
+not been edited or altered (Mekayla S., — AD3d at — [Whalen, P.J., dissenting]).
+
+In light of our conclusion that petitioner did not provide a sufficient legal foundation (see Patterson, 93 NY2d at
+85), we conclude that the videos should not have been admitted in evidence. Without the videos, there is no
+evidence to sustain the petitions and, consequently, we would reverse the order in each appeal and dismiss the
+petitions.
+
+Entered:
+  We useJuly  3, to
+          cookies2024
+                    improve the experience of our website. By continuing to use our
+  website, you consent to the use of cookies. To understand more about how we use            Accept & Continue
+Ann Dillonplease
+  cookies,  Flynn see our Privacy Policy.
+Clerk of the Court
+
+
+
+
+Some case metadata and case summaries were written with the help of AI, which can produce inaccuracies. You should read the
+full case before relying on it for legal research purposes.
+
+
+
+
+  We use cookies to improve the experience of our website. By continuing to use our
+  website, you consent to the use of cookies. To understand more about how we use                 Accept & Continue
+  cookies, please see our Privacy Policy.
+

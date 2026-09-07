@@ -1,0 +1,329 @@
+     Azubuike c. R.                                                   2024 QCCS 1654
+
+                               SUPERIOR COURT
+                                  (CRIMINAL DIVISION)
+
+
+
+
+                                                                                       2024 QCCS 1654 (CanLII)
+CANADA
+PROVINCE OF QUEBEC
+DISTRICT OF MONTREAL
+
+No :       500-01-207497-204
+
+DATE : June 5, 2024
+______________________________________________________________________
+
+PRESIDING : THE HONOURABLE JAMES L. BRUNTON, J.S.C.
+______________________________________________________________________
+
+
+
+EKENS AZUBUIKE
+
+                  Accused
+
+v.
+
+HIS MAJESTY THE KING
+
+                  Prosecutor
+
+
+______________________________________________________________________
+
+
+                               CORRECTIVE JUDGEMENT
+
+______________________________________________________________________
+The Court RECTIFIES the judgement dated May 9, 2024, by modifying the term
+Animus curiae by Amicus curiae.
+
+The Court reproduces the content of this judgment in its entirety :
+No : 500-01-207497-204                                      PAGE : 1
+
+
+
+
+                                                                         2024 QCCS 1654 (CanLII)
+Azubuike c. R.
+
+
+
+                              SUPERIOR COURT
+                                (CRIMINAL DIVISION)
+
+CANADA
+PROVINCE OF QUEBEC
+DISTRICT OF MONTREAL
+
+No :    500-01-207497-204
+
+DATE : May 9, 2024
+______________________________________________________________________
+
+PRESIDING : THE HONOURABLE JAMES L. BRUNTON, J.S.C.
+______________________________________________________________________
+
+EKENS AZUBUIKE
+
+                 Accused
+
+v.
+
+HIS MAJESTY THE KING
+
+                 Prosecutor
+
+
+______________________________________________________________________
+
+                                JUDGEMENT
+                DEFENCE EXPERT WITNESS – VOIR-DIRE 16
+                      (Publication Ban – art. 648 Cr.C.)
+______________________________________________________________________
+No : 500-01-207497-204                                                           PAGE : 2
+
+
+
+A. CONTEXT
+
+
+
+
+                                                                                                 2024 QCCS 1654 (CanLII)
+[1] Mr. Azubuike was charged in 2020 with a series of crimes arising from the
+allegedly fraudulent purchase of used automobiles from COPART Auction (“COPART”).
+
+[2] COPART holds auctions for cars that have been written off for insurance
+purposes. Between December 1, 2019, and January 30, 2020, 9359-7201 Quebec Inc.
+(“Quebec Inc.”) purchased approximately $300,000.00 worth of vehicles from COPART.
+The company submitted a series of counterfeit bank drafts in payment.
+
+[3] Quebec Inc. had been assigned COPART client number [...]. The company had
+submitted material which identified Mr. Karen Voskerchyan as its president with a
+telephone number - (514) [...] (exhibits P-1, P-2a, P-2b, P-4 and P-5 produced at trial).
+
+[4] Mr. Azubuike was also a client of COPART Auction through his company, Ekens
+Foundation International. He had submitted material which identified himself as a
+director of the company with a telephone number – (514) 641-2419 (exhibits P-8, P-9
+and P-10 produced at trial).
+
+[5] The only live issue at trial is the identity of Mr. Azubuike as the person responsible
+for Quebec Inc.’s bids and its supplying of the counterfeit bank drafts. One of the
+elements relied upon by the prosecution to prove identity was a series of eight
+recordings made to COPART’s customer service center located in Dallas, Texas, on
+behalf of client #[...] – Quebec Inc. The calls had been made by a male who identified
+himself as Karen Voskerchyan and who provided Quebec Inc.’s client number. They
+were made between October 16, 2019, and November 25, 2019, inclusively. They were
+made using telephone number (514) [...] which was identified in COPART’s files to Mr.
+Azubuike and his company (exhibit P-11, documents 1 and 2 produced at trial). The
+lead investigator in the case, Lt.Det. Mélanie Gagnon, testified at trial that her familiarity
+with Mr. Azubuike’s voice led her to believe that the male voice on the recordings was
+his.
+
+[6] The recordings had been provided to the prosecution on February 13, 2020
+(exhibit P-11, document 2, produced at trial). By notice dated January 10, 2024,
+Mr. Azubuike was advised that the prosecution would be producing the recordings at
+trial (exhibit J-2, Tab 1).
+
+[7] Since Mr. Azubuike was representing himself, the Court provided him information
+on the trial process during a management hearing held on January 17, 2024. During
+that session, Mr. Azubuike was advised that he had to be vigilant should he desire to
+present a defence (exhibit J-1, Tab 7, paragr. 6, 7 and 8).
+
+[8] On April 22, 2024, Mr. Azubuike’s trial on one count charging fraud began with the
+formation of the jury. At the end of the day, on April 26, 2024, the Court held a first in-
+No : 500-01-207497-204                                                      PAGE : 3
+
+
+
+camera ex parte hearing with Mr. Azubuike concerning the summoning of potential
+defence witnesses. He identified a Quebec resident who he desired to call who would
+
+
+
+
+                                                                                            2024 QCCS 1654 (CanLII)
+speak to the use of an IP address. It was agreed that he would prepare a subpoena
+which the Court would sign. He referred to two potential witnesses who were COPART
+employees located in Dallas, Texas. Since they could not be compelled by a subpoena
+issued by the Court without going through the lengthy procedures contained in the
+Mutual Legal Assistance Act and related Treaty, the Court suggested that Mr. Azubuike
+communicate with counsel for the prosecution in an attempt to arrange a voluntary
+appearance by those persons via TEAMS.
+
+[9] On April 30, 2024, a second in-camera ex parte session was held with
+Mr. Azubuike. The Court signed the subpoena of the witness identified during the
+previous in-camera ex parte hearing. Mr. Azubuike spoke of a potential second witness
+for the defence who would address the issue whether the male voice on the recordings
+had been cloned through Artificial Intelligence. During his cross-examination of Lt.Det.
+Gagnon, he had broached the possibility that the male voice had been cloned.
+
+[10] On May 3, 2024, the prosecution declared its proof closed. In the absence of the
+jury, the Court discussed the schedule with the parties. It is at this point that
+Mr. Azubuike informed the Court that he had identified a witness to speak to the issue of
+cloning, Mr. Ahmed Mudasar, a Pakistani resident. He did not have the material
+described in s.657.3 Cr.C.
+
+[11] The Court rendered the following orders:
+
+         Mr. Azubuike was to serve the relevant documentation referred to in s.657.3
+          Cr.C. no later than noon, Tuesday, May 7, 2024.
+
+         The Court and the parties would convene at 11h30 on Wednesday, May 8,
+          2024. The prosecution would have a maximum of 30 minutes to make
+          argument concerning the non-respect of the notice requirements in s.657.3
+          Cr.C.
+
+         A voir-dire to determine the status of Mr. Mudasar as an expert witness would
+          be held at noon, on Wednesday, May 8, 2024 via TEAMS.
+
+         In the event that Mr. Mudasar was granted expert witness status, his testimony
+          before the jury would be scheduled.
+
+         The person named in the subpoena signed by the Court would testify on
+          Thursday, May 9, 2024, at 09h30.
+
+[12] On May 5, 2024, Mr. Azubuike sent documentation which he believes meets the
+requirements of s.657.3 Cr.C. concerning Mr. Ahmed Mudasar. The present judgement
+No : 500-01-207497-204                                                                 PAGE : 4
+
+
+
+addresses the voir-dire which has been held to determine whether Mr. Mudasar can be
+qualified as an expert in Artificial Intelligence, specializing in voice cloning and voice
+
+
+
+
+                                                                                                         2024 QCCS 1654 (CanLII)
+analysis.
+
+
+
+B. THE VOIR-DIRE
+
+[13] Justice Watt, on behalf of the Court of Appeal of Ontario, has helpfully summarized
+the principles related to the purpose of the voir-dire seeking the production of expert
+evidence in the case of R. v. Evans, 2019 ONCA 715:
+
+     133.   The authorities teach that the admissibility of expert opinion evidence is to be
+            determined in accordance with a two-step analysis. (…)
+
+     134.   At the first step of the analysis, it falls to the proponent of the evidence to establish,
+            on the balance of probabilities, the threshold requirements of admissibility. These
+            include, but are not limited to, relevance and a properly qualified expert. (…)
+
+     137.   Expert evidence on a subject must be given by an expert, that is to say, by a
+            witness who is shown to have acquired special or peculiar knowledge of a subject
+            through study or experience. Such evidence can only assist the trier of fact to the
+            extent that the witness has acquired special knowledge about that subject that the
+            average trier of fact lacks (…) If the proposed expert’s special or peculiar
+            knowledge of the subject on which he or she is tended to testify is minimal, he or
+            she should not be qualified as an expert on the subject. (…)
+
+     138.   At the second step, the gatekeeper stage of the admissibility analysis, the judge
+            balances the potential risks and benefits of admitting the expert opinion evidence
+            that has satisfied the threshold admissibility requirements. By this balancing, the
+            judge decides whether the potential benefits of admitting the evidence justify the
+            risks associated with its introduction. The relevance and reliability of the evidence
+            and its necessity to assist the trier of fact in the correct disposal of the case, on the
+            one hand, are measured against the counterweights of consumption of time,
+            prejudice and confusion, on the other. The reliability versus effect factor is of
+            special importance.
+
+[14] The prosecution relies upon the lead investigator’s identification of Mr. Azubuike’s
+voice on the 8 conversations as one evidentiary element to establish his identity as the
+perpetrator of the alleged fraud. Mr. Madasar’s expert testimony is proposed to
+challenge the investigator’s opinion. He is proposed as an expert in Artificial
+Intelligence, specializing in voice cloning and voice analysis. Referring to the first step of
+an expert opinion voir-dire, the Court holds that Mr. Mudasar’s proposed testimony
+would be prima facie relevant, would be prima facie necessary in assisting the jury, and
+would not be the subject of any exclusionary rule. The issue therefore becomes, is he a
+properly qualified expert?
+No : 500-01-207497-204                                                               PAGE : 5
+
+
+
+[15] The proof led during the voir-dire clearly establishes that Mr. Mudasar is not
+remotely qualified to testify as an expert witness on Artificial Intelligence (AI), voice
+
+
+
+
+                                                                                                2024 QCCS 1654 (CanLII)
+cloning or voice analysis. He is a pleasant and personable 22-year-old man who is a
+resident of Pakistan.
+
+[16] His C.V. (exhibit VD-16-D-4) and testimony establish that, after finishing high
+school in 2017 (the C.V.) or 2019 (his testimony), he paused his studies because his
+marks were not high enough to contemplate university.
+
+[17] During the pause, he worked with a relative who was free-lancing in the field of AI.
+He returned to high school during 2022. His grade improvement permitted him to be
+accepted at the University of Sindh as a student pursuing a Bachelor’s degree in Library
+and Information Science and Archive Studies. He is in his second year.
+
+[18] He also completed three online courses offered by Vanderbilt University (exhibit V-
+16-D-4) in the non-credit specialization of “prompt engineering”. To quote from the
+Certificate he received:
+
+          The specialization provides you with principles and templates for
+          writing effective prompts that tap into the capabilities of systems like
+          ChatGPT. You will gain skills for conversing with AI to harness its
+          reasoning and creative potential.
+
+[19] In summary, his educational background provides no basis to qualify Mr. Mudasar
+as an expert in detecting or identifying voice cloning.
+
+[20] As for his practical experience gained from working with a relative or free-lancing
+on his own, it falls short of providing a basis to qualify him as an expert witness. He
+admits that he has used voice cloning software for less than a year, beginning in mid-
+2023. He has no special ability in the field of voice cloning as compared to any other
+young person who would consult YouTube videos on the subject.
+
+[21] Considering that the Court has concluded that Mr. Mudasar is not a qualified
+expert witness, it is not necessary to analyze the non-respect of certain conditions
+provided by s.657.3 Cr.C. nor whether a cost/benefit analysis would lead to a
+determination of inadmissibility.
+
+AS A RESULT, THE COURT:
+
+[22] DECLARES that Mr. Ahmed Mudasar is not a qualified expert witness in the field
+of Artificial Intelligence specializing in voice cloning and voice analysis.
+
+[23] DECLARES the testimony of Mr. Ahmed Mudasar and his report VD-16-D3
+inadmissible.
+No : 500-01-207497-204                                                PAGE : 6
+
+
+
+
+                                                                                     2024 QCCS 1654 (CanLII)
+[24] PROHIBITS any reference to Mr. Ahmed Mudasar or the conclusions of his report
+VD-16-D3 before the jury.
+
+
+
+
+                                          __________________________________
+                                                JAMES L. BRUNTON, J.S.C.
+
+
+
+
+Mr. Ekens Azubuike
+SELF-REPRESENTED
+
+Me Denis Trottier
+COUNSEL FOR THE PROSECUTION
+
+Me Stephen Angers
+AMICUS CURIAE
+
+DATE OF HEARING: MAY 8, 2024
+SUMMARY ORAL JUDGEMENT: MAY 8, 2024
+

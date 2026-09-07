@@ -1,0 +1,931 @@
+J-S18007-23
+
+                                   2023 PA Super 238
+
+
+  COMMONWEALTH OF PENNSYLVANIA                 :   IN THE SUPERIOR COURT OF
+                                               :        PENNSYLVANIA
+                                               :
+                v.                             :
+                                               :
+                                               :
+  RAFFAELA MARIE SPONE                         :
+                                               :
+                       Appellant               :   No. 1623 EDA 2022
+
+         Appeal from the Judgment of Sentence Entered June 6, 2022
+               In the Court of Common Pleas of Bucks County
+            Criminal Division at No(s): CP-09-CR-0002264-2021
+
+
+BEFORE:      PANELLA, P.J., DUBOW, J., and STEVENS, P.J.E.*
+
+OPINION BY PANELLA, P.J.:                          FILED NOVEMBER 14, 2023
+
+       This direct appeal filed by Raffaela Marie Spone follows her convictions
+
+of three counts of harassment. In addition, Spone has filed an application for
+
+post-submission communication. We affirm the appeal and deny the
+
+application for post-submission communication.
+
+       Spone’s daughter was a member of a competitive cheerleading gym.
+
+Beginning in July 2020, Spone began sending anonymous text messages
+
+regarding behavior of other cheerleaders at the gym.1 Individual text
+
+messages were initially sent on July 6, 2020 to the owner of the gym and an
+
+assistant director at the gym that included images of M.H., a student at the
+
+____________________________________________
+
+
+* Former Justice specially assigned to the Superior Court.
+
+
+1 As the Commonwealth correctly notes, see Commonwealth’s Brief at 12 n.1,
+
+none of Spone’s arguments on appeal are based on a contention that she was
+not the author of the text messages at issue in this case.
+J-S18007-23
+
+
+gym. The images were accompanied by language indicating the anonymous
+
+sender’s “concern.” The following day, the owner and his business partner met
+
+with M.H.’s mother to alert her of the situation.
+
+      On July 10, 2020, Spone anonymously initiated a group text with the
+
+owner, the assistant director and also the business partner, which shared
+
+images and videos of M.H. and included languages questioning “why this
+
+matter is not being taken seriously.” The owner of the gym forwarded the
+
+messages to M.H.’s mother.
+
+      Spone then began sending anonymous text messages directly to M.H.’s
+
+mother. Each of the text messages came from different numbers. The texts
+
+included images of M.H. and language feigning concern for M.H.
+
+      On August 1, 2020, Spone sent a series of anonymous text messages
+
+to the mother of K.R., another cheerleader at the gym. These messages
+
+contained images K.R. taken from social media platforms and included
+
+language sharply criticizing K.R.’s behavior.
+
+      Several days later, Spone began to focus on I.N., another member of
+
+the gym. On August 11, 2020, Spone anonymously texted I.N.’s mother
+
+sending pictures I.N. and claiming to be a “concerned parent.” The following
+
+day, Spone sent additional anonymous messages with more images captured
+
+from social media accounts.
+
+      Detective Louis Bell of the Hilltown Township Police Department became
+
+involved in the investigation and discovered that all the numbers from which
+
+
+                                     -2-
+J-S18007-23
+
+
+the anonymous texts were sent were attributed to users of the Pinger App.
+
+Records from Pinger established that all of the phone numbers used to send
+
+the anonymous messages were attributed to an IP address associated with
+
+Spone. Therefore, Spone’s cell phone was seized, and review of the data
+
+retrieved confirmed that the anonymous text messages were sent from
+
+Spone’s cell phone.
+
+       On March 4, 2021, Spone was charged with three counts of cyber
+
+harassment of a child and three counts of harassment.2 Following a
+
+preliminary hearing, all charges were held for trial. Spone then filed a petition
+
+for writ of habeas corpus, which the trial court denied following a hearing.
+
+       At the beginning of trial, the Commonwealth sought leave to withdraw
+
+the three counts of harassment of a child, and the trial court granted the
+
+request. On March 25, 2022, the jury convicted Spone of the remaining three
+
+counts of harassment. On June 6, 2022, the trial court sentenced Spone to
+
+three consecutive one-year terms of probation. This timely appeal followed,
+
+presenting claims challenging the sufficiency of the evidence and alleging due
+
+process violations.
+
+       Spone first argues that the evidence was insufficient to support her
+
+three harassment convictions. See Appellant’s Brief at 37-48. Appellant
+
+divides her argument into two sub-issues. She initially asserts that her
+
+
+
+____________________________________________
+
+
+2 18 Pa.C.S.A. §§ 2709(a.1)(1)(i) and 2709(a)(5).
+
+
+                                           -3-
+J-S18007-23
+
+
+conduct had a legitimate purpose of alerting adults of allegedly concerning
+
+misconduct by students from the gym. See id. at 39-43. Spone posits that
+
+her “messages to the parents of her daughter’s friends were legitimate
+
+communication because they furthered a legitimate interest of protecting her
+
+daughter and other young children.” Id. at 41. She concludes that her conduct
+
+was not harassment because the communication was legitimate, having been
+
+sent to “the parents, who have broad authority over their children, and with
+
+their coaches who have some control over their students.” Id. at 43.
+
+      We review challenges to the sufficiency of the evidence with great
+
+deference to the credibility determinations of the fact finder:
+
+      The standard we apply in reviewing the sufficiency of the evidence
+      is whether viewing all the evidence admitted at trial in the light
+      most favorable to the verdict winner, there is sufficient evidence
+      to enable the fact-finder to find every element of the crime beyond
+      a reasonable doubt. In applying the above test, we may not weigh
+      the evidence and substitute our judgment for the fact-finder. In
+      addition, we note that the facts and circumstances established by
+      the Commonwealth need not preclude every possibility of
+      innocence. Any doubts regarding a defendant’s guilt may be
+      resolved by the fact-finder unless the evidence is so weak and
+      inconclusive that as a matter of law no probability of fact may be
+      drawn from the combined circumstances. The Commonwealth
+      may sustain its burden of proving every element of the crime
+      beyond a reasonable doubt by means of wholly circumstantial
+      evidence. Moreover, in applying the above test, the entire record
+      must be evaluated and all evidence actually received must be
+      considered. Finally, the finder of fact while passing upon the
+      credibility of witnesses and the weight of the evidence produced,
+      is free to believe all, part or none of the evidence.
+
+Commonwealth v. Gause, 164 A.3d 532, 540-41 (Pa. Super. 2017) (en
+
+banc) (citation omitted).
+
+
+                                     -4-
+J-S18007-23
+
+
+     Section 2709(a)(5) of the Crimes Code provides that “A person commits
+
+the crime of harassment when, with intent to harass, annoy or alarm another,
+
+the person communicates repeatedly in an anonymous manner.” 18 Pa.C.S.A.
+
+§ 2709(a)(5). The harassment statute defines “communicates” as, “Conveys
+
+a message without intent of legitimate communication or address by …
+
+electronic means, including telephone, electronic mail, Internet, facsimile,
+
+telex, wireless communication or similar transmission.” 18 Pa.C.S.A. §
+
+2709(f). We have held that an intent to harass may be inferred from the
+
+totality of the circumstances. See Commonwealth v. Cox, 72 A.3d 719, 721
+
+(Pa. Super. 2013).
+
+     Our review of the record reflects the following series of events
+
+transpired. Both McTague, the owner of the gym, and Steglick, assistant
+
+director at the gym, testified that on July 6, 2020, Spone sent them
+
+anonymous text messages complaining about M.H.’s behavior that was
+
+observed in social media posts. See N.T., 3/22/2022, at 59, 116-117. The
+
+messages were accompanied by images of M.H., which the sender described
+
+as upsetting. When questioned by McTague as to her identity, Spone
+
+responded via text: “A concerned parent.” Commonwealth’s Exhibit C-1.
+
+     Furthermore, the Commonwealth presented evidence that on July 10,
+
+2020, McTague, Steglick and Kelly Cramer, a gym business partner, received
+
+an anonymous group text, which included a message and pictures and video
+
+of M.H.. The message stated:
+
+
+                                   -5-
+J-S18007-23
+
+
+      It seems we have brought to your attention some grave concerns
+      involving stealing of property, painting it and a video where a blue
+      object is used with white smoke like coming out. This still appears
+      on social media and young children see this and this is no [sic]
+      acceptable. I do not u[n]derstand why this matter is not being
+      taken seriously as many parents are talking about this. Anonymity
+      is my reason. I do not like that my young child is able to view this.
+
+Commonwealth Exhibit C-2. In reaction, the gym partners forwarded the
+
+messages to M.H.’s mother in the event she needed to share the message
+
+with police. See N.T., 3/22/2022, at 109. M.H.’s mother testified that she felt
+
+“uneasy and frightened” upon learning of the text messages, and she
+
+described M.H. as “distraught.” N.T., 3/23/22, at 16-17.
+
+      Spone then began to anonymously text M.H.’s mother. On July 26,
+
+2020, M.H.’s mother received texts and images concerning M.H that feigned
+
+concern “about this being on social media.” Commonwealth Exhibit C-4. On
+
+July 31, 2020, Spone sent a slew of text messages and images regarding
+
+M.H.’s trip to the beach. See Commonwealth Exhibit C-5. In response, M.H.’s
+
+mother pleaded with the anonymous texter, i.e. Spone, to stop. See id. M.H.’s
+
+mother expressed that the text messages made her afraid to leave M.H. alone.
+
+See N.T., 3/23/22, at 38. M.H. testified that the messages made her feel
+
+“paranoid and scared to go out.” Id. at 180.
+
+      On August 1, 2020, Spone turned her focus to K.R. and began
+
+anonymously texting K.R.’s mother regarding K.R.’s behavior as depicted on
+
+social media. See N.T., 3/23/22, at 216. K.R.’s mother responded to the
+
+anonymous text with the following series of text messages:
+
+
+                                      -6-
+J-S18007-23
+
+
+     Whoever this is I already know what my kid is doing and get a
+     fucking life mind your own fucking business. And stop being a
+     punk and hiding behind a fake number [too]. If you have to tell
+     me bout my daughter drive over and tell me to my face. Could
+     only guess this is [A.S.] or [Spone]. Get a life and move on. Also
+     stop letting your 16-year-old hang out with older kids maybe you
+     need to watch what you're doing with your kid and stop letting her
+     smoke. Oh also. I have lots of pictures of your then 15 smoking
+     weed if you would like them.
+
+Commonwealth Exhibit C-6. K.R.’s mother indicated that the anonymous texts
+
+made her scared for K.R. See N.T., 3/23/22, at 232. Likewise, K.R. testified
+
+that the text messages made her “freaked out” and scared. See id. at 245.
+
+     Undeterred, on August 11, 2020, Spone began to send anonymous text
+
+messages to I.N.’s mother. See N.T., 3/23/22, at 265-266. The messages
+
+included images of I.N. See Commonwealth’s Exhibit C-7. When I.N.’s mother
+
+repeatedly asked the texter’s identity, the inquiry went unanswered. See id.
+
+The following day, August 12, 2020, I.N.’s mother received additional
+
+anonymous text messages and images of I.N. from Spone. I.N. testified that
+
+upon learning of the messages, she became scared and afraid. See N.T.,
+
+3/23/22, at 304-305.
+
+     The above cited evidence directly contradicts Spone’s suggestion that
+
+she was a concerned parent who had a legitimate purpose in sending the
+
+series of anonymous text messages. As the Commonwealth appropriately
+
+observes, “if [Spone] truly was acting as a concerned parent, there is simply
+
+no credible reason why she would not have communicated directly with the
+
+
+
+
+                                    -7-
+J-S18007-23
+
+
+other parents and coaches, with whom she was already familiar, without
+
+feeling the need to mask her identity.” Commonwealth’s Brief at 18.
+
+      These facts permitted the jury, sitting as the finder of fact, to discount
+
+Spone’s claim of intending to have legitimate communication, and to conclude
+
+beyond a reasonable doubt that Spone had the intent to harass, annoy or
+
+alarm the victims when she communicated repeatedly in an anonymous
+
+manner through text messages. Therefore, the evidence is sufficient to
+
+establish that Spone committed the three crimes of harassment. Therefore,
+
+we find Spone’s issue to be without merit.
+
+      In her concomitant sub-issue, Spone argues that her text messages
+
+could not constitute harassment because they were protected free speech
+
+under the First Amendment of the United States Constitution and Article 1 §
+
+7 of the Pennsylvania Constitution. See Appellant’s Brief at 43-48. Spone
+
+asserts that her text messages were protected because the messages “merely
+
+shared with parents and coaches what the students were doing on social
+
+media, especially where informing adults with authority over the students
+
+carries the social value of protecting minor athletes at the gym.” Id. at 46.
+
+      Pennsylvania Rule of Appellate Procedure 302(a) provides that “[i]ssues
+
+not raised in the trial court are waived and cannot be raised for the first time
+
+on appeal.” Pa.R.A.P. 302(a). Likewise, we have long held that claims not
+
+raised before the trial court are waived. “It is well established that trial judges
+
+must be given an opportunity to correct errors at the time they are made. [A]
+
+
+                                       -8-
+J-S18007-23
+
+
+party may not remain silent and afterwards complain of matters which, if
+
+erroneous, the court would have corrected.” Commonwealth v. Strunk, 953
+
+A.2d   577,    579     (Pa.   Super.   2008)   (citations   omitted).   See   also
+
+Commonwealth v. Lopata, 754 A.2d 685, 689 (Pa. Super. 2000) (“A claim
+
+which has not been raised before the trial court cannot be raised for the first
+
+time on appeal.” (citation omitted)). “Even issues of constitutional dimension
+
+cannot be raised for the first time on appeal.” Strunk, 953 at 579 (citation
+
+omitted).
+
+       In addition, it is an appellant’s obligation to demonstrate which appellate
+
+issues were preserved for review. Pa.R.A.P. 2117(c), 2119(e). “[I]t is not the
+
+responsibility of this Court to scour the record to prove that an appellant has
+
+raised an issue before the trial court, thereby preserving it for appellate
+
+review.” Commonwealth v. Baker, 963 A.2d 495, 502 n.6 (Pa. Super. 2008)
+
+(citations omitted).
+
+       Upon review of the record, we agree with the Commonwealth that “[a]t
+
+no point below did [Spone] argue that her charges should be dismissed on
+
+First Amendment grounds, raise the First Amendment as part of her defense
+
+at trial, or argue in a post-sentence motion that her convictions must be
+
+vacated on First Amendment grounds.” Commonwealth’s Brief at 22.
+
+Consequently, we are left to conclude that Spone failed to preserve this issue
+
+for appellate review. Pa.R.A.P. 302(a); Lopata, 754 A.2d at 689.
+
+
+
+
+                                        -9-
+J-S18007-23
+
+
+      However, to the extent that we would have addressed Spone’s free
+
+speech claim, we observe that “it is well understood that the right of free
+
+speech is not absolute at all times and under all circumstances.” Chaplinsky
+
+v. New Hampshire, 315 U.S. 568, 571 (1942) (footnote omitted). “There
+
+are certain well-defined and narrowly limited classes of speech, the prevention
+
+and punishment of which have never been thought to raise any Constitutional
+
+problem.” Id. at 571-72 (footnotes omitted). “Resort to epithets or personal
+
+abuse is not in any proper sense communication of information or opinion
+
+safeguarded by the Constitution, and its punishment as a criminal act would
+
+raise no question under that instrument.” Id. at 572 (citation omitted).
+
+      In Commonwealth v. Duncan, 363 A.2d 803 (Pa. Super. 1976) we
+
+addressed the constitutionality of the harassment statute and made the
+
+following observation:
+
+      With the enactment of 18 Pa.C.S.A. [§] 2709, our legislature has
+      sought to prohibit such conduct, including speech, which is not
+      Constitutionally protected and which is intended to alarm or
+      seriously annoy another person. The purpose of the legislature,
+      undoubtedly, was to extend to the individual the protections which
+      have long been afforded the general public under disorderly
+      conduct and breach of the peace statutes.
+
+Id., 363 A.2d at 807.
+
+      Our Supreme Cout has explained, “The statute is not directed at the
+
+content of speech and is unrelated to the suppression of free expression.
+
+Rather, the statute focuses on the manner and means of communication and
+
+proscribes communications made with an intent to harass. By requiring an
+
+
+                                    - 10 -
+J-S18007-23
+
+
+intent to harass, the statute does not punish constitutionally - protected
+
+conduct[.]” Commonwealth v. Hendrickson, 724 A.2d 315, 318 (Pa. 1999).
+
+More recently, we observed that in reaching its decision, the Hendrickson
+
+Court noted “the state has a legitimate interest in preventing harassment and
+
+that the offense was directed at the harassing conduct rather than the speech
+
+itself.” Commonwealth v. Collins, 286 A.3d 767, 776 (Pa. Super. 2022).
+
+      As the trial court aptly stated in its Rule 1925(a) opinion, “[Spone] was
+
+convicted [for] the harassing nature of her communications, not for the
+
+expression of ideas.” Trial Court Opinion, 10/6/22, at 20. Had this issue been
+
+preserved, we would agree with the trial court’s proper conclusion that
+
+Spone’s convictions, which related to the nature of her communications, do
+
+not run afoul of her First Amendment right to freedom of speech.
+
+      In her second issue, Spone argues that the Commonwealth presented
+
+insufficient evidence to support her conviction of harassment concerning K.R.
+
+See Appellant’s Brief at 48-52. In this sufficiency challenge, Spone contends
+
+that the communication regarding K.R. was a single contact and, therefore,
+
+was   “insufficient   to   establish   the      requisite   element   of   ‘repeated’
+
+communication.” Id. at 50. We disagree.
+
+      As discussed above, to convict Spone of harassment under Section
+
+2709(a)(5), the Commonwealth was required to prove that she communicated
+
+repeatedly in an anonymous manner with the intent to harass, annoy or alarm.
+
+In reviewing this issue, the trial court noted that “despite [Spone’s] position
+
+
+                                       - 11 -
+J-S18007-23
+
+
+that she only sent one text message to K.R.’s parents, there were in fact seven
+
+separate messages sent to [K.R.’s mother] during a period of slightly more
+
+than two and [one-]half minutes.” Trial Court Opinion, 10/6/22, at 21. Spone
+
+has conceded the fact that her text communication with K.R.’s mother
+
+consisted of more than a single text message. Spone states, “K.R.’s mother
+
+received an anonymous test message on August 1, 2020, alerting her to her
+
+daughter’s Tik Tok username, underage drinking, and references to drug use.
+
+Accompanying the text message were pictures of K.R. from K.R.’s Tik Tok
+
+account. The messages were sent over a period of two- and one-half minutes.”
+
+Appellant’s Brief at 49.
+
+      Our review of the record supports the conclusion that there were seven
+
+anonymous text communications sent by Spone to K.R.’s mother in
+
+approximately two and one-half minutes. See Commonwealth Exhibits C-6 &
+
+C-15. Contrary to Spone’s assertions, this evidence was sufficient for the jury
+
+to conclude beyond a reasonable doubt that Spone sent seven anonymous
+
+text messages to K.R.’s mother.
+
+      Here, the fact that Spone sent seven repeated anonymous text
+
+messages was sufficient to support the instant conviction of harassment. The
+
+jury, sitting as finder of fact, chose to believe the evidence presented by the
+
+Commonwealth, and we will not substitute our judgment for that of the jury.
+
+Under the totality of the circumstances, the evidence presented at the trial,
+
+viewed in the light most favorable to the Commonwealth as the verdict winner,
+
+
+                                    - 12 -
+J-S18007-23
+
+
+establishes that Spone intended to harass, annoy or alarm another when she
+
+communicated repeatedly in an anonymous manner with K.R.’s mother. This
+
+evidence   is   sufficient   to   sustain   Spone’s   conviction   of   harassment.
+
+Accordingly, her claim lacks merit.
+
+      The next set of issues presented by Spone offer allegations of due
+
+process violations. See Appellant’s Brief at 52-68. Specifically, in her third
+
+issue Spone argues that she was deprived of her right to an impartial jury
+
+because of the media coverage surrounding the case. See id. at 52-61. Spone
+
+observes that her “arrest and prosecution made national and international
+
+headlines, from the New York Times to BBC.” Id. at 55-56. Spone claims that
+
+“[t]he District Attorney took great pains to stir up an international media
+
+frenzy by calling a press conference where he repeatedly and in great detail
+
+described that the essence of this case was that [Spone] had ‘deepfaked’
+
+videos of the victims in the case.” Id. at 57 (citation omitted). Spone also
+
+alleges that the week before trial news about her case resumed with the
+
+announcement of a movie inspired by the case. See id. Spone posits that
+
+“[t]aken together, the national atmosphere fed by [the] District Attorney was
+
+so hostile and pervasive that [Spone’s] Due Process rights were violated where
+
+she was deprived of her constitutionally protect right to an impartial jury.” Id.
+
+      Pennsylvania Rule of Appellate Procedure 302(a) provides that “[i]ssues
+
+not raised in the lower court are waived and cannot be raised for the first time
+
+on appeal.” Pa.R.A.P. 302(a). Likewise, we have long held that claims not
+
+
+                                        - 13 -
+J-S18007-23
+
+
+raised before the trial court are waived. “It is well established that trial judges
+
+must be given an opportunity to correct errors at the time they are made. [A]
+
+party may not remain silent and afterwards complain of matters which, if
+
+erroneous, the court would have corrected.” Commonwealth v. Strunk, 953
+
+A.2d 577, 579 (Pa. Super. 2008) (citations omitted). See Commonwealth v.
+
+Lopata, 754 A.2d 685, 689 (Pa. Super. 2000) (“A claim which has not been
+
+raised before the trial court cannot be raised for the first time on appeal.”). In
+
+addition, it is an appellant’s obligation to demonstrate which appellate issues
+
+were preserved for review. Pa.R.A.P. 2117(c), 2119(e).
+
+      Furthermore, Pa.R.A.P. 2119 addresses arguments in appellate briefs
+
+and references to the record, and provides, in relevant part, as follows:
+
+      If reference is made to the pleadings, evidence, charge, opinion
+      or order, or any other matter appearing in the record, the
+      argument must set forth, in immediate connection therewith, or
+      in a footnote thereto, a reference to the place in the record where
+      the matter referred to appears ...
+
+Pa.R.A.P. 2119(c). “When an allegation is unsupported [by] any citation to the
+
+record, such that this Court is prevented from assessing this issue and
+
+determining whether error exists, the allegation is waived for purposes of
+
+appeal.” Commonwealth v. Harris, 979 A.2d 387, 393 (Pa. Super. 2009)
+
+(citing Pa.R.A.P. 2119(c)).
+
+      Concerning Spone’s claim of due process violations, the trial court
+
+stated, “[t]his claim was raised for the first time in [Spone’s] 1925(b) Concise
+
+Statement of Matters on Appeal and no specific record was made regarding
+
+
+                                      - 14 -
+J-S18007-23
+
+
+this issue and the matter was not briefed or argued in a formal manner.” Trial
+
+Court Opinion, 10/6/22, at 22. More specifically, with regard to the question
+
+of the empaneling of an impartial jury, the trial court observed that Spone
+
+“did not raise or attempt to address this issue pre-trial or at trial. … Since
+
+issues such as media attention are typically dealt with through a Motion for a
+
+change of venue, a sequestered jury, or a change of venire, and since none
+
+of these were raised pre-trial or at trial, this [c]ourt fails to grasp how the
+
+issue of unfair media attention was to have been addressed.” Id. at 23.
+
+      Spone’s bald assertion regarding the impartiality of the jury lacks any
+
+supporting citation or proof in the record. In addition, she has not directed our
+
+attention to a place in the record where a proper objection to the empaneling
+
+of the jury had been made. As such, Spone has waived this claim.
+
+      Spone next presents two due process claims pertaining to the
+
+Commonwealth’s decision to withdraw, just prior to trial, three charges of
+
+cyber harassment of a minor. See Appellant’s Brief at 61-68. Again, we
+
+conclude that these issues are waived.
+
+      Spone initially claims that the Commonwealth, by waiting until the start
+
+of trial to withdraw charges, precipitated testimony from M.H. and M.H.’s
+
+mother suggesting that Spone had created fake videos and photographs of
+
+M.H. See id. at 61-63. Spone claims, “The false testimony regarding whether
+
+the videos and photographs must have been manufactured had a reasonable
+
+
+
+
+                                     - 15 -
+J-S18007-23
+
+
+probability of influencing the jury to believe [Spone] did not have intent of
+
+legitimate communication.” Id. at 63.
+
+      Again, we must determine whether Spone properly preserved the issue
+
+for our consideration. It is well settled in Pennsylvania that a party must make
+
+a timely and specific objection at trial in order to preserve an issue for
+
+appellate review. Pa.R.A.P. 302(a); see also Commonwealth v. Montalvo,
+
+641 A.2d 1176, 1185 (Pa. Super. 1994) (citation omitted) (“In order to
+
+preserve an issue for review, a party must make a timely and specific objection
+
+at trial”). Failure to do so results in waiver of that issue on appeal. See
+
+Pa.R.A.P. 302(a).
+
+      With respect to preserving challenges to the admission or exclusion of
+
+evidence, Pa.R.E. 103 addresses rulings on evidence and requires a
+
+contemporaneous objection in order to preserve a claim of error in the
+
+admission of evidence and provides, in relevant part, as follows:
+
+      (a) Preserving a Claim of Error. A party may claim error in a
+      ruling to admit or exclude evidence only:
+
+        (1) if the ruling admits evidence, a party, on the record:
+
+            (A) makes a timely objection, motion to strike, or
+            motion in limine; and
+
+            (B) states the specific ground, unless it was apparent
+            from the context....
+
+Pa.R.E. 103(a).
+
+      Our review of the record reflect that the Commonwealth presented
+
+testimony from M.H. and her mother expressing their belief that Spone had
+
+                                     - 16 -
+J-S18007-23
+
+
+created fake images of M.H. See N.T., 3/23/22, at 18-19, 177. However,
+
+Spone failed to make a timely and specific objection to the testimony at the
+
+time it was admitted into evidence. Accordingly, this issue challenging the
+
+admission of the testimony because it was allegedly triggered by the
+
+Commonwealth’s late dismissal of particular criminal charges was not properly
+
+preserved by presenting the claim to the lower court in the first instance.
+
+Therefore, this issue is waived.
+
+      Spone further argues the Commonwealth’s decision to dismiss three
+
+charges immediately before trial resulted in a due process violation because
+
+she suffered prejudice when she unnecessarily prepared a trial strategy and
+
+retained an unnecessary expert to combat the charges. See Appellant’s Brief
+
+at 63-68. Spone claims that waiting for the first day of trial was by design
+
+because “the Commonwealth had known for a year [that the dismissed
+
+charges] were inapplicable in an effort to obtain a guilty plea.” Id. at 66.
+
+      Again, a party must make a timely and specific objection at trial in order
+
+to preserve an issue for appellate review. Pa.R.A.P. 302(a); see also
+
+Commonwealth v. Montalvo, 641 A.2d 1176, 1185 (Pa. Super. 1994)
+
+(citation omitted) (“In order to preserve an issue for review, a party must
+
+make a timely and specific objection at trial”). Failure to do so results in waiver
+
+of that issue on appeal. See Pa.R.A.P. 302(a).
+
+      As the Commonwealth states in its brief:
+
+      At no point below did [Spone] object to the timing of the
+      Commonwealth’s withdrawal of her cyber harassment charges,
+
+                                      - 17 -
+J-S18007-23
+
+
+      nor did [Spone] request a continuance of her trial to further
+      prepare her defense to the remaining charges. See N.T.
+      3/21/2022, pp. 11-13. Absent any argument to the trial court that
+      [Spone’s] defense would be prejudicially hindered by the timing
+      of the Commonwealth’s withdrawal of her cyber harassment
+      charges, [Spone] cannot, for the first time, argue the same on
+      direct appeal.
+
+Commonwealth’s Brief at 45. Our review of the record confirms that Spone
+
+failed to present this issue to the trial court in the first instance, either through
+
+objection or another request for relief. We are an error correcting court and
+
+issues not raised in the lower court are waived and cannot be raised for the
+
+first time on appeal. See Pa.R.A.P. 302(a).
+
+      Spone last argues that the trial court impermissibly chilled her right to
+
+testify. See Appellant’s Brief at 68-71. Specifically, Spone takes umbrage with
+
+the trial court advising her “that testifying would be ‘fraught with danger’
+
+based on the risk of ‘opening the door’ to inadmissible testimony.” Id. at 69.
+
+Spone alleges that the trial court’s comment “was erroneous and influenced
+
+[her] decision whether to testify on her own behalf.” Id.
+
+      Once more, upon review of the record, we must conclude that Spone
+
+failed to raise before the lower court the specific issue that the trial court
+
+improperly advised her regarding offering testimony on her own behalf.
+
+Instead, this claim has been raised for the first time on appeal, having never
+
+been presented to the trial court. Accordingly, we are constrained to conclude
+
+that Spone has waived this claim. See Pa.R.A.P. 302(a).
+
+
+
+
+                                       - 18 -
+J-S18007-23
+
+
+      Finally, on July 10, 2023, Spone filed an application for post-submission
+
+communication pursuant to Pa.R.A.P. 2501, which directed this Court’s
+
+attention to the United States Supreme Court’s ruling in Counterman v.
+
+Colorado, 600 U.S. ___ (2023), and requested “Leave of Court to transmit
+
+the Opinion to the Honorable Court.” Application for Post-Submission
+
+Communication, 7/10/23, at 2. The Commonwealth opposed the application
+
+in an answer filed July 12, 2023.
+
+      Generally,   we   will   accept     an     application   for   post-submission
+
+communication when there has been a change in the status of authority.
+
+Pa.R.A.P. 2501(b). No such change in authority has been suggested in Spone’s
+
+application. Accordingly, we deny Spone’s application because she has failed
+
+to demonstrate any basis under Rule 2501 that would permit such a post-
+
+submission communication.
+
+      Judgment of sentence       affirmed. Application for           post-submission
+
+communication denied.
+
+
+
+
+Date: 11/14/2023
+
+
+
+
+                                        - 19 -
+

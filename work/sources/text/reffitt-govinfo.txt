@@ -1,0 +1,1320 @@
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 1 of 25
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF COLUMBIA
+
+
+ UNITED STATES OF AMERICA,
+
+        v.
+                                                            No. 21-cr-32 (DLF)
+ GUY WESLEY REFFITT,
+
+                Defendant.
+
+
+                                  MEMORANDUM OPINION
+
+       On March 8, 2022, a jury convicted Guy Wesley Reffitt of five counts related to his
+
+actions during and shortly after the Capitol riot on January 6, 2021. Before the Court is Reffitt’s
+
+Motion for Judgment of Acquittal, Dkt. 128, Motion for a New Trial or in the Alternative
+
+Judgment on Count 3(a), Dkt. 129, and Motion to Arrest Judgment on Count Two, Dkt. 130. For
+
+the reasons that follow, the Court will deny the motions.
+
+I.     BACKGROUND
+
+       After his participation in the January 6 Capitol riot, Reffitt was charged with two counts
+
+of civil disorder, in violation of 18 U.S.C. § 231(a)(2) and (a)(3); one count of obstruction of an
+
+official proceeding and aiding and abetting, in violation of 18 U.S.C. §§ 1512(c)(2) and 2; one
+
+count of entering and remaining in a restricted building or grounds with a deadly weapon, in
+
+violation of 18 U.S.C. § 1752(a)(1) and (b)(1)(A); and one count of obstruction of justice, in
+
+violation of 18 U.S.C. § 1512(a)(2)(C). See Second Superseding Indictment, Dkt. 34. On March
+
+8, 2022, a jury found him guilty of all five counts. See Verdict Form, Dkt. 123.
+
+       At the close of the government’s case, Reffitt moved for a judgment of acquittal pursuant
+
+to Fed. R. Crim. P. 29(a). March 7, 2022 A.M. Trial Tr. at 1397:19–20, Dkt. 143. The Court
+
+reserved ruling until after the jury verdict. Id. at 1398:3–5; see Fed. R. Crim. P. 29(b). After the
+
+                                                 1
+         Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 2 of 25
+
+
+
+
+jury convicted Reffitt on all counts, the Court denied his motion, finding that a rational jury
+
+could find the essential elements of each crime charged beyond a reasonable doubt. March 8,
+
+2022 Trial Tr. at 1498:23–25, 1499:1, Dkt. 145.
+
+        Reffitt now renews his motion for a judgment of acquittal on all counts under Fed. R.
+
+Crim. P. 29(c). See Mot. for Judgment of Acquittal. He also moves for a new trial, or
+
+alternatively, for the Court to enter a guilty finding on Count 3(a), entering and remaining in a
+
+restricted building or grounds. See Mot. for New Trial. Finally, he moves to arrest judgment on
+
+Count Two, obstruction of an official proceeding. See Mot. to Arrest Judgment. He argues that
+
+the evidence is insufficient to sustain a conviction on all counts, see Mot. for Judgment of
+
+Acquittal at 1, and that a new trial is in the interest of justice, see Mot. for New Trial at 1.
+
+Further, he renews his arguments from his Motion to Dismiss Count Two, Dkt. 38,1 claiming that
+
+his conduct did not fall within the scope of § 1512(c)(2), and that the statute is unconstitutionally
+
+vague as applied. See Mot. for Judgment of Acquittal at 8–12. Finally, he contends that the
+
+Court lacks jurisdiction over Count Two. See Mot. to Arrest Judgment. The government filed
+
+an omnibus opposition brief to all three motions, Dkt. 132. The motions are now ripe for
+
+resolution.
+
+II.     LEGAL STANDARDS
+
+        A defendant may move for a judgment of acquittal after the close of the evidence or after
+
+a jury verdict on the ground that the evidence is insufficient to sustain a conviction. Fed. R.
+
+Crim. P. 29(a), (c). The Court must affirm a guilty verdict if, considering the evidence in the
+
+light most favorable to the government, it finds that “any rational trier of fact could have found
+
+
+
+1
+  The Court denied Reffitt’s motion to dismiss, finding that his alleged conduct fell within the
+statute’s ambit, and that his as-applied vagueness challenge was premature. See Order on Mot.
+to Dismiss at 4, 7, Dkt. 81.
+                                                   2
+         Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 3 of 25
+
+
+
+
+the essential elements of the crime beyond a reasonable doubt.” United States v. Wahl, 290 F.3d
+
+370, 375 (D.C. Cir. 2002) (quoting Jackson v. Virginia, 443 U.S. 307, 319 (1979)). And it “must
+
+presume that the jury has properly carried out its functions of evaluating the credibility of
+
+witnesses, finding the facts, and drawing justifiable inferences.” United States v. Campbell, 702
+
+F.2d 262, 264 (D.C. Cir. 1983). “[A] judgment of acquittal is appropriate only when there is no
+
+evidence upon which a reasonable juror might fairly conclude guilt beyond a reasonable doubt.”
+
+United States v. Weisz, 718 F.2d 413, 438 (D.C. Cir. 1983).
+
+       Under Rule 33, “the court may vacate any judgment and grant a new trial if the interest of
+
+justice so requires.” Fed. R. Crim. P. 33(a). Granting a new trial “is warranted only in those
+
+limited circumstances where a serious miscarriage of justice may have occurred.” United States
+
+v. Wheeler, 753 F.3d 200, 208 (D.C. Cir. 2014) (internal quotation marks and citation omitted).
+
+The Court has “broad discretion” in deciding a motion for a new trial. Id. The party seeking a
+
+new trial bears the burden of proving that it is justified. United States v. Mangieri, 694 F.2d
+
+1270, 1285 (D.C. Cir. 1982).
+
+       Under Rule 34, “the court must arrest judgment if [it] does not have jurisdiction of the
+
+charged offense.” Fed. R. Crim. P. 34(a). “[D]efects in an indictment do not deprive a court” of
+
+jurisdiction over the case. United States v. Cotton, 535 U.S. 625, 630 (2002).
+
+III.   ANALYSIS
+
+       According to Reffitt, the evidence is insufficient to support a guilty verdict on any of the
+
+charged counts. He also argues that his conduct did not violate § 1512(c)(2) under a narrow
+
+interpretation that the Court previously rejected. Finally, he attacks the factual sufficiency of
+
+Count Two of the indictment.
+
+
+
+
+                                                  3
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 4 of 25
+
+
+
+
+       As the Court explained at the close of trial, a rational jury could find Reffitt guilty on
+
+each count. March 8, 2022 Trial Tr. at 1498:23–25, 1499:1. Further, the Court indicated that it
+
+was not inclined to reconsider its conclusions regarding the scope of § 1512(c)(2) or the
+
+sufficiency of the indictment. Id.; see also Order on Mot. to Dismiss at 4, 6–7 & n.5; United
+
+States v. Sandlin, No. 21-cr-88, 2021 WL 5865006, at *5–10 (D.D.C. Dec. 10, 2021). And the
+
+Court declines to do so here.
+
+           A. Insufficiency of the Evidence
+
+       Reffitt’s motion for acquittal mainly questions the credibility of the government’s
+
+witnesses and evidence. See Mot. for Judgment of Acquittal at 6–8, 13–14, 18. But it is the role
+
+of the jury, not the Court, to weigh the evidence and assess witnesses’ credibility. United States
+
+v. Battle, 613 F.3d 258, 264–65 (D.C. Cir. 2010). Reffitt also emphasizes that he did not assault
+
+anyone or damage or steal any property. See Mot. for Acquittal at 12, 15–17. None of the
+
+charges, however, required the government to prove that he took such actions.
+
+                 1. Transporting a Firearm (Count One) and Entering or Remaining in a
+
+                   Restricted Area with a Firearm (Count Three)
+
+       Count One charged Reffitt with transporting a firearm in furtherance of a civil disorder,
+
+in violation of 18 U.S.C. § 231(a)(2). To convict him of that offense, the jury had to find that he
+
+transported a firearm in commerce while knowing, having reason to know, or intending that the
+
+firearm would be used unlawfully in furtherance of a civil disorder. See Final Jury Instructions
+
+at 24, Dkt. 119. There was ample evidence in the record to support the jury’s findings.
+
+       Two of the governments’ witnesses testified that Reffitt traveled to and from
+
+Washington, D.C. with firearms. Rocky Hardie, who traveled with Reffitt from Wylie, Texas to
+
+Washington, D.C., testified that Reffitt brought an AR-15 rifle and a handgun on the trip. March
+
+
+
+                                                 4
+         Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 5 of 25
+
+
+
+
+4, 2022 A.M. Trial Tr. at 1119–20, Dkt. 142. Further, Reffitt’s son Jackson testified that he saw
+
+his father bring the AR-15 rifle and handgun back into their house upon his return. March 3,
+
+2022 P.M. Trial Tr. at 973:15–24, 974:12–25, 975:1–6, Dkt. 141.
+
+       The Court must give “full play” to the jury’s credibility determinations. Battle, 613 F.3d
+
+at 264. In any event, Reffitt fails to cast sufficient doubt on either witnesses’ credibility. See
+
+Mot. for Judgment of Acquittal at 6. The jury was aware of Hardie’s immunity agreement with
+
+the government and witnessed his moments of confusion while testifying. March 4, 2022 A.M.
+
+Trial Tr. at 1114:20–25, 1115–16, 1117:1–5, 1163:1–5. And Reffitt does not even address
+
+Jackson’s testimony on this point. Thus, a reasonable jury could find that he transported
+
+firearms in commerce. See Final Jury Instructions at 24 (commerce means travel between one
+
+state and the District of Columbia).
+
+       Plus, there was sufficient evidence to support the jury’s finding that Reffitt knew or
+
+intended that the firearm would be used unlawfully in furtherance of a civil disorder. Reffitt
+
+does not dispute that the January 6 riot constituted a “civil disorder”—a public disturbance
+
+involving acts of violence by three or more people that caused an immediate danger to persons
+
+and property. See Final Jury Instructions at 24; Gov’t Ex. 204 (surveillance video montage of
+
+the Capitol riot). A jury could also reasonably infer that he intended that his firearm would be
+
+used unlawfully in furtherance of the disorder. To be sure, Hardie suggested that Reffitt
+
+intended to use the guns for self-defense. March 4, 2022 A.M. Trial Tr. at 1113:22–25; see Mot.
+
+for Judgment of Acquittal at 6. But the jury also could credit Reffitt’s own statements that he
+
+was prepared to use his gun to forcibly remove members of Congress from the Capitol. See, e.g.,
+
+Gov’t Ex. 1B20.2.2 (when asked about taking the Capitol, replying that “a hell rain of fire [will]
+
+come[] back cause every one of my guys are here and I assure you they came in hot. So did I.”).
+
+
+
+                                                  5
+         Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 6 of 25
+
+
+
+
+Further, Reffitt’s text messages and Hardie’s testimony demonstrate Reffitt’s awareness of and
+
+willingness to break D.C.’s gun laws on January 6. See, e.g., Gov’t Ex. 1B4.1; March 4, 2022
+
+A.M. Trial Tr. at 1113:1–18. Accordingly, a jury could conclude that Reffitt knew or intended to
+
+use his guns unlawfully to further the Capitol riot.
+
+       In Count Three, Reffitt was charged with entering or remaining in a restricted area or
+
+grounds with a firearm, in violation of 18 U.S.C. § 1752(a)(1) and (b)(2). Reffitt concedes the
+
+first two elements of the crime: that he entered or remained on restricted grounds without lawful
+
+authority, knowing that the grounds were restricted and that he lacked lawful authority. See Mot.
+
+for New Trial at 1; Final Jury Instructions at 30. But he contests the final element, that he
+
+knowingly used or carried a firearm during and in relation to the offense. See Mot. for Judgment
+
+of Acquittal at 13–14; Final Jury Instructions at 30. In doing so, he repeats his attacks on
+
+Hardie’s credibility and emphasizes that the Capitol police witnesses did not testify that he had a
+
+gun. See Mot. for Judgment of Acquittal at 13–14. He also insinuates that the photo exhibit
+
+showing a holster on his hip at the Capitol was edited or altered, though he presented no concrete
+
+evidence of that at trial. Id. at 14. Again, the Court defers to the jury’s assessment of witness
+
+and evidence credibility. The government also presented evidence that Reffitt himself said that
+
+he had a gun at the Capitol. See, e.g., Gov’t Exs. 1B20.2.2 (explaining at the Ellipse that he
+
+“came in hot”), 1B20.2.2.3.1 (“I had my . . . 40 on my side.”). A reasonable jury could thus find
+
+beyond a reasonable doubt that he knowingly carried a firearm while remaining in a restricted
+
+area. For these reasons, the Court will not enter judgment on Count 3(a), the lesser-included
+
+offense of remaining on restricted grounds. See Mot. for New Trial at 1. The jury’s verdict on
+
+Count 3 stands.
+
+
+
+
+                                                  6
+         Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 7 of 25
+
+
+
+
+                 2. Obstruction of an Official Proceeding and Aiding and Abetting (Count Two)
+
+       In Count Two, Reffitt was charged with obstructing an official proceeding and aiding and
+
+abetting that offense, in violation of 18 U.S.C. §§ 1512(c)(2) and 2. Reffitt’s motion primarily
+
+challenges the Court’s interpretation of § 1512(c)(2) and its instructions to the jury on this count.
+
+The Court addresses and rejects that challenge in Part III.B. To the extent that Reffitt argues that
+
+the evidence was insufficient to support a guilty verdict even under the Court’s instructions, that
+
+claim also fails. The jury could reasonably find that he attempted to or did obstruct or impede an
+
+official proceeding, acted with the intent to do so, and knew that the natural and probable effect
+
+of his conduct would be to obstruct or impede the proceeding. It could also find that he did so
+
+corruptly. See Final Jury Instructions at 25. The evidence further supports a finding that Reffitt
+
+aided and abetted others who committed the offense.
+
+       Congress’s Joint Session to certify the Electoral College results qualifies as an “official
+
+proceeding.” See id. at 25–26; Sandlin, 2021 WL 5865006, at *4. And the riot and ensuing
+
+breach of the Capitol forced Congress to halt the session. See, e.g., March 4, 2022 A.M. Trial
+
+Tr. at 1071–73 (testimony of Dan Schwager, counsel to the Secretary of the Senate). True,
+
+Reffitt never entered the Capitol building, and his interactions with the Capitol police took place
+
+before members of Congress evacuated the chamber. See Mot. for Judgment of Acquittal at 10–
+
+11. But video evidence showed that Reffitt ascended the west stairs and led the throng of people
+
+who first breached the Capitol. See, e.g., Gov’t Ex. 205. The police officers he confronted said
+
+the same. The officers testified that Reffitt appeared to lead the crowd because every time he
+
+took a step, the people behind him followed. See, e.g., March 2, 2022 P.M. Trial Tr. at 646:23,
+
+709:23–24, Dkt. 138. After Reffitt was pepper sprayed, he gestured to the crowd to continue
+
+moving forward. See, e.g., Gov’t Ex. 205. As he wrote, he was “the lead up the Capitol stairs”
+
+
+
+                                                  7
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 8 of 25
+
+
+
+
+and “the insurrection began immediately after.” Gov’t Ex. 1B4.1. And his “job was done” when
+
+the crowd “broke through the doors.” Gov’t Ex. 1B4.6. According to a police witness, the
+
+officers “were the only thing standing between thousands of these people and the Congress” that
+
+was “confirming the electoral vote.” March 2, 2022 P.M. Trial Tr. at 632:16–19. Thus, a jury
+
+could reasonably find that Reffitt, by leading a crowd to breach the police line, helped to halt,
+
+and thus obstruct, Congress’s Joint Session. At the very least, he attempted to obstruct, or aided
+
+and abetted those who obstructed, the proceeding. He also acknowledged that Congress was
+
+“there when we went in” and could not finish the Joint Session until later because “we
+
+disrupted.” Gov’t Ex. 1B20.2.3.5. Accordingly, a jury could find that he knew and intended that
+
+his disruptive actions would obstruct or impede the proceeding.
+
+       Ample evidence supports the charge that Reffitt acted corruptly. To act “corruptly,” the
+
+defendant must use unlawful means or act with an unlawful purpose, and act with consciousness
+
+of wrongdoing. See Final Jury Instructions at 26. The evidence shows that Reffitt did all three.
+
+By clearing the way, gesturing, and leading the violent mob behind him, Reffitt assisted and
+
+encouraged others to use unlawful means to breach the Capitol. As Sergeant DesCamps—one of
+
+the officers who faced off with Reffitt—testified, rioters who followed Reffitt up the stairs
+
+“directly assaulted [the officer] with a carbon choke cleaner or WD-40” and “bear spray.” See,
+
+e.g., March 7 A.M. Trial Tr. at 1298:8–15. A rational trier of fact could reasonably find that
+
+Reffitt aided and abetted those who forcibly assaulted and overcame officers to enter the Capitol
+
+building. Moreover, Reffitt acted with an unlawful purpose to physically overthrow Congress, a
+
+sentiment he expressed numerous times before, during, and after January 6. For instance, he said
+
+that he was going to D.C. to “drag the traitors out,” see Gov’t Ex. 1B4.1. He wanted to drag
+
+lawmakers out of the Capitol by their heels, with their heads hitting every step, see Gov’t Ex.
+
+
+
+                                                 8
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 9 of 25
+
+
+
+
+1B20.2.1. A rational jury could infer from these statements that he acted with an unlawful
+
+purpose. Finally, Reffitt acted with consciousness of wrongdoing. He acknowledged that he
+
+knew that the police officers were faithfully doing their jobs when they ordered him to retreat,
+
+yet he continually refused. See Gov’t Ex. 218. A jury thus could reasonably interpret these
+
+statements as demonstrating that Reffitt knew that his actions were wrong.
+
+       It is immaterial that the government did not prove that Reffitt assaulted anyone. Cf. Mot.
+
+for Judgment of Acquittal at 12. Contrary to his contention, the Court never said that the
+
+government could only prove that Reffitt acted corruptly only if it showed that he committed an
+
+assault. See Reply in Support of Post-Trial Motions at 1, Dkt. 146. In fact, the Court explained
+
+that “aiding and abetting the assaults” would qualify as unlawful means. Feb. 18, 2022 Tr. at
+
+10:19–21, Dkt. 112. When the Court suggested during a pretrial conference that the government
+
+would have difficulty proving Reffitt’s “corrupt” mens rea unless it proved unlawful means, it
+
+was in the context of discussing the government’s “unlawful purpose” theory. In the Court’s
+
+view, the government had implied that Reffitt’s unlawful purpose was simply his intent to
+
+obstruct the official proceeding. See id. at 9:2–11. The Court explained that this would not be a
+
+viable theory of a corrupt—that is, an unlawful—purpose, as it simply recast “corruptly” as
+
+“intentionally.” See id. at 8:24–9:1. In that scenario, the Court stressed to the government that it
+
+would need to be prepared to prove that Reffitt used unlawful means, such as assaulting officers
+
+or aiding and abetting those assaults. See id. at 10:14–21. At trial, however, the government did
+
+present sufficient evidence of Reffitt’s unlawful purpose, and it went far beyond an intent merely
+
+to obstruct the proceeding. See supra at 8. Therefore, the jury could find that Reffitt acted
+
+corruptly under multiple theories.
+
+
+
+
+                                                 9
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 10 of 25
+
+
+
+
+       Before trial, Reffitt argued that the term “corruptly” rendered § 1512(c)(2)
+
+unconstitutionally vague as applied to him. See Mot. to Dismiss at 12–17, Dkt. 38. But from the
+
+face of the indictment alone, the Court could not determine whether he acted “corruptly” within
+
+the term’s core meaning such that he was sufficiently on notice of the criminality of his conduct.
+
+See Order on Mot. to Dismiss at 5–6. Given the facts that emerged at trial, the Court can now
+
+address Reffitt’s as-applied vagueness challenge. In Sandlin, the Court held that “corruptly”
+
+covered at least those defendants who engaged in “independently criminal” and “inherently
+
+malign” conduct with the intent to obstruct an official proceeding. 2021 WL 5865006, at *13. It
+
+also acknowledged that difficult vagueness questions could arise where a defendant used lawful
+
+means, albeit with an improper purpose. Id. at *13 n.14. Here, Reffitt led and encouraged others
+
+who used “obvious criminal means,” id. at *13, and his purpose—to physically remove members
+
+of Congress—was obviously unlawful. Therefore, he had “fair notice” that his conduct was
+
+punishable under the statute, and the Court will deny his vagueness challenge. See Mot. for
+
+Judgment of Acquittal at 8.
+
+                 3. Obstructing Officers During a Civil Disorder (Count 4)
+
+       In Count Four, Reffitt was charged with obstructing officers during a civil disorder, in
+
+violation of 18 U.S.C. § 231(a)(3). To convict Reffitt of this offense, the government had to
+
+prove that he committed, or attempted to commit, an act with the intent to obstruct, impede, or
+
+interfere with law enforcement officers who were lawfully carrying out their official duties
+
+incident to a civil disorder. See Final Jury Instructions at 32. The January 6 riot was a “civil
+
+disorder,” as explained above. And Reffitt does not contest that the officers were lawfully
+
+performing their official duties during the disorder, nor does he refute that the civil disorder
+
+adversely affected commerce or the performance of a federally protected function. See Mot. for
+
+
+
+                                                 10
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 11 of 25
+
+
+
+
+Judgment of Acquittal at 15–17. He challenges only that he acted with the intent to obstruct,
+
+impede, or interfere with the officers, again by insisting that he did not assault or attempt to
+
+assault them. See id. The Court disagrees.
+
+       The police witnesses testified that Reffitt climbed up the stairs toward them, refused their
+
+commands to stop, and encouraged the crowd behind him to continue moving forward to breach
+
+the police line. See, e.g., March 2, 2022 P.M. Trial Tr. at 642–50. Reffitt himself confirmed his
+
+intent to interfere with the officers as they carried out their duties—he acknowledged that they
+
+were simply doing their jobs, yet still he did not heed their warning to retreat. See Gov’t Ex.
+
+218. That he was “incapacitated” for a brief time after he was pepper sprayed is irrelevant. Cf.
+
+Mot. for Judgment of Acquittal at 16. As Reffitt later explained to Hardie, he “couldn’t continue
+
+on, but [he] made it possible for other people to continue.” March 4, 2022 A.M. Trial Tr. at
+
+1147:9–10. Thus, a jury could find that Reffitt committed, or at least attempted, to commit an
+
+act with the intent to interfere with or obstruct law enforcement officers.
+
+                 4. Obstruction of Justice (Count 5)
+
+       In Count Five, Reffitt is charged with obstructing justice by hindering communication
+
+through threat of physical force, in violation of 18 U.S.C. § 1512(a)(2)(C). For this offense, the
+
+jury had to find that Reffitt knowingly used or attempted to use physical force or the threat of
+
+physical force against his children, Jackson or Peyton Reffitt, with the intent to hinder or prevent
+
+them from communicating to law enforcement about the commission of an offense. See Final
+
+Jury Instructions at 34. The jury also had to find that it was reasonably likely that the
+
+communication would have been made to a federal officer about a federal offense. Id.
+
+       Jackson Reffitt testified that after the January 6 riot, his father told him and his sister
+
+Peyton, “[i]f you turn me in, you are [a] traitor. Traitors get shot.” March 3, 2022 P.M. Trial Tr.
+
+
+
+                                                 11
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 12 of 25
+
+
+
+
+at 1003:6–8. Jackson explained that he understood the remark as a “threat” and felt “scared” for
+
+him and his sister. Id. at 1004:5, 7–9. He further testified that his father told Peyton, “You better
+
+not be recording this or I will put a bullet in your phone.” Id. at 1004:19–23. According to
+
+Jackson, Reffitt was “clearly very, very, very upset.” Id. at 1005:20. Jackson later told the FBI
+
+about these threats and Reffitt’s activities before and on January 6. Id. at 1007–08; see also
+
+March 4, 2022 P.M. Trial Tr. at 1229:13–19, Dkt. 140 (Agent Hightower’s testimony about
+
+Jackson’s report of the threat). Considering this testimony, the jury could reasonably conclude
+
+that Reffitt threatened his children with physical force to prevent them from telling law
+
+enforcement, such as the FBI, about his activities on January 6 (which were federal offenses).
+
+Reffitt’s insufficient evidence challenge rests solely on his attacks on Jackson’s credibility. See
+
+Mot. for Judgment of Acquittal at 18. But as explained above, it is for the jury to decide witness
+
+credibility, and the Court will respect those conclusions. Reffitt’s motion for acquittal on this
+
+count thus fails.
+
+            B. Obstruction of an Official Proceeding
+
+        Reffitt continues to challenge the Court’s interpretation of § 1512(c)(2), regarding both
+
+the scope of the statute’s actus reus terms and the requirements of its mens rea term, “corruptly.”
+
+Section 1512(c), in full, states:
+
+        Whoever corruptly—
+
+        (1) alters, destroys, mutilates, or conceals a record, document, or other object, or attempts
+            to do so, with the intent to impair the object’s integrity or availability for use in an
+            official proceeding; or
+
+        (2) otherwise obstructs, influences, or impedes any official proceeding, or attempts to do
+            so,
+
+        shall be fined under this title or imprisoned not more than 20 years, or both.
+
+18 U.S.C. § 1512(c).
+
+                                                 12
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 13 of 25
+
+
+
+
+       The Court previously addressed most of Reffitt’s arguments at length, and therefore, will
+
+briefly reiterate its conclusions here. Reffitt also now points to a recent decision that departs
+
+from this Court’s ruling in Sandlin.2 See United States v. Miller, No. 21-cr-119, 2022 WL
+
+823070 (D.D.C. Mar. 7, 2022) (Nichols, J.). For the reasons explained below, the Court does not
+
+find Miller persuasive.
+
+                 1. Definition of “corruptly”
+
+       According to Reffitt, a defendant acts “corruptly” under § 1512(c)(2) where he “act[s]
+
+corruptly to obstruct, influence, or impede the due administration of justice, that is, [that he]
+
+act[s] knowingly and dishonestly with the intent to obtain an unlawful advantage for himself or
+
+an associate, and that he influence[s] another to violate their legal duty.” Mot. for Judgment of
+
+Acquittal at 9. As it has explained on multiple occasions, see Feb. 3, 2022 Tr. at 10–11, Dkt.
+
+111; Feb. 18, 2022 Tr. at 12–13, the Court disagrees.
+
+       First, the defendant need not have intended to obstruct, impede, or influence the “due
+
+administration of justice.” While some courts have included that element in their § 1512(c)(2)
+
+instruction, they have simply borrowed from pattern instructions for § 1503. See United States v.
+
+Matthews, 505 F.3d 698, 706 n.2 (7th Cir. 2007). But § 1503 prohibits corruptly influencing,
+
+obstructing, or impeding “the due administration of justice,” whereas § 1512(c)(2) prohibits
+
+corruptly obstructing, influencing, or impeding “an official proceeding.” Thus, the latter statute
+
+
+
+2
+ Other judges in this District have followed Sandlin. See United States v. Caldwell, No. 21-cr-
+28, 2021 WL 6062718 (D.D.C. Dec. 20, 2021) (Mehta, J.); United States v. Mostofsky, No. 21-
+cr-138, 2021 WL 6049891 (D.D.C. Dec. 21, 2021) (Boasberg, J.); United States v. Montgomery,
+No. 21-cr-46, Dkt. 87 (D.D.C. Dec. 28, 2021) (Moss, J.); United States v. Nordean, No. 21-cr-
+175, Dkt. 263 (D.D.C. Dec. 28, 2021) (Kelly, J.); United States v. Grider, 21-cr-22, 2022 WL
+392307 (D.D.C. Feb. 9, 2022) (Kollar-Kotelly, J.); United States v. Bozell, 21-cr-216, 2022 WL
+474144 (D.D.C. Feb. 16, 2022) (Bates, J.); United States v. Puma, 21-cr-454, 2022 WL 823079
+(D.D.C. Mar. 19, 2022) (Friedman, J.); United States v. McHugh, No. 21-cr-453, 2022 WL
+1302880 (D.D.C. May 2, 2022) (Bates, J.).
+                                                  13
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 14 of 25
+
+
+
+
+requires an intent to obstruct an official proceeding, as opposed the due administration of justice.
+
+See Montgomery, 2021 WL 6134591, at *21. After all, official proceedings include proceedings
+
+before Congress, which need not relate to the administration of justice. See id.; Sandlin, 2021
+
+WL 5865006, at *4.
+
+        Nor is the defendant required to act “dishonestly” to violate § 1512(c)(2). In Arthur
+
+Andersen LLP v. United States, the Supreme Court reviewed jury instructions for 18 U.S.C. §
+
+1512(b) that omitted the word “dishonestly.” 544 U.S. 696, 706 (2005). The Court found that
+
+the instructions were flawed because they “failed to convey the requisite consciousness of
+
+wrongdoing,” as the jury was told that “even if [petitioner] honestly and sincerely believed that
+
+its conduct was lawful, you may find [petitioner] guilty.” Id. Here, the Court instructed the jury
+
+that Reffitt must have acted with “consciousness of wrongdoing” to be guilty of the offense, thus
+
+rendering the word “dishonestly” unnecessary. See Final Jury Instructions at 26.
+
+        Courts have interpreted “corruptly” to require the defendant to have influenced another to
+
+violate his legal duty when they read “corruptly” in its transitive sense—meaning that the
+
+defendant must have “corrupted” another person. See United States v. Poindexter, 951 F.2d 369,
+
+379, 385 (D.C. Cir. 1991). But in § 1512(c)(2), “corruptly” is used in the intransitive, such that
+
+the defendant’s own behavior must be corrupt, see Caldwell, 2021 WL 6062718, at *10, as it was
+
+here.
+
+        It is true that some courts have explained that a defendant acts corruptly when he seeks to
+
+obtain an improper advantage for himself or another. See, e.g., United States v. Ogle, 613 F.2d
+
+233, 238 (10th Cir. 1979). But others have clarified that “‘corruptly’ is ordinarily understood as
+
+referring to ‘act[s] done voluntarily and intentionally and with the bad purpose of accomplishing
+
+either an unlawful end or result, or a lawful end or result by some unlawful method or means”—
+
+
+
+                                                 14
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 15 of 25
+
+
+
+
+and “[t]he motive to act corruptly is ordinarily a hope or expectation of either financial gain or
+
+other benefit to oneself or some profit or benefit to another.” United States v. McElroy, 910 F.2d
+
+1016, 1021 (2d Cir. 1990) (quoting United States v. Brunson, 882 F.2d 151, 154 n.2 (5th Cir.
+
+1989) (emphasis added)). Thus, the desire to gain an advantage is typically the motive for a
+
+person to act corruptly, but not always. Reffitt points to United States v. Reeves, which noted
+
+that the “unlawful advantage or benefit” definition of “corruptly” guards against potential
+
+overbreadth, vagueness, and First Amendment concerns. Mot. for Judgment of Acquittal at 10
+
+(citing United States v. Reeves, 752 F.2d 995, 1001 (5th Cir. 1995) (interpreting the corrupt tax
+
+obstruction statute)). But that court explained that those problems arise when interpreting
+
+“corruptly” to mean “with an improper motive or bad or evil purpose.” Reeves, 752 F.2d at 1001
+
+(emphasis added). The Court’s jury instructions did not define corruptly in that way.
+
+       To avoid these vagueness concerns, see Poindexter, 951 F.2d at 379–80, the Court
+
+rejected the government’s proposal to define “corruptly” as requiring either unlawful means or
+
+an improper, or wrongful, purpose. See Gov’t Proposed Jury Instructions at 4, Dkt. 86; Gov’t
+
+Proposed Jury Instructions at 6, Dkt. 109. Instead, the Court instructed the jury that a defendant
+
+acts corruptly when he uses unlawful means or acts with an unlawful purpose, see Final Jury
+
+Instructions at 26, echoing the McElroy court’s definition, see 910 F.2d at 1021. See also United
+
+States v. Aguilar, 515 U.S. 593, 616–17 (1995) (Scalia, J., concurring in part and dissenting in
+
+part) (approvingly citing similar jury instructions for § 1503); United States v. Norris, 419 Fed.
+
+App’x 190, 194 (3d Cir. 2011) (affirming a similar instruction for § 1512(b)); United States v.
+
+Fumo, No. 06-cr-319, 2009 WL 1688482, at *54 (E.D. Pa. June 17, 2009) (using a similar
+
+
+
+
+                                                 15
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 16 of 25
+
+
+
+
+instruction for § 1512(c)(1)).3 Thus, the Court’s instruction regarding the “corruptly” prong of §
+
+1512(c)(2) was proper.
+
+                 2. Section 1512(c)(2)’s scope
+
+       Reffitt continues to challenge the Court’s finding that his conduct constitutes
+
+“obstruction” within the meaning of § 1512(c)(2). He maintains that a defendant obstructs,
+
+impedes, or influences an official proceeding only if he “impairs the integrity and availability of
+
+non-object information to be used in the official proceeding.” Mot. for Judgment of Acquittal at
+
+9. In Sandlin, and again when denying Reffitt’s motion to dismiss, the Court rejected this type of
+
+limiting construction for § 1512(c)(2), concluding that the plain meaning of the statute’s broad
+
+terms cover more than just acts affecting evidence. See Order on Mot. to Dismiss at 4 (citing
+
+Sandlin, 2021 WL 5865006, at *5–10). The Court found nothing in the statute’s structure,
+
+context, or history that alters or overcomes its plain meaning. Sandlin, 2021 WL 5865006, at
+
+*5–10. The Court has carefully considered Judge Nichols’ recent decision in United States v.
+
+Miller, 2022 WL 823070, upon which Reffitt relies, see Mot. for Judgment of Acquittal at 8–9,
+
+and will not change its original conclusion.
+
+       Miller holds that § 1512(c)(2) requires the defendant to have “taken some action with
+
+respect to a document, record, or other object in order to corruptly obstruct, impede or influence
+
+
+
+
+3
+  Applying this definition also ensures that innocent conduct is not deemed “corrupt” under §
+1512(c)(2)’s adjacent provision, § 1512(c)(1). Merely “altering” a document with the intent to
+impair its integrity or availability for use in an official proceeding is not necessarily “inherently
+malign.” Arthur Andersen, 544 U.S. at 703–04. For example, a lawyer’s decision to redact a
+document pursuant to a valid claim of privilege would not be “corrupt.” But where a lawyer uses
+unlawful means (e.g.: steals and alters a document) or pursues an unlawful purpose (e.g.: alters a
+document to cover up his own legal liability), he does act corruptly. See United States v. North,
+910 F.2d 843, 943 (D.C. Cir. 1990) (Silberman, J., concurring in part and dissenting in part)
+(considering an analogous hypothetical about a lawyer who persuades his client not to testify).
+
+
+                                                 16
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 17 of 25
+
+
+
+
+an official proceeding.” 2022 WL 823070, at *15.4 Judge Nichols identified a key interpretive
+
+question: “whether or how the word ‘otherwise’ ties § 1512(c)(2) to the prior subsection—
+
+§1512(c)(1).” Id. at *6. He then presented three options: First, “otherwise” could serve as a
+
+“clean break” such that there is no relationship between the subsections. Id. This option, he
+
+explained, is possible, but problematic, as it would ignore that “otherwise” “implies a
+
+relationship to something else,” and it would render the word surplusage. Id. Plus, this reading
+
+would conflict with the Supreme Court’s decision in Begay v. United States, 553 U.S. 137
+
+(2008). Id. at *6–8. Next, “otherwise” could link the subsections by indicating that § 1512(c)(1)
+
+provides examples of conduct that violates § 1512(c)(2). Id. at *8. While Judge Nichols found
+
+this option more plausible than the first, he still identified other issues. The second subsection
+
+would be far broader than the first; indeed, it would swallow it. Id. at *8–9. Finally, “otherwise”
+
+could mean that § 1512(c)(2) is a residual clause or catchall for § 1512(c)(1), ensuring that all
+
+corrupt acts on records, documents, or other objects are covered by the statute. Id. at *9. Judge
+
+Nichols found this option to be most consistent with Begay. Id. at *9–10. Considering structure,
+
+context, history, he deemed the catchall option as the most plausible. Id. at *11–14. Finding
+
+remaining ambiguity in the statute, the court applied the rule of lenity to adopt that narrow
+
+interpretation. Id. at *15.
+
+       This Court continues to focus first and foremost on the plain meaning of § 1512(c)(2)’s
+
+key terms. See Sandlin, 2021 WL 5865006, at *5 (defining “obstruct,” “impede,” and
+
+“influence” and recognizing their “expansive[ness]”). As the Court explained in Sandlin,
+
+“otherwise” means “in a different manner” or “by other means.” Id. (quoting Otherwise, def.
+
+
+
+4
+  Reffitt’s proposal differs from Miller’s construction, as it is limited to acts impairing “non-
+object information,” Mot. for Judgment of Acquittal at 9, as opposed to acts affecting documents,
+records, or other objects, see Miller, 2022 WL 823070, at *15.
+                                                 17
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 18 of 25
+
+
+
+
+B(1)(a), Oxford English Dictionary (3d ed. 2004)).5 The Court cannot discern anything from
+
+these definitions that plausibly limits the breadth of § 1512(c)(2)’s verbs, so it struggles to accept
+
+Miller’s third, narrow bucket. Its interpretation of the statute, however, is not reflected by the
+
+Miller court’s first two broad buckets either. It found that a defendant otherwise obstructs,
+
+impedes, or influences a proceeding under § 1512(c)(2) when he does so by means different than
+
+those proscribed by the preceding § 1512(c)(1)—for instance, by destroying or altering
+
+documents with the intent to impair them for use in an official proceeding. Id. Thus, the Court
+
+both recognized a link between the subsections and gave meaning to the word “otherwise,”
+
+contra Miller’s first bucket. And it underscored that § 1512(c)(2) covers actions that are
+
+different than those covered by § 1512(c)(1), contra Miller’s second bucket.6
+
+       Nor can the Court place so much weight on Begay. Interpreting the Armed Career
+
+Criminal Act, the Supreme Court held that a “violent felony” that “otherwise involves conduct
+
+that presents a serious physical risk of injury to another” must be similar in kind to the example
+
+crimes listed before that catchall clause. Begay, 553 U.S. at 142. But the Court also indicated
+
+that its interpretation of the word “otherwise” was not the only permissible one. Instead, it
+
+recognized that, in other contexts, it could instead be interpreted as a link to what follows the
+
+word as opposed to the examples preceding it. Id. at 144.
+
+
+
+
+5
+ The definitions provided by the Miller court are similar: “in a different way or manner:
+differently”; “in different circumstances: under other conditions”; and “in other respects.” 2022
+WL 823070, at *6 (quoting Otherwise, Webster’s Third New Int’l Dictionary of the English
+Language Unabridged (2002)).
+6
+  The Court agrees with Judge Moss that “otherwise” also serves to “signal[s] a shift in emphasis
+from actions directed at evidence to actions directed at the official proceeding itself.”
+Montgomery, 2021 WL 6134591, at *12 (internal quotation omitted).
+                                                 18
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 19 of 25
+
+
+
+
+       Section 1512(c) presents a very different context. In Begay, the Supreme Court found
+
+that the four example crimes in the ACCA statute did not pose a similar degree of “serious
+
+physical risk of injury” (the catchall following “otherwise”); thus, it concluded that the other
+
+“violent felonies” must be similar to those examples beyond their degree of risk. Id. at 142–43.
+
+In contrast, § 1512(c)(2) does not contain language, like “serious,” that demands a quantitative
+
+analysis of the degree to which certain conduct obstructs a proceeding. The acts prohibited by §
+
+1512(c)(1) have the capacity to obstruct, influence, or impede a proceeding, and § 1512(c)(2)
+
+simply covers any different manner of obstructing, impeding, or influencing. That is,
+
+interpreting “otherwise” in relation to the terms that follow does not pose the same problem
+
+presented by the ACCA. Further, Begay relied on the particular statutory history of the ACCA,
+
+which is not replicated here. Id. at 143–44.
+
+       And, as Miller acknowledged, the two statutes are structured differently. Section
+
+1512(c)(2) is housed in a separate subsection, as opposed to the same sentence. Miller, 2022 WL
+
+823070, at *10; Sandlin, 2021 WL 5865006, at *6. And “a key feature of [the ACCA]—namely,
+
+the four example crimes intended to illustrate what kind of ‘violent felony’ the statute covers,”
+
+Begay, 553 U.S. at 147, is missing here. Section 1512(c)(1) “is not a list of example crimes from
+
+which some common feature can be gleaned.” Caldwell, 2021 WL 6062718, at *14.
+
+       As the Court noted in Sandlin, the more apt structural comparison is to § 1503. 2021 WL
+
+5865006, at *7. The specific provisions in that statute cover actions relating to jurors and court
+
+officers, while the omnibus clause at the end covers the obstruction of the due administration of
+
+justice in general. See United States v. Aguilar, 515 U.S. 593, 598 (1995). Miller claims that the
+
+Supreme Court in Aguilar rejected a “broad reading” of the omnibus clause and instead placed
+
+“metes and bounds” on its expansive language. 2022 WL 823070, at *8 (quoting Aguilar, 515
+
+
+
+                                                 19
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 20 of 25
+
+
+
+
+U.S. at 599–600). That is true, but irrelevant to the interpretive question at hand. The Court held
+
+that a defendant’s act must have “a relationship in time, causation, or logic with the judicial
+
+proceedings,” as opposed to “some ancillary proceeding.” Aguilar, 515 U.S. at 599. This Court
+
+adopted a similar nexus requirement for § 1512(c)(2). Sandlin, 2021 WL 5865006, at *12; Final
+
+Jury Instructions at 25. The Aguilar majority did not, however, consider whether the omnibus
+
+clause is limited to acts directed at jurors and court officers (like Miller’s limit of § 1512(c)(2) to
+
+acts affecting records, documents, or objects). Concurring, Justice Scalia reached that
+
+proposition and rejected it because the omnibus clause is not a general item following a list, but
+
+instead is “one of several distinct and independent prohibitions” in the statute. Aguilar, 515 U.S.
+
+at 615 (Scalia, J., concurring in part and dissenting in part); see also United States v. Howard,
+
+569 F.2d 1331, 1334 (5th Cir. 1978) (same); Sandlin, 2021 WL 5865006, at *7 (explaining the
+
+similarities between §§ 1503 and 1512(c)). Thus, the scope of § 1503’s omnibus clause has not
+
+been artificially restricted to mimic that of the statute’s specific clauses, and the same result
+
+should hold for § 1512(c).
+
+       Turning to statutory context, the Court agrees with Miller that a capacious interpretation
+
+of § 1512(c)(2) creates “substantial overlap” with the rest of § 1512(c). Sandlin, 2021 WL
+
+5865006, at *7–8. But the Court disagrees that the superfluities “suggest[] that Congress did not
+
+mean [the subsection] to have so broad a scope,” Miller, 2022 WL 823070, at *12. Rather, as
+
+Judge Bates recently explained, “that is simply how catch-alls work.” McHugh, 2022 WL
+
+1302880, at *7. And as previously noted, numerous provisions within the statute would not be
+
+subsumed under the broad reading of § 1512(c)(2). Sandlin, 2021 WL 5865006, at *8.
+
+Moreover, Miller’s construction itself renders § 1512(c)(1) superfluous. After all, altering,
+
+destroying, mutilating, or concealing an object with the intent to impair its use in an official
+
+
+
+                                                  20
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 21 of 25
+
+
+
+
+proceeding certainly qualifies as an action with respect to an object taken in order to obstruct,
+
+impede, or influence that proceeding. The surplusage canon should not invoked to “substitut[e]
+
+one instance of superfluous language for another.” United States v. Ali, 718 F.3d 929, 938 (D.C.
+
+Cir. 2013).7 Besides, this canon is just a “rule[] of thumb that help[s] courts determine the
+
+meaning of legislation.” Conn. Nat’l Bank v. Germain, 503 U.S. 249, 253–54 (1992). It does
+
+not override “the cardinal canon” to which “a court should always turn first”: “that a legislature
+
+says in a statute what it means and means in a statute what it says there.” Id. The Court will thus
+
+not impose “an extra-textual limit on [§ 1512(c)(2)’s] compass” to avoid superfluity. See
+
+Loughrin v. United States, 573 U.S. 351, 357 & n.4 (2014).
+
+       To be sure, it is somewhat odd that § 1512(c)(2) is the only provision in the section that
+
+lacks “a narrow focus.” Cf. Miller, 2022 WL 823070, at *11. But it would also be unnatural to
+
+read a phrase as expansive as “otherwise obstructs, influences, or impedes any official
+
+proceeding” as restricted just to acts affecting records, documents, or objects—especially
+
+because a whole host of such acts are already proscribed in § 1512(c)(1). And “[h]ad Congress
+
+intended to restrict [§ 1512(c)(2)] to [acts affecting records, documents, or objects], it
+
+presumably would have done so expressly as it did in the immediately [preceding] subsection.”
+
+Russello v. United States, 464 U.S. 16, 23 (1983) (explaining that a broad construction of one
+
+provision is not “undermined” by surrounding narrow provisions). While “a reader would not
+
+expect to find in a statute that is otherwise narrowly (and consistently) tailored a criminal
+
+prohibition of exceptionally broad scope,” Miller, 2022 WL 823070, at *12, nor would that
+
+reader expect a provision’s expansive terms to in fact carry an extremely limited meaning.
+
+
+
+
+7
+ Reffitt’s interpretation of § 1512(c)(2) as limited to acts impairing non-object information also
+yields superfluities. See Sandlin, 2021 WL 5865006, at *8.
+                                                 21
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 22 of 25
+
+
+
+
+       Miller discusses statutory and legislative history, see id. at *12–14, but the Court finds
+
+that neither sheds much light. True, the history might support the notion that § 1512(c) was
+
+enacted just to close the loophole that allowed a defendant to escape liability for individual
+
+evidence spoliation. See id.; Order on Mot. to Dismiss at 4. But it also suggests that Congress
+
+intended to plug the gap to ensure that all forms of direct obstructive conduct would be covered.
+
+See McHugh, 2022 WL 1302880, at *7–12; Montgomery, 2021 WL 6134591, at *15–16;
+
+Caldwell, 2021 WL 6062718, at *16. Indeed, that explanation helps explain why § 1512(c)(2)
+
+covers conduct that violates other provisions in § 1512. “[B]ecause indirect obstruction is only
+
+one form of direct obstruction, any attempt to close the direct obstruction loophole while
+
+working within § 1512’s pre-existing structure would have created substantial overlap.”
+
+McHugh, 2022 WL 1302880, at *9. Thus, the history does not cast doubt on the interpretation
+
+best supported by § 1512(c)(2)’s text: that the subsection creates direct liability for an
+
+individual’s obstructive acts beyond those relating to physical evidence.8
+
+
+
+
+8
+  The Court also agrees with Judge Bates’s conclusion that the source of § 1512(c)’s language
+does not indicate that it has a limited scope. Compare McHugh, 2022 WL 1302880, at *10 with
+Miller, 2022 WL 823070, at *13. It appears that § 1512(c)(2)’s actus reus terms were borrowed
+from those in §§ 1503(a) and 1505. And those statutes are “expansive prohibitions on
+obstruction” that have not been interpreted to include “any limitation on the nature of the
+obstructive act.” McHugh, 2022 WL 1302880, at *10. Nor does § 1512’s evolution prove that §
+1512(c)(2) should be construed narrowly. That § 1512(a)(2)(B) was enacted three months after §
+1512(c) yet prohibits conduct that could be charged under a broad § 1512(c)(2) is not dispositive.
+See Miller, 2022 WL 823070, at *13. “It is not unusual for a particular act to violate more than
+one criminal statute, and in such situations the Government may proceed under any statute that
+applies.” Aguilar, 515 U.S. at 616 (Scalia, J., concurring in part and dissenting in part) (internal
+citations omitted). Plus, as Judge Bates notes, § 1512(a)(2) was written and approved nearly a
+year before it was enacted, thus predating § 1512(c). McHugh, 2022 WL 1302880, at *9 n.17.
+                                                 22
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 23 of 25
+
+
+
+
+       Finally, contrary to Miller’s conclusion, the rule of lenity does not apply here.9 This rule
+
+comes into play only when a statute is ambiguous “after seizing everything from which aid can
+
+be derived.” Ocasio v. United States, 578 U. S. 282, 295 n.8 (2016) (quoting Muscarello v.
+
+United States, 524 U.S. 125, 138–139 (1998)). The Supreme Court has “underscore[d] that
+
+point” through its “repeated use of the term ‘grievous ambiguity.’” Wooden v. United States,
+
+142 S. Ct. 1063, 1075 (Kavanaugh, J., concurring) (citing Shaw v. United States, 580 U.S. 63, 71
+
+(2016); Salman v. United States, 580 U.S. 39, 51 (2016); Abramski v. United States, 573 U.S.
+
+169, 188 n.10 (2014)). And a statute is not ambiguous “merely because it [is] possible to
+
+articulate a construction more narrow than that urged by the Government.” Moskal v. United
+
+States, 498 U.S. 103, 108 (1990). After “exhaust[ing] all the tools of statutory interpretation”
+
+and “determin[ing] the best reading of the statute,” the Court has not identified a grievous
+
+ambiguity, and therefore will not apply the rule of lenity. Wooden, 142 S. Ct. at 1075
+
+(Kavanaugh, J., concurring).
+
+       The Court recognizes that “the rule of lenity is venerable.” United States v. Nasir, 17 F.
+
+4th 459, 472 (3d Cir. 2021) (Bibas, J., concurring). It ensures that defendants are on notice of
+
+the criminality of their conduct, and that legislatures, rather than courts, define crimes and
+
+punishments. Wooden, 142 S. Ct. at 1082–83 (Gorsuch, J., concurring). But it is important to
+
+remember that “[t]he touchstone is the text: the ‘ordinary,’ evidently intended meaning of ‘the
+
+words of the statute.’” Nasir, 17 F. 4th at 473 (Bibas, J., concurring) (quoting United States v.
+
+Wiltberger, 18 U.S. (5 Wheat.) 76, 95 (1820)). That is, “though penal laws are to be construed
+
+strictly,” this “maxim is not to be so applied as to narrow the words of the statute to the exclusion
+
+
+
+9
+ Miller invokes lenity as a background principle before it embarks on its statutory interpretation,
+2022 WL 823070, at *4–5, though the rule “comes into operation at the end of the process of
+construing what Congress has expressed,” Callanan v. United States, 364 U.S. 587, 596 (1961).
+                                                 23
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 24 of 25
+
+
+
+
+of cases which those words, in their ordinary acceptation . . . would comprehend.” Wiltberger,
+
+18 U.S. (5 Wheat.) at 95. When the plain text covers the defendant’s conduct in terms that he
+
+can understand, the Court must apply the law as written. Wooden, 142 S. Ct. at 1082 (Gorsuch,
+
+J., concurring).
+
+       Such is the case here. Reffitt helped lead a mob of rioters up the steps of the Capitol to
+
+overwhelm the police officers guarding Congress during its Joint Session. As the jury found,
+
+those actions hindered or placed obstacles in the way of the official proceeding. See also
+
+Sandlin, 2021 WL 5865006, at *5. Because these acts fall under the “ordinary acceptation” of §
+
+1512(c)(2)’s terms, the Court finds no reason to narrowly construe the statute to exclude them.
+
+                   3. Motion to Arrest Judgment
+
+       The Court has jurisdiction over the § 1512(c)(2) offense—a federal crime that Reffitt
+
+committed in Washington, D.C.—and thus will not arrest judgment on Count Two under Rule
+
+34. Reffitt’s only argument in support of his jurisdictional challenge is that the indictment does
+
+not set forth “the essential facts constituting the offense charged.” Mot. to Arrest Judgment at 2
+
+(quoting Fed. R. Civ. P. 7(c)(1)).10 First, defects in an indictment do not defeat a court’s
+
+jurisdiction. Cotton, 535 U.S. at 630–31. Second, as the Court has already explained, the
+
+indictment is not in fact factually infirm: it tracks the statutory language and identifies the
+
+proceeding that Reffitt obstructed. See Order on Mot. to Dismiss at 6–7.11 Thus, his motion to
+
+arrest judgment will be denied.
+
+
+
+10
+  Reffitt challenges the indictment on the ground that it fails to allege that he took action with
+respect to a document or impaired non-object information. See Mot. to Arrest Judgment at 1.
+Even if such allegations are required for the indictment to be factually sufficient, these are not
+elements that the government must prove under § 1512(c)(2), as explained in Part III.B.2.
+11
+  Reffitt did not move to dismiss the indictment on this basis, nor did he ever move for a Bill of
+Particulars. See Order on Mot. to Dismiss at 7 n.5.
+                                                  24
+        Case 1:21-cr-00032-DLF Document 148 Filed 05/04/22 Page 25 of 25
+
+
+
+
+           C. Motion for New Trial
+
+       Reffitt makes little attempt to show that “the interest of justice” requires a new trial, see
+
+Fed. R. Crim. P. 33(a), reiterating only that the evidence is insufficient to sustain guilty verdicts,
+
+except on count 3(a), see Mot. for New Trial at 1. In fact, the evidence amply supports his
+
+conviction on all counts. See supra Part III.B.1. And he points to no errors affecting his
+
+substantial rights. See United States v. Williamson, 81 F. Supp. 3d 85, 92 (D.D.C. 2015).
+
+Accordingly, the Court will deny his motion for a new trial.
+
+                                          CONCLUSION
+
+       For the foregoing reasons, Reffitt’s post-trial motions are denied. A separate order
+
+consistent with this decision accompanies this memorandum opinion.
+
+
+
+
+                                                              ________________________
+                                                               DABNEY L. FRIEDRICH
+                                                               United States District Judge
+May 4, 2022
+
+
+
+
+                                                  25
+

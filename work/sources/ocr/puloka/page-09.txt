@@ -1,0 +1,41 @@
+Judge’s Al-Video Rejection Evokes Broader Tech, Evidence Issues https://www.bloomberglaw.com/product/blaw/bloomberglawnews’b...
+Contact Us
+View Full Desktop Site
+®
+
+BLAW ® 24 / 7 Help Desk (888) 560-2529
+LWCNTIIQUe Cal De ANU NAY VEN LESLEU, IS SULJELL LO PER! TeVIEW, [lds ¢ KNOW! OF POLENUd! BITUT dle, dnd Nas accEplalice Mm ue
+scientific community.
+But courts have no definition for what counts as “peer review,” Wexler sald, and that imprecision leaves judges a lot of discretion
+that often weighs in favor of prosecutors admitting evidence hinging on technology,
+Aside from being open to interpretation, Ferguson said, the rules are often dated, He said he tells students, “most rules of
+evidence were written in an era they can’t even comprehend,” before the digital age, leading to “tension applying this old law to
+technology.”
+Judges often have been too willing to accept prosecutor assertions that a technique is reliably used in law enforcement and
+vendors’ trade secret claims to deny defendant access, criminal law professor Brandon Garrett of Duke University said,
+He noted that in December the Federal Rules of Evidence on expert testimony were amended for the first time since the 2000
+codification of Daubert. To ensure judges were adequately exercising their gatekeeping function, language clarified a burden on
+the introducing party to demonstrate a likelihood of relevance and reliability. It also clarified that judges shouldn't leave it to a jury
+to assess methodology.
+Ferguson pointed to forensic bite-mark evidence as an area where courts often admitted evidence that purported to be more
+definitive than science allowed, Complex DNA samples, containing a mix of multiple unknown parties’ genetic materials, is another
+example.
+In one capital murder case in Virginia a prosecutor's expert testified there was a 1-in-11 billion chance elements in the DNA mix
+didn't belong to defendant Leon Winston. But years later, criminology professor William C, Thompson of UC Irvine argued ina
+paper that the analytical methodology was flawed and the chance was closer to 1 in 2.
+“Maybe we've learned our lesson that jumping into untested criminal science In criminal cases can lead to bad results,” Ferguson
+said.
+Wexler, the co-director of the Berkeley Center for Law and Technology, testified before the Senate Judiciary Committee in January,
+arguing lawmakers should require Al tools used in court to be available for-auditing by independent researchers. She cited an
+email from crime-scene DNA analysis company Cybergenetics that said the company “does not provide research licenses.”
+Congress also should bar using trade-secret privileges to block access to relevant criminal evidence, she said,
+“Vendors of some forensic software systems that are consistently used in criminal prosecutions flat-out refuse to provide research
+licenses to independent experts seeking to conduct independent quality assurance and validation studies,” Wexler told
+Bloomberg Law. “Private forensic systems we use to put people behind bars or even take their lives are using contract law to block
+peer review of their products.”
+‘Black Box’
+Despite Judge McCullough’s caution, Wexler sald, "judges are not going to be able to keep Al out of the evidence system for
+long"-which she says isn’t inherently bad, As in other fields, Al comes with the vast potential to assist courts in administering
+justice. She said it’s "going to be built into everything,” including pattern and facial recognition.
+
+2 of 3 4/9/2024, 2:12 PM

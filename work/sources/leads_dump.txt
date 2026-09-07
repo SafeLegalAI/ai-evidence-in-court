@@ -1,0 +1,833 @@
+
+### work/leads/charlotin-deepfakes.csv
+
+ROW 1
+Case Name: Bryan v. City of Philadelphia
+Court: 3d Cir. CA
+State(s): USA
+Date: 2026-07-17
+Identifier: No. 26-1313
+AI Tool: Implied
+Status of AI Allegation: Alleged
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Newton Bryan; arresting officer | Arresting officer's body-worn camera footage that Bryan alleged was manipulated using artificial intelligence. || Video: Unknown | Identifiable real person | Depicting: Newton Bryan; other on-scene officers | Body-worn camera footage from other on-scene officers alleged to have been altered. || Video: Unknown | Identifiable real person | Depicting: Newton Bryan; law enforcement officers | Court-played footage alleged to have been altered to remove scenes (clips played at trial).
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Raised By: Opposing party
+Raised By (detail): Plaintiff Newton Bryan alleged that police manipulated body camera and dash camera footage and that footage played in court was altered.
+Authentication Notes: No authentication or forensic determination was made by the courts; the allegations were pleaded but the District Court dismissed the complaint on procedural grounds and the appellate court affirmed.
+Outcome: Authenticity not adjudicated
+Professional Sanction: No
+Source: /documents/2962/26-1313-2026-07-17.pdf
+Details: Bryan alleged that an arresting officer manipulated body camera footage using artificial intelligence, that other officers' body camera footage was altered, dash camera footage was missing, and that footage shown in court had scenes removed. The District Court dismissed his civil-rights complaint on procedural grounds (statute of limitations, Heck bar, FOIA inapplicability, etc.), and the Third Circuit affirmed. The courts did not resolve or authenticate the allegations of AI manipulation.
+
+ROW 2
+Case Name: R v Flett
+Court: KB Alberta
+State(s): Canada
+Date: 2026-04-17
+Identifier: 240291385Q1
+AI Tool: Implied
+Status of AI Allegation: Alleged
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Kylar Flett; Dominic Mills-Bruno; George Lepine; Jimmy Houle | Three short Snapchat 'story' video clips showing four men in a car, one rear-seat passenger brandishing a handgun; court found the clips depict the accused and others and admitted them as evidence.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Metadata; Provenance signal (C2PA, watermark); Witness testimony; Judicial inspection; Original file or device produced
+Raised By: Opposing party
+Raised By (detail): Defence counsel argued that advances in AI/deepfakes meant the videos should be excluded absent evidence they were real and unaltered.
+Authentication Notes: Officers viewed Snapchat stories on a caller's phone and made screen recordings presented at trial; timestamps and app indicators were visible; officers located the same vehicle and occupants minutes later and the seized gun matched freeze-frames. Court found this circumstantial evidence satisfied s.31.1 (threshold authenticity) and admitted the recordings; no expert evidence of tampering was presented.
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): Conviction; No relief
+Outcome: Abstract deepfake concerns rejected; Conviction
+Professional Sanction: No
+Source: /documents/2973/2026abkb296.pdf
+Details: Three Snapchat video clips were tendered showing four men in a car with one brandishing a handgun. Police screen-recorded the clips from a caller's phone, found the same vehicle and occupants minutes later, and seized a gun matching freeze-frames. The defence raised the possibility of AI deepfakes, but no evidence of alteration was led. Applying s.31.1 CEA and case law, the judge held threshold authenticity satisfied and admitted the recordings; challenges about tampering were relegated to weight, not admissibility.
+
+ROW 3
+Case Name: Burnley v. Valentin, et al.
+Court: E.D. Virginia
+State(s): USA
+Date: 2026-03-18
+Identifier: Civil Action No. 3:23-cv-00160 (RCY)
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Audio: Voice clone | Identifiable real person | Depicting: Caller identified as 'Tyrone Jackson' (found by Court to be Burnley) | Telephone audio recording of a caller identifying as 'Tyrone Jackson' to LiveWire about Walburn; court found the recording authentic and the speaker to be Burnley.
+Modality: Audio
+Technique: Voice clone
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Provenance signal (C2PA, watermark); Witness testimony; Judicial inspection; Original file or device produced
+Raised By: Opposing party
+Raised By (detail): Burnley contested the recording's authenticity on the record, alleging it was manipulated via AI voice cloning or made by another person.
+Authentication Notes: Court relied on sworn declarations from LiveWire manager (Roskam) and Walburn certifying the recording was an original or exact duplicate made in ordinary course, heard the recording live at an evidentiary hearing, and accepted Walburn's voice-identification under Fed. R. Evid. 901(b)(5). The Court found Rule 901's prima facie authentication satisfied and rejected the defendant's AI-manipulation theory.
+Legal Basis: Evidence / procedure
+Outcome (coded): Damages
+Outcome: Court authenticated the audio; Adverse Costs Order
+Professional Sanction: No
+Source: /documents/2966/0.pdf
+Details: Disputed item: an audio recording of a phone call to Walburn's employer (LiveWire) in which the caller used the name 'Tyrone Jackson.' Burnley alleged the recording was either someone else or an AI-cloned version of his voice. Court received sworn declarations from the LiveWire manager and Walburn regarding recording creation/transfer, conducted an evidentiary hearing and listened to the recording, and accepted Walburn's voice-identification under Rule 901(b)(5). The Court found the recording authentic, the speaker to be Burnley, granted enforcement for breach of the settlement, and awarded fees to Walburn.
+
+ROW 4
+Case Name: Matter of M.S.
+Court: CA New York
+State(s): USA
+Date: 2026-02-17
+Identifier: 2026 NY Slip Op 00825; No. 7
+AI Tool: Implied
+Status of AI Allegation: Alleged
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: D.K. and M.S. | Surveillance video (May 2019 timestamp) appearing to show D.K. sexually abusing M.S.; court concluded authentication was not established and excluded the video. || Video: Unknown | Identifiable real person | Depicting: D.K. and M.S. | Surveillance video (June 2019 timestamp) appearing to show D.K. sexually abusing M.S.; court concluded authentication was not established and excluded the video. || Video: Unknown | Identifiable real person | Depicting: D.K. and M.S. | Surveillance video (July 2019 timestamp) appearing to show D.K. sexually abusing M.S.; court concluded authentication was not established and excluded the video.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Metadata; Provenance signal (C2PA, watermark); Witness testimony; Judicial inspection; Original file or device produced
+Raised By: Opposing party
+Raised By (detail): Defense (D.K.) objected at Family Court to admission on chain-of-custody/alteration grounds; M.H. joined the objection. Authentication was also contested on appeal.
+Authentication Notes: Erie County introduced three videos recovered from B.W.'s computer and relied on FBI Agent Baranski's testimony regarding recovery and chain, and a state investigator's testimony matching the living room and identifying persons in screenshots. Evidence included timestamps and a screenshot with possible camera login/IP info. B.W. did not testify; there was an approximately 2.5-year gap in custody and no expert video-authentication testimony. The Court of Appeals held this foundation insufficient to establish reliability/authenticity and reversed, excluding the videos.
+Legal Basis: Evidence / procedure
+Outcome (coded): Evidence excluded; Claim dismissed
+Outcome: Were found inauthenticated
+Professional Sanction: No
+Source: /documents/2970/Matter_of_M.S..pdf
+Details: Three surveillance videos recovered from a third party's computer purportedly showed D.K. sexually abusing M.S. Family Court admitted and relied on them (Agent Baranski's testimony and an investigator's matching of the living room). On appeal, the Court of Appeals found the provenance and chain of custody too tenuous, B.W. did not testify, no expert authentication was offered, and circumstantial matching was insufficient in light of possible manipulation; the videos were not authenticated, were excluded, and the petitions were dismissed.
+
+ROW 5
+Case Name: Head v. John Doe
+Court: SC British Columbia
+State(s): Canada
+Date: 2026-02-04
+Identifier: M185379
+AI Tool: Unidentified
+Status of AI Allegation: Rejected
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Mr. Head (Arthur Ari-Douglas Head) and surrounding motorcycles | GoPro video recording from Mr. Johnston purporting to show the April 16, 2017 motorcycle accident; court found it to be a continuous camera-original and not manipulated.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Expert evidence; Metadata; Witness testimony; Original file or device produced
+Raised By: Opposing party
+Raised By (detail): Plaintiff A. Head (pro se) submitted an internet printout from an online AI tool stating 'Deepfake Detected' and argued the video had been tampered with.
+Authentication Notes: Court accepted Mr. Johnston's testimony about camera/SD card handling and Mr. MacKay's expert analysis (frame-by-frame and internal metadata) concluding no edits and that the file is a camera-original. The plaintiff's AI tool printout was given no weight because its methodology was not disclosed and the audio-track it referred to was blank.
+Legal Basis: Evidence / procedure
+Outcome (coded): Claim dismissed
+Outcome: Action dismissed
+Professional Sanction: No
+Source: /documents/2976/2026bcsc184.pdf
+Details: Disputed item was a GoPro video from Mr. Johnston showing the 2017 accident. Mr. Head alleged it was a deepfake via an anonymous online AI-tool printout; he produced no methodology or expert support. Authentication relied on Johnston's witness evidence about camera/SD card custody and Mr. MacKay's expert forensic analysis of file metadata and frame-by-frame continuity, which found no editing and deemed it a camera-original. The court rejected the deepfake allegation as speculative, admitted the video, found it reliable, and dismissed the claim.
+
+ROW 6
+Case Name: State of Iowa v. Max Amyda
+Court: CA Iowa
+State(s): USA
+Date: 2026-01-28
+Identifier: No. 24-1563
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: the victim; defendant Max Amyda (left hand) | Roughly one-minute digital video received via Facebook Messenger showing a sleeping woman being sexually touched; shows the victim's face/body/underclothing, pubic area, and a tattooed left hand the victim identified as the defendant's.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Expert evidence; Witness testimony
+Raised By: Opposing party
+Raised By (detail): Defendant moved in limine and repeatedly argued at trial that the video may be a 'deepfake.'
+Authentication Notes: Authentication rested on circumstantial distinctive-characteristics evidence: the victim identified her body, clothing, bedroom, and the distinctive tattooed hand; the victim's sister corroborated identifying features; detective chain-of-possession testimony established how the video was turned over. On rebuttal the State produced booking photos and a tattoo expert who testified the skull tattoo in the July 2023 photo was new and could have been placed over an earlier tattoo. No forensic metadata or AI-forensic analysis was presented; the court found the defendant's 'deepfake' claim speculative and unsupported.
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): Conviction; Custodial sentence
+Outcome: Video admitted into evidence
+Professional Sanction: No
+Source: /documents/2967/2026-24-1563.pdf
+Details: A digital video sent via Facebook Messenger showing sexual contact with a sleeping victim was admitted. The State authenticated the video through circumstantial evidence and witness identification (victim and sister) of distinctive features of the victim, clothing, room, and a tattoo on the hand. The defendant alleged the video was a 'deepfake' but presented no evidentiary support; the court rejected that claim and held any alleged manipulation would go to weight, not admissibility. Jury convicted and defendant sentenced to prison.
+
+ROW 7
+Case Name: Tribunale di Modena, 29 dicembre 2025
+Court: Trib. Modena
+State(s): Italy
+Date: 2025-12-29
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Image: Unknown | Depicting: Messaggi WhatsApp tra il lavoratore (responsabile commerciale) e clienti | Screenshot WhatsApp prodotti dal lavoratore per dimostrare le comunicazioni con clienti (prenotazione hotel, invio catalogo colori). Il tribunale li ha ritenuti documenti probatori non disconosciuti specificamente.
+Modality: Image
+Technique: Unknown
+Authenticity Contested: Contested
+Authentication Method: Judicial inspection
+Raised By: Opposing party
+Raised By (detail): La società datrice di lavoro ha sollevato in giudizio l'ipotesi che i messaggi fossero stati manipolati o creati con IA o altro sistema informatico.
+Authentication Notes: La datrice di lavoro ha contestato genericamente che i messaggi fossero "manipolati e/o creati ad hoc con l'intelligenza artificiale o altro sistema informatico" ma non ha prodotto perizia né indicato incongruenze specifiche; il giudice ha applicato l'art. 2712 c.c. e ha ritenuto i documenti provanti.
+Legal Basis: Evidence / procedure
+Outcome (coded): Damages
+Outcome: Evidence admitted
+Professional Sanction: No
+Source: https://ntplusdiritto.ilsole24ore.com/art/il-paradosso-deepfake-perfetto-quando-l-ia-e-troppo-brava-essere-contestata-AITMx84
+Details: Il lavoratore ha prodotto screenshot WhatsApp per provare la liceità dei suoi contatti. La datrice di lavoro ha evocato un deepfake/creazione con IA ma senza perizie o specifiche indicazioni di falsificazione; il giudice ha ritenuto la contestazione "oltremodo generica" ai sensi dell'art. 2712 c.c., ammesso i documenti e disposto reintegra e risarcimento.
+
+ROW 8
+Case Name: R. v. Medow
+Court: Ontario Court of Justice
+State(s): Canada
+Date: 2025-12-11
+Identifier: 2025 ONCJ 661
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: PC Elliot Lee and Alexander Medow (and a blurred motorist) | Body-worn camera (BWC) footage from PC Lee that the accused alleged had been digitally altered / was a deepfake; court found the footage authentic based on officer identification and admitted it. || Video: Unknown | Identifiable real person | Depicting: PC Elliot Lee and Alexander Medow (and other attending officers) | In-car camera (ICC) video from the police squad car that the accused alleged had been manipulated; court accepted officer testimony that it accurately depicted events and admitted it.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Witness testimony; Judicial inspection
+Raised By: Opposing party
+Raised By (detail): Alexander Medow (self-represented accused)
+Authentication Notes: Crown relied on testimony from PCs Lee, Scheffer and Kell identifying their BWC/ICC footage as accurate; judge reviewed footage in court. No expert forensic analysis, metadata, or chain-of-custody/provenance evidence was presented; a portion of footage (third-party motorist face) had been blurred for privacy.
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): Conviction; Claim dismissed
+Outcome: Authenticy confirmed; Conviction
+Professional Sanction: No
+Source: /documents/2968/2025oncj661.pdf
+Details: Two police videos (BWC and ICC) were central to the prosecution. The accused repeatedly alleged they had been manipulated and might be 'deepfakes.' The Crown adduced officer testimony identifying the footage as accurate; no expert or metadata/provenance evidence was produced. The judge took judicial notice of the existence and prevalence of deepfake technology but found the officers credible, admitted the videos under s.31.1 CEA, rejected the deepfake allegation, and convicted the accused on several charges.
+
+ROW 9
+Case Name: Kirkham v. City of Bellingham et al.
+Court: W.D. Washington
+State(s): USA
+Date: 2025-10-09
+Identifier: C24-1625-DGE-SKV
+AI Tool: Implied
+Status of AI Allegation: Alleged
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Plaintiff Richard Arthur Kirkham and Bellingham Police officers | Body-worn camera (BWC) video footage that Plaintiff alleges was altered using AI to conceal officer misconduct.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: None applied
+Raised By: Opposing party
+Raised By (detail): Plaintiff Richard Arthur Kirkham (pro se) raised the allegation in his pleadings and motions.
+Authentication Notes: Plaintiff alleged the BWC footage was altered using AI but offered no forensic or expert evidence; no forensic examination occurred. The court found Plaintiff's assertions unsupported by evidence and denied his motion to appoint a neutral Rule 706 expert as premature.
+Legal Basis: Evidence / procedure
+Outcome (coded): No relief
+Outcome: Denied motion to authentify videos
+Professional Sanction: No
+Source: /documents/2964/0_2.pdf
+Details: Plaintiff alleges law enforcement used AI to create deepfake BWC footage to conceal assault. The court found no evidence beyond Plaintiff's assertions, declined to appoint neutral expert as premature, and denied appointment of counsel. No forensic authentication of the footage was performed in these proceedings.
+
+ROW 10
+Case Name: Demissie v. Ford et al.
+Court: D. Nevada
+State(s): USA
+Date: 2025-10-02
+Identifier: 2:25-cv-00504-GMN-EJY
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Individual Defendants (Las Vegas Metropolitan Police officers, including Detective Gabriel Lea and Officer Brooks West) | Body-worn camera video footage produced by defendants; Plaintiff alleged it had been altered/fabricated but court found no evidence to support that.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Judicial inspection; None applied
+Raised By: Opposing party
+Raised By (detail): Pro se Plaintiff alleged defense counsel introduced deepfake alterations to the body-worn camera footage and sought sanctions and public disclosure.
+Authentication Notes: Plaintiff alleged fabrication but provided no supporting evidence (no expert analysis, metadata, or provenance). The Court reviewed the filings and sealed exhibits and found nothing credible to support alteration; the Court may revisit if credible evidence emerges.
+Legal Basis: Privacy; Evidence / procedure
+Outcome (coded): No relief
+Outcome: Allegation dismissed
+Professional Sanction: No
+Source: /documents/2965/0_1.pdf
+Details: Plaintiff alleged defense counsel had altered/fabricated body-worn camera video (raising deepfake concerns) and sought disclosure and sanctions. The Court reviewed the record and found no evidence (no expert or metadata/provenance) supporting fabrication, rejected the allegations, denied sanctions, and maintained the exhibits under seal based on safety/privacy concerns and lack of credible evidence of alteration; the Court left open revisiting the issue if credible evidence is later presented.
+
+ROW 11
+Case Name: Ariel Mendones, et al. v. Cushman and Wakefield, Inc., et al.
+Court: SC California (Alameda)
+State(s): USA
+Date: 2025-09-09
+Identifier: 23CV028772
+AI Tool: Unidentified
+Status of AI Allegation: Established
+Disputed Material: Video: Unknown | Entirely synthetic person | Depicting: Purportedly Geri Haas | Video exhibit 6A: court found it to be a product of generative AI and not the actual speech/image of Geri Haas (deepfake). || Video: Unknown | Entirely synthetic person | Depicting: Purportedly Geri Haas | Video exhibit 6C: court found it to be a product of generative AI and not the actual speech/image of Geri Haas (deepfake). || Image: Morph-composite | Composite of real persons | Depicting: Man allegedly stitched into Ring camera photograph | Photographic exhibit 7: court found the image was materially altered (a man was apparently 'stitched' into a Ring camera photo). || Image: Unknown | Depicting: Screenshot of purported messaging thread (plaintiffs said Instagram) | Exhibit 35: messaging-screenshot exhibit the Court found was created by GenAI or materially altered (font/spacing anomalies; platform inconsistency). || Image: Unknown | Depicting: Screenshot of purported messaging thread (plaintiffs said Zoom iPhone group chat) | Exhibit 40: messaging-screenshot exhibit the Court found was created by GenAI or materially altered (font/spacing anomalies; appears same platform as Ex. 35).
+Modality: Video; Image
+Technique: Unknown; Morph-composite
+Reality Relation: Entirely synthetic person; Composite of real persons
+Authenticity Contested: Contested
+Authentication Method: Metadata; Admission; Judicial inspection; Original file or device produced
+Raised By: Judge, sua sponte
+Raised By (detail): The court, upon reviewing Plaintiffs' summary-judgment exhibits, suspected some exhibits were altered or GenAI-produced and issued an order to show cause.
+Authentication Notes: Brief struck and case dismissed with prejudice
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): Claim dismissed
+Outcome: Brief Struck; Action dismissed with prejudice
+Professional Sanction: No
+Source: /documents/2960/mendones-v-cushman-wakefield_EPA7JBJ.pdf
+Details: The court determined that video exhibits 6A and 6C were GenAI deepfakes (not the real Geri Haas), exhibit 7 was materially altered (a person stitched into a Ring photo), and exhibits 35 and 40 were GenAI-produced or materially altered messaging screenshots. The court reviewed the files, examined metadata and declarations (finding metadata unreliable in places), credited plaintiffs' partial admissions about AI use, and as sanction under Cal. Civ. Proc. Code §128.7 struck the complaint and dismissed the case with prejudice. The court considered but declined referral for criminal prosecution.
+
+ROW 12
+Case Name: R. v. Cheng
+Court: Ontario Court of Justice
+State(s): Canada
+Date: 2025-05-07
+Identifier: 2025 ONCJ 252
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Mr. Cheng | Home surveillance video from camera 1 (Exhibit #2) showing the backyard and the accused entering. || Image: Unknown | Identifiable real person | Depicting: Mr. Cheng | Screenshot taken from the second camera in the same home-surveillance system (Exhibit #3).
+Modality: Video; Image
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Witness testimony; Judicial inspection; Original file or device produced
+Raised By: Opposing party
+Raised By (detail): Defendant challenged the video and screenshot as possibly tampered with/altered (deepfake) due to a gap and alleged clothing discrepancy.
+Authentication Notes: Court relied on credible testimony of the former partner and daughter that the exhibits represent files from the system's SIM card and were uploaded to police without alteration; the movement-activated recording explained the gap; judge compared images and found clothing consistent across cameras.
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): Conviction
+Outcome: Evidence admitted; party found guilty
+Professional Sanction: No
+Source: /documents/2972/2025oncj252.pdf
+Details: Exhibit #2 (home surveillance video) and Exhibit #3 (screenshot) were contested by the defendant as possibly tampered with or misdated (deepfake). The court accepted testimony from the former partner and daughter that the files came from the system's SIM card and were provided to police without alteration; the movement-activated system reasonably explained a short gap in footage and clothing was consistent across views. The exhibits were admitted, the authenticity challenge rejected, and the accused was convicted of breaching bail.
+
+ROW 13
+Case Name: R. v. Vitellaro
+Court: Ontario Court of Justice
+State(s): Canada
+Date: 2025-04-11
+Identifier: 2025 ONCJ 200
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Mr. Vitellaro (booking cell video) | Booking cell video (booking desk/cell) alleged by the accused to be a "CGI deepfake" but found consistent across three USB copies.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Witness testimony; Judicial inspection; Original file or device produced
+Raised By: Opposing party
+Raised By (detail): The accused, Mr. Vitellaro, alleged the booking cell video had been altered and described it as a 'CGI deepfake'.
+Authentication Notes: Three USB copies (including an alleged 'original' copy) were compared by the Crown and the accused during a break; the court played and inspected the cell video. The versions were found consistent and the audio was not loud enough for cross-examination and therefore not relied on.
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): No relief
+Outcome: Video admitted
+Professional Sanction: No
+Source: /documents/2975/2025oncj200.pdf
+Details: The defendant alleged the booking cell video was altered and a 'CGI deepfake.' The parties compared three USB copies in court and the court inspected the recording; all versions were found consistent. The authenticity challenge was rejected and the video remained part of the evidence.
+
+ROW 14
+Case Name: In the Interest of: D.S., A Minor; Appeal of: D.S., Minor
+Court: Superior Court of Pennsylvania
+State(s): USA
+Date: 2024-11-14
+Identifier: No. 2032 EDA 2023
+AI Tool: Implied
+Status of AI Allegation: Alleged
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: D.S. (Appellant) | Instagram Live video presented by the Commonwealth, purportedly depicting Appellant holding a black handgun (top right). The court admitted the video; authenticity as a deepfake was not determined.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Witness testimony; Undetermined
+Raised By: Opposing party
+Raised By (detail): Appellant raised on appeal that the Instagram Live video may be manipulated or a deepfake; this was not raised at trial and was held waived under Pa.R.A.P. 302(a).
+Authentication Notes: Agent Andrea Guse testified she received the Instagram Live video, watched it, and recognized the video and Appellant in it (identified Appellant in the top right holding a firearm). The agent explained how Instagram Live works and followed up with source officers before applying for a search warrant. No expert forensic authentication or platform metadata analysis was presented; the objection that the video was manipulated/deepfake was raised for the first time on appeal and not litigated below.
+Legal Basis: Evidence / procedure
+Outcome (coded): No relief
+Outcome: Admissibility objection deemed waived
+Professional Sanction: No
+Source: /documents/3003/2024-2032-eda-2023.pdf
+
+ROW 15
+Case Name: Paynter v. Canada Border Services Agency
+Court: Federal Public Sector LREB
+State(s): Canada
+Date: 2024-08-19
+Identifier: 2024 FPSLREB 116
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Stephen Paynter; Martin Desbiens | CCTV recording of the entrance altercation on 2018-02-22; grievor alleged the video was a deepfake but the Board found it authentic and relied on it.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Provenance signal (C2PA, watermark); Witness testimony; Judicial inspection; Original file or device produced
+Raised By: Opposing party
+Raised By (detail): Grievor Stephen Paynter alleged during his testimony and submissions that the respondent's CCTV video was a deepfake.
+Authentication Notes: The Board relied on the CCTV footage (obtained for the investigation) together with contemporaneous security incident reports, an investigator's report, and witness testimony. It reviewed timestamps and the consistency of accounts, found the timeline plausible, and determined there was no evidence the video was manipulated.
+Legal Basis: Evidence / procedure
+Outcome (coded): Claim dismissed
+Outcome: The Board rejected the grievor's claim that the CCTV video was a deepfake, found the incidents occurred as captured, and denied the grievances (termination upheld retroactive to suspension).
+Professional Sanction: No
+Source: /documents/2974/2024fpslreb116.pdf
+Details: The grievor contended the security-camera video of the February 22, 2018 entrance incident was a deepfake. The Board examined the CCTV, contemporaneous security reports, an investigator's report, and witness testimony, found the video consistent with those records and the witnesses, rejected the deepfake allegation, and denied the grievances challenging his suspension and termination.
+
+ROW 16
+Case Name: Matter of Gabriel H.
+Court: New York SC
+State(s): USA
+Date: 2024-07-03
+Identifier: 2024 NY Slip Op 03588; 187 CAF 23-01211
+Status of AI Allegation: Alleged
+Disputed Material: Video: Unknown | Identifiable real person | Depicting: Respondent (Daniel K.); the mother's daughter (victim); the mother's son (appears in one video) | Home surveillance videos (three videos dated May–July 2019) depicting sexual abuse in the living room of the home where respondent lived.
+Modality: Video
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Expert evidence; Metadata; Provenance signal (C2PA, watermark); Witness testimony; Original file or device produced
+Raised By: Opposing party
+Raised By (detail): Respondent (Daniel K.) argued the videos could be "deepfakes" and challenged their authenticity at the fact-finding hearing and on appeal.
+Authentication Notes: FBI agent copied three videos from a suspect's computer onto a DVD and testified they were true and accurate copies and showed no signs of tampering; detective and mother identified persons and matched room furnishings and recovered items; login information for the camera was obtained. The court found this circumstantial and forensic testimony sufficient to authenticate; dissent argued the FBI agent lacked personal knowledge of creation and chain of custody.
+Legal Basis: Evidence / procedure
+Outcome (coded): No relief
+Outcome: Evidence admitted
+Professional Sanction: No
+Source: /documents/3002/Matter_of_Gabriel_H..pdf
+Details: The disputed material consisted of home surveillance videos recovered from a suspect's computer. Authentication relied on the FBI agent's forensic copying, date-stamps, camera login/provenance information, mother/detective identifications, and matching room furnishings. Respondent alleged the videos could be deepfakes; the appellate majority found sufficient foundation and affirmed their admission and the resulting abuse findings, while two judges dissented, concluding authentication was insufficient and would have excluded the videos.
+
+ROW 17
+Case Name: Azubuike c. R.
+Court: SC Québec
+State(s): Canada
+Date: 2024-05-09
+Identifier: 500-01-207497-204
+AI Tool: Implied
+Status of AI Allegation: Alleged
+Disputed Material: Audio: Voice clone | Identifiable real person | Depicting: Karen Voskerchyan | A series of eight audio recordings of calls to COPART customer service in which a male identified himself as 'Karen Voskerchyan'; the defence alleged the voice had been cloned.
+Modality: Audio
+Technique: Voice clone
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Expert evidence; Witness testimony
+Raised By: Opposing party
+Raised By (detail): Self-represented accused Ekens Azubuike raised the possibility of voice cloning and identified Ahmed Mudasar as a proposed expert to testify on cloning.
+Authentication Notes: Prosecution relied on lead investigator Lt. Det. Mélanie Gagnon's familiarity with the accused's voice to identify the speaker. The defence sought to introduce expert evidence from Ahmed Mudasar on voice cloning; the court found him unqualified and excluded his testimony and report.
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): Evidence excluded
+Outcome: Expert Evidence disallowed
+Professional Sanction: No
+Source: /documents/2969/2024qccs1654.pdf
+Details: Eight audio call recordings were tendered by the prosecution as evidence linking the accused to fraud. The accused alleged the recordings were voice-cloned and proposed an expert (Ahmed Mudasar). After a voir-dire the court found Mudasar unqualified, declared his report and testimony inadmissible, and prohibited reference to them; the authenticity of the recordings themselves was not determined on the merits.
+
+ROW 18
+Case Name: R v MD
+Court: Court of King’s Bench of Alberta
+State(s): Canada
+Date: 2024-02-22
+Identifier: 220314306Q1
+AI Tool: Implied
+Status of AI Allegation: Rejected
+Disputed Material: Audio: Voice clone | Identifiable real person | Depicting: SD; male speaker identified by the court as MD; occasional background voices of SD's children | Cellphone audio recording of an approximately 17-minute conversation on a porch between SD and a male speaker; defence alleged SD fabricated the male voice using voice-cloning, but the court concluded the male speaker was MD and accepted the recording as an admission.
+Modality: Audio
+Technique: Voice clone
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Witness testimony; Judicial inspection
+Raised By: Opposing party
+Raised By (detail): Defence counsel suggested SD may have 'cloned' MD's voice (e.g. from earlier recordings) to fabricate the inculpatory dialogue.
+Authentication Notes: Voir dire held; SD testified she made the recording and produced it. Judge compared the recorded male voice to MD's voice heard at trial and assessed content congruence (guardian-role comments, familiarity with facts) and found no evidence of tampering or of AI fabrication; no forensic voice analysis was done or required.
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): Conviction
+Outcome: Recording authenticated, leading to conviction
+Professional Sanction: No
+Source: /documents/2959/2024abkb104.pdf
+Details: SD presented a cellphone audio recording she said captured a 2021 conversation in which the male speaker admitted past sexual contacts. Defence alleged SD fabricated the male voice using AI voice-cloning. After a voir dire the judge relied on SD's testimony, comparison of the voice to MD's trial voice, and content congruence; the judge found no evidence of tampering or of AI fabrication, concluded the male speaker was MD, admitted the recording and relied on it as an admission in convicting MD.
+
+ROW 19
+Case Name: Commonwealth v. Raffaela Marie Spone
+Court: SC Pennsylvania
+State(s): Pennsylvania
+Date: 2023-11-14
+Identifier: No. 1623 EDA 2022
+AI Tool: Implied
+Status of AI Allegation: Alleged
+Disputed Material: Multimodal: Unknown | Identifiable real person | Depicting: M.H. | Images and videos of M.H. sent anonymously via text messages and admitted as Commonwealth exhibits; witnesses later expressed belief the media may have been manufactured, but the court made no finding of synthesis. || Image: Unknown | Identifiable real person | Depicting: K.R. | Images of K.R. taken from social media and sent anonymously via text messages; admitted as Commonwealth exhibits; no judicial finding that images were artificially generated. || Image: Unknown | Identifiable real person | Depicting: I.N. | Images of I.N. captured from social media and sent anonymously via text messages; admitted as Commonwealth exhibits; no judicial finding that images were artificially generated.
+Modality: Multimodal; Image
+Technique: Unknown
+Reality Relation: Identifiable real person
+Authenticity Contested: Contested
+Authentication Method: Metadata; Witness testimony; Original file or device produced; Platform records
+Raised By: Third party
+Raised By (detail): Victims (M.H. and M.H.'s mother) testified on the record that they believed images/videos were manufactured; the appellant also alleged extrajudicially that the District Attorney publicly claimed she had 'deepfaked' videos.
+Authentication Notes: Detective traced anonymous texts to numbers assigned via the Pinger app; Pinger records tied the numbers to an IP address associated with Spone. Spone's cell phone was seized and data review confirmed the anonymous messages were sent from her phone. Witnesses (victims and victim's mother) testified they believed some photos/videos had been fabricated, but the court made no finding that the media were synthetic.
+Legal Basis: Criminal; Evidence / procedure
+Outcome (coded): Conviction
+Outcome: No judgment on deepfake allegation; conviction
+Professional Sanction: No
+Source: /documents/3001/2023-1623-eda-2022.pdf
+Details: Anonymous text messages containing images and videos of minors (M.H., K.R., I.N.) were admitted at trial as Commonwealth exhibits. Investigators traced the messages via Pinger platform records and IP attribution to the defendant's phone data, confirming authorship of the texts. Some witnesses testified they believed photos/videos had been manufactured and the appellant pointed to public statements by the District Attorney alleging 'deepfaking,' but the trial and appellate courts did not make any determination that the media were AI-generated; the allegation remained unestablished and largely arose in testimony and publicity rather than by expert forensic findings.
+
+ROW 20
+Case Name: Valenti v. Dfinity USA Research LLC
+Court: N.D. California
+State(s): USA
+Date: 2023-05-08
+Identifier: 21-cv-06118-JD
+AI Tool: Unidentified
+Status of AI Allegation: Alleged
+Disputed Material: Video: Unknown | Depicting: Kyle Roche | Series of video clips released by CryptoLeaks showing attorney Kyle Roche making statements about ties to Ava Labs; plaintiffs' counsel later alleged some videos may have been produced using deepfake/manipulation technology.
+Modality: Video
+Technique: Unknown
+Authenticity Contested: Contested
+Authentication Method: Expert evidence; None applied
+Raised By: Opposing party
+Raised By (detail): FNF (Freedman Normand Friedland LLP) filed an administrative motion for leave to file supplemental expert evidence alleging the CryptoLeaks videos may be deepfakes (Dkt. No. 109).
+Authentication Notes: Plaintiffs (FNF) sought leave to file an expert report purporting to show many of the videos may be products of deepfake technology; the court denied the motion and no authentication of the videos was conducted in this proceeding.
+Legal Basis: Evidence / procedure
+Outcome (coded): Evidence excluded
+Outcome: Court declined checking authenticity
+Professional Sanction: No
+Source: /documents/2963/0_3.pdf
+Details: The dispute concerned a report and a series of CryptoLeaks video clips in which Counsel made controversial statements. Plaintiffs' reconstituted counsel (FNF) sought to introduce an expert report arguing the videos may be manipulated/deepfakes. The court denied the motion to file that supplemental evidence, did not authenticate the videos, and left the question of whether the material was synthetic unresolved. (The court ordered FNF removed as lead counsel on PSLRA/Rule 23 grounds for other reasons.)
+
+### work/leads/charlotin-ai-evidence.csv
+
+ROW 1
+Case Name: DunGud Pty Ltd v Peachbulk Pty Ltd
+Court: Australia Trade Marks Office
+Date: 2026-08-14
+Party Using AI: Lawyer
+AI Tool: ChatGPT; Gemini
+Nature of Output: Product classification and market
+Outcome: Given no weight
+Source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/ATMO/2026/154.html?context=1;query=AI%20OR%20%22Artificial%20intelligence%22;mask_path=
+Details: "These exhibits are responses to very particularly worded questions, produced by  AI  chatbots. The responses are not in and of themselves evidence of a fact. I accept that these outputs are likely to have been created using information available somewhere on the internet, but without being able to interrogate the information drawn on to produce these responses, they cannot be given meaningful weight. I am not in a position to gauge whether these responses are based on credible information, whether the information is relevant to Australia, and whether the information is contemporary or accurate. Any characterisation of such evidence as prima facie akin to dictionary or encyclopaedic evidence should be rejected."
+
+ROW 2
+Case Name: Perth Day Hospital v. Fitness Cartel
+Court: Western Australia SC
+Date: 2026-08-04
+Party Using AI: Lawyer
+AI Tool: Unidentified
+Nature of Output: Images
+Outcome: Ignored
+Source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/wa/WASC/2026/314.html?context=1;query=AI%20OR%20%22Artificial%20intelligence%22;mask_path=
+Details: "The defendants, through Ms Stroud, presented some images to show the original flooring in each zone (dumbbell zone, deadlift zone, and the Hyrox room), and the remedial work undertaken.[171] The images were explained as being  AI -generated.[172] In those circumstances, the court can give very little weight to these documents as being accurate representations of the flooring work which was in fact undertaken."
+
+ROW 3
+Case Name: N° 25/04051
+Court: TJ Clermont-Ferrand
+Date: 2026-04-16
+Party Using AI: Lawyer
+AI Tool: Unidentified
+Nature of Output: Damages evaluation
+Outcome: Rejected as moot
+Source: https://www.doctrine.fr/d/TJ/Clermont-Ferrand/2026/TJP3F1C429C80CD0EC0F4D0?source=watchers_digests&watcher_key=bad0f6c44832e50bc2da020f85add57a&utm_medium=email&utm_source=watchers_digests
+
+ROW 4
+Case Name: Côté et Placements J.F. Desgagné inc.
+Court: TAT
+Date: 2026-03-26
+Party Using AI: Pro Se Litigant
+AI Tool: Google AI
+Outcome: AI-generated evidence excluded and given no probative value by the Tribunal; decision based on other medical and documentary evidence.
+Source: /documents/1901/Cote-et-Placements-J.F.-Desgagne-inc.-2026-QCTAT-1311.pdf
+Details: The worker submitted voluminous AI-generated evidence. The Tribunal found the AI responses unreliable because sources were not linked to answers, authors/"experts" were unnamed (including an asserted 2026 expert consensus), and the material lacked legal/medical contextualization; the Tribunal excluded this evidence and relied on expert medical reports and testimony.
+
+ROW 5
+Case Name: Exagres v. Gres de Aragon
+Court: EUIPO
+Date: 2026-02-19
+Party Using AI: Lawyer
+AI Tool: ChatGPT
+Nature of Output: Vocabulary analysis
+Outcome: Ignored
+Source: /documents/1686/EUIPODBAC1240C9C6C4F78545.pdf
+
+ROW 6
+Case Name: n° 25/01677
+Court: Cour d'appel Rouens
+Date: 2026-02-11
+Party Using AI: Lawyer
+AI Tool: Implied
+Nature of Output: Expertise on Rain Patterns
+Outcome: Judge preferred the non-AI expertise
+Source: https://www.courdecassation.fr/decision/698d70a5cdc6046d47fd91bb
+
+ROW 7
+Case Name: Shirran v. The Owners, Strata Plan KAS 4004
+Court: BC CRT
+Date: 2026-01-14
+Party Using AI: Pro Se Litigant
+AI Tool: Unidentified
+Nature of Output: Expert Evidence
+Outcome: Ignored
+Source: https://decisions.civilresolutionbc.ca/crt/sd/en/item/528925/index.do
+Details: "23.  The applicants provided several AI-generated opinions about whether unit 407’s plants caused the bug problem. I place no weight on them. Expert evidence must come from a known individual with known qualifications who has specific knowledge about the issue at hand. I similarly place no weight on the general internet articles about spiders the strata provided.24.  I also place no weight on the evidence from the anonymous retired entomologist. Leaving aside the issue of their anonymity, there is no indication about what information they relied on in coming to their opinion."
+
+ROW 8
+Case Name: Biton v. The National Insurance Institute
+Court: Jerusalem Regional Labor Court (Israel)
+Date: 2025-10-16
+Party Using AI: Lawyer
+AI Tool: ChatGPT
+Nature of Output: Medical evidence to ask questions to an expert
+Outcome: Partially accepted
+Source: /documents/886/biton35.pdf
+Details: Plaintiff's counsel used ChatGPT to argue that pulling a heavy cart could cause back injury and to draft questions for the court's medical expert. The court disallowed the specific questions because they were based on facts not established in the case (e.g., improper technique). However, the judge permitted the plaintiff to submit the underlying medical studies, which ChatGPT allegedly referenced, to the expert for review. The judge also commented on the use of AI in legal proceedings, noting that while permissible, it must be used cautiously and be adapted to the specific facts of the case. 
+
+ROW 9
+Case Name: Agyeman v. Hosseinzadmoghadasi
+Court: BC Civil Resolution Tribunal
+Date: 2025-09-15
+Party Using AI: Pro Se Litigant
+AI Tool: Unidentified
+Nature of Output: Overview of insurance policies
+Outcome: Ignored
+Source: /documents/792/SC-2024-005378_Decision.pdf
+Details: "The document was not written by anexpert and is not a business record. So, it does not help prove any facts and is notreliable evidence. I did not consider it in making my decision."
+
+ROW 10
+Case Name: VP Evans Ors v. The Commissioners for HMRC
+Court: Tax Chamber
+Date: 2025-08-22
+Party Using AI: Judge
+AI Tool: Unidentified
+Nature of Output: Summary of submissions
+Source: https://caselaw.nationalarchives.gov.uk/ukftt/tc/2025/1112
+
+ROW 11
+Case Name: Kipping v. Electrical Workers Registration Board
+Court: Court of Appeal (New Zealand)
+Date: 2025-08-20
+Party Using AI: Pro Se Litigant
+AI Tool: Copilot
+Nature of Output: Expert evidence
+Outcome: Argument ignored
+Source: https://www.justice.govt.nz/jdo_documents/workspace___SpacesStore_0438ea8f_2b79_407a_9b2b_bd23663dcb54.pdf
+Details: "Furthermore, Mr Kipping refers to an answer from “AI (Copilot)” to the question“[d]oes an isolator switch isolate a circuit?”, which he says supports his position.However, that takes Mr Kipping no further, as a submission relaying an answer givenby artificial intelligence, without more, is not reliable evidence."
+
+ROW 12
+Case Name: Brookbrand Wholesale Ltd. v. Hemp Hemp Horray Holdings Ltd
+Court: Canada CRT
+Date: 2025-07-25
+Party Using AI: Pro Se Litigant
+AI Tool: Unidentified
+Nature of Output: "AI summaries about CBD oil"
+Outcome: Ignored
+Details: While a useful research tool, AI is also unreliable and sometimes provides inaccurate information. I place little weight on HHH’s screenshots of AI summaries.
+
+ROW 13
+Case Name: P v. CP
+Court: Brescia (Italy)
+Date: 2025-07-22
+Party Using AI: Lawyer
+AI Tool: ChatGPT
+Nature of Output: Financial analysis to prove company solvency
+Outcome: Dismissed
+Source: /documents/979/brescia-chatgpt.pdf
+Details: The defendant (P. company) attempted to contest a conservatory seizure order by submitting a ChatGPT-generated document to prove the company's financial solidity and economic stability. The court rejected this evidence, stating that "the only document produced by the reclamant to contest the evaluation made by the first instance judge and prove the alleged solidity of the company is a document coming from a ChatGPT search whose conclusions, lacking references to specific data, are currently incapable of verification." The court found the company's financial situation "not very reassuring" and upheld the seizure order, noting the ChatGPT document was insufficient to demonstrate absence of risk (periculum in mora). 
+
+ROW 14
+Case Name: Marshall & Ors v Regal Waters Holdings Pty Ltd
+Court: Queensland
+Date: 2025-07-22
+Party Using AI: Pro Se Litigant
+AI Tool: Google AI
+Nature of Output: Legal advice
+Outcome: Ignored
+Source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/qld/QCAT/2025/289.html
+Details: "[62] While the Homeowners do not agree with Regal Waters’ interpretation of the policy or its reasoning in adopting the method of calculation, they have not provided any credible evidence to support their alternative method of calculation. At paragraph 7 of Mr Marshall’s post-hearing submissions, he relies on “...the Google AI response to the question ‘Is rent assistance part of income in assessing housing stress?’”. I do not consider that unverified, unattributed and untested statements generated by Google’s artificial intelligence applications have any probative value in the context of this proceeding. According, I give them no weight."
+
+ROW 15
+Case Name: Hunt v. Morissette et al
+Court: E.D. Michigan (USA)
+Date: 2025-06-11
+Party Using AI: Pro Se Litigant
+AI Tool: Ask.AI
+Nature of Output: Legal Advice
+Outcome: Ignored
+Source: /documents/577/Hunt_v._Morissette_et_al_USA_6_June_2025.pdf
+
+ROW 16
+Case Name: Metcalf v Hector
+Court: Victoria Civil and Administrative Tribunal
+Date: 2025-04-29
+Party Using AI: Pro Se Litigant
+AI Tool: Gemini
+Nature of Output: Standard facts
+Outcome: Ignored
+Source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VCAT/2025/367.html
+Details: "The respondent attempted to rely upon a filed search from Gemini, the Google-affiliated   artificial intelligence engine, regarding standard fence heights in Australia. This suggested that the standard fence height in Australia is, on average, between 1500 mm to 1800 mm, including a plinth. The Tribunal does not find this to be of any assistance in determining the claims before it."
+
+ROW 17
+Case Name: Ferlito v. Harbor Freight Tools USA
+Court: E.D.N.Y. (USA)
+Date: 2025-04-23
+Party Using AI: Expert
+AI Tool: ChatGPT
+Nature of Output: ChatGPT was used post hoc to confirm an expert’s conclusion
+Outcome: Expert testimony admitted over defendant’s objections
+Source: https://www.damiencharlotin.com/documents/350/Ferlito_v._Harbor_Freight_Tools_USA_Inc._E.D.N.Y._April_23_2025.pdf
+Details: AI UsePlaintiff’s expert, Mark Lehnert, used ChatGPT after writing his report to verify whether his proposed method for securing a tool head to its handle was commonly accepted. During a Daubert hearing, he stated he was “quite amazed” to find that ChatGPT’s answer supported his view. He explicitly confirmed he did not rely on the AI response to form his conclusions.Ruling/SanctionDefendant’s motion to exclude the expert was denied. The court found Lehnert’s lack of formal engineering credentials did not undermine his long practical experience. His use of ChatGPT as a corroborative tool did not affect admissibility, particularly as the AI was not relied on in forming the conclusions. The court emphasized this distinction and drew parallels with Kohls v. Ellison, Mata v. Avianca, and Park v. Kim to illustrate the limits of acceptable AI use.Key Judicial ReasoningThe court held that Lehnert was qualified based on decades of relevant experience, and his methodology—proposing a known safer alternative and pointing to existing products that use it—met Rule 702’s reliability threshold. ChatGPT was not used improperly, as the expert had already reached his conclusions independently. The court distinguished this case from Kohls (where fake articles were cited) and Mata (where fabricated precedents were submitted), finding Lehnert’s use of AI did not impair the integrity or reliability of his testimony.
+
+ROW 18
+Case Name: Bahia v. ICBC
+Court: CRT (Canada)
+Date: 2025-04-10
+Party Using AI: Pro Se Litigant
+AI Tool: Google AI
+Nature of Output: Health Risks
+Outcome: Evidence Ignored
+Source: /documents/574/Bahia_v._ICBC_Canada_10_April_2025.pdf
+
+ROW 19
+Case Name: Ross v. USA
+Court: D.C. C.A. (USA)
+Date: 2025-02-20
+Party Using AI: Judge (Dissenting)
+AI Tool: ChatGPT
+Nature of Output: Answers to “what-if” queries common-sense inferences
+Outcome: Majority reversed conviction for insufficiency of evidence; dissent’s AI-aided arguments did not carry the day
+Source: https://reason.com/volokh/2025/03/25/d-c-judge-uses-chatgpt-in-discussing-whether-common-knowledge-inference-in-criminal-case-was-justified/
+Details: AI UseIn his dissent, Judge Deahl systematically leveraged ChatGPT as a proxy for “common knowledge beyond a reasonable doubt.” By submitting detailed prompts about canine heatstroke and cold-weather tolerance, he extracted model outputs that he reframed as judicial inferences: an unequivocal finding of harm under the facts here versus a qualified response in a colder-weather scenario. This comparison underscored his view that inferring harm from the record was as reliable as querying an LLM.Key Legal ReasoningThe majority held that the government’s evidence—absent direct proof of the car’s interior temperature or observable distress symptoms—could not sustain a conviction under D.C. Code § 22-1001’s requirement of “proper protection from the weather” particularized to this dog and context. They emphasized that “common sense cannot substitute for evidence” when critical factual gaps exist and reversed the judgment of conviction, directing entry of acquittal for insufficient proof.The dissent countered that both the lay witness testimony, emergency dispatch records and an experienced animal-control officer’s opinion established a “plain and strong likelihood” of harm—an inference he bolstered with ChatGPT outputs—yet this reasoning did not command a majority.
+
+ROW 20
+Case Name: Aleto Beheer BV v. Venlo Municipality
+Court: Dutch Council of State (Netherlands)
+Date: 2025-01-29
+Party Using AI: Lawyer
+AI Tool: ChatGPT
+Nature of Output: Use of ChatGPT to produce generalized market claims
+Outcome: Arguments rejected; No formal sanction but judicial disqualification of the AI-sourced material.
+Source: https://www.damiencharlotin.com/documents/256/Aleto_Beheer_v._Venlo_Municipality_Dutch_Council_of_State_January_1_2025.pdf
+Details: AI UseAleto submitted, shortly before hearing, a supplementary document claiming that environmental zoning category differences significantly impact real estate values in North Limburg. The document’s information was obtained via ChatGPT. The prompt/question to ChatGPT was not submitted, nor were sources or independent verifications provided.Ruling/SanctionThe Court refused to consider the ChatGPT-based information as valid evidence. It emphasized that real estate valuation disputes involve complex expertise that cannot be substituted by AI outputs. Aleto’s appeal was dismissed, and the Council expressly reaffirmed that without a proper independent expert report, ChatGPT statements are legally worthless.Key Judicial ReasoningJudicial decision-making requires rigorously tested, verifiable inputs. AI outputs that do not disclose the input question or underlying data, and that disclaim reliability themselves, cannot satisfy this standard. Especially in technical fields like property tax and environmental valuation, human expert reports, not AI summaries, are mandatory.
+
+ROW 21
+Case Name: L. H. S. v. Clal Insurance Co. Ltd. et al.
+Court: Magistrate Court (Israel)
+Date: 2024-12-09
+Party Using AI: Lawyer
+AI Tool: DigitalOwl
+Nature of Output: Submission of an AI-generated medical record summary and analysis
+Outcome: Defendant was ordered to resubmit "clean" raw medical documents. No monetary sanction, issue deemed novel.
+Source: /documents/462/L._H._S._v._Clal_Insurance_Co._Israel_9_December_2024.pdf
+Details: In this personal injury case arising from three car accidents, Defendant No. 1 (Clal Insurance Co. Ltd.) submitted medical documentation to the court-appointed orthopedic expert. This submission included not only the plaintiff's raw medical records but also a document titled "Summary of Personal Injury Claim" generated by the AI platform DigitalOwl. This "Summary" provided a structured analysis of the plaintiff's medical history, including a timeline of impairments, findings by body part, lists of conditions, procedures, medications, and transcriptions of original records with links. Crucially, both the AI "Summary" and the raw medical documents themselves featured various keywords (e.g., "neck pain," "back pain," specific vertebrae) highlighted in different colors, with these keywords also noted in the margins of the raw documents.The plaintiff objected, arguing this was an AI-driven analysis and manipulation of medical records tailored to the defendant's litigation needs, potentially biasing the expert and akin to an impermissible partisan medical opinion. The defendant contended that the summary was intended to assist the expert by filtering relevant information.Judge Tali Mirom found that the AI "Summary" and the color-coded highlighting on the raw documents constituted a form of new, processed content derived from the raw data. This raised a significant concern about potentially influencing the court-appointed expert's independent judgment and objectivity. While not classifying the AI document strictly as a "medical opinion," the judge ruled that its submission to an expert under the relevant regulations (which prohibit submitting partisan medical opinions) was impermissible based on the same rationale: ensuring the expert forms conclusions independently from primary, unadulterated medical records. The judge noted this was a novel issue for Israeli courts in this context.The court extensively discussed the broader implications of AI in law, citing the Israeli Bar Association's ethical guidelines and warnings about AI-generated content, including the risk of "hallucinations" in legal pleadings and concerns about data privacy when using LLMs like DigitalOwl with sensitive medical information.Ultimately, the court ordered the expert to disregard the AI-generated "Summary" and the highlighted raw medical documents. Defendant No. 1 was instructed to resend the raw medical documents to the expert without any markings, highlights, or other additions. Due to the novelty of the issue, the judge ordered each party to bear its own costs for the application.(Summary by Gemini 2.5)
+
+ROW 22
+Case Name: XXXX v. Wallonie Bruxelles
+Court: Council of State
+Date: 2024-11-08
+Party Using AI: Lawyer
+AI Tool: ChatGPT
+Nature of Output: Procedural information (case processing times)
+Outcome: Ignored
+Source: /documents/887/ECLI_BE_RVSCE_2024_ARR.261.320_FR.pdf
+Details: In a request for an emergency suspension of an administrative decision (a school's refusal to re-enroll a student), the plaintiff's counsel used ChatGPT to provide an estimate of the court's usual processing time for appeals to argue that a standard procedure would be too slow. The court rejected the request for the emergency procedure, finding the plaintiff had not demonstrated a sufficiently grave or irreparable harm to justify it, and did not engage with the ChatGPT-provided data. 
+
+ROW 23
+Case Name: Plaintiff v. Minister of Asylum
+Court: The Hague District Court (Netherlands)
+Date: 2024-11-06
+Party Using AI: Lawyer
+AI Tool: ChatGPT
+Nature of Output: Use of ChatGPT output as authority for factual assertions about surveillance practices.
+Outcome: Argument discounted; No formal sanction but judicial criticism recorded.
+Source: https://www.damiencharlotin.com/documents/257/Plaintiff_v._Minister_of_Asylum_November_6_2024.pdf
+Details: AI UseDuring the hearing, the plaintiff’s representative cited an answer generated by ChatGPT to argue that the Moroccan authorities systematically monitor political dissidents abroad, implying a risk of persecution on return. However, the representative failed to provide the actual question, the ChatGPT output, or any independent corroboration.Ruling/SanctionThe Court held the ChatGPT output legally irrelevant and gave it no probative value. While it did not impose sanctions on the plaintiff’s counsel, it criticized the reliance on unverifiable AI content in judicial proceedings. The plaintiff's asylum appeal was ultimately dismissed.Key Judicial ReasoningThe Court emphasized that judicial decisions must be based on verifiable evidence. AI-generated content without transparent sourcing or record authentication fails even minimal evidentiary standards. Citing such outputs does not meet the burden of proof for substantiating claims of future persecution.
+
+ROW 24
+Case Name: X v. Y
+Court: Netherlands
+Date: 2024-07-26
+Party Using AI: Judge
+AI Tool: ChatGPT
+Nature of Output: To assist in calculating technical elements
+Source: /documents/434/X_v._Y_Netherlands_July_26_11.pdf
+
+ROW 25
+Case Name: Yang v. Gibbs
+Court: CRT (Canada)
+Date: 2024-06-27
+Party Using AI: Pro Se Litigant
+AI Tool: ChatGPT
+Nature of Output: Factual Evidence Check
+Outcome: Evidence Ignored
+Source: /documents/569/Yang_v._Gibbs_Canada_24_June_2024.pdf
+
+ROW 26
+Case Name: Snell v. United Specialty Insurance Company
+Court: 11th C. CA
+Date: 2024-05-28
+Party Using AI: Judge
+AI Tool: ChatGPT; Bard
+Nature of Output: Ordinary meaning of a term
+Source: /documents/633/Snell_v._United_Specialty_Insurance_Company_USA_28_May_2025.pdf
+Details: The Opinion is notable for the judge's review of how to engage with LLMs.
+
+ROW 27
+Case Name: Hussain vs State of Manipur
+Court: Manpur High Court (India)
+Date: 2024-05-23
+Party Using AI: Judge
+AI Tool: GPT3.5
+Nature of Output: Background Knowledge
+Source: /documents/432/Hussain_vs_State_of_Manipur_Manpur_India_May_23_2025.pdf
+Details: Court disclosed using "Google and ChatGPT 3.5" to do extra research on factual details that Counsel has failed to cover.
+
+ROW 28
+Case Name: J.G. v. NYC Department of Education
+Court: S.D.N.Y. (USA)
+Date: 2024-02-22
+Party Using AI: Lawyer
+AI Tool: GPT4
+Nature of Output: Relied on GPT4 to argue fee rates
+Outcome: Judicial Rebuke and Rate Discount in Fees Award
+Source: https://www.damiencharlotin.com/documents/248/JG_v_NYC_Department_of_Education_US_DC_SDNY_February_22_2024.pdf
+Details: AI UseThe Cuddy Law Firm used ChatGPT-4 to purportedly validate and support its request for elevated attorney billing rates in its motion for attorneys’ fees under the IDEA. They invoked ChatGPT as a “cross-check” for the reasonableness of their requested rates ($550–$600 per hour for senior lawyers, $375–$425 for associates).Hallucination DetailsNo fake cases or authorities cited. However, the Court found the reliance on ChatGPT-4 wholly inappropriate, calling it “utterly and unusually unpersuasive” and emphasizing that ChatGPT’s conclusions lacked transparency, reliability, and any grounding in actual legal practice or precedent. The court compared this misuse to the notorious ChatGPT hallucination cases (Mata v. Avianca and Park v. Kim).Ruling/SanctionThe Court reduced the Cuddy Law Firm’s requested fee rates significantly (e.g., from $550 down to $400/hour for senior lawyers, and proportionately for others) and explicitly warned against using ChatGPT or similar tools as evidence in fee petitions. No financial sanction was imposed, but the Court expressed clear disdain and advised against repeating this practice.Key Judicial ReasoningThe Court reaffirmed that billing rates must be based on prevailing legal market conditions and judicial precedent, not unverifiable or speculative AI outputs. The opinion underscores that AI tools, absent verifiable support, cannot serve as evidence in legal argumentation for judicial decision-making.
+
+ROW 29
+Case Name: DPP v. Khan
+Court: Australia
+Date: 2024-02-07
+Party Using AI: Lawyer
+AI Tool: Unidentified
+Nature of Output: Fabricated character reference
+Outcome: Reference was ignored
+Source: /documents/464/DPP_v._Khan_Australia_7_February_2024.pdf
+Details: "43. The absence of evidence as to how the reference was generated and the extent to which it was assisted by either computer-generated translation or a large language model means that it is difficult to assess the weight that can be given to it. In my view, it is clearly inappropriate that personal references used in sentencing proceedings are generated by, or with the assistance of, large language models as, if they are not objected to on that basis, it becomes difficult for the court to work out what, if any, weight can be placed upon the facts and opinions set out in them. It is also undesirable that they be written in another language and then translated using a computer-based translation, as the subtleties of the use of language, which will be significant in assessing the content of the reference, will not necessarily be accurately reflected in the automated translation. In my view, counsel appearing on a sentence should make appropriate enquiries and be in a position to inform the court as to whether or not any reference that is being tendered has been written or rewritten with the assistance of a large language model or any automated translation program"
+
+ROW 30
+Case Name: Pegnatori v. Pure Sport Technology
+Court: USA
+Date: 2023-10-11
+Party Using AI: Lawyer
+AI Tool: ChatGPT
+Nature of Output: Definition of "foam" for patent purposes
+Outcome: Ignored
+Source: /documents/582/Pegnatori_v._Pure_Sports_Technology_USA_11_October_2023.pdf
+Details: "First, courts are clear that “the ordinary and customary meaning of a claim term is the meaning that the term would have to a person of ordinary skill in the art in question at the time of the invention, i.e., as of the effective filing date of the patent application.” Phillips, 415 F.3d at 1313 (emphasis added). The filing date of the ‘056 Patent was in 2013, well before the launch of ChatGPT in November 2022. See ECF No. 18 at 5. Thus, the court would be taking its eye off the ball if it applied the ChatGPT definition in its review of extrinsic evidence."
+
+ROW 31
+Case Name: Louboutin v. the Shoe Shop
+Court: Delhi High Court (India)
+Date: 2023-08-22
+Party Using AI: Lawyer & Judge
+AI Tool: ChatGPT
+Nature of Output: To establish reputation
+Outcome: Tool cannot be relied upon because answers change depending on the query
+Source: /documents/433/Louboutin_v._the_Shoe_Boutique_Delhi_High_Court_August_22_2023.pdf
+Details: After counsel for plaintiff provided an answer from ChatGPT-3.5 about whether Louboutin is known for spiked men shoes, the court pointed out that "Any reference to ChatGPT and any observation made hereinabove is neither an expression of opinion on the merits of the case nor shall the trial Court advert to these comments. This reference is only intended to present a broader picture on bail jurisprudence, where cruelty is a factor."The judgment then includes two screenshots of answers from ChatGPT-3.5., and the Court concluded:"28. The above responses from ChatGPT as also the one relied upon by the Plaintiffs shows that the said tool cannot be the basis of adjudication of legal or factual issues in a court of law. The response of a Large Language Model (LLM) based chatbots such as ChatGPT, which is sought to be relied upon by ld. Counsel for the Plaintiff, depends upon a host of factors including the nature and structure of query put by the user, the training data etc. Further, there are possibilities of incorrect responses, fictional case laws, imaginative data etc. generated by AI chatbots. Accuracy and reliability of AI generated data is still in the grey area. There is no doubt in the mind of the Court that, at the present stage of technological development, AI cannot substitute either the human intelligence or the humane element in the adjudicatory process. At best the tool could be utilised for a preliminary understanding or for preliminary research and nothing more."
+
+ROW 32
+Case Name: Santander v. Carlin et al.
+Court: N.I. High Court
+Date: 2023-06-16
+Party Using AI: Pro Se Litigant
+AI Tool: ChatGPT
+Nature of Output: General comments about the other side's case
+Outcome: Ignored
+Source: https://www.bailii.org/nie/cases/NIHC/Ch/2023/5.html
+
+ROW 33
+Case Name: Jaswinder Singh v. State of Punjab
+Court: Punjab HC (India)
+Date: 2023-03-27
+Party Using AI: Judge
+AI Tool: ChatGPT
+Nature of Output: Approach to Legal Scenario
+Source: /documents/431/Jaswinder_Singh_Punjab_India_March_27_2023.pdf
+Details: "9. To further assess the worldwide view on bail when the assault was laced with cruelty, the use of Artificial intelligence platform which has been trained with multitudinous data was made. The following question was put to ChatGPT Open AI [https://chat.openai.com/chat]: 10. What is the jurisprudence on bail when the assailants assaulted with cruelty? Response of ChatGPT: [...]11. Any reference to ChatGPT and any observation made hereinabove is neither an expression of opinion on the merits of the case nor shall the trial Court advert to these comments. This reference is only intended to present a broader picture on bail jurisprudence, where cruelty is a factor."
+
+ROW 34
+Case Name: Salvador Espitia Chavez v. Salud Total
+Court: Colombia
+Date: 2023-01-01
+Party Using AI: Judge
+AI Tool: ChatGPT
+Nature of Output: Legal Principles; Drafting
+Source: /documents/435/Salvador_Espitia_Chavez_v._Salud_Total_Colombia_January_1_2023.pdf
+Details: In preparing the decision, the court clerk formulated a series of targeted prompts to ChatGPT—first asking for an overview of statutory provisions and constitutional principles mandating health‐care exemptions for minors with disabilities, then requesting a concise analysis of Colombian jurisprudence on waiving copayments in cases of proven financial hardship. The AI’s responses were integrated verbatim into the draft opinion where they summarized both the legal framework and precedent.

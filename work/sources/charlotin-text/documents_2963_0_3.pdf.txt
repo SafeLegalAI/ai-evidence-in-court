@@ -1,0 +1,607 @@
+                                   1
+
+                                   2
+
+                                   3
+
+                                   4                                   UNITED STATES DISTRICT COURT
+
+                                   5                                  NORTHERN DISTRICT OF CALIFORNIA
+
+                                   6
+
+                                   7     DANIEL VALENTI, et al.,                             Case No. 21-cv-06118-JD
+                                                        Plaintiffs,
+                                   8
+                                                                                             ORDER RE LEAD COUNSEL
+                                                 v.
+                                   9
+
+                                  10     DFINITY USA RESEARCH LLC, et al.,
+                                                        Defendants.
+                                  11
+
+                                  12          This case is a securities fraud class action against defendants Dfinity USA Research LLC;
+
+
+ United States District Court
+                                  13   Dfinity Foundation; and individual defendant Dominic Williams, the CEO of Dfinity USA and
+
+                                  14   founder of Dfinity Foundation. Dkt. No. 45 ¶¶ 15-16, 18-19. The operative complaint alleges that
+
+                                  15   defendants did not register Dfinity’s cryptocurrency “ICP tokens” as a security with the U.S.
+
+
+
+Northern District of California
+                                  16   Securities and Exchange Commission (SEC), and “reaped billions of dollars in profits” by
+
+                                  17   unlawfully “selling and promoting these unregistered security tokens to investors, and by
+
+                                  18   transacting in them while in possession of material, non-public information.” Id. ¶¶ 1-4. The
+
+                                  19   complaint presents eight causes of action under Sections 5, 12(a)(1) and 15 of the Securities Act;
+
+                                  20   Section 10(b) of the Exchange Act and corresponding SEC Rule 10b-5; and Sections 20A and
+
+                                  21   20(a) of the Exchange Act. Id. ¶¶ 152-245.
+
+                                  22          The case is subject, like all private federal securities actions, to the provisions of the
+
+                                  23   Private Securities Litigation Reform Act of 1995 (PSLRA), Pub. L. No. 104-67. It proceeded
+
+                                  24   apace under the PSLRA, with the appointment of Henry Rodriguez as lead plaintiff and the Roche
+
+                                  25   Freedman LLP law firm as lead counsel for the putative class, Dkt. No. 42, and the initial stay of
+
+                                  26   discovery pending the resolution of defendants’ motion to dismiss, Dkt. No. 62. The case then
+
+                                  27   took a dramatic turn that put the normal course of litigation on hold. See Dkt. Nos. 72, 73. Before
+
+                                  28   the hearing on the motion to dismiss, defendants asked to disqualify the law firm of Roche
+                                   1   Freedman LLP based on concerns gleaned from a variety of sources. Dkt. No. 72. Shortly after
+
+                                   2   that, a district court in the Southern District of New York issued an order that terminated Roche
+
+                                   3   Freedman LLP as a lead counsel in an unrelated securities action. See In re Tether and Bitfinex
+
+                                   4   Crypto Asset Litigation, No. 19-cv-09236-KPF, Dkt. No. 253 (S.D.N.Y. Oct. 28, 2022); Valenti
+
+                                   5   Dkt. No. 77-2.
+
+                                   6          Since then, the parties have waged a bitter war over lead counsel in this case, with charges
+
+                                   7   of personal vendettas, deepfake videos, and other events not typically encountered in securities
+
+                                   8   lawsuits. Along the way, Roche Freedman LLP was reconstituted as Freedman Normand
+
+                                   9   Friedland LLP (FNF), consisting of most of the prior firm’s attorneys. FNF was never appointed
+
+                                  10   lead counsel in this case, and has not formally sought appointment under the PSLRA. Even so,
+
+                                  11   the parties have in effect treated FNF as though it were lead counsel, and the dispute has focused
+
+                                  12   on whether it should be retained in that role.
+
+
+ United States District Court
+                                  13          The Court held a hearing on Dfinity’s disqualification motion, at which it emphasized that
+
+                                  14   the question would be answered under Rule 23 of the Federal Rules of Civil Procedure, the
+
+                                  15   PSLRA, and the Court’s oversight of the rights and interests of absent class members. Dkt. No.
+
+
+
+Northern District of California
+                                  16   86. The Court directed the parties to engage in targeted discovery with respect to disqualification,
+
+                                  17   and to file supplemental briefs on the issue. Id. After consideration of these materials, and the
+
+                                  18   record as a whole, the Court concludes that an appointment of FNF is not in the best interests of
+
+                                  19   the class. The lead plaintiff will have an opportunity to propose new class counsel.
+
+                                  20                                             BACKGROUND
+
+                                  21          The class action complaint was initially filed in August 2021 by plaintiff Daniel Valenti,
+
+                                  22   with Roche Freedman LLP as his counsel. Dkt. No. 1. As required by the PSLRA, 15 U.S.C.
+
+                                  23   § 78u-4(a)(3)(A), Valenti and his counsel published a notice of pendency that advised putative
+
+                                  24   class members of an October 12, 2021 deadline to seek appointment as lead plaintiff in the action.
+
+                                  25   Dkt. No. 8.
+
+                                  26          A motion seeking appointment was filed by Henry Rodriguez, another investor represented
+
+                                  27   by Roche Freedman LLP. Dkt. No. 21. Rodriguez said he was “the ‘most adequate’ plaintiff
+
+                                  28   because, to his knowledge, he had the largest financial interest in this matter and satisfied the
+                                                                                         2
+                                   1   typicality and adequacy requirements set forth in Federal Rule of Civil Procedure 23.” Id. at 6-7.
+
+                                   2   Rodriguez asked the Court to appoint Roche Freedman as lead counsel, stating his belief that the
+
+                                   3   firm “is fully capable of litigating this case.” Id. at 9-11. The motion featured attorney Kyle
+
+                                   4   Roche in particular, stating that “Mr. Roche, a lead attorney from Roche Freedman, is a
+
+                                   5   recognized thought leader in the industry,” having “published multiple articles on the intersection
+
+                                   6   of cryptoassets and law,” served as “a frequent speaker and lecturer on the topic,” and
+
+                                   7   “represent[ed] plaintiffs in some of the most significant disputes in the crypto industry.” Id.
+
+                                   8          On December 20, 2021, the Court issued an order appointing Henry Rodriguez as lead
+
+                                   9   plaintiff and approving his “selected and retained counsel, Roche Freedman, to serve as lead
+
+                                  10   counsel for the putative class in the action.” Dkt. No. 42. On February 3, 2022, lead plaintiff
+
+                                  11   Rodriguez and plaintiff Valenti together filed an amended class action complaint, which is the
+
+                                  12   operative complaint in this case. Dkt. No. 45.
+
+
+ United States District Court
+                                  13          After filing a motion to dismiss (which is fully briefed but remains sidelined by the class
+
+                                  14   counsel dispute), Dfinity filed on October 4, 2022, a motion to disqualify plaintiffs’ counsel. Dkt.
+
+                                  15   No. 72. Acknowledging that this is a “putative class action governed by Fed. R. Civ. P. 23 and the
+
+
+
+Northern District of California
+                                  16   PSLRA,” Dfinity asked that “Roche Freedman be disqualified from representing lead plaintiff and
+
+                                  17   the putative class in this action.” Id. at 14-15. Dfinity pointed to a “report and a series of video
+
+                                  18   clips” released by Crypto Leaks in August 2022 “in which Mr. Roche describes his firm’s close
+
+                                  19   ties to Ava Labs -- a company that develops a blockchain called Avalanche -- and its executives,
+
+                                  20   his financial interest in Ava Labs, and his firm’s improper use of litigation against Ava Labs’
+
+                                  21   competitors” such as Dfinity. Id. at 3. Defendants highlighted Roche’s statements in these videos
+
+                                  22   that “Roche Freedman files class action lawsuits against Ava Labs’ competitors” as a “‘tool to
+
+                                  23   competition’”; Roche “acts as ‘Ava Labs’ crypto expert’” by utilizing expertise gained from suing
+
+                                  24   other cryptocurrency companies and “‘see[ing] the[ir] insides’” in discovery; Roche makes sure
+
+                                  25   that “‘the SEC and CFTC have other magnets to go after’ instead of Ava Labs”; and he uses
+
+                                  26   litigation “to enforce the personal vendettas of Ava Labs CEO, Emin Gün Sirer.” Id. at 4-6.
+
+                                  27   Dfinity said that these statements called for plaintiffs’ counsel’s disqualification because they
+
+                                  28
+                                                                                          3
+                                   1   show that Roche’s “personal interest and loyalties to Ava Labs come before, and predominate
+
+                                   2   over, the interests of the putative class.” Id. at 9.
+
+                                   3           Even before defendants had filed the disqualification motion, attorney Roche had filed a
+
+                                   4   notice of withdrawal as counsel on the docket. Dkt. No. 70. The notice stated that Roche “is no
+
+                                   5   longer involved in [Roche Freedman’s] class action practice and is therefore withdrawing as
+
+                                   6   counsel of record in this case.” Id. Defendants argued in their motion that Roche’s individual
+
+                                   7   withdrawal was insufficient to resolve the issues because, inter alia, Roche could still “direct the
+
+                                   8   conduct of other lawyers at the firm”; other lawyers at the firm “own substantial amounts of
+
+                                   9   AVAX tokens”; and the size of the firm is small and there is a “widespread relationship with Ava
+
+                                  10   Labs.” Dkt. No. 72 at 11-12.
+
+                                  11           By the time it filed an opposition to defendants’ motion, Roche Freedman had changed to
+
+                                  12   Freedman Normand Friedland LLP (FNF). Dkt. No. 76; see also Dkt. No. 78. FNF’s opposition
+
+
+ United States District Court
+                                  13   argued that there was evidence suggesting that defendants had “secretly launched CryptoLeaks,”
+
+                                  14   the anonymous website that had hosted the Kyle Roche videos, and that defendants had likely
+
+                                  15   hired the man who “set up [a meeting with Roche] under false pretenses” and then “secretly
+
+
+
+Northern District of California
+                                  16   record[ed]” him. Dkt. No. 76 at 3-5. At the same time, FNF stated that this “factual background
+
+                                  17   is not intended to offer an excuse for Mr. Roche’s statements; the statements are not excusable.
+
+                                  18   Although the statements are false, FNF is deeply concerned by the suggestion that Mr. Roche
+
+                                  19   engaged in unethical conduct,” and “[t]o address those concerns, and considering his inappropriate
+
+                                  20   statements,” Roche was “no longer with the firm.” Id. at 6. Similarly, a declaration from Kyle
+
+                                  21   Roche that was submitted with the opposition “acknowledge[d] that, during the videos, I made
+
+                                  22   statements that were highly inappropriate and that I deeply regret.” Dkt. No. 76-15 (Roche Decl.)
+
+                                  23   ¶ 5. Roche stated that he was “no longer representing Ava Labs in any matter, and as of October
+
+                                  24   17, 2022, I am no longer a member of Roche Freedman LLP, which is now known as Freedman
+
+                                  25   Normand Friedland LLP. I am now practicing law at Kyle Roche P.A.” Id. ¶ 8.
+
+                                  26           At the hearing, the Court made clear that, even though defendants had invoked the
+
+                                  27   California Rules of Professional Conduct in their motion, the Court found it more appropriate to
+
+                                  28   view this issue through the lens of “Rule 23 and the PSLRA,” with the paramount goal of
+                                                                                               4
+                                   1   “protecting the putative class and the named plaintiffs . . . with counsel who are going to have an
+
+                                   2   untarnished allegiance on a fiduciary duty basis to the putative class and the named plaintiffs.”
+
+                                   3   Dkt. No. 91 (Hrg. Tr.) at 2:15-20. The Court noted that the most relevant inquiry was whether
+
+                                   4   “there is a conflict between the current law firm without . . . Mr. Roche, and the putative class or
+
+                                   5   the named plaintiffs.” Id. at 10:10-13. The Court also voiced the concern that, for example, “an
+
+                                   6   opportunity to settle the case on terms favorable to the putative class” might present itself,
+
+                                   7   but Roche might have “had such a vendetta against the defendant because of his allegiance to”
+
+                                   8   Ava Labs, that he might have refused to settle in favor of “some strategic value in not settling for
+
+                                   9   Ava Labs,” in which case “an opportunity to resolve would be lost.” Id. at 11:11-16. The Court
+
+                                  10   asked how the reconstituted FNF firm would abate that and similar concerns. Attorney Edward
+
+                                  11   Normand for FNF emphasized throughout the hearing that attorney Roche “is out” and is “not part
+
+                                  12   of the firm anymore,” id. at 4:17-18, 12:2-3, and that there were “no deeper ties” between FNF
+
+
+ United States District Court
+                                  13   and Ava Labs than the record already indicated. Id. at 12:9. Attorney Normand stated that “[t]he
+
+                                  14   firm does not have an equity stake in Ava Labs,” and though “[s]everal partners at the firm were
+
+                                  15   paid in AVAX tokens,” there was “no connection between that payment and how this lawsuit’s
+
+
+
+Northern District of California
+                                  16   going to be prosecuted.” Id. at 12:19-25. Because the Court lacked clarity on FNF’s existing ties
+
+                                  17   with Ava Labs, the Court ordered a focused Rule 30(b)(6) deposition of FNF on a handful of
+
+                                  18   topics most relevant to FNF’s ability to proceed on behalf of the class. Id. at 25:21-35:4.
+
+                                  19          The Rule 30(b)(6) deposition was taken, and the parties have filed supplemental briefs.
+
+                                  20   Dkt. Nos. 100, 101. Many other filings have been made, as the litigation of this issue has taken on
+
+                                  21   a life of its own. FNF filed a discovery dispute letter requesting to designate the FNF deposition
+
+                                  22   transcript as “Attorneys’ Eyes Only,” in part because of an alleged threat defendants made as to
+
+                                  23   Roche, Dkt. No. 98, and defendants responded with a motion to strike the statements about the
+
+                                  24   alleged threat, Dkt. No. 104. Plaintiffs also filed an administrative motion for leave to file a notice
+
+                                  25   of supplemental evidence in opposition to defendants’ motion to disqualify. Dkt. No. 109. The
+
+                                  26   motion requests leave to file an expert report which, FNF says, “explains that many of the videos
+
+                                  27   on which defendants rely” may be the product of “deepfake technology.” Id. at 1. Dfinity
+
+                                  28   opposes the request. Dkt. No. 111.
+                                                                                         5
+                                   1                                              DISCUSSION
+
+                                   2   I.     FNF MAY NOT SERVE AS LEAD COUNSEL
+                                   3          As the Court has advised the parties, the salient inquiry here is not whether attorney Roche
+
+                                   4   and FNF violated the California Rules of Professional Conduct, as defendants initially framed the
+
+                                   5   issue. Dkt. Nos. 72, 91. The question is more appropriately considered under the PSLRA and
+
+                                   6   Rule 23. The PSLRA provides that “[t]he most adequate plaintiff shall, subject to the approval of
+
+                                   7   the court, select and retain counsel to represent the class.” 15 U.S.C. § 78u-4(a)(3)(B)(v). Rule
+
+                                   8   23(g) provides that the Court may appoint as class counsel an applicant who can fairly and
+
+                                   9   adequately represent the interests of the class. See Fed. R. Civ. P. 23(g)(1)(B) (in appointing class
+
+                                  10   counsel, court “may consider any other matter pertinent to counsel’s ability to fairly and
+
+                                  11   adequately represent the interests of the class”); Rule 23(g)(2) (court may appoint an applicant as
+
+                                  12   class counsel “only if the applicant is adequate under Rule 23(g)(1) and (4)”), Rule 23(g)(4)
+
+
+ United States District Court
+                                  13   (“Class counsel must fairly and adequately represent the interests of the class”); see also Rule
+
+                                  14   23(g)(3) (“court may designate interim counsel to act on behalf of a putative class before
+
+                                  15   determining whether to certify the action as a class action”). Our circuit has noted that “[t]he
+
+
+
+Northern District of California
+                                  16   responsibility of class counsel to absent class members whose control over their attorneys is
+
+                                  17   limited does not permit even the appearance of divided loyalties of counsel.” Rodriguez v. West
+
+                                  18   Publishing Corp., 563 F.3d 948, 968 (9th Cir. 2009) (quotations omitted). The Court is also
+
+                                  19   mindful that it has its own independent duty to protect the interests of the absent class members.
+
+                                  20   See, e.g., Allen v. Bedolla, 787 F.3d 1218, 1223 (9th Cir. 2015).
+
+                                  21          All of these factors inform the Court’s consideration of whether the lead counsel order,
+
+                                  22   Dkt. No. 42, should be terminated and new counsel appointed. The Court has the inherent
+
+                                  23   authority to reconsider any of its interlocutory orders, City of Los Angeles, Harbor Div. v. Santa
+
+                                  24   Monica Baykeeper, 254 F.3d 882, 885 (9th Cir. 2001), and Rule 23(g)(1)(E) also provides that the
+
+                                  25   Court may “make further orders in connection with [any class counsel] appointment.”
+
+                                  26          The record warrants two conclusions. One is that the reconstituted FNF firm is not nearly
+
+                                  27   as independent of Kyle Roche or Ava Labs as FNF suggests. To start, attorney Devin M. “Velvel”
+
+                                  28   Freedman, who was designated as FNF’s Rule 30(b)(6) witness, testified that “FNF is a rename.
+                                                                                         6
+                                   1   It’s just a name change of what was Roche Cyrulnik Freedman and then . . . well, Roche
+
+                                   2   Freedman, then Roche Cyrulnik Freedman, Roche Freedman. We’ve had a number of changes to
+
+                                   3   the name, but it’s the same entity that was formed in August of 2019.” Dkt. No. 99-4 (Freedman
+
+                                   4   Depo.) at 9:22-10:2. And the firm’s dealings with Roche are far from over. Pursuant to the firm’s
+
+                                   5   engagement agreement with Ava Labs several years ago, AVAX tokens were delivered to a single
+
+                                   6   public address that is controlled by Freedman and Roche, and those tokens will unlock at a certain
+
+                                   7   monthly rate for many years into the future. Id. at 24:21-34:8. Freedman testified that these
+
+                                   8   “tokens belong to Mr. Roche and I, pursuant to agreements signed with Ava Labs in late 2019, but
+
+                                   9   there are subsequent agreements between, for example, myself and Mr. Normand, and myself and
+
+                                  10   Mr. Friedland, that obligate -- and Mr. Roche -- that obligate us contractually to pay some of those
+
+                                  11   tokens to them.” Id. at 35:16-21. Roche is hardly out of the picture when there are currently over
+
+                                  12   a million AVAX tokens “sitting in a public address that is controlled by [Freedman] or [] Roche,”
+
+
+ United States District Court
+                                  13   with thousands more unlocking each month, and “technically, 50 percent belong to [Roche],
+
+                                  14   subject to various claims” by current and former FNF partners. Id. at 44:25-45:10. In addition,
+
+                                  15   FNF is co-counsel with Roche in three active matters, id. at 75:3-7, and another potential matter
+
+
+
+Northern District of California
+                                  16   that has not yet been filed but for which there is a signed retention agreement that includes both
+
+                                  17   FNF and Roche. Id. at 77:22-78:18. Freedman is still “personal friends with” Roche and their
+
+                                  18   “wives are friends,” id. at 82:7-15, and Freedman agreed it was fair to say that he was “still in
+
+                                  19   contact with [Roche] regularly” since Roche’s departure. Id. at 105:4-14.
+
+                                  20          The other conclusion driven by the record is that there is serious doubt about the ability of
+
+                                  21   FNF to litigate this case in the best interests of the class. FNF’s docket entries manifest undue
+
+                                  22   attention to its own interests and concerns, with scant mention of the class and its claims. FNF’s
+
+                                  23   discovery dispute letter, Dkt. No. 98, and ensuing motion to strike briefing illustrate the problem.
+
+                                  24   In the discovery letter, FNF said that its 30(b)(6) deposition transcript needed to be designated
+
+                                  25   “attorneys’ eyes only” because, among other reasons, “FNF reasonably believes that defendants
+
+                                  26   will either publicize the deposition testimony or otherwise use it to harm FNF and others.” Id. at
+
+                                  27   2. FNF went on to say that “defendants apparently have . . . made threats on Mr. Roche’s life,
+
+                                  28   necessitating FBI involvement,” and that this is “consistent with what FNF believes is a pattern of
+                                                                                         7
+                                   1   vindictive and dangerous behavior from defendant Williams, who has previously offered
+
+                                   2   ‘reward[s]’ to those who expose his critics’ identities, and allegedly engaged in domestic
+
+                                   3   violence.” Id. at 3 (internal citations omitted). These grave and inflammatory accusations were
+
+                                   4   not necessary for FNF’s sealing request, certainly not in that form. Defendants responded by
+
+                                   5   asking to strike the statements about the “threats on Mr. Roche’s life” as “improper and
+
+                                   6   unsupported,” and “scandalous.” Dkt. No. 104. In response, FNF submitted the declaration of
+
+                                   7   Eric Rosen, a partner at FNF and its general counsel, to the effect that he had “learned from an
+
+                                   8   associate at FNF that employees and/or owners of Dfinity were planning and/or discussing
+
+                                   9   physically harming Mr. Roche.” Dkt. No. 108-1 (Rosen Decl.) ¶ 3. The FNF associate had
+
+                                  10   acquired this ostensible information from a “friend, who is a lawyer in New York,” and the friend
+
+                                  11   in turn had heard from others that “they had learned from others that people associated with
+
+                                  12   Dfinity were planning to kill Mr. Roche.” Id. ¶ 6. Attorney Rosen also stated that the relayed
+
+
+ United States District Court
+                                  13   information included “that Mr. Roche was being targeted because he was ‘messing with people’s
+
+                                  14   money,’ referring to this lawsuit against defendants,” and that Rosen had “provided this
+
+                                  15   information to the FBI to seek advice on what needed to be done, if anything, to secure
+
+
+
+Northern District of California
+                                  16   Mr. Roche’s safety.” Id. ¶¶ 6, 8.
+
+                                  17          The Court need not determine the truth of attorney Rosen’s statements or the multiple
+
+                                  18   levels of hearsay on which they are based. What matters for present purposes is that FNF and its
+
+                                  19   lawyers remain deeply immersed in a toxic perception of the defendants in this case, to the extent
+
+                                  20   of accusing defendants of an intent to commit murder or cause serious bodily harm. There is no
+
+                                  21   way the attorneys at FNF will be able to adequately discharge their fiduciary duties to the class as
+
+                                  22   a whole in these circumstances. FNF’s litigation strategy and conduct will be subject to constant
+
+                                  23   second-guessing on the basis of its extreme animosity toward defendants, and the record provides
+
+                                  24   no assurance that FNF would be able to put its views to the side in service to the class.
+
+                                  25          The record has other powerful indications that the best interests of the class are not in the
+
+                                  26   forefront of FNF’s priorities. Another example is in FNF’s request to show that “many of the
+
+                                  27   videos on which defendants rely are the product of manipulation, are inauthentic, and contain
+
+                                  28   indicators consistent with the use of deepfake technology.” Dkt. No. 109 at 1. This is a complete
+                                                                                         8
+                                   1   flipflop from FNF’s prior representations that it would not “offer an excuse for Mr. Roche’s
+
+                                   2   statements; the statements are not excusable,” and that “[t]o address those concerns, and
+
+                                   3   considering his inappropriate statements, Mr. Roche is no longer with the firm.” Dkt. No. 76 at 6.
+
+                                   4   Attorney Roche expressly “acknowledge[d] that, during the videos, I made statements that were
+
+                                   5   highly inappropriate and that I deeply regret.” Dkt. No. 76-15 ¶ 5. In effect, FNF has renounced
+
+                                   6   these forthright representations in favor of alleging that the whole thing was a fake. This
+
+                                   7   underscores the concern that FNF is heavily invested in protecting its own interests, to the
+
+                                   8   detriment of those of the class.
+
+                                   9          There are serious consequences that plausibly could flow from FNF’s fixation with its own
+
+                                  10   affairs. At the motion hearing, the Court posited that “an opportunity to settle the case on terms
+
+                                  11   favorable to the putative class [might] present[] itself” but that FNF might have “such a vendetta
+
+                                  12   against the defendant” that it might pass on the opportunity to settle, to the detriment of the class.
+
+
+ United States District Court
+                                  13   Hrg. Tr. at 11:11-17. The evidence developed after the hearing has made this concern even more
+
+                                  14   pressing. Countless other litigation decisions may be adversely influenced in the same way.
+
+                                  15          Overall, the record demonstrates that FNF is unduly focused on “defendants’ animosity
+
+
+
+Northern District of California
+                                  16   toward plaintiffs’ counsel,” which it has raised at every possible turn. See, e.g., Dkt. No. 102 at 4
+
+                                  17   (plaintiffs’ motion to seal). The Court concludes that FNF is not able to “fairly and adequately
+
+                                  18   represent the interests of the class.” Fed. R. Civ. P. 23(g)(4). To the extent the prior appointment
+
+                                  19   of Roche Freedman LLP, Dkt. No. 42, was a basis for FNF to be deemed lead counsel, the
+
+                                  20   appointment is withdrawn and the order is dissolved with respect to counsel. Henry Rodriguez
+
+                                  21   remains lead plaintiff. Defendants’ disqualification motion, Dkt. No. 72, is terminated in all other
+
+                                  22   respects.
+
+                                  23   II.    PENDING SEALING AND ADMINISTRATIVE MOTIONS
+                                  24          FNF’s request for a protective order designating its 30(b)(6) deposition transcript as
+
+                                  25   “Attorneys’ Eyes Only,” Dkt. No. 98, is granted. To be clear, FNF’s statements about defendants’
+
+                                  26   alleged threats as to Roche, id. at 3, played no role in the Court’s analysis. But even without that
+
+                                  27   unnecessary detail, the requested sealing is appropriate because the deposition transcript is wholly
+
+                                  28   “unrelated to the merits of” the “underlying cause[s] of action” in this case. Center for Auto Safety
+                                                                                          9
+                                   1   v. Chrysler Group, LLC, 809 F.3d 1092, 1097-99 (9th Cir. 2016). And the filings received from
+
+                                   2   both sides sufficiently indicate the possibility that the deposition transcript could be used “to
+
+                                   3   ‘gratify private spite or promote public scandal,’” or cause “annoyance” or “embarrassment” to
+
+                                   4   FNF, which ultimately is not a party to the underlying action. Id. For the same reasons,
+
+                                   5   defendants’ motion to seal, Dkt. No. 99, is granted to the extent requested by FNF, Dkt. No. 105-
+
+                                   6   1. FNF’s motion to seal, Dkt. No. 102, is also granted.
+
+                                   7          Defendants’ motion to strike FNF’s statements about the alleged threats on Roche, Dkt.
+
+                                   8   No. 104, is granted for the reasons already discussed. FNF’s motion for leave to file a notice of
+
+                                   9   supplemental evidence, Dkt. No. 109, is denied.
+
+                                  10                                              CONCLUSION
+
+                                  11          Lead plaintiff Henry Rodriguez may propose alternate lead counsel for the Court’s
+
+                                  12   consideration and approval by August 7, 2023. A status conference is set for August 17, 2023, at
+
+
+ United States District Court
+                                  13   10:00 a.m. in Courtroom 11, 450 Golden Gate Ave., San Francisco. The case is stayed and will be
+
+                                  14   administratively closed in the interim.
+
+                                  15          The record indicates that Ocampo v. Dfinity USA Research LLC et al., Case No. 21-cv-
+
+
+
+Northern District of California
+                                  16   03843 in the Superior Court of California, County of San Mateo, is a case that overlaps
+
+                                  17   significantly with this one. See Dkt. Nos. 66, 67. Defendants’ counsel are directed to provide a
+
+                                  18   courtesy copy of this order to plaintiffs’ counsel in the Ocampo action by May 15, 2023.
+
+                                  19          IT IS SO ORDERED.
+
+                                  20   Dated: May 8, 2023
+
+                                  21
+
+                                  22
+                                                                                                     JAMES DONATO
+                                  23                                                                 United States District Judge
+                                  24
+
+                                  25
+
+                                  26
+                                  27
+
+                                  28
+                                                                                         10
+

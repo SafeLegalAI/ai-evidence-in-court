@@ -1,0 +1,39 @@
+Judge’s AI-Video Rejection Evokes Broader Tech, Evidence Issues https://www.bloomberglaw.com/product/blaw/bloomberglawnews/b...
+Bloomberg Law: © Research Trail » =} My Work v fH Client Matter v @ Help v
+& Account v
+Bloomberg L... » | Search Bloomberg Law News ® Select Sources Go
+Home Practice Litigation Transactional Business Practitioner News& Laws & Secondary
+Ps Centers eS v v Tools v Analysis Regulations Sources
+v v v v
+4 Manage Subscription
+rape Law
+April 9, 2024, 8:01 AM PDT
+Judge’s Al-Video Rejection Evokes Broader Tech, Evidence Issues
+By Kyle Jahner
+@ Al-enhanced video excluded as untested in criminal case
+© Unease with ‘black box’ echoes earlier tech used in court
+Bloomberg Law News 2024-04-09T17:12:17852488842-04:00
+Judge's Al-Video Rejection Evokes Broader Tech, Evidence Issues
+By Kyle Jahner 2024-04-09T11:01:03000-04:00
+Al-enhanced video excluded as untested in criminal case
+Unease with ‘black box’ echoes earlier tech used in court
+A Washington state judge's exclusion of Al-enhanced video evidence puts a novel twist on controversial issues regarding what
+technologies to put in front of juries.
+The video-offered by a man accused of shooting five people, killing three, outside a Seattle bar—relied on an artificial intelligence
+model that hadn't been validated and could lead to confusion, King County Superior Court Judge Leroy McCullough ruled March
+29. The model altered pixels with opaque methods and hadn't been peer reviewed, which could have led to “a time-consuming
+trial within a trial” over its reliability, McCullough said.
+The ruling comes as Al's capabilities and applications continue to proliferate and raises questions about how to draw boundaries
+regarding the role Al-generated evidence can play in courts. And while Al technology is new, concerns about the ability to inspect, |
+vet, and challenge it mirror ones legal professionals say persist for other technologies, often without satisfactory answers.
+“That kind of black-box process can’t be explained in court,” criminal law professor Andrew Guthrie Ferguson of American
+University said of large-language models. “That should be troubling for courts and judges.”
+While in the Washington case, it was defendant Joshua Puloka seeking to introduce the evidence to support his claim of self-
+defense, it's more often prosecutors pushing courts—often successfully-to admit evidence generated or enhanced by technology,
+criminal law professor Rebecca Wexler of University of California at Berkeley said. Attention to Al "is sorely needed,” she said, but
+courts also fail to vet other technologies, and vendors often rely on contract law and trade secrets to evade transparency and
+scrutiny.
+“It's an opportunity to fix general problems that apply to Al technology and also have applied to forensic software for a long time,”
+said Wexler, who has testified before Congress on Al-based evidence. “There’s nothing about Al specifically that we should
+blanketly exclude it. But we should hold Al-makers to high standards to make sure the tools are fair and accountable.”
+lof3 4/9/2024, 2:12 PM

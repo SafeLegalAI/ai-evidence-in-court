@@ -1,0 +1,363 @@
+Kirkham v. City of Bellingham et al                                                                                     Doc. 59
+
+
+
+
+         1
+
+         2
+
+         3
+
+         4
+
+         5                                UNITED STATES DISTRICT COURT
+                                         WESTERN DISTRICT OF WASHINGTON
+         6                                         AT SEATTLE
+
+         7    RICHARD ARTHUR KIRKHAM,
+         8                               Plaintiff,                 Case No. C24-1625-DGE-SKV
+
+         9            v.                                            ORDER RE: MOTIONS FOR ORDER
+                                                                    OF INDIGENCY, APPOINTMENT OF
+        10    CITY OF BELLINGHAM, et al.,                           COUNSEL, AND APPOINTMENT OF
+                                                                    NEUTRAL EXPERT
+        11                               Defendants.
+
+        12
+
+        13            Plaintiff proceeds pro se in this 42 U.S.C. § 1983 civil rights action. Now pending before
+
+        14    the Court is Plaintiff’s Motion for Order of Indigency and Appointment of Counsel, Dkt. 47, and
+
+        15    Motion for Appointment of Neutral Expert Under Federal Rule of Evidence 706, Dkt. 46.
+
+        16            Plaintiff raises claims relating to events leading up to and occurring on the date of his
+
+        17    September 2023 arrest by officers of the Bellingham Police Department. See Dkt. 38. He
+
+        18    asserts, as central to his claims and relevant to the pending motions, that Defendants engaged in a
+
+        19    conspiracy to intentionally assault him and then alter the footage of body-worn cameras (BWC)
+
+        20    using artificial intelligence (AI) to create “deepfake” video footage to conceal their misconduct
+
+        21    and avoid accountability. See Dkts. 46-48. He asserts that the BWCs at issue are employed by
+
+        22    virtually all law enforcement in the United States and are uploaded to Evidence.com for shared
+
+        23    use in law enforcement, judicial, and disciplinary proceedings. See id.
+
+
+              ORDER RE: MOTIONS FOR ORDER OF
+              INDIGENCY, APPOINTMENT OF COUNSEL,
+              AND APPOINTMENT OF NEUTRAL EXPERT - 1
+
+                                                                                                              Dockets.Justia.com
+ 1           Defendants deny Plaintiff’s allegations of a conspiracy and evidence tampering and
+
+ 2   otherwise oppose his motions. Dkt. 61. The Court, having considered the motions, opposition,
+
+ 3   and Plaintiff’s reply, Dkt. 57, now finds as follows:
+
+ 4           (1)      There is no right to have counsel appointed in a civil case, including cases
+
+ 5   brought under § 1983. See United States v. 30.64 Acres of Land, 795 F.2d 796, 801 (9th Cir.
+
+ 6   1986). The appointment of counsel in a civil case “is a privilege and not a right.” Garden v.
+
+ 7   Madden, 352 F.2d 792, 793 (9th Cir. 1965). Although the Court may, under 28 U.S.C. §
+
+ 8   1915(e)(1), request counsel to represent a party proceeding in forma pauperis (IFP), it may do so
+
+ 9   only upon a showing of exceptional circumstances. Wilborn v. Escalderon, 789 F.2d 1328, 1331
+
+10   (9th Cir. 1986). 1 A finding of exceptional circumstances requires an evaluation of both the
+
+11   likelihood of success on the merits and the ability of the individual to articulate his claims pro se
+
+12   in light of the complexity of the legal issues involved. Id. See also Agyeman v. Corr. Corp. of
+
+13   Am., 390 F.3d 1101, 1103 (9th Cir. 2004) (the decision to appoint counsel under § 1915 “is
+
+14   within the sound discretion of the trial court and is granted only in exceptional circumstances.”)
+
+15   (citation omitted).
+
+16           The Court denied Plaintiff’s request for the appointment of counsel on two prior
+
+17   occasions, noting he was not proceeding IFP and finding a failure to demonstrate exceptional
+
+18   circumstances. Dkts. 8 & 15. The Court also denied a prior request for an order of indigency
+
+19
+
+20
+             1
+               It should be noted that the applicable statute does not authorize the Court to force a lawyer to
+21
+     take a case, and that the Court does not have staff attorneys standing by to represent pro se litigants.
+     Instead, the Court may only “request” that an attorney represent an indigent litigant. 28 U.S.C. §
+22   1915(e)(1); see also Mallard v. U.S. Dist. Ct. for S. Dist. of Iowa, 490 U.S. 296, 307 (1989) (holding that
+     § 1915(e) authorizes “courts to ask but not compel lawyers to represent indigent litigants.”) Also, while
+23   the Court has adopted a plan for recruiting counsel to represent indigent litigants in civil rights actions pro
+     bono, see W.D. Wash. General Order 07-23, that process is undertaken only upon a finding of exceptional
+     circumstances.
+     ORDER RE: MOTIONS FOR ORDER OF
+     INDIGENCY, APPOINTMENT OF COUNSEL,
+     AND APPOINTMENT OF NEUTRAL EXPERT - 2
+ 1   due to Plaintiff’s insufficient showing, and directed the Clerk to send Plaintiff a copy of the
+
+ 2   Court’s IFP application. Dkt. 15.
+
+ 3          In the motion now pending before the Court, Plaintiff asserts that he did not receive a
+
+ 4   copy of this Court’s IFP application, denies that IFP status is a prerequisite to the appointment of
+
+ 5   counsel, and attests to his indigency, asserting by declaration that he has had no income for close
+
+ 6   to two years and has no assets or other sources of money that would allow him to afford counsel.
+
+ 7   See Dkt. 47 & Dkt. 47-1. Plaintiff also asserts his inability to represent himself pro se, pointing
+
+ 8   to, for example, his lack of education, indigency, and the fact that he is subject to phone
+
+ 9   restrictions. He describes his dogged pursuit of counsel to assist him in these proceedings,
+
+10   asserts his inability to further articulate and advance his claims given their legal and factual
+
+11   complexity, and observes that the appointment of counsel would provide for more efficient and
+
+12   effective proceedings. In asserting a likelihood of success on the merits, Plaintiff points to the
+
+13   consistency of his contentions regarding the alleged evidence tampering, the evidence he
+
+14   submitted with his pleading, and the fact that he has sworn that his claims are true under the
+
+15   penalty of perjury. He also asserts extraordinary circumstances warranting the appointment of
+
+16   counsel given that his pleadings “allege facts and raise issues that no court in America has ever
+
+17   seen[,]” that “there has never been an assertion in our courts, plausible or otherwise, that Police
+
+18   used AI to create deepfake footage then exploited technology vulnerabilities to replace video
+
+19   evidence which showed them criminally assaulting a citizen[,]” and that “[t]here has never been
+
+20   a case of greater national importance filed by a pro se litigant.” Dkt. 47 at 8.
+
+21          The Court finds no change in circumstances since the prior denials of Plaintiff’s requests
+
+22   for appointment of counsel. That is, even assuming the information submitted with the current
+
+23
+
+
+     ORDER RE: MOTIONS FOR ORDER OF
+     INDIGENCY, APPOINTMENT OF COUNSEL,
+     AND APPOINTMENT OF NEUTRAL EXPERT - 3
+ 1   motion would suffice to allow for a finding of indigency, 2 Plaintiff fails to demonstrate either a
+
+ 2   likelihood of success on the merits or an inability to articulate his claims pro se.
+
+ 3           First, neither the consistency of Plaintiff’s allegations, nor his fervent belief in their truth
+
+ 4   and importance suffices to show a likelihood of success on the merits. See, e.g., Bailey v.
+
+ 5   Lawford, 835 F. Supp. 550, 552 (S.D. Cal. 1993) (finding that, where plaintiff offered “no
+
+ 6   evidence other than his own assertions to support his claims[,]” he failed to satisfy the first
+
+ 7   Wilborn factor). The reference to materials attached to his pleading, see Dkt. 38, Ex. 1, is
+
+ 8   likewise insufficient. In fact, Defendants rely on those same materials to support their pending
+
+ 9   Motion to Dismiss. See Dkt. 49.
+
+10           Second, Plaintiff does not show an inability to articulate his claims pro se. To the
+
+11   contrary, Plaintiff’s numerous filings reflect both a solid grasp of basic litigation procedures and
+
+12   a notable ability to clearly and effectively present his arguments. See, e.g., Palmer v. Valdez,
+
+13   560 F.3d 965, 970 (9th Cir. 2009) (finding that the second Wilborn factor was not satisfied where
+
+14   Plaintiff “was well-organized, made clear points, and presented evidence effectively”). Further,
+
+15   Plaintiff’s incarceration and any associated restrictions and limitations, his indigency, and his
+
+16   lack of legal training are not exceptional; they are, instead, the type of difficulties encountered by
+
+17   many pro se litigants. Wood v. Housewright, 900 F.2d 1332, 1335-36 (9th Cir. 1990).
+
+18   Moreover, those difficulties, including any phone restrictions, have not stopped Plaintiff from
+
+19
+
+20
+             2
+               As the Court previously advised, a litigant seeking to proceed IFP must file an affidavit that
+     includes a statement of assets and that the person is unable to pay fees. 28 U.S.C. § 1915(a)(1). Pursuant
+     to Local Civil Rule (LCR) 3(c), a party seeking to proceed IFP under 28 U.S.C. § 1915 shall complete the
+21
+     IFP application “approved for use in this district for the specific type of case” and a written consent for
+     payment of costs form. LCR 3(c)(1)-(2). The declaration submitted by Plaintiff in support of his current
+22   motion, see Dkt. 17-1, does not satisfy LCR 3(c). Also, while Plaintiff asserts that he did not receive a
+     copy of an IFP application with the Court’s February 2025 Order, there is no indication he requested a
+23   copy of the application before filing his third motion for the appointment of counsel in August 2025. The
+     Court, in any event and for the reasons discussed above, finds no basis for appointing counsel and
+     therefore no need to further address his related request for an order finding him indigent.
+     ORDER RE: MOTIONS FOR ORDER OF
+     INDIGENCY, APPOINTMENT OF COUNSEL,
+     AND APPOINTMENT OF NEUTRAL EXPERT - 4
+ 1   actively pursuing resolution of his claims. He attests, for example, that he has written to some
+
+ 2   fifty law firms and nongovernmental agencies, spoken with several attorneys/firms, diligently
+
+ 3   pursued other forms of resolution through emails, complaints, and tort claims, secured financial
+
+ 4   and other assistance with this litigation from a friend, and spent months studying and researching
+
+ 5   legal and technological issues relevant to his claims. See Dkt. 47 & Dkt. 47-1. See also Dkt. 46
+
+ 6   (providing a “primer on relevant complex and technological issues” with discussion of and
+
+ 7   citations to case law, law review articles, and other sources).
+
+ 8          Plaintiff does not, in sum, demonstrate exceptional circumstances warranting the
+
+ 9   appointment of counsel. The motion seeking the appointment of counsel and related request for
+
+10   an order of indigency, Dkt. 47, is therefore DENIED.
+
+11          (2)      The Court may appoint an expert under Federal Rule of Evidence 706. See
+
+12   Walker v. Am. Home Shield Long Term Disability Plan, 180 F.3d 1065, 1071 (9th Cir. 1999).
+
+13   “The determination to appoint an expert rests solely in the court’s discretion and turns upon the
+
+14   complexity of the matters to be determined and the need for neutral expert review.” Turner v.
+
+15   Ralkey, No. C20-5472-BHS-DWC, 2021 WL 135855 at *2 (W.D. Wash. Jan. 13, 2021) (quoting
+
+16   Ledford v. Sullivan, 105 F.3d 354, 358-59 (7th Cir. 1997)). Such an appointment may, for
+
+17   example, be appropriate where “scientific, technical, or other specialized knowledge will assist
+
+18   the trier of fact to understand the evidence or decide a fact in issue[.]” Slack v. Kariko, No. C20-
+
+19   05508-RSM-SKV, 2022 WL 2703990, at *1 (W.D. Wash. July 12, 2022) (internal quotation
+
+20   marks and quoted sources omitted). However, Rule 706 “does not contemplate the appointment
+
+21   of, and compensation for, an expert to aid one of the parties.’” Id. (quoting Walker v. Woodford,
+
+22   No. C05-1705, 2008 WL 793413, at *1 (S.D. Cal., March 24, 2008)).
+
+23
+
+
+     ORDER RE: MOTIONS FOR ORDER OF
+     INDIGENCY, APPOINTMENT OF COUNSEL,
+     AND APPOINTMENT OF NEUTRAL EXPERT - 5
+ 1          Plaintiff argues the appointment of a neutral expert is warranted because: (1) the
+
+ 2   authenticity of the BWC footage cannot be determined without a forensic examination, and the
+
+ 3   expert will therefore assist the trier of fact and promote accurate fact finding; (2) his sworn
+
+ 4   complaint attesting that the footage was altered and Defendants’ denial of the same is evidence
+
+ 5   of a serious dispute than can be resolved through expert testimony; (3) his phone restrictions
+
+ 6   prevent resolution of this issue without a neutral expert; (4) the seriousness of his claims and
+
+ 7   their implications are circumstances entitling him to special consideration; and (5) the
+
+ 8   appointment of a neutral expert favors both parties by allowing for resolution of the dispute. See
+
+ 9   Dkt. 46 at 4-8 (citing, inter alia, Williams v. Lawson, No. C21-5536-MJP, 2023 WL 8545277, at
+
+10   *1-2 (W.D. Wash. Dec. 11, 2023) (describing factors relevant to the assessment of a request of a
+
+11   neutral expert and addressed in Plaintiff’s motion); Slack, 2022 WL 2703990, at *1-2).
+
+12          The Court notes, as an initial matter, a lack of clarity as to the complexity of the issues in
+
+13   this case. Plaintiff rests his assertion of complexity on his allegations of evidence tampering.
+
+14   However, as reflected in the discussion above, Plaintiff lacks any evidence other than his own
+
+15   assertions that evidence tampering has occurred. Rule 706 does not provide for the appointment
+
+16   of an expert to assist Plaintiff in developing or proving those assertions. See, e.g., Wilkins v.
+
+17   Barber, 562 F. Supp. 3d 943, 946 (E.D. Cal. 2021) (“Courts do not invoke Rule 706 simply to
+
+18   ‘appoint an expert on behalf of an indigent civil party.’”) (quoted source omitted).
+
+19          Plaintiff’s motion is also premature. “Ultimately, the most important question a court
+
+20   must consider when deciding whether to appoint a neutral expert witness is whether doing so
+
+21   will promote accurate factfinding.” Gorton v. Todd, 793 F. Supp. 2d 1171, 1179 (E.D. Cal.
+
+22   2011) (citation omitted). The Court cannot answer that question at this juncture. This matter is
+
+23   proceeding at a very early stage of litigation. The Court recently struck all pretrial deadlines
+
+
+     ORDER RE: MOTIONS FOR ORDER OF
+     INDIGENCY, APPOINTMENT OF COUNSEL,
+     AND APPOINTMENT OF NEUTRAL EXPERT - 6
+ 1   pending resolution of Defendants’ motion to dismiss. See Dkt. 52. As Defendants observe,
+
+ 2   resolution of that motion will not involve consideration of video footage and could obviate the
+
+ 3   need for further proceedings.
+
+ 4          The Court, in sum, finds Plaintiff’s request for the appointment of a neutral expert
+
+ 5   premature and otherwise unwarranted. The motion for an appointment of a neutral expert under
+
+ 6   Rule 706, Dkt. 46, is therefore DENIED.
+
+ 7          (3)     The Clerk is directed to send copies of this Order to Plaintiff and to the Honorable
+
+ 8   David G. Estudillo.
+
+ 9          Dated this 9th day of October, 2025.
+
+10
+                                                          A
+11                                                        S. KATE VAUGHAN
+                                                          United States Magistrate Judge
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+
+     ORDER RE: MOTIONS FOR ORDER OF
+     INDIGENCY, APPOINTMENT OF COUNSEL,
+     AND APPOINTMENT OF NEUTRAL EXPERT - 7
+

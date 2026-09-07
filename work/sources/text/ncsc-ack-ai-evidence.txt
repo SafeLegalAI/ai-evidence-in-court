@@ -1,0 +1,172 @@
+Bench Card: Evaluating Acknowledged AI-Generated Evidence
+Introduction:
+While fabricated evidence is not a new problem in courts, the increased accessibility of artificial
+intelligence (AI) has made it easier than ever to enhance or alter evidence, or to create fake digital
+evidence that looks convincingly real. Meanwhile, the increased sophistication of AI technology has
+made detecting such manipulation more difficult than ever. Issues related to evidence that is actually
+or allegedly generated or altered by AI may take two forms: one where the use of AI is
+acknowledged, such as enhancement of a photo or audio (“acknowledged AI-generated evidence”),
+and a second where evidence is offered by one party and another party challenges its authenticity
+on grounds suggesting possible generation or alteration using AI (alleged “unacknowledged AIgenerated evidence”). This bench card addresses acknowledged AI-generated evidence.
+This category of submission for consideration by the Court does not fall into the “fabricated”
+category. Instead, this is a demonstrative or evidentiary exhibit created with the assistance of AI.
+Where the use of AI is acknowledged, the determination as to the appropriate use is more closely
+related to traditional evidentiary questions. AI-generated evidence encompasses a wide range of
+materials, from documents, photos, and video and audio communications synthesized by AI to data
+analysis and patterns identified through machine learning algorithms. The question of admissibility of
+evidence is always based on whether it is authentic, helpful to the trier of fact, and not unduly
+prejudicial. ANY USE OF AI-GENERATED EXHIBITS, WHETHER DEMONSTRATIVE OR
+EVIDENCE, SHOULD BE CLEARLY LABELLED AS SUCH FOR THE FACT-FINDER AT ALL
+TIMES. This bench card suggests questions or areas of inquiry a trial court may consider using to
+help inform a determination whether to admit acknowledged AI-generated evidence.
+
+Typical Uses of AI-generated exhibits that a court may see
+Visualizing complex scenarios: AI can create realistic 3D models or animations to depict accident
+reconstructions, crime scene layouts, medical procedures, or product malfunctions, making them
+easier for juries to grasp, such as:
+•
+
+Medical malpractice cases: Using 3D models to visualize injuries or anatomical details.
+
+•
+
+Accident reconstruction cases: Creating simulations of car crashes based on accident
+data, including virtual reality experiences.
+
+•
+
+Intellectual property disputes: Visualizing design concepts or patent infringement claims
+through 3D modeling.
+
+•
+
+Expert witness support: AI can be used in a variety of settings to generate simulations or
+models that support an expert witness's testimony, allowing them to illustrate complex
+technical concepts more effectively.
+
+Data analysis and visualization: AI can analyze large datasets to identify patterns and trends, then
+present them in clear charts, graphs, or maps to support arguments in court.
+Digital evidence enhancement: AI can enhance underlying evidence through technology or, in the
+instance of image or audio manipulation, by sharpening pixels, etc. A vital threshold question to ask
+is whether the AI tool used to enhance the underlying evidence has been proven to be sufficiently
+understood and reliable. While potentially problematic, AI can enhance blurry images, identify
+individuals from surveillance footage, or even create facial reconstructions based on descriptions.
+
+These tools are increasingly prevalent in criminal investigations. It is critical to establish process
+reliability as to what was done with the source material, the exact nature of any alteration or
+enhancement, preferably with a step-by-step log, and to preserve the source material in native
+format for any comparison. Any alterations to the evidence, in the form of edits, cuts, or other
+adjustments, should be disclosed and considered by the Court. A proper chain of custody for the
+evidence should be submitted to the court, consisting of a chronological record, ideally with dates,
+times, locations, and individuals responsible. If gaps in custody exist, consider requiring
+corroborating evidence.
+AI identification tools: AI processes can also provide important factual information, which may be
+direct evidence. Tools such as biometric identification, which can be used to authenticate voiceprints,
+facial recognition, and even iris or vein recognition, can be used to identify an individual. While such
+tools can be helpful, these are important considerations:
+1. Were any specialized forensic tools or methods used to verify the evidence's integrity?
+2. If AI tools were used to authenticate or establish a fact regarding the evidence, for example, the
+individual in the video is the defendant based on a facial recognition program—has that AI tool
+been proven to be sufficiently reliable?
+
+Questions for the Proﬀering Party
+1. Nature: What is the nature of what is being sought to be introduced or submitted? Is it to be
+submitted in evidence or to be used as a demonstrative exhibit?
+Guidance: AI may be used to create anything from an animation purporting to show how an
+accident occurred to a data analysis summarizing complex financial information. Demonstrative
+evidence is a visual, graphic, or sound aid that helps explain or illustrate a witness's testimony. It
+is often used in trials to clarify and simplify complex evidence, but it is not evidence submitted to
+the jury.
+2. Creation: What specific data (nature, source) and prompt or search was delivered to the AI tool
+to create the evidence? What were the instructions (the prompt) given to the AI tool? Was any
+data excluded from the underlying data set? By whom and based on what standard? What are
+the facts upon which the AI outcome is based? What are the sources of those facts (such as
+witness statements, scene photographs, or tax returns) and how were those sources obtained?
+Are there witnesses to testify with first-hand knowledge of the underlying information?
+Guidance: AI-generated evidence must be demonstrably accurate, reliable, and not improperly
+manipulated to avoid being deemed inadmissible. The quality of AI-generated submissions
+depends heavily on the quality of the data input.
+If the AI-generated exhibit is being presented before a jury, consider a tailored limiting
+instruction advising of the character and process of the exhibit's creation and that the
+jury is still entitled to weigh believability just like any other evidence.
+3. Verification and corroboration: Is it a fair and accurate representation of the underlying
+evidence? Is it a fair and accurate representation of what it purports to be? Is it replicable? Was
+there any human oversight or review for accuracy? What are the markers of accuracy and
+consistency for this item? Can eyewitnesses or experts examine the item to ensure it is a fair
+and accurate representation of the underlying evidence?
+
+Guidance: AI can be used to create demonstrative evidence by generating visuals like
+animations, 3D models or virtual reality models, or simulations that illustrate complex concepts or
+events in a case, helping jurors better understand the situation, often through tools like
+computer-aided design, data visualization, and generative AI. However, concerns regarding the
+authenticity of such AI-generated evidence, as well as the possibility of using AI to fabricate or
+alter evidence (that is, deepfakes) need to be carefully considered when presenting such
+evidence in court.
+4. Deepfakes: Has any party raised concern about deepfakes?
+Guidance: The ability to create highly realistic but fake images or videos raises ethical concerns
+about potential manipulation of evidence. Just because a party acknowledges using AI doesn’t
+mean a deepfake situation cannot occur. Courts should entertain arguments if a party objects
+and raises questions about fake evidence. In those instances, please see the alternative bench
+card for evaluating potentially unacknowledged AI-generated evidence, while recognizing that
+differences of opinion, such as objections to expert reconstructions, do not necessarily mean that
+such evidence is a deepfake.
+5. Undue impacts: Could the digital depiction unduly impact the perception or memory of the finder
+of fact?
+Guidance: A jury may find the experience offered by AI-created evidence more credible than
+other forms of evidence because of the richness of the media. What is the relationship between
+the tendered exhibit and the fact finder’s experience? Does it raise concerns under Federal
+Rules of Evidence Rule 403 or your state law equivalent?
+6. “Silent witness theory”: Does the exhibit relate to traditional “silent witness theory” evidence?
+Has the evidence been altered, edited, or processed in any way since creation, and if AI was
+used, how was it used?
+Guidance: The "silent witness theory" in legal terms refers to the idea that photographic or video
+evidence can be admitted as reliable proof of what it depicts, even without a witness to verify its
+accuracy, as long as the process that created the evidence is proven to be reliable; essentially,
+the evidence "speaks for itself" like a silent witness. A typical example is a store surveillance
+video in which the video's operational procedures and preservation steps provide sufficient
+evidence of its reliability to be used in court, even though no one was in the store to verify
+accuracy as to what the camera showed at 2 a.m. Suppose AI is used to enhance the evidence.
+In that case, a second step assessing the AI process's reliability needs to occur before
+admission.
+7. Qualified Expert: Can a qualified expert explain the processes used to handle and verify this AIgenerated evidence?
+
+Judicial Actions
+•
+•
+•
+
+•
+•
+•
+
+•
+
+•
+•
+
+Weigh evidentiary value vs. prejudicial risk: Balance the probative value of the evidence
+against the risk of unfair prejudice.
+Be mindful of the parties’ technical knowledge: Consider the parties' technical capabilities,
+especially in cases without legal representation.
+Request additional information: If the proffering party’s answers to the questions above are
+incomplete or raise concerns, then request clarification, supporting documents and files, or
+expert testimony.
+Issue orders for preservation: Ensure the evidence is preserved in its current (and, if
+applicable, original) state to prevent further alteration or deletion.
+Appoint a neutral expert: In complex cases, consider appointing an independent expert to
+examine the evidence and provide an unbiased assessment.
+Weigh evidence cautiously: Approach AI-generated content with heightened skepticism,
+considering its potential for manipulation and the weight jurors might afford digital evidence,
+especially visual and audio evidence.
+Determine admissibility: Based on the answers to the questions set forth above and expert
+opinions (if applicable), determine the admissibility of the evidence under applicable rules of
+evidence.
+Document the rationale for the determination: Clearly state the reasons for admitting or
+excluding the evidence, addressing its potential AI generation.
+Stay updated on AI knowledge: Stay informed about developments in AI technology and its
+potential impact on digital evidence.
+
+Note: This bench card provides general guidance. Specific legal standards and procedures may vary
+depending on the jurisdiction and the circumstances of the case before the court.
+
+

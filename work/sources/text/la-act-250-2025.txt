@@ -1,0 +1,1182 @@
+                                                                                    ENROLLED
+
+     2025 Regular Session
+                                                                  ACT No. 250
+     HOUSE BILL NO. 178
+
+     BY REPRESENTATIVE MIKE JOHNSON
+
+                   (On Recommendation of the Louisiana State Law Institute)
+
+
+
+
+ 1                                            AN ACT
+
+ 2   To amend and reenact Civil Code Article 3462 and Code of Civil Procedure Articles
+
+ 3          74.2(E), 371, 684, 863(F), 927(A)(5), 966(B)(5), 1201(C), 1313(A)(4), 1351, 1551,
+
+ 4          1702(A)(5), 1811(A)(1), 1911(B), 1913(A), (C), and (D), 1914(B) and (D),
+
+ 5          1915(A)(1), (4), and (5), (B), and (C), 1974, 2088(A)(11), 2595, 3721, 4607, 4873,
+
+ 6          and 5059, to enact Code of Civil Procedure Article 1915(D), and to repeal Code of
+
+ 7          Civil Procedure Articles 74.2(F), 2088(A)(12), and 3784, relative to civil procedure;
+
+ 8          to provide for the interruption of prescription; to provide for the imposition of
+
+ 9          sanctions; to provide with respect to child custody proceedings; to provide with
+
+10          respect to attorney conduct; to provide with respect to interdicts; to provide with
+
+11          respect to objections raised by peremptory exception; to provide with respect to
+
+12          summary judgment procedure; to provide with respect to service of citation; to
+
+13          provide with respect to electronic service; to provide with respect to the issuance of
+
+14          subpoenas; to provide for pretrial and scheduling conference orders; to provide with
+
+15          respect to default judgments; to provide with respect to motions for judgment
+
+16          notwithstanding the verdict; to provide with respect to the signing of final
+
+17          judgments; to provide for notice of judgments; to provide for final, interlocutory, and
+
+18          partial judgments; to provide with respect to delays for applying for new trial; to
+
+19          provide with respect to divesting the trial court of jurisdiction; to provide with
+
+20          respect to the trial of summary proceedings; relative to methods of enforcing
+
+21          mortgages; to provide relative to civil actions; to provide with respect to provisions
+
+22          of the judgment; to provide relative to specific amounts, costs, expenses, and fees;
+
+
+
+                                            Page 1 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                    ENROLLED
+
+ 1          to provide relative to terms, conditions, procedures, and requirements; to provide
+
+ 2          relative to judicial process, collection proceedings, and sales under fieri facias; to
+
+ 3          provide with respect to partitions by licitation or by private sale; to provide with
+
+ 4          respect to the procedure to transfer to district court; to provide for the computation
+
+ 5          of time; to provide for applicability; and to provide for related matters.
+
+ 6   Be it enacted by the Legislature of Louisiana:
+
+ 7          Section 1. Civil Code Article 3462 is hereby amended and reenacted to read as
+
+ 8   follows:
+
+ 9          Art. 3462. Interruption by filing of suit action or by service of process
+
+10                  Prescription Unless otherwise expressly provided by legislation, prescription
+
+11          is interrupted when the owner commences action against the possessor, or when the
+
+12          obligee commences action against the obligor, in a court of competent jurisdiction
+
+13          and venue. If action is commenced in an incompetent court, or in an improper
+
+14          venue, prescription is interrupted only as to a defendant served by process within the
+
+15          prescriptive period. If an action is commenced in a competent court of improper
+
+16          venue, prescription is suspended for a period of seven days as to a defendant not
+
+17          served by process within the prescriptive period.
+
+18                                  Revision Comments - 2025
+
+19                  This amendment changes the law. The filing of an action in a court of
+20          competent jurisdiction will interrupt the prescriptive period even if venue is
+21          improper. There are, however, numerous more specific statutes that still require an
+22          action to be filed in a court of both competent jurisdiction and proper venue in order
+23          to interrupt prescription, including R.S. 9:5604 (professional accounting liability),
+24          5605 (legal malpractice), 5606 (professional insurance agent liability), 5607
+25          (professional engineer, surveyor, interior designer, architect, and real estate
+26          developer liability), and 5608 (action against home inspectors).
+
+27          Section 2. Code of Civil Procedure Article 863(F) is hereby amended and reenacted
+
+28   to read as follows:
+
+29          Art. 863. Signing of pleadings; effect
+
+30                                        *        *         *
+
+31                  F. A sanction authorized in Paragraph D of this Article shall not be imposed
+
+32          with respect to an original petition which that is filed within sixty days of an
+
+33          applicable prescriptive date and then voluntarily dismissed or transferred to a court
+
+
+
+                                              Page 2 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                     ENROLLED
+
+ 1          of proper venue within ninety days after its filing or on the date of a hearing on the
+
+ 2          pleading, whichever is earlier.
+
+ 3                                         *        *         *
+
+ 4          Section 3. Code of Civil Procedure Articles 74.2(E), 371, 684, 927(A)(5), 966(B)(5),
+
+ 5   1201(C), 1313(A)(4), 1351, 1551, 1702(A)(5), 1811(A)(1), 1911(B), 1913(A), (C), and (D),
+
+ 6   1914(B) and (D), 1915(A)(1), (4), and (5), (B), and (C), 1974, 2088(A)(11), 2595, 3721,
+
+ 7   4607, 4873, and 5059 are hereby amended and reenacted, and Code of Civil Procedure
+
+ 8   Article 1915(D) is hereby enacted, to read as follows:
+
+ 9          Art. 74.2. Custody proceedings; support; forum non conveniens
+
+10                                         *        *         *
+
+11                   E. For the convenience of the parties and the witnesses and in the interest of
+
+12          justice, a court, upon contradictory motion or upon its own motion after notice and
+
+13          hearing, may transfer the custody or support proceeding to another court where the
+
+14          proceeding might may have been brought.
+
+15                                         *        *         *
+
+16          Art. 371. Attorney
+
+17                   A. An attorney at law is an officer of the court. He An attorney shall
+
+18          conduct himself at all times act with decorum, and in a manner consistent with the
+
+19          dignity and authority of the court and the role which he himself that the attorney
+
+20          should play in the administration of justice.
+
+21                   B. He An attorney shall treat the court, its officers, jurors, witnesses, the
+
+22          opposing party, and opposing counsel with due respect; shall not interrupt opposing
+
+23          counsel, or otherwise interfere with or impede the orderly dispatch of judicial
+
+24          business by the court; shall not knowingly encourage or produce false evidence,
+
+25          including evidence that is artificially generated or altered by any means; and shall
+
+26          not knowingly make any misrepresentation, or otherwise impose upon or deceive the
+
+27          court.
+
+28                   C. An attorney shall exercise reasonable diligence to verify the authenticity
+
+29          of evidence before offering it to the court. If an attorney knew or should have known
+
+30          through the exercise of reasonable diligence that evidence was false or artificially
+
+
+                                               Page 3 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                       ENROLLED
+
+ 1          manipulated, the offering of that evidence without disclosure of that fact shall be
+
+ 2          considered a violation of this Article.
+
+ 3                  D. For a violation of any of the provisions of this article Article, the attorney
+
+ 4          at law subjects himself is subject to punishment for contempt of court, and such
+
+ 5          further disciplinary action as is otherwise provided by law.
+
+ 6                                          *        *         *
+
+ 7          Art. 684. Mental incompetent; interdict Interdict
+
+ 8                  A. A mental incompetent A person fully interdicted or a person whose
+
+ 9          limited interdiction specifically restricts the procedural capacity to sue does not have
+
+10          the procedural capacity to sue.
+
+11                  B. Except as otherwise provided in Articles 4431, 4554, and 4566, the
+
+12          curator is the proper plaintiff to sue to enforce a right of an interdict a person fully
+
+13          interdicted or a person whose limited interdiction specifically restricts the procedural
+
+14          capacity to sue.
+
+15                                          Comments - 2025
+
+16                   This amendment seeks to address an issue raised by the court in Walcott v.
+17          Louisiana Department of Health and Valley Services, 341 So. 3d 696 (La. App. 1
+18          Cir. 2022), in which the First Circuit held that sustaining an exception of lack of
+19          procedural capacity in a civil proceeding against a plaintiff who, in a criminal
+20          proceeding, was determined a mental incompetent but was not interdicted would
+21          leave the plaintiff with no avenue to pursue a civil claim. Under the amendment to
+22          this Article, a person determined in a criminal proceeding to be a mental incompetent
+23          has the procedural capacity to file a civil action unless that person is fully interdicted
+24          or the person's limited interdiction restricts the capacity to sue. A court may order the
+25          full interdiction of a person whose interests cannot be protected by less restrictive
+26          means. See Civil Code Article 389. A limited interdiction does not deprive the
+27          interdict of the procedural capacity to sue unless the judgment of limited interdiction
+28          specifically restricts the ability to sue. See Article 4551 and Civil Code Article 390.
+
+29                                          *        *         *
+
+30          Art. 927. Objections raised by peremptory exception
+
+31                  A. The objections that may be raised through the peremptory exception
+
+32          include but are not limited to the following:
+
+33                                          *        *         *
+
+34                  (5) No cause of action, including an objection of no cause of action in part,
+
+35          as to one or more but fewer than all of the claims, demands, issues, or theories
+
+
+
+
+                                                Page 4 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                      ENROLLED
+
+ 1          against a party, whether in an original demand, reconventional demand, cross-claim,
+
+ 2          third-party claim, or intervention.
+
+ 3                                         *        *         *
+
+ 4                                        Comments - 2025
+
+ 5                  Subparagraph (A)(5) of this Article was amended to clarify that a partial
+ 6          judgment sustaining an exception raising the objection of no cause of action may be
+ 7          appropriate when two or more actions based on the same operative facts of a single
+ 8          transaction or occurrence are cumulated. This changes the result reached by the
+ 9          Louisiana Supreme Court in Everything on Wheels Subaru, Inc. v. Subaru South.,
+10          Inc., 616 So. 2d 1234 (La. 1993).
+
+11                                         *        *         *
+
+12          Art. 966. Motion for summary judgment; procedure
+
+13                                         *        *         *
+
+14                  B. Unless extended by the court and agreed to by all of the parties, a motion
+
+15          for summary judgment shall be filed, opposed, or replied to in accordance with the
+
+16          following provisions:
+
+17                                         *        *         *
+
+18                  (5) Notwithstanding Article 1915(B)(2), the The court shall not reconsider
+
+19          or revise the granting of a motion for partial summary judgment on motion of a party
+
+20          who failed to meet the deadlines imposed by this Paragraph, nor shall the court
+
+21          consider any documents filed after those deadlines.
+
+22                                         *        *         *
+
+23          Art. 1201. Citation; waiver; delay for service
+
+24                                         *        *         *
+
+25                  C. Service of the citation shall be requested on all named defendants within
+
+26          ninety days of commencement of the action. When a supplemental or amended
+
+27          petition is filed naming any additional defendant, service of citation shall be
+
+28          requested within ninety days of its filing, and the additional defendant shall be served
+
+29          with the original petition and the supplemental or amended petition. The defendant
+
+30          may expressly waive the requirements of this Paragraph by any written waiver. The
+
+31          requirement provided by this Paragraph shall be expressly waived by a defendant
+
+32          unless the defendant files, in accordance with the provisions of Article 928, a
+
+33          declinatory exception of insufficiency of service of process specifically alleging the
+
+
+
+                                               Page 5 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                    ENROLLED
+
+ 1          failure to timely request service of citation or a contradictory motion in accordance
+
+ 2          with Article 1672(C).
+
+ 3                                        *        *         *
+
+ 4          Art. 1313. Service by mail, delivery, or electronic means
+
+ 5                 A. Except as otherwise provided by law, every pleading subsequent to the
+
+ 6          original petition, and every pleading which under an express provision of law may
+
+ 7          be served as provided in this Article, may be served either by the sheriff or by:
+
+ 8                                        *        *         *
+
+ 9                 (4) Transmitting a copy by electronic means to counsel of record, or if there
+
+10          is no counsel of record, to the adverse party, at the number or addresses expressly
+
+11          designated in a pleading or other writing for receipt of electronic service. Service
+
+12          by electronic means is complete upon transmission but is not effective and shall not
+
+13          be certified if the serving party learns that the transmission did not reach the party
+
+14          to be served. If electronic service cannot be effected in accordance with this
+
+15          Subparagraph, service may be effected in accordance with other provisions of this
+
+16          Paragraph.
+
+17                                        *        *         *
+
+18                                       Comments - 2025
+
+19                  The amendment to Subparagraph (A)(4) of this Article clarifies that if service
+20          cannot be effected by electronic means, service may be effected in accordance with
+21          the other provisions of Paragraph A. See Article 966(B)(1) and (2) providing that a
+22          motion for summary judgment, all documents in support of the motion, any
+23          opposition to the motion, and all documents in support of the opposition shall be
+24          filed and served in accordance with Subparagraph (A)(4) of this Article.
+
+25                                        *        *         *
+
+26          Art. 1351. Issuance; form
+
+27                 The clerk or judge of the court wherein the action is pending, at the request
+
+28          of the court or a party, shall issue subpoenas for the attendance of witnesses at
+
+29          hearings or trials. A subpoena shall issue under the seal of the court. It shall state
+
+30          the name of the court, and the title of the action, and shall command the attendance
+
+31          of the witness at a time and place specified, until discharged.
+
+
+
+
+                                              Page 6 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                     ENROLLED
+
+ 1                                        Comments - 2025
+
+ 2                  The amendment to this Article is not intended to remove the authority of a
+ 3          justice of the peace to issue a summons pursuant to Article 4921.2.
+
+ 4                                         *        *         *
+
+ 5          Art. 1551. Pretrial and scheduling conference; order
+
+ 6                 A. In any civil action in a district court, the court may, in its discretion,
+
+ 7          direct the attorneys for the parties to appear before it for conferences that may be
+
+ 8          conducted in chambers, by telephone, or by video teleconference to consider any of
+
+ 9          the following:
+
+10                 (1) The simplification of the issues, including the elimination of frivolous
+
+11          claims or defenses The setting of deadlines for the filing of a motion in accordance
+
+12          with Article 1425(F), motion for summary judgment, motion in limine, and any other
+
+13          pretrial motion.
+
+14                 (2) The setting of the trial and the deadline for the filing of any jury bond.
+
+15                 (3)   The necessity or desirability of, and the deadline for filing, any
+
+16          amendments to the pleadings.
+
+17                 (3) What material facts and issues exist without substantial controversy, and
+
+18          what material facts and issues are actually and in good faith controverted.
+
+19                 (4) Proof, stipulations regarding the authenticity of documents, and advance
+
+20          rulings from the court on the admissibility of evidence. The simplification of the
+
+21          issues, including stipulations as to material facts, exhibits, and issues that are not
+
+22          disputed, and a determination of the facts, exhibits, and issues to be tried.
+
+23                 (5) The authenticity and admissibility of exhibits that a party intends to
+
+24          introduce at trial, including a pretrial ruling on the admissibility of exhibits or the
+
+25          setting of a hearing date as to the admissibility of exhibits.
+
+26                 (a) If a party has reasonable suspicion that an opposing party's exhibits are
+
+27          falsified, including having been generated by artificial intelligence or altered by any
+
+28          means, the party shall raise these concerns at the pretrial conference or at a pretrial
+
+29          hearing on the admissibility of the exhibits.
+
+
+
+
+                                               Page 7 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                      ENROLLED
+
+ 1                  (b) If a party knows or has reason to know that its exhibits have been
+
+ 2          falsified, including having been generated by artificial intelligence or altered by any
+
+ 3          means, the party shall disclose this fact in accordance with Article 371.
+
+ 4                  (c) Subsubparagraphs (a) and (b) of this Subparagraph shall not apply to
+
+ 5          demonstrative exhibits.
+
+ 6                  (5) (6) Limitations or restrictions on or regulation of the use of expert
+
+ 7          testimony under Louisiana pursuant to Code of Evidence Article 702.
+
+ 8                  (6) (7) The control and scheduling of discovery including any issues relating
+
+ 9          to disclosure or discovery of electronically stored information, and the form or forms
+
+10          in which it should be produced.
+
+11                  (7) (8) Any issues relating to claims of privilege or protection of trial
+
+12          preparation material, and whether the court should include agreements between
+
+13          counsel relating to such those issues in an order.
+
+14                  (8) (9) The identification of witnesses, documents, and exhibits.
+
+15                  (9) The presentation of testimony or other evidence by electronic devices.
+
+16                  (10) The setting of any trial, motion, or exception hearing by audiovisual
+
+17          means, or the presentation of any evidence or testimony by audiovisual means, in
+
+18          accordance with Article 195.1.
+
+19                  (11) Such other Other matters as that may aid in the disposition of the action.
+
+20                  B. The court shall render an order which that recites the action taken at the
+
+21          conference, the amendments allowed to the pleadings, and the agreements made by
+
+22          the parties as to any of the matters considered, and which limits the issues for trial
+
+23          to those not disposed of by admissions or agreements of counsel pursuant to
+
+24          Paragraph A of this Article. Such The order controls shall control the subsequent
+
+25          course of the action, unless modified at the trial by the court to prevent manifest
+
+26          injustice.
+
+27                  C. If a party's attorney fails to obey a pretrial order, or to appear at the
+
+28          pretrial and scheduling conference, or is substantially unprepared to participate in the
+
+29          conference or fails to participate in good faith, the court, on its own motion or on the
+
+30          motion of a party, after hearing, may make such orders as are just, including orders
+
+
+                                             Page 8 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                     ENROLLED
+
+ 1          provided in Article 1471(A) (2), (3), and (4). In lieu of or in addition to any other
+
+ 2          sanction, the court may require the party or the attorney representing the party or
+
+ 3          both to pay the reasonable expenses incurred by noncompliance with this Paragraph,
+
+ 4          including attorney fees.
+
+ 5                 D. If a suit has been pending for more than one year since the date of filing
+
+ 6          service of the original petition on all defendants and no trial date has been assigned,
+
+ 7          upon motion of any party, the court shall set the matter for conference for the
+
+ 8          purpose of resolving all matters subject to the provisions of this Article, including
+
+ 9          the scheduling of discovery, assignment for trial, and any other matters that will
+
+10          expedite the resolution of the suit. The conference may be conducted in chambers,
+
+11          by telephone, or by video teleconference.
+
+12                                        Comments - 2025
+
+13                   (a) Subparagraph (A)(5) of this Article requires that the parties address at a
+14          pretrial conference or hearing the authenticity and admissibility of exhibits that are
+15          suspected to have been created, altered, or manipulated. The Article's use of
+16          "artificial intelligence" is broad and encompasses the suspected use of "deepfakes".
+17          R.S. 14:73:13 defines "deepfake" to mean "any audio or visual media in an electronic
+18          format . . . that is created, altered, or digitally manipulated in a manner that would
+19          falsely appear to a reasonable observer to be an authentic record of the actual speech
+20          or conduct of the individual or replace an individual's likeness with another
+21          individual and depicted in the recording." Black's Law Dictionary (12th ed. 2024)
+22          defines "deepfake" to mean a "false video, audio recording, or other medium that is
+23          generated or manipulated by computer, often using artificial intelligence, with the
+24          intent to deceive viewers or listeners."
+
+25                  (b) Paragraph C of this Article is new and mandatory. To resolve the many
+26          issues with respect to the timing of challenging an expert's qualifications or
+27          methodologies, the court shall either provide for deadlines in a pretrial or scheduling
+28          order in accordance with Paragraph A of this Article or, upon being notified by a
+29          party that it intends to use an expert in a summary judgment proceeding or at trial,
+30          issue an order in accordance with Paragraph C of this Article. These deadlines aim
+31          to ensure that motions are filed, and hearing dates are set, in accordance with
+32          applicable law and in consideration of the court's calendar.
+
+33                 (c) The requirements of this Article are not meant to supersede the
+34          requirements of Article 1571
+
+35                                        *        *         *
+
+36          Art. 1702. Default judgment
+
+37                 A.
+
+38                                        *        *         *
+
+
+
+
+                                              Page 9 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                     ENROLLED
+
+ 1                 (5) No default judgment shall be rendered against a defendant when notice
+
+ 2          is required under pursuant to Subparagraph (2) or (3) of this Paragraph unless proof
+
+ 3          of the required notice is made in the manner provided by R.S. 13:3205. given in
+
+ 4          accordance with any of the following:
+
+ 5                 (a) By mailing the notice to the defendant or attorney, in which case the
+
+ 6          plaintiff shall provide proof that the notice was enclosed in an envelope properly
+
+ 7          addressed to the defendant or attorney, with sufficient postage affixed, and the date
+
+ 8          on which it was deposited in the United States mail, and the plaintiff shall file the
+
+ 9          return receipt of the defendant or attorney.
+
+10                 (b) By utilizing the services of a commercial courier to make delivery of the
+
+11          notice to the defendant or attorney, in which case the plaintiff shall provide proof of
+
+12          the name of the commercial courier, the date, and the address at which the notice was
+
+13          delivered to the defendant or attorney, and the plaintiff shall file the commercial
+
+14          courier's confirmation of delivery.
+
+15                 (c) By actual delivery of the notice to the defendant or attorney, in which
+
+16          case the plaintiff shall provide proof of the date, place, and manner of delivery.
+
+17                                        *       *        *
+
+18          Art. 1811. Motion for judgment notwithstanding the verdict
+
+19                 A.(1) Not later than seven days, exclusive of legal holidays, after the clerk
+
+20          has mailed or delivered in open court, or the sheriff has served, the notice of
+
+21          judgment under in accordance with Article 1913, a party may move for a judgment
+
+22          notwithstanding the verdict. If a verdict was not returned, a party may move for a
+
+23          judgment notwithstanding the verdict not later than seven days, exclusive of legal
+
+24          holidays, after the jury was discharged.
+
+25                                        *       *        *
+
+26          Art. 1911. Final judgment; partial final judgment; signing; appeals
+
+27                                        *       *        *
+
+28                 B. For the purpose of an appeal as provided in Article 2083, no appeal may
+
+29          shall be taken from a final judgment until the requirement of this Article has been
+
+30          fulfilled judgment has been signed by the judge. No appeal may be taken from a
+
+31          partial final judgment under Article 1915(B) until the judgment has been designated
+
+                                            Page 10 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                      ENROLLED
+
+ 1          a final judgment under Article 1915(B). An appeal may be taken from a final
+
+ 2          judgment under Article 1915(A) without the judgment being so designated.
+
+ 3                                         *       *       *
+
+ 4          Art. 1913. Notice of judgment
+
+ 5                  A. Except as otherwise provided by law, notice of the signing of a final
+
+ 6          judgment, including a partial final judgment under Article 1915, is required in all
+
+ 7          contested cases, and shall be mailed or delivered in open court by the clerk of court
+
+ 8          to the counsel of record for each party, and to each party not represented by counsel.
+
+ 9          Delivery of the signed judgment in open court shall constitute notice of judgment
+
+10          and shall be documented in the record of the proceeding.
+
+11                                         *       *       *
+
+12                  C. Except when service is required under in accordance with Paragraph B
+
+13          of this Article, notice of the signing of a default judgment shall be mailed by the
+
+14          clerk of court to the defendant at the address where personal service was obtained or
+
+15          to the last known address of the defendant.
+
+16                  D. The clerk shall file a certificate in the record showing the date on which,
+
+17          and the counsel and parties to whom, notice of the signing of the judgment was
+
+18          mailed or delivered in open court.
+
+19          Art. 1914. Interlocutory judgments; notice; delay for further action
+
+20                                         *       *       *
+
+21                  B. The interlocutory judgment shall be reduced to writing if the court so
+
+22          orders, if a party requests within ten days of rendition in open court that it be reduced
+
+23          to writing, if a judgment is granted or an exception is sustained in accordance with
+
+24          Article 1915(C), or if the court takes the interlocutory matter under advisement. The
+
+25          clerk shall mail or deliver in open court notice of the subsequent judgment to each
+
+26          party. Delivery of the signed judgment in open court shall constitute notice of
+
+27          judgment and shall be documented in the record of the proceeding.
+
+28                                         *       *       *
+
+29                  D. Except as provided in Paragraph C of this Article, each party shall have
+
+30          ten days either from notice of the interlocutory judgment, or from the mailing of
+
+
+                                             Page 11 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                       ENROLLED
+
+ 1          notice when required to take any action or file any pleadings in the trial court;
+
+ 2          however, this. This provision does not suspend or otherwise affect the time for
+
+ 3          applying for supervisory writs, nor does it affect the time for appealing an
+
+ 4          interlocutory judgment under in accordance with Article 2083.
+
+ 5                                          *       *       *
+
+ 6          Art. 1915. Partial final judgment Final and interlocutory judgments; partial
+
+ 7                  judgment; partial exception; partial summary judgment
+
+ 8                  A. A final judgment may be rendered and signed by the court, even though
+
+ 9          it may not grant the successful party or parties all of the relief prayed for, or may not
+
+10          adjudicate all of the issues in the case, when the court:
+
+11                  (1) Dismisses the suit as to less fewer than all of the parties, defendants, third
+
+12          party third-party plaintiffs, third party third-party defendants, or intervenors
+
+13          interveners.
+
+14                                          *       *       *
+
+15                  (4) Signs Grants a judgment on either the principal or incidental demand,
+
+16          when the two have been tried separately, as provided by Article 1038.
+
+17                  (5) Signs Grants a judgment on the issue of liability when that issue has been
+
+18          tried separately by the court, or when, in a jury trial, the issue of liability has been
+
+19          tried before a jury and the issue of damages is to be tried before a different jury.
+
+20                                          *       *       *
+
+21                  B.(1) When a court renders a partial judgment or partial summary judgment
+
+22          or sustains an exception in part, as to one or more but less than all of the claims,
+
+23          demands, issues, or theories against a party, whether in an original demand,
+
+24          reconventional demand, cross-claim, third-party claim, or intervention, the judgment
+
+25          shall not constitute a final judgment unless it is designated as a final judgment by the
+
+26          court after an express determination that there is no just reason for delay.
+
+27                  (2) In the absence of such a determination and designation, any such order
+
+28          or decision shall not constitute a final judgment for the purpose of an immediate
+
+29          appeal and may be revised at any time prior to rendition of the judgment adjudicating
+
+30          all the claims and the rights and liabilities of all the parties.
+
+
+                                             Page 12 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                      ENROLLED
+
+ 1                  C. B. If an appeal is taken from any judgment rendered under the provisions
+
+ 2          of in accordance with Paragraph A this Article, the trial court shall retain jurisdiction
+
+ 3          to adjudicate the remaining issues in the case.
+
+ 4                  C. Except as otherwise provided by law, when a court grants a judgment or
+
+ 5          summary judgment, or sustains an exception in part, as to one or more but fewer than
+
+ 6          all of the claims, demands, issues, or theories by or against a party, whether in an
+
+ 7          original demand, reconventional demand, cross-claim, third-party claim, or
+
+ 8          intervention, that judgment is an interlocutory judgment.
+
+ 9                  D. All judgments rendered in accordance with this Article shall be reduced
+
+10          to writing and signed by the court.
+
+
+11                                        Comments - 2025
+
+12                  (a) These amendments largely restore the Article to its pre-1997 form. The
+13          revisions remove from Paragraph B of this Article the authority of the trial court to
+14          designate a judgment as final and appealable after an express determination that
+15          there is no just reason for delay. As a result, Paragraph A of this Article now
+16          provides a list of judgments from which an appeal may be taken. This change seeks
+17          to remove uncertainty as to whether an appeal or a supervisory writ should be taken
+18          from a judgment that does not grant the successful party or parties all of the relief
+19          prayed for or may not adjudicate all of the issues in the case.
+
+20                  (b) Paragraph B of this Article retains much of the language of former
+21          Paragraph C. The language of Paragraph C of this Article is new and provides for
+22          interlocutory judgments that are not appealable. See Article 2083(C). Paragraph D
+23          of this Article provides that all judgments rendered in accordance with this Article
+24          shall be reduced to writing and signed by the court, thus clearly defining the
+25          commencement of the delay to apply for a supervisory writ from a judgment
+26          rendered in accordance with Paragraph C. See La. Ct. App. Unif. Rules 4-2 and 4-3
+27          and Article 1914.
+
+28                                         *       *       *
+
+29          Art. 1974. Delay for applying for new trial
+
+30                  A party may file a motion for a new trial not later than seven days, exclusive
+
+31          of legal holidays, after the clerk has mailed or delivered in open court, or the sheriff
+
+32          has served, the notice of judgment as required by Article 1913.
+
+33                                         *       *       *
+
+34          Art. 2088. Divesting of jurisdiction of trial court
+
+35                  A. The jurisdiction of the trial court over all matters in the case reviewable
+
+36          under the appeal is divested, and that of the appellate court attaches, on the granting
+
+
+
+                                             Page 13 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                    ENROLLED
+
+ 1          of the order of appeal and the timely filing of the appeal bond, in the case of a
+
+ 2          suspensive appeal, or on the granting of the order of appeal, in the case of a
+
+ 3          devolutive appeal. Thereafter, the trial court has jurisdiction in the case only over
+
+ 4          those matters not reviewable under the appeal, including the right to do any of the
+
+ 5          following:
+
+ 6                                        *       *       *
+
+ 7                 (11) Certify a partial judgment or partial summary judgment in accordance
+
+ 8          with Article 1915(B).
+
+ 9                 (12) Amend a judgment to provide proper decretal language under in
+
+10          accordance with Article 1918 or 1951.
+
+11                                        *       *       *
+
+12          Art. 2595. Trial; decision
+
+13                 A. Upon reasonable notice a summary proceeding may be tried in open court
+
+14          or in chambers, in term or in vacation; and shall be tried by preference over ordinary
+
+15          proceedings, and without a jury, except as otherwise provided by law.
+
+16                 B. The court shall render its decision as soon as practicable after the
+
+17          conclusion of the trial of a summary proceeding and, whenever practicable, without
+
+18          taking the matter under advisement.
+
+19                                        *       *       *
+
+20          Art. 3721. Methods of enforcing mortgage
+
+21                 A. A conventional mortgage is enforced by ordinary or executory
+
+22          proceedings.
+
+23                 B. In any ordinary or executory proceeding to enforce a promissory note or
+
+24          other debt instrument combined with a mortgage or other security device, the
+
+25          judgment or order of executory process granted may include any amounts which
+
+26          accrue after the rendition of the judgment or order, including until the collateral is
+
+27          sold by judicial process pursuant to the provisions of the promissory note, debt
+
+28          interest, or security device, including, without limitation, obligations to reimburse
+
+29          advances for taxes and insurance, inspection or other fees provided for by contract,
+
+30          reasonable attorney fees, and court costs. The provisions of this Article shall be
+
+
+                                           Page 14 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                     ENROLLED
+
+ 1          enforceable notwithstanding any other provision of law requiring that a judgment or
+
+ 2          order specify a definite amount.
+
+ 3                 C. Prior to the date of the sheriff's sale, the seizing creditor or his counsel
+
+ 4          shall file into the record the payoff amount of the obligation being enforced,
+
+ 5          including any amounts which have accrued after the filing of the petition, or
+
+ 6          rendition of the judgment or order in the case of ordinary process.
+
+ 7                 D. Any party with an interest in the property seized, including but not limited
+
+ 8          to mortgage and lien holders, may file a rule to show cause to traverse the payoff
+
+ 9          amount filed in accordance with Subsection C of this Article. The rule to show cause
+
+10          shall be filed before the sheriff disburses any funds from the judicial sale pursuant
+
+11          to the writ being executed.
+
+12                 E. A sheriff's or other sale held pursuant to court order shall be valid
+
+13          notwithstanding failure of an interested party to comply with the provisions of this
+
+14          Article.
+
+15                                        *       *       *
+
+16          Art. 4607. Partition by licitation or by private sale
+
+17                 When a partition is to be made by licitation, the sale shall be conducted at
+
+18          public auction and after the advertisements required for judicial sales under
+
+19          execution. When a partition is to be made at private sale without the consent of all
+
+20          co-owners, the sale shall be for not less than the appraised value of the property, and
+
+21          documents required pursuant to a court order shall be executed on behalf of the
+
+22          absentee or nonconsenting co-owner by a court-appointed representative, who may
+
+23          be a co-owner, after the advertisements required for judicial sales under execution
+
+24          are made. All counsel of record, including curators attorneys appointed to represent
+
+25          absentee defendants, and persons appearing in proper person shall be given notice
+
+26          of the sale date. At any time prior to the sale, the parties may agree upon a
+
+27          nonjudicial partition.
+
+28                                        *       *       *
+
+
+
+
+                                            Page 15 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                        ENROLLED
+
+ 1          Art. 4873. Transfer to district court; procedure; contest; effect
+
+ 2                  A party entitled thereto under the provisions of Article 4872 may transfer the
+
+ 3          action to the district court in the following manner:
+
+ 4                  (1) Within the delay allowed for answer in the trial court of the limited
+
+ 5          jurisdiction, or within ten days after answer has been filed, he the party shall file a
+
+ 6          motion to transfer with the clerk of the court in which the suit is pending. The
+
+ 7          motion shall include a declaration that the matter is one to which the defendant
+
+ 8          would have been entitled to a trial by jury if commenced in district court, and that
+
+ 9          the defendant desires a trial by jury. If a party fails to file a motion to transfer within
+
+10          the delays required by this Subparagraph, the matter shall not be transferred.
+
+11                  (2) A plaintiff may oppose the transfer of the action to a district court only
+
+12          if the plaintiff stipulates that the action does not exceed ten thousand dollars
+
+13          exclusive of interest and costs.
+
+14                  (2) (3) If no opposition is filed within ten days after the filing of the motion
+
+15          to transfer, the judge of the court in which the suit is pending shall order the transfer
+
+16          to the district court. If an opposition is timely filed, it shall be tried summarily.
+
+17                  (3) (4)(a) Where a transfer is ordered, the clerk of the court in which the
+
+18          action was initially filed shall forward to the clerk of the court to which the action
+
+19          is transferred a certified copy of the record in the initial court, including pleadings,
+
+20          minute entries, and all other proceedings.
+
+21                  (b) The clerk of the district court shall file the action as a new proceeding in
+
+22          that court, upon payment by the defendant of a filing fee as provided by rule of the
+
+23          district court. All costs accruing thereafter, however, shall be advanced in the same
+
+24          manner as though the action initially had initially been commenced in the district
+
+25          court by the original plaintiff.
+
+26                  (4) (5) When the matter is docketed by the clerk of the district court, the
+
+27          proceeding shall continue in that court as though originally commenced therein. In
+
+28          the event that transfer is effected prior to answer, the defendant shall file his the
+
+29          answer in the district court within the delays provided by Article 1001, commencing
+
+30          from the date on which the transferred proceeding is filed in that court.
+
+
+                                               Page 16 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                     ENROLLED
+
+ 1                  (5) (6) The disposition of a motion to transfer and any opposition thereto
+
+ 2          shall not be appealable, but shall be reviewable through the exercise of its
+
+ 3          supervisory jurisdiction by the court of appeal having appellate jurisdiction over the
+
+ 4          case.
+
+ 5                                        *          *    *
+
+ 6          Art. 5059. Computation of time
+
+ 7                  A. In computing a period of time allowed or prescribed by law or by order
+
+ 8          of court, the date of the act, event, or default after from which the period begins to
+
+ 9          run is not to be included. The last day of the period is to be included, unless it is a
+
+10          legal holiday, in which event the period runs until the end of the next day which that
+
+11          is not a legal holiday.
+
+12                  B. The "next day" as set forth in Paragraph A of this Article means the
+
+13          subsequent calendar day that is not a legal holiday following a legal holiday.
+
+14                  B. C. A half-holiday is considered as a legal holiday. A legal holiday is to
+
+15          be included in the computation of a period of time allowed or prescribed, except
+
+16          when:
+
+17                  (1) It is expressly excluded;.
+
+18                  (2) It would otherwise be the last day of the period; or.
+
+19                  (3) The period is less than seven days.
+
+20                  C. D.(1) A legal holiday shall be excluded in the computation of a period of
+
+21          time allowed or prescribed to seek rehearing, reconsideration, or judicial review or
+
+22          appeal of a decision or order by an agency in the executive branch of state
+
+23          government.
+
+24                  (2) Subparagraph (1) of this Paragraph shall not apply to the computation of
+
+25          a period of time allowed or prescribed to seek rehearing, reconsideration, or judicial
+
+26          review or appeal of a decision or order by the Department of Revenue, the
+
+27          Department of Environmental Quality, or the Department of Insurance relative to
+
+28          examination reports in R.S. 22:1983.
+
+
+
+
+                                            Page 17 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+     HB NO. 178                                                                       ENROLLED
+
+ 1                                          Comments -2025
+
+ 2                   The revisions to this Article clarify existing law and conform to the
+ 3           computation of time set forth in Becnel v. Northrop Grumman Ship Systems, Inc.,
+ 4           18 So. 3d 1269 (La. 2009) and Article 966(B)(4). Paragraph B of this Article makes
+ 5           clear that if the last day in a period of time allowed or prescribed by law or court
+ 6           order falls on a legal holiday, the period runs until the subsequent, later-in-time
+ 7           calendar day that is not a legal holiday. For example, if the legal deadline to file a
+ 8           pretrial motion is due sixty days prior to trial and that day is a Saturday, the motion
+ 9           is not due until the subsequent Monday as long as that Monday is not a legal holiday.
+
+10           Section 4. Code of Civil Procedure Articles74.2(F), 2088(A)(12), and 3784 are
+
+11   hereby repealed in their entirety.
+
+12           Section 5. The provisions of Civil Code Article 3462 as amended by Section 1 of
+
+13   this Act shall not apply to actions that have prescribed prior to the effective date of this Act.
+
+14           Section 6. The provisions of Article 1915 as amended by Section 3 of this Act shall
+
+15   have prospective application only and shall not apply to appeals and supervisory writs filed
+
+16   prior to the effective date of this Act.
+
+
+
+
+                                 SPEAKER OF THE HOUSE OF REPRESENTATIVES
+
+
+
+                                 PRESIDENT OF THE SENATE
+
+
+
+                                 GOVERNOR OF THE STATE OF LOUISIANA
+
+
+     APPROVED:
+
+
+
+
+                                                Page 18 of 18
+
+     CODING: Words in struck through type are deletions from existing law; words underscored
+     are additions.
+

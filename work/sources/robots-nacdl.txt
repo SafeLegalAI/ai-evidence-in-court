@@ -1,0 +1,6 @@
+﻿User-agent: *
+Disallow: /search
+Disallow: /login
+Disallow: /Nacdl/media/ml_documents
+
+Sitemap: https://www.nacdl.org/memberprofiles-sitemap.xml

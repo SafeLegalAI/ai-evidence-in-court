@@ -1,0 +1,1139 @@
+                          Court of King’s Bench of Alberta
+
+Citation: R v MD, 2024 ABKB 104
+
+
+
+
+                                                                                                         2024 ABKB 104 (CanLII)
+                                                                                      Date: 20240222
+                                                                               Docket: 220314306Q1
+                                                                              Registry: Grande Prairie
+
+Between:
+
+                                        His Majesty the King
+
+                                                                                               Crown
+                                                 - and -
+
+
+                                                  MD
+
+                                                                                             Accused
+
+
+
+
+                             Restriction on Publication
+           Identification Ban – See the Criminal Code, section 486.4.
+           By Court Order, information that could identify victim must not be published,
+           broadcast, or transmitted in any way.
+           NOTE: Identifying information has been removed from this judgment to comply
+           with the ban so that it may be published.
+
+
+
+           Corrected judgment: A corrigendum was issued on February 23, 2024; the
+           corrections have been made to the text and the corrigendum is appended to this
+           judgment.
+
+
+               _______________________________________________________
+
+                                 Reasons for Judgment
+                                        of the
+                             Honourable Justice M. J. Lema
+               _______________________________________________________
+                                             Page: 2
+
+
+  I.   Introduction
+[1]    Did MD (an adult at all material times) have sexual contacts with his niece SD in 2004
+and 2005, when she was 12 (and later 13) years old, thereby committing unlawful-touching (s.
+151 CCC) and unlawful invitation-to-sexual-touching (s. 152 CCC) offences?
+[2]    SD (now 32) testified to sexual contacts with her uncle throughout that period and to
+
+
+
+
+                                                                                                    2024 ABKB 104 (CanLII)
+audio-recorded admissions by him in 2021 of those contacts.
+[3]    MD denied all sexual contacts asserted by SD and making the asserted admissions.
+[4]    As explained below, I find MD guilty of both offences.
+
+ II.   Synopsis
+[5]     SD testified that, shortly after she and her brother DD began living with MD (February
+2004) in the basement of a farmhouse in northwestern Alberta owned by his employer, MD
+started showing her video and photo images of children being sexually abused (euphemistically
+and inaccurately called “child pornography”, as explained by Richardson J. in R v LJ, 2023
+ABKB 672 (paras 50 and 51)), which led to various forms of sexual contact between them,
+including vaginal-penile intercourse and fellatio, throughout the period they lived together,
+collectively reported by her as “between 70 and 80 times” (police interview) and “greater than 50
+[times]” (at trial) (I review her evidence in more detail later.)
+[6]    The indictment initially set a date range of February 1, 2004 to February 1, 2005. Based
+on evidence emerging at trial, the Crown applied successfully to extend the latter date to
+December 15, 2005 i.e. SD’s 14th birthday. (At the time, the two noted offences contemplated
+complainants under the age of 14.)
+[7]    SD and her brother continued living with MD at the noted residence until late 2006, when
+they moved elsewhere.
+[8]    Years passed.
+[9]     In June 2021, MD’s mother (i.e. SD’s grandmother) died, in New Brunswick. In July
+2021, MD (then 50) travelled from Alberta to New Brunswick, spending about three weeks,
+some of that time in the company of SD and her children and other family members, before
+travelling to Ontario for his mother’s burial.
+[10] Per SD, on July 24, 2021 (during the noted span), she and MD were sitting on the porch
+of her mother’s home in Sussex, NB. At or near the start of their time together, and
+unbeknownst to MD, she turned on the “record” function of her close-at-hand cellphone and
+recorded their conversation. Per her, the first twenty or so minutes featured mostly “kid noises”
+from her two young children moving back and forth between the house and porch.
+[11] At about the mid-point of the recording, when things were (initially) quieter, she
+confronted MD about their sexual contacts years before, starting with advising him she was mad
+at him.
+[12] Then ensued a dialogue of approximately 17 minutes in which (per her) MD effectively
+admitted those contacts, in fact blaming SD for them (“you initiated them, forcefully”) and
+expressing disappointment that she was raising them (effectively, “you promised you would
+never bring this up”).
+                                              Page: 3
+
+
+[13] Children, traffic, and other noises are heard during this segment. At some points, the
+recording is very muffled, down (occasionally) to impossible to hear.
+[14]   However, the gist of the conversation (highly inculpatory for MD, per SD) is clear.
+[15] Per MD, while acknowledging he spent some time with SD and her family in New
+Brunswick at that time, and that they had had at least one private conversation on that porch at or
+
+
+
+
+                                                                                                      2024 ABKB 104 (CanLII)
+around that time, it was not the recorded conversation or anything akin. He denied having the
+reported conversation, or anything akin, with SD, then or ever. He also said that he did not
+recognize his voice on the recording (though recognizing SD’s and the children’s).
+[16] Per his counsel in argument (effectively acknowledging similarity between MD’s voice
+(heard during the trial) and the recorded male voice), SD may have “cloned” MD’s voice (e.g.
+from everyday conversations) and used it to fabricate “MD’s” parts of the “inculpatory
+dialogue.”
+[17] More generally, MD denied having had any sexual contact with SD at any point. I
+review his evidence in more detail below.
+[18] In support, defence produced RW, MD’s former employer and owner of the farm
+property where MD, SD, and her brother lived in 2004-2006.
+[19] She testified she was an active, mobile, and alert presence in the household (for instance,
+liable to be in the basement frequently on any given day, at almost any time of day or late night),
+that sexual contacts between MD and SD were accordingly highly unlikely in the house and
+(with RW actively involved in operating various farm vehicles) in those vehicles (as reported by
+SD), that SD would almost certainly have reported any such contacts to her (given their very
+close rapport in those years), and that none were reported by SD to her.
+[20]   This is fundamentally a credibility- and reliability-of-witnesses case.
+
+III.   Legal framework
+[21] Before turning to those analyses, I reproduce the following legal-framework review of
+Mandziuk J. in R v SGH, 2023 ABKB 39:
+       Burden and Standard of Proof
+       SGH is presumed to be innocent. The presumption of innocence is connected to
+       the requirement for proof of guilt beyond a reasonable doubt, a fundamental
+       principle of our criminal justice system.
+       The Crown has the burden of proving each element of an offense. That burden of
+       proof rests on the Crown throughout the trial. The benefit of any doubt must be
+       extended to the accused R v Lifchus, [1997] 2 SCR 320 (Lifchus) at para 36.
+       Proof beyond a reasonable doubt is not proof to an absolute certainty, but it is
+       proof to a high level of certainty. It is beyond proof of probable or likely guilt: R v
+       Starr, 2000 SCC 40 at para 242; Lifchus at para 32.
+       Reasonable doubt can arise from the evidence or from the absence of evidence. It
+       is grounded in reason and common sense, and determined without any basis in
+       sympathy, prejudice, emotion, sentiment, leaps of logic, flights of imagination, or
+       frivolous considerations: Lifchus at para 36.
+                                       Page: 4
+
+
+SGH gave evidence at trial. Therefore, I must consider the Supreme Court of
+Canada’s direction in R v W(D), 1991 CanLII 93 (SCC), [1991] 1 SCR 742
+(W(D)) as interpreted by the Alberta Court of Appeal in R v Ryon, 2019 ABCA 36
+(Ryon) and R v Achuil, 2019 ABCA 299, leave to appeal dismissed 2020 CanLII
+71203 (SCC).
+These principles were helpfully summarized by Renke J in R v Hermkens, 2021
+
+
+
+
+                                                                                     2024 ABKB 104 (CanLII)
+ABQB 1016 at para 12, as follows:
+       (i) The burden of proof is on the Crown to establish the accused’s
+       guilt beyond a reasonable doubt and that burden remains on the
+       Crown so that the accused person is never required to prove his
+       innocence, or disprove any of the evidence led by the Crown ….
+       (ii) In that context, if the accused’s evidence denying complicity or
+       guilt (or any other exculpatory evidence to that effect) is believed,
+       or even if not believed still leaves the jury with a reasonable doubt
+       that it may be true, then the jury is required to acquit ....
+       (iii) While the jury should attempt to resolve conflicting evidence
+       bearing on the guilt or innocence of the accused, a trial is not a
+       credibility contest requiring them to decide that one of the
+       conflicting versions is true. If, after careful consideration of all the
+       evidence, the jury is unable to decide whom to believe, they must
+       acquit.
+       (iv) Even if the jury completely rejects the accused’s evidence (or
+       ... other exculpatory evidence), they may not simply assume the
+       Crown’s version of events must be true. Rather, they must
+       carefully assess the evidence they do believe and decide whether
+       that evidence persuades them beyond a reasonable doubt that the
+       accused is guilty. Mere rejection of the accused’s evidence (or ...
+       other exculpatory evidence) cannot be taken as proof of the
+       accused’s guilt.
+Additionally, the Court in Ryon at para 47 held that whether evidence exculpating
+an accused raises a reasonable doubt must be assessed in the context of the
+evidence as a whole.
+I will now turn to discuss the general principles of credibility assessment, myths
+and stereotypes and the particular considerations arising from the evidence of
+children.
+Credibility Assessment Generally
+Witness credibility and reliability are the over-arching issues and challenges in
+this case. Credibility assessment is about witness’ honesty and truthfulness.
+Reliability is about the accuracy of the witness’ evidence.
+A number of factors require careful consideration when assessing the credibility
+of a witness. The uniqueness of each witness and the facts of each case must be
+weighed and evaluated carefully.
+                                      Page: 5
+
+
+As Cory J observed in R v S (RD), 1997 CanLII 324 (SCC), [1997] 3 SCR 484 (S
+(RD)) at para 128:
+       It is, of course, true that the assessment of the credibility of a
+       witness is more of an “art than a science.” The task of assessing
+       credibility can be particularly daunting where a judge must assess
+       the credibility of two witnesses whose testimony is diametrically
+
+
+
+
+                                                                                       2024 ABKB 104 (CanLII)
+       opposed.
+In making credibility findings, the evidence must be considered in its entirety.
+Each part of the evidence is part of the whole, and those parts interact and inter-
+relate. Individual pieces of evidence cannot be viewed in isolation: White v The
+King, 1947 CanLII 1 (SCC), [1947] SCR 268 at 271; Ewanchuk at paras 29 – 30.
+The factors that can be considered in assessing credibility include the witness’s
+character, emotions and feelings, self-interest, hostility, attitude towards the
+accused, motive to lie, character for truthfulness and prior deceptive behavior.
+Additionally, evidence of bias or dishonesty and material facts that are proven
+through the testimony of other witnesses can weigh into the analysis: R v Tash,
+2013 ONCA 380 at paras 40 – 43. Inconsistencies in the particulars and the whole
+of the evidence are certainly an important consideration. No single factor or group
+of factors is necessarily determinative, and any list of factors cannot be viewed as
+exhaustive.
+Additionally, the trier of fact’s life experience and common sense can weigh into
+the process, which necessarily involves the trier of fact’s view of the evidence in
+all its diversity as it emerges during the trial, in tandem with their experience,
+logic, and intuition: R v Marquard, 1993 CanLII 37 (SCC), [1993] 4 SCR 223 at
+para 49; S(RD) at para 129.
+Myths & Stereotypes
+Assessing credibility and reasonable doubt cannot rely on myths and stereotypes,
+including generalizations about how human beings behave in certain situations.
+This is impermissible. Such reasoning can undermine the fairness of the trial and
+distort the truth-finding process that is at the heart of the trial: R v ARD, 2017
+ABCA 237 at paras 6 – 9 (ARD), aff’d sub nom R v AJRD, 2018 SCC 6. In short,
+myths, stereotypes, preconceptions and related irrelevant considerations must be
+strenuously avoided. Generalizations or other matters that are not in evidence play
+no part in the credibility assessment process: S(RD) at paras 129 – 130.
+In R v JC, 2021 ONCA 131 (JC), the Ontario Court of Appeal explained that
+stereotypical thinking is not to be conflated with the application of logic or
+common sense. First, judges must avoid speculative reasoning that invokes
+common-sense assumptions or human experience that are not grounded in the
+evidence or appropriately supported by judicial notice (JC at para 58). Second,
+factual findings, including determinations of credibility, cannot be based on
+stereotypical inferences about human behaviour; it is an error of law to draw
+inferences about how a complainant or accused is expected to act based on
+stereotypical inferences (JC at para 63). [paras 35-50]
+                                               Page: 6
+
+
+[22] I also note the following credibility-gauging guidance on an adult testifying to events
+experienced (or allegedly experienced) as a child, from R v DD, 2022 ONCA 786:
+       In R. v. W. (R.), 1992 CanLII 56 (SCC), [1992] 2 S.C.R. 122, it was affirmed that
+       the evidence of children must be approached on a common sense basis bearing in
+       mind their mental development, understanding and ability to communicate.
+       “Since children may experience the world differently from adults, it is hardly
+
+
+
+
+                                                                                                  2024 ABKB 104 (CanLII)
+       surprising that details important to adults, like time and place, may be missing
+       from their recollection”: R. v. W. (R)., at para. 25. By way of illustration, the
+       inability of the child complainant in R. v. W. (R.) to accurately describe the
+       location of bedrooms in a house, a peripheral matter, was not significant to her
+       credibility or reliability, since a child may not attend to such details: R. v. W. (R.),
+       at para. 30.
+               Even when adults testify about events that allegedly occurred
+               when they were children, such considerations remain relevant.
+               This is logical. If a witness would not likely have noted the
+               thing as a child, their failure to relate that thing years later
+               while testifying as an adult cannot meaningfully unsettle the
+               credibility or reliability of their evidence. Therefore, “the
+               presence of inconsistencies, particularly as to peripheral
+               matters such as time and location, should be considered in the
+               context of the age of the witness at the time of the events to
+               which she is testifying” (emphasis added): R. v. W. (R.), at para.
+               27.
+               However, “[in] general, where an adult is testifying as to events
+               which occurred when she was a child, her credibility should be
+               assessed according to criteria applicable to her as an adult
+               witness”: R. v. W. (R.), at para. 27. … [paras 4-6] [bold emphasis
+               added]
+[23]   On the same aspect, see also R v LL, 2019 ONSC 3295 (Leroy J):
+       CD is an adult testifying about events she says happened in her childhood. She is
+       to be assessed as an adult witness recognizing that minor peripheral matters as
+       time, place and antecedent are not central to the memory and that the
+       measure of uncertainty and inconsistency in recollection on these details may
+       not be a good barometer of plausibility or implausibility of the complaint.
+       The inconsistencies involving the chronology of places of residence, schools
+       and CD’s age for the first incident in the truck do not reflect on her central
+       memories. I don’t think that a pubescent female who is being sexually targeted by
+       her stepfather would focus on age, time of year, school grade at the time, whether
+       the incident happened during access travel or as part of the workday, whether
+       there was one or two chairs, the details of transaction negotiation, or even
+       variations in sexual order preliminary to sexual intercourse. [paras 150-151]
+       [emphasis added]
+                                             Page: 7
+
+
+IV.    Credibility assessments
+                  A. Credibility assessment of SD
+[24]   I find SD a credible and fundamentally reliable witness:
+   1. she tried to be precise with details, as much as she could e.g. [describing who
+      would sit where when (per her) MD showed her sexual-abuse-of-children images
+
+
+
+
+                                                                                               2024 ABKB 104 (CanLII)
+      and videos] “I would sit beside him ... [there were] two computer chairs ... each
+      [of us] on a chair. I was on his right; he was on my left.” [Q: “Always like that?”]
+      “Sometimes [I was] on his lap.” [Later she added] “[Some of the web pages he
+      would show me] had an orange pylon as the logo.” [Later, asked to describe
+      other sexual contacts] “They had a blue and white Kenworth .. a big truck ...
+      with a bed in the back of the cab, with a white-and-blue-striped mattress. It’s a
+      transport truck cab, [with] a driver’s seat, a passenger seat, and a bed back behind
+      the seats. [It had] a metal steering wheel and white upholstery on the roof of the
+      cab.” [Q: “What happened in the truck?”] [We were] using the auger to put grain
+      in the back of the truck – the dump-truck part – and while waiting, I would be
+      sitting in the truck because it was hot [outside] ... and he was outside the driver’s
+      door and I was in the driver’s seat, and we were talking and then [pausing,
+      appearing stressed] [we were] talking about if we could do it in the truck, have
+      sex in the truck. I got into the back, where the bed is [appearing more stressed]
+      and he would kiss me, on my lips and ... [“sorry”, crying, breaking up] He would
+      start like that and then progress to pulling his pants down, [and me] pulling pants
+      down ... he would put on a condom on every time ... and laying on the bed, he
+      would be on top of me ... put his penis in my vagina ... [Q: “How end?”] ...
+      [crying, sniffling] [It would] end by him finishing and pulling out ... finishing in
+      the condom and him removing the condom ... and [we would pull our pants up]
+      and we would get out of the truck and continue with the task we were doing at the
+      grain shed.” Asked about yet other sexual contacts, she described oral sex by her
+      on him in a black pickup truck, while he was driving: “I would unbuckle my
+      seat belt and lean over ... [there was a] big glove compartment that [rises up]
+      [gesturing shape of divider between seats] ... I would have to lean on it ... [I]
+      performed oral sex on him while he was driving.” Asked about more contacts,
+      she described performing oral sex on him in his bedroom, with him “laying on
+      his bed, and I was between his legs, with my stomach on the bed and facing him
+      ... he would be playing with my hands with his pants string and [crying and
+      appearing stressed] he would pull his pants down, just enough ... pull the front
+      down so that his penis would be out [gesturing this action] ... he would make it
+      seem like a game . I would ... [crying] [be] playing around, and I would put [his
+      penis] in my mouth [crying hard] ... I would perform oral sex on him”;
+   2. she admitted when she did not know or could not recall things e.g. [Q: how
+      long known the accused?] “Since I was a kid ... since ... uh ... not sure of the exact
+      age ... but .. at least [since I was] 6 or 7” and [Q: when did you move out [of the
+      farmhouse]?] “I do not remember the exact date ... I would say ... end of 2006, I
+      would say.” [Q: “When you say a conversation in the tractor would switch to
+      sexual, what would that entail?”] “I do not recall specifically”;
+                                          Page: 8
+
+
+3. she readily acknowledged details that might be seen as unsupportive of her
+   account. For example, asked whether RW would “ever come down to the
+   basement?”, she replied “yes ... she had exercise equipment and would lay on and
+   [otherwise] use it ... the washer and dryer were down there, [as well as] bins of
+   her clothing.” Having described watching sexual-abuse-of-children images and
+   videos with MD in his bedroom and being asked “recall if the door [to the
+
+
+
+
+                                                                                            2024 ABKB 104 (CanLII)
+   bedroom] was open or closed?”, she answered: “There were times it was open and
+   times it was closed”;
+4. she provided vivid and realistic accounts of, for example (per her), first-time
+   sexual intercourse with MD, accompanied (as she testified) by seemingly
+   congruent emotional distress (the latter also occurring while she testified
+   about some of the events described in subpara 1 above): “He pulled my pants
+   down, and my underwear, and he put a condom on, and he started slowly [she
+   began to sniffle, then cry, and then break up considerably at this point] ... and
+   [recapping] pulled my pants down, my underwear down, [put a] condom on and
+   told me it might hurt at first but he would go slow. And then he put himself
+   inside me ... his penis inside my vagina [witness very distressed at this point]. He
+   kept reassuring me, asking me if [I was] okay, if it hurt. [Q: ‘Did you say
+   anything back?”] I winced and said ‘it’s okay.’ [Q: “Did he say anything else?”]
+   “He asked if it felt okay. [Q: “Recall any other comments?”] “It was just [him]
+   asking me if [I was] okay and that it was normal to hurt a little bit. [Q: “How did
+   it end?”] Um ... [pausing] ... he finished [later explained to mean ejaculated] on
+   my stomach. ... He made sure I was okay, cleaned up my stomach, told me he
+   loved me, kissed me on the forehead, and went to his room” [shaking at the end of
+   this account]. Or [describing sexual intercourse in the combine] “He would ask
+   me if I wanted to have sex. I would say yes. And he would pull down his pants,
+   [I would remove my pants and panties – see below], he would put a condom on,
+   and I would lean over the armrests, and he would put his penis into my vagina
+   [crying] ... he would ... [pausing] ... ejaculate, pull out, take off the condom, [we]
+   would pull our pants up and proceed with farmwork in the field. I would then
+   usually fall asleep on the floor of the cab of the combine. [Q: “Why the floor?”]
+   “[There was] no space to sleep on the end [or] the arm rest ... [there was] more
+   space on the floor.” [Q: “How about the seat?”] He would be on the seat ... [there
+   was] no other seat ... just one seat, for the driver. [Q: “How long would you and
+   MD be in the tractor [combine]?”] “Anywhere between eight to nine hours,
+   depending on the work to be done”;
+5. she did not seem prone to exaggerating or otherwise adding details to paint
+   MD in the worst light possible e.g. [After describing MD first touching her
+   between her legs] “[It was] outside my clothing. Touching my vagina outside of
+   [my] clothing.” [Q: “Who removed your clothes in the combine?”] “I removed
+   my pants. [Q: “And upper body [clothing]?] “No, just pants and panties”;
+6. she did not hesitate to include details reflecting her (at least superficial)
+   willingness (i.e. as a 12- and 13-year-old groomed per her to see the now-reported
+   sexual contacts then as normal and appropriate) to participate in and even initiate
+   them e.g. when asked who initiated sexual intercourse: “There were times he
+                                           Page: 9
+
+
+   would initiate and times I would initiate. When he would initiate, I would smile
+   and say ‘yes’.” Asked about her reaction to being asked by MD to perform oral
+   sex on him while he was driving (black pickup truck): “I smiled and said ‘sure’”;
+7. she provided plausible and squaring-with-young-age accounts of learning of
+   certain sexual activities e.g. [referring to the first instance of oral sex by her on
+   him while he drove the noted pick-up truck – “So he suggested you perform oral
+
+
+
+
+                                                                                              2024 ABKB 104 (CanLII)
+   sex?”] “Yes ... he would say ‘you should ... do you know what ‘road head’ is?’”
+   I said no ... I wasn’t sure what it was. And then he said: “[It’s] a blowjob while
+   driving.” [Q: “Did you know what a blowjob was?”] Yes, from the videos he
+   showed me of child pornography ... they were performing oral sex.” Later, she
+   described sitting on MD’s bed with her legs over his legs “or I would lay between
+   his legs and start a game ... [crying] .. of [putting] my feet in his groin area over
+   his clothes ... [pausing ... crying] .. and joking around ... he would pull the front of
+   his pants down, with his penis exposed and my feet on it, rubbing my feet up and
+   down [until] he would ejaculate on my feet or in his hands”;
+8. she described unusual, even bizarre details, which seem unlikely to be the fruits
+   of concoction e.g. him telling her that “if you’re young enough to bleed, you’re
+   young enough to breed” and on another occasion (recalling a time when, at eight
+   years old, she had rubbed herself against him – body parts not specified) him
+   telling her that he “wished he had acted then and not waited until [she] was 12”;
+9. she also provided grooming details that logically account for her accepting the
+   sexual accounts as normal and appropriate. When showing her the earlier-noted
+   abuse-of-children videos and images, he told her that the participants were
+   “having fun” and “enjoying themselves” and “it’s normal.” At other times, “he
+   would say that what we were doing was not wrong ... that it was okay ... it was
+   normal.” And also that “nobody could know, or he'd get into trouble.” [Q: “Did he
+   say what kind of trouble?”] “[He said he] could go to jail, because society does
+   not understand.” On other occasions: “He told me he loved me and that it was
+   love and that age did not matter”;
+10. she readily acknowledged not recalling every aspect of the asserted sexual
+    contacts, that her memory of the events was better when she gave her police
+    statement (August 2021) than at trial (February 5-9, 2024 i.e. 29 months later),
+    and that reviewing a transcript of her statement assisted her in refreshing her
+    memory e.g. using the statement to refresh her memory of occasions of oral sex in
+    the Kenworth truck, occasions of manual masturbation of MD (i.e. in addition to
+    the via-feet occasions described by her), an occasion when MD touched her
+    vagina covertly, under a blanket, when she and he were sitting side-by-side in a
+    living room with family relatives sitting close by, as well as the statements
+    described in subparas 8 and 9 above. Given the over-15-year gap between the
+    asserted events and the police statement, the 29-month gap between that statement
+    and the trial, and the man asserted instances of sexual contact of various kinds,
+    and the apparent turmoil caused by recalling those instances and other details, I do
+    not see her first-pass omissions of these noted details as casting a material shadow
+    on her credibility or reliability;
+                                          Page: 10
+
+
+11. she provided a reasonable explanation for her different estimates – trial
+    testimony versus earlier police statement -- of the total number of sexual contacts
+    with MD. At trial, she said “greater than 50.” In her police statement, she had
+    said “between 70 and 80 times.” In cross-examination, defence spent considerable
+    time in probing this difference e.g. asking SD to reconcile her inability at trial to
+    say whether the total was “greater than 60?”, “greater than 55?”, or “maybe 51?”
+
+
+
+
+                                                                                             2024 ABKB 104 (CanLII)
+    First, SD appeared to be confused at one point about whether defence was probing
+    her uncertainty over the upper range i.e. how certain or uncertain she was about
+    the number of contacts above 50, versus uncertainty over the entire range.
+    Second, she testified, towards the end of this exchange, that “at the time of the
+    statement, [“70 to 80 times”] was what I recalled ... that is what I recalled then.”
+    Asked “has [your estimate] reduced ... since you told police?”, she replied “it is
+    still greater than 50.” In light of the same factors noted at the close of subpara 10,
+    I do not see these differing estimates as casting a material shadow on credibility
+    or reliability. Besides, “greater than 50”, by definition, is not inconsistent with
+    “between 70 and 80.” In my view, in light of the earlier-noted acknowledgement
+    by SD that her memory was better when she gave the police statement, she
+    became less certain of her initial (implicit) “at least 70” estimate but remained
+    confident of her “greater than 50” figure. In any case, even if the net result of this
+    questioning was some uncertainty over MD’s “greater than 50” estimate, her per-
+    activity, per-location estimates (i.e. viewed individually and then tallied) yielded a
+    “low” number of 24 and a “high” number of 43, and this is aside from no-
+    estimate-provided-or-asked-for-or-at-least-probed sexual contacts (e.g. oral sex in
+    tractor, manual masturbation in pickup truck, manual masturbation in MD’s
+    bedroom, manual masturbation in her bedroom, and masturbation with feet in his
+    bedroom) i.e. even if (conservatively) only one instance of the last five types of
+    contact occurred, the “itemized” estimates become a “low” of 29 and a “high” of
+    48;
+12. defence did not make material inroads either with questions probing actual,
+    apparent or possible inconsistencies in SD’s estimates of the different kinds of
+    sexual activity in different locations. For instance, defence asserted a change in
+    her estimate of the number of occasions of oral sex in the tractor (“by your
+    testimony, it happened five times”). However, she had not offered any estimate in
+    her direct examination, only stating that that form of sexual contact had occurred
+    in the tractor. During cross, defence put to SD that she had testified to five
+    occasions of such contact in that venue. She responded: “I believe it was more
+    than 5 times.” Asked whether it was 5 times or more than 5 times (defence: “My
+    notes say 5 times”), she responded “I don’t remember.” With the witness then
+    excused, we all reviewed our notes from the previous day and confirmed (which
+    the FTR also confirms) that SD offered no estimate on this subject, with her “5
+    times” evidence referring instead to occasions in the pick-up truck. Later in cross,
+    asked how many occasions of oral sex in the tractor, she again said she could not
+    remember. In redirect, SD confirmed that oral sex had occurred in the tractor and
+    that it happened in the late spring or summer. In a brief follow-up, defence put it
+    to SD that she had denied instances of oral sex in the tractor and that she said
+    (effectively) she could not tell if it had happened, with defence contrasting that to
+                                         Page: 11
+
+
+   her “it happened” evidence on redirect, asserting that SD was obviously lying on
+   this subject at some point. I disagree: as noted, SD testified in direct to oral sex
+   occurring in the tractor, albeit with no “number of time” estimates. I believe
+   defence confused SD with his (incorrect) “you said 5 times yesterday” assertion,
+   leading her to say she believed it was more than 5 times and later that she could
+   not recall the number of times. In argument, defence asserted she gave “three
+
+
+
+
+                                                                                           2024 ABKB 104 (CanLII)
+   different answers to the same question.” In fact, she was consistent on this
+   subject (oral sex occurred in the tractor) and only offered an estimate (“more than
+   5”) when apparently confused by the defence’s incorrect assertion before
+   eventually saying she could not return the number of times. I see no material
+   inconsistency here;
+13. [further on asserted inconsistencies] in argument, defence said that, in direct, SD
+    had testified to less than 10 occasions of sexual intercourse in her bedroom (it was
+    actually “more than 5, less than 10”). He then asserted that, during cross, she had
+    stated she could not recall how many times it happened. He said this was “quite
+    contradictory.” Defence is incorrect. When the accused began asking SD for
+    “time of day, month, etc” specifics of those occasions, she answered that she
+    could not recall those details. But she did not step away from her assertion of
+    more than 5 and fewer than 10 occasions of such sexual contact in her bedroom;
+14. [another asserted inconsistency] per defence, SD testified to sex in MD’s
+    bedroom and that, in cross, “she admitted no sex occurred in [MD’s] bedroom.”
+    The defence is incorrect here too. SD testified to various forms of sexual contact
+    with MD in his bedroom: oral sex, manual masturbation, and masturbation with
+    feet. In his questioning leading up to SD’s “no sex in his bedroom” answer,
+    defence initially asked about the sequencing, as between different locations, of
+    “oral sex” i.e. where did that activity first occur as between two places. But he
+    then referred to “sex”, which sparked SD to ask defence to be more specific: “Can
+    you clarify what you are referring to here: oral sex or penetrative sex?” He
+    answered: “I did not mention oral sex [i.e. in this segment].” Based on her
+    resulting understanding that he was referring to penetrative sex, she confirmed
+    again that no ”sex” (i.e. penetrative sex) had occurred in his bedroom. There is no
+    inconsistency here;
+15. [further on inconsistencies] asked in cross how many times she provided oral sex
+    in the pickup truck, she answered “more than 5, less than 10.” Asked to
+    reconcile that estimate with her direct-phase answer (“5), she said “neither are a
+    lie.” Pressed that both cannot be true, she said “I am unsure.” In light of the
+    circumstances noted at the close of subpara 10, I do not see a material
+    inconsistency here i.e. as between an estimate of “5” and “6 to 10.” Asked about
+    the number of occasions of oral sex in his bedroom, she said she could not recall
+    and, after being pressed to provide an estimate, she said “less than 10.” Being
+    reminded that she had said “less than 5” in direct, she said “both are correct,
+    because 5 is less than 10.” I do not see a material inconsistency here i.e. as
+    between an answer of (effectively) “up to 4” and “up to 10”, especially in the
+    noted circumstances;
+                                            Page: 12
+
+
+   16. same for her inability to recall the times of day, days, and months in which
+       given asserted sexual contacts occurred (“did [that incident] happen on a weekday
+       or a weekend?”) i.e. beyond “seasonal recollections” (e.g. being in the fields in
+       farm equipment in growing or harvesting seasons) or what clothing MD had
+       been wearing on a given occasion, given the over-18-year gap between the
+       asserted events and the trial and the conclusions in DD and LL above about
+
+
+
+
+                                                                                                 2024 ABKB 104 (CanLII)
+       children not typically paying as much attention to (for instance) time as adults or
+       typically not being expected to recall them with the same precision as adults
+       experiencing the events i.e. no credibility or material reliability concerns arise
+       here;
+   17. defence asserted another credibility blemish i.e. that SD “could not say where
+       other members of the household were during the [occasions of] alleged sex.”
+       However, SD testified that neither her brother nor RW was ever present when SD
+       and MD had sexual contact. How was she supposed to know where they were on
+       such occasions (even if she may have had an idea)?
+   18. defence argued alternatively that the other household members would have
+       noticed at least one of the sexual contacts between MD and SD and that the
+       absence of corroborating evidence from either or both of them was telling.
+       Corroboration is not required. In any case, the brother was not called as a witness
+       by either side, and no evidence placed the brother in SD’s immediate vicinity at
+       all times. As for RW, even if her evidence of SD spending considerable time with
+       her on the main level of the house, in the garden, and elsewhere on the farm, plus
+       of frequently going to the basement (where MD and the brother, in one room, and
+       SD, in another, had their rooms) is accepted, it is far from proving that RW was
+       always in the immediate vicinity of SD. For one thing, even if RW came down to
+       the basement on a laundry trip to or get food from the freezer, such occasional and
+       short visits do not compare to the many hours, on a given evening and night,
+       when RW was not in the basement. And many of SD’s allegations were of sexual
+       contact away from the house, and RW did not testify that she was always present
+       whenever MD and SD were in or near a vehicle. (In any case, corroboration (via
+       admission) is present here, as discussed later);
+   19. as for the “failure” of SD to report any of the sexual contacts to RW or to other
+       family members, even accepting SD was close to her and them (or some of them),
+       no negative inference can fairly be drawn here i.e. with no typical-reporting
+       baseline. In any case, per SD’s testimony, she understood the sexual contacts to
+       be normal and appropriate and, further, with “society not understanding” (per her
+       account of MD explaining this to her), MD would have “gotten in trouble” if she
+       had reported. That is, she did not have to explain any “failure” to report, but she
+       provided a plausible reason in any case; and
+   20. same for (per defence) SD’s “general mood and general disposition [being]
+       normal”: that is a neutral factor, with no typical-disposition baseline.
+[25] As stated at the outset, and as explained by these reasons, I find that SD was a credible
+and materially reliable witness.
+                                            Page: 13
+
+
+                  B. Credibility assessment of MD
+[26]   By contrast, I have many concerns with MD’s credibility:
+   1. asked in direct if he was ever alone with SD in his room, he replied “No, DD
+      [the complainant’s older brother] was always with us. I [would be] reading a
+      book; DD and SD would be on the computer. Or DD would have a book, and me
+
+
+
+
+                                                                                             2024 ABKB 104 (CanLII)
+      too, and SD would be on the computer. Whenever SD was in our bedroom [i.e.
+      the room MD and DD shared], DD was always there.” MD gave these “always
+      there” responses immediately, without taking a moment to consider whether, in
+      the approximately 2.5 years these three people lived in the basement of RD’s
+      house, there was ever one time – for example, when DD left the shared bedroom,
+      while MD and SD were also there, to go to the bathroom, or upstairs for a snack,
+      or outside for a walk, or any other purpose, even for a few minutes, or even for a
+      moment – MD and SD were alone in the shared bedroom. I find this “never alone
+      in the shared bedroom” answer highly unlikely and (as explained further below on
+      further “never alone” evidence”) a material blemish on MD’s credibility;
+   2. asked in direct if he showed SD any “child pornography”, he answered “No,
+      absolutely not. We had dial-up [internet]. Dial-up is so slow you [effectively]
+      cannot download [anything]. It would take days to download a video. There was
+      nothing like that on my computer.” The question here did not ask about videos
+      specifically i.e. in contrast to photos or other forms of sexual-abuse-of-child
+      images. Yet MD moved directly to saying (effectively) “I could not have had
+      such videos, on account of the house having only dial-up internet.” And he said
+      nothing about (possible) photographs or other non-video images. He later added
+      that, with such an internet connection, “You can only be on the phone for a bit
+      [downloading] ... it takes over the phone, and the farm [was] a business ... RW
+      [needed] the hone and, with the internet “on”, you cannot use the phone.” Here I
+      note that, presumably, downloading via the internet was not the only means by
+      which the suggested content could have ended up on MD’s computer. Yet he did
+      not testify that downloading via dial-up internet was the only means he knew by
+      which the content in question could have ended up on his computer (if at all). As
+      well, RW was not asked about the extent to which she needed the home phone for
+      farm business. Or if such need ever extended to “non-business” hours e.g. into
+      the evening, overnight, or early morning. And neither did MD add his perspective
+      on those aspects. I find these aspects cast a further blemish on MD’s credibility;
+   3. MD gave another highly unlikely answer when asked in direct if he ever spent 8
+      or 9 hours alone with SD outside the house: “No, I never spent [time] outside
+      with SD for any length of time.” He then gave a long answer about how busy he
+      was with farm work – “have to keep going, cannot stop” – in the springtime and
+      the fall – “have to get combining .. cannot stop for anything ... snow is coming”,
+      noting that, for a few weeks of the year, he worked up to 20 hours a day. Taking
+      these responses at face value i.e. accepting that for a good portion of the year, MD
+      worked full-bore, he offered no evidence about down times of the year e.g. after
+      harvest and before seeding, when (even with some continuing level of tasks and
+      chores), farm work was undoubtedly at a lower ebb. All asides from points, even
+      during hectic times, when MD must have had (even limited) down time. It is not
+                                         Page: 14
+
+
+   believable that, in the 2.5 years MD and SD lived together, with DD and RW, that
+   MD “never spent time outside with SD for any length of time”, just in the normal
+   ebb and flow of everyday life, as the household members went about their various
+   home-based activities – farm work for MD, children walking to and waiting for
+   the school bus, children playing outside, adults giving children rides to and from
+   friends’ homes, and various family members working in the garden, playing with
+
+
+
+
+                                                                                           2024 ABKB 104 (CanLII)
+   the RW’s dog, walking outside to do chores, and generally living their lives in
+   close proximity for parts of virtually every day;
+4. asked in direct whether his farm work included caring for RW’s cattle, he said
+   he would [cut] hay, in the summertime, using [a] small tractor, which was dusty
+   and hot, with him needing to pay close attention to cutting the hay. He was then
+   asked who assisted in with that, to which he responded: “no one helped ... you
+   cannot have someone [else] in the tractor.” His counsel then clarified he had
+   been asking who else assisted him in caring for the cattle i.e. not with cutting hay.
+   I find that MD went out of his way here to point out that (at least per him) no one
+   else could be in the tractor. Even if he had misunderstood the “who helped?”
+   question, all he (reasonably) had to say was that cutting hay was a one-person
+   operation i.e. without having to add that no one else could be in the tractor. This
+   is an example of defensiveness i.e. of using his response as a platform to create an
+   unasked-for impression;
+5. at another point in direct he said he was “never alone with SD in the black pick-
+   up truck.” As far as I could tell from the vehicle-focused testimony of the
+   various witnesses, this truck was the main “everyday” vehicle for these four
+   individuals. I heard testimony about the Kenworth transport truck, a combine,
+   and a seeder, and possibly a swather (not clear it that was a self-propelled or
+   “tractor attachment” unit), but no mention of any other “non-farm” vehicles i.e.
+   other than the black pick-up. I query the likelihood that, in the 2.5 years living
+   together, there was not one occasion when MD and SD were in that vehicle by
+   themselves;
+6. later in direct, he said that DD was “always there” at night i.e. in the bedroom
+   shared by MD and DD i.e. there was not one night, in the 2.5 years together, that
+   DD did not sleep there i.e. was never away visiting one or both of his parents
+   (who lived elsewhere), at a sleepover with friends, on a weekend camping trip
+   with friends, away on an overnight school or sports-team field trip, pitching a tent
+   outside in the yard on a warm summer night, or falling asleep elsewhere in the
+   house after staying up late to watch TV, among other occasions when DD might
+   have been away for at least one night in that period. I find this highly unlikely;
+7. on two occasions in direct, he started answering questions before his counsel
+   finished asking them, when it was not necessarily clear, from the opening, what
+   the question was going to be. The first question: “Cast your mind back to any
+   time in SD’s grandma’s house where you ....” At this point, MD answered “no”,
+   with his counsel then finishing his question “ ... touched [SD] sexually.” The
+   second question: “Did you take pictures of SD ....” At this point, MD answered
+   “no”, with his counsel then finishing “ ... of her having oral sex with you?” While
+   MD may have guessed correctly what questions were coming or at least
+                                         Page: 15
+
+
+   eventually coming, either question could have unfolded more innocuously e.g.
+   (the first one) ... where you and SD were visiting her together.” Or (the second
+   one) “ ... on any family occasion?” I find MD was over-eager to distance
+   himself from the asked-about events;
+8. later in direct, he was asked if there was “a time or occasion where you were
+   driving [at the same time as] having oral sex with SD?” He answered: ‘No, like I
+
+
+
+
+                                                                                         2024 ABKB 104 (CanLII)
+   said, I didn’t teach [SD] how to drive”, before adding that “there was no reason
+   that ...” and “DD usually wanted to come ... he wanted to do the driving [as he
+   was learning how to drive].” MD’s initial response made no sense, as driving
+   lessons were obviously not the only reason why MD and SD may have been
+   driving in a vehicle together;
+9. in cross, he was asked “you said you were never alone with SD on the tractor,
+   right?” He answered: “Right.” Q: “How about in the house?” His answer:
+   “[RW] was always in the house with us.” Again, I find this highly unlikely,
+   given how long these individuals lived together i.e. that not one time was RW
+   away or even just outside the house e.g. in the yard or garden or sitting on the
+   steps, when MD and the children or either of them were in the house. Asked
+   further about occasions when RW may have had to go “anywhere”, he replied “I
+   usually had to drive her, (for example) to get [farm-equipment] parts, or for
+   groceries [out] to Grande Prairie.” Again: highly unlikely. In other testimony,
+   MD and RW (whose testimony I review later) stressed that RW was actively
+   involved in driving the farm equipment – in fact, she did virtually all of the
+   combining and other farm-equipment driving, with MD assisting in a support role
+   e.g. driving the grain-receiving truck(s). It makes no sense that such a centrally
+   involved and apparently robust person would effectively need MD as a full-time
+   chauffeur, particularly given MD’s other testimony about how pressing the farm
+   work could be at many points in the year i.e. that he would actually be called into
+   “drive RW around” service whenever RW had to go anywhere;
+10. at another point in cross, he acknowledged that, while RW came into the
+    basement to do her laundry and to collect food from the freezer, “for the most
+    part” she mostly stayed upstairs. (I will return to this point in reviewing RW’s
+    testimony of often being in the basement, including late in the evening);
+11. asked in cross if about RW’s apparent visits to an apartment in Chilliwack,
+    British Columbia, MD said that “Every time ... I had to go [out there] with her
+    because anything that was wrong with it, I was the one to fix it.” Again, this is
+    hard to understand, with no follow-up testimony about who looked after the
+    children at such times or whether they accompanied RW and MD on such trips.
+    Or about why it was that only MD could “fix things” at that apartment. Or why
+    things were prone to breaking down at the apartment. Or what things were
+    involved? This was a nonsensical response;
+12. asked later in cross if he was “ever alone in a room with SD?”, he answered
+    “no”, immediately. Asked again: “Never?” Answer (immediately): “No.”
+    Without taking any time to ponder if that extremely-likely-in-the-circumstances-
+    here event had occurred, even once, in the time they lived together. He added: “It
+                                            Page: 16
+
+
+       was always DD and me and SD. If I was working, it was DD and SD in the house
+       with RW. ... I was either working or [we were] all together.” Again, as explained
+       earlier, highly unlikely;
+   13. later in cross, “were you ever alone with [SD] at any point [i.e. in any location]
+       over those two [plus] years?” Answer: “I cannot think of any time I was ever
+       alone with SD for any time.” I find this extraordinarily unlikely in the
+
+
+
+
+                                                                                                     2024 ABKB 104 (CanLII)
+       circumstances here. On this subject, for example, shortly after, MD described an
+       occasion when he had to coax an unwilling SD to help with a simple task
+       (monitoring a grain-cleaning operation and turn off a switch if anything seemed
+       off), with no mention of either DD or RW being in the vicinity; and
+   14. asked further in cross about “never alone with SD” and who would go (as needed)
+       to pick up DD from a friend’s house, he said “Usually [RW] and I would go to
+       get DD, and either leave SD alone or she would come with us.” This seems
+       nonsensical i.e. that these busy farm people would need to team up for a simple
+       task like picking up one of the kids from a friend’s house. Shortly after, he added
+       “if I had to go to town, [RW] would come [along] ... to get groceries or
+       whatever.” Again, highly unlikely.
+[27] Overall, MD was a defensive witness, unwilling to acknowledge the slightest, most
+innocuous, and almost inevitably occurring events, such as whether SD was ever alone with him
+in his room, he ever spent any material amount of time alone with SD outside the house, they
+were ever alone together in the pick-up truck or, in fact, they were ever alone together,
+anywhere, at any point, during their 2.5 years of living tighter.
+[28]   On this aspect, I adopt the following analysis in R v ASP, 2023 ABKB 79:
+       ... I query the likelihood that, over the course of approximately two years, there
+       was not one time that AP and AK were alone in the house e.g. even if TK and YB
+       were just sitting on the front porch or in the yard, at a neighbour’s place or
+       walking around the block: see, for example, these cases where “never alone”
+       evidence was rejected as implausible, most in long-running (multi-year)
+       family settings: R v BB, 2018 ABCA 420 (paras 33, 34 and 37); R v. SA, 2021
+       ONCA 434 (para 46); R v GW, 2020 ONCA 130 (paras 2 and 3); R v GP, 2014
+       ONCA 39 (para 39); R v DT, 2014 ONCA 44 (para 52); R v SA, 2017 ONSC
+       3169 (B.A. Allen J.) (paras 83 and 94); R v KR, 2016 ONSC 2000 (Laliberte J.)
+       (paras 389-400); and R v SS, 2021 CanLII 33028 (NL PC) (Gorman PCJ) (paras
+       94-97). [para 41]
+[29] As well, as detailed above, MD offered testimony that was variously non-responsive,
+nonsensical, embroidered with unsought details, and illogical.
+[30] Overall, I find, based on the above-described factors, that MD was not a credible witness.
+He was obviously correct about various background matters. But when it comes to core issues
+such as how he and SD interacted during their years living together, he was fundamentally
+evasive and defensive, to the point that I reject his evidence of never being alone with SD,
+anywhere, at any time, during their 2.5 years living in the same house and also about he and RW
+effectively being joined at the hip i.e. about how they jointly conducted a considerable amount of
+                                             Page: 17
+
+
+the farm work together, shuttled the kids (or either of them) around together, got groceries and
+did other shopping together, and travelled to Chilliwack together.
+[31] My central reading of MD is that he was trying extremely hard to hide something about
+his interactions with SD.
+[32]   I will return to MD’s credibility after exploring RW’s credibility.
+
+
+
+
+                                                                                                     2024 ABKB 104 (CanLII)
+                   C. Credibility assessment of RW
+[33] As noted, RW was the owner of the farm and residence where MD, SD, and DD lived
+from early 2004 until late 2006.
+[34] She said that, at some point when he was 19 or so years old, MD began to work for her
+and her late husband on the farm. She said that she and her husband had “embraced him like
+family.” She agreed that “he was like family to [her].”
+[35] She told us many times that she would frequently go to the basement, whether to do her
+laundry (“almost every second day”) or to get food or food ingredients from her deep freeze,
+food-storage cupboard(s) (“rice”), and cold room (“potatoes, onions, and other garden
+vegetables”).
+[36] She emphasized that such visits could occur at almost any time (“did laundry, at times, in
+the morning, or noontime, or the evening ... depends”), including late at night, particularly
+following long days out in the fields e.g. when the last meal of the day could be very late (“deep
+into the night”). I find she was trying to create an impression of showing up downstairs at
+almost any time.
+[37] On two occasions, asked about SD’s bedroom downstairs, she added (without being
+asked) that one could see into SD’s bedroom, via two windows, from the driveway near the
+house. Coupled with her two- or three-time reference to being able to see directly into SD’s
+bedroom from various common-area vantage points in the basement, I concluded that she was
+trying to create an impression that whatever was happening in SD’s bedroom could be easily
+seen by anyone.
+[38] In a related series of questions and answers in direct, she told us that “I am in charge of
+driving the [farm] machinery ... I will do the harvesting ... I am the one who drives all the
+machinery ... I drove those machines ... I am the driver of the machines.” That may be so, but
+RW’s manner of insisting that she was the sole driver of the farm machinery (other than trucks
+and other than (very limited) occasions when MD would drive to allow her to have her lunch)
+seemed too insistent i.e. seemed to be straining to create an impression i.e. that MD could never
+have been in the combine or other farm machinery alone with SD.
+[39] She said that, on occasions when SD needed a ride to a friend’s place, she “will bring
+[MD] ... me and [MD] will [take her].” This may tend to confirm MD’s evidence about RW and
+MD driving places together. But, on balance, it makes me doubt both of them on this aspect.
+Again, I stress the unlikelihood that the two adults on the farm, apparently both very busy
+running the farm at many stages of the year, would both be required to handle a simple task like
+giving one of the children a ride to a nearby (“three miles away”) friend’s place. Especially with
+no particular reason offered by either of them for why both adults would be needed or, in any
+case, would prefer, to handle such simple tasks jointly.
+                                              Page: 18
+
+
+[40] In cross, it was put to her that “you were not with [MD] 24/7?”, she said: “... most of the
+time ... the whole day ... mostly we work together ... and I am close to [MD] the whole day ... we
+are almost together the whole day”, before saying that “at times, he wanted to be alone and
+read.” Later, in response to “you would not be around when [MD] went to bed?”, she said: “... I
+am [sometimes] still awake, and I go to the basement, if [I am] hungry.” Later, in response to
+“you were not with [MD] 24/7 ... there were times that [MD] was alone or [at least] not with
+
+
+
+
+                                                                                                      2024 ABKB 104 (CanLII)
+you”: “Rarely .. because [we were] working on [the] farm ... had to do ... even after seeding ...
+building together ... I would say most of the time me and [MD] will be together, doing farm work
+... just farm work.”
+[41] I conclude that, based on other (uncontroversial) evidence about RW and SD spending
+considerable time together, RW was a positive and beneficial force in SD’s life during the years
+in question.
+[42]   I also accept that RW is a hard-working and industrious farm owner and operator.
+[43]   She was also a positive force in MD’s life.
+[44] But I also find that her “like family” connection with MD made her unduly partial to MD,
+leading her to slant her evidence in his favour e.g. in going overboard on how she was the only
+farm-machinery operator, how she might show up in the basement at almost any time, how
+routine driving trips involved both adults, how she and MD were essentially joined at the hip as
+they went about their farm work, and how SD’s activities in the house were easily monitored.
+[45] Overall, I find RW to have been unduly partial to MD, to the point that I reject the centre
+plank of her testimony – (effectively) “I had my finger on the pulse of the household, including
+knowing what MD and SD, respectively, were up to most of the time.”
+                   D. Audiotaped conversation
+[46] I next turn to the audiotaped conversation which, per SD, was recorded by her, via her
+close-at-hand cellphone, on the porch of her mother’s home, in New Brunswick, on July 24,
+2021 and featuring the voices of SD and MD, who was sitting close to her, as well as
+(occasionally) those of SD’s children running between the house and the porch.
+[47] Following a voir dire on the recording, I ruled that the Crown had adequately authenticated
+the recording i.e. that the recording was what it purported to be i.e. (in part) a capture of a
+conversation between SD and someone else at the reported place, time, and date.
+
+[48] I noted in that ruling that I could not rule out MD as the male party to the conversation
+and, in fact, that it may be him, based on the sound of his voice (comparing to his voice heard at
+the trial) and the speaker making comments reflecting him having been in some sort of guardian
+or other responsible-person role in respect of SD and her brother when she was 12 years old,
+which fits with the undisputed evidence that MD in fact served as guardian or at least de facto
+guardian for the children at that time.
+[49] I also noted that whether MD was the male party to the conversation would be
+determined in the trial proper.
+[50] I will note here that, based on the sound of the voice and the guardian aspect (as well as
+any other factor noted on this aspect in my voir-dire ruling) that it was, and is, more likely that
+                                            Page: 19
+
+
+not that MD was the male party in the conversation: here see R v Adam, 2006 BCSC 1884
+(Romilly J.) (paras 159 and 162-165).
+[51] I will now turn to how the recording should be viewed in light of the entire evidence,
+starting with a more detailed exploration of the conversation. (I am largely working from a
+transcript prepared for the Crown, which all recognized was less-than-perfect, omitting segments
+of the conversation. As is clear from the recording itself, there are also segments when the
+
+
+
+
+                                                                                                   2024 ABKB 104 (CanLII)
+voices were hard to hear and when dialogue featuring or involving the children and assorted
+traffic noises obscured parts of the conversation. However, I am satisfied that the omitted
+segments are immaterial in the context of what is transcribed i.e. with nothing material omitted
+and same for the obscured-by-noise segments. What was captured on the transcript represents a
+materially accurate capture of the material segments of the dialogue between SD and the male
+person.)
+[52]   I find the following concerning the conversation:
+   1. the female adult voice is that of SD, as MD acknowledged;
+   2. the children’s voices are those of SD’s children, as MD further acknowledged;
+   3. while MD asserted that SD had “tampered with” or “chopped off” the recording,
+      all he showed, which SD acknowledged, was that the transcribed portion of the
+      conversation represented roughly the last half of the overall recording. Per SD,
+      the first (approximate) half featured “kid noises” -- i.e. sounds of the children
+      running about and talking – and that it did not feature any dialogue, direct or
+      indirect, concerning the asserted sexual contacts between SD and MD. Nothing in
+      the transcribed portion makes any reference to anything in the first segment, at
+      least nothing bearing on the asserted sexual contacts. MD did not assert that the
+      first segment included anything exculpatory for MD. I see not reason not to take
+      SD at her word here i.e. that the first segment featured irrelevant-here
+      conversation and sounds i.e. that its omission in SD’s initial presentation of the
+      recording to the police (i.e. by starting to play the recording at the halfway point)
+      and the focus on that segment in this trial) is a neutral factor;
+   4. nothing in the recorded portion signalled any obvious signs of tampering i.e. in
+      the sense of anything added to the original recording or anything changed in it.
+      MD argued that SD may have created the male voice, possibly using artificial
+      intelligence to do so (e.g. drawing on earlier recordings she may have made of
+      MD’s voice) i.e. created the “recorded” dialogue to effectively frame MD for the
+      alleged contacts. I reject that argument as entirely speculative, with no evidence
+      suggesting this possibility e.g. evidence that SD had any familiarity with AI or
+      other technology that might be used to create such a dialogue, that she knew any
+      persons who did, that SD had ever done anything like that before, that it was in
+      fact possible, by whatever technique, to create a dialogue such as that (apparently)
+      recorded, that she had any particular motive to so fabricate, or that forensic
+      analysis of the recording confirmed or even suggested that the dialogue was
+      fabricated, even in part;
+                                          Page: 20
+
+
+5. MD acknowledged being in New Brunswick at or around the time of the
+   recording, to retrieve some of his mother’s possessions (stored there) before going
+   to Ontario for her burial;
+6. he also acknowledged having had at least one private conversation with SD on the
+   porch in question. Per him, it concerned the circumstances of his mother’s death
+   exclusively i.e. had nothing to do with the asserted sexual contacts;
+
+
+
+
+                                                                                              2024 ABKB 104 (CanLII)
+7. comparing MD’s voice heard at trial with the recorded voice, and noting the
+   imperfect quality of the recording, especially with SD’s phone to her far side i.e.
+   i.e. with that person further away from the phone as it recorded, and also noting
+   that, in segments, the male person spoke in a low, at points almost whispering,
+   voice, it is plain to me that it is MD’s voice or at least incredibly similar, featuring
+   (in part) the same gravelly dimension of MD’s voice heard at trial;
+8. the Crown was not obliged to submit the recording for forensic analysis e.g. to
+   obtain voice-expert analysis comparing the recorded male voice to MD’s voice
+   (however recorded for comparison purposes);
+9. as noted earlier, various comments by the male speaker reflect a guardian or other
+   “responsible adult” role in respect of SD and her brother (“... I didn’t treat you
+   like a child at any time. I don’t treat, didn’t treat [DD] as a child” and (later) “I
+   never stopped you from getting [friends] or from [stet] encouraging you to go out
+   and do whatever you needed to do. I wasn’t any kind of controlling ...”. As also
+   noted, MD in fact stood in a guardian or guardian-like role in respect of both
+   children in the period in question;
+10. congruent with SD’s evidence of MD wearing a condom for every occasion of
+    intercourse, the male speaker emphasizes many times during the conversation that
+    he had always “been careful with that” and hence there was no risk of pregnancy
+    for SD;
+11. at one point, the male speaker observes that “my dad and your dad’s dad are two
+    different people.” SD responded: “Yes, but we have the .. but grandma was ...”
+    Male voice: “I know.” SD (continuing): “... you [i.e. the male speaker and SD’s
+    father] have the same mom. Grandma was my blood grandmother.” Male
+    speaker: “I know.” That accords with the trial evidence about how the
+    grandmother connected to both SD and MD;
+12. the recorded conversation also squared with SD’s evidence of MD showing her
+    sexual-abuse-of-children material. In it, she refers to “the pictures and videos ...
+    like mothers and daughters and really young kids ...”, to which the male speaker
+    says “To me, that was just a fantasy”;
+13. it also squared, in general terms, with SD’s evidence that, at times, she instigated
+    the asserted sexual contacts. On the recording, MD says at one point “You kept
+    instigating it at that time ...”;
+14. the male speaker demonstrates familiarity with SD’s age-12-or-younger sexual
+    history (not bearing on consent, any element of the charged offences here, or
+    otherwise raising myths-and-stereotypes concerns), as reflected in a comment that
+    “you weren’t a virgin right when we first started.” While no other evidence on
+                                          Page: 21
+
+
+   this aspect was presented at trial, the male speaker appears to be in possession of
+   highly personal and intimate information concerning SD, which is consistent with
+   that person having a sexual connection with SD;
+15. the male speaker’s voice reflects discomfort and tension at points, squaring with
+    an actual capture of an obviously difficult and emotion-charged conversation;
+
+
+
+
+                                                                                            2024 ABKB 104 (CanLII)
+16. the male speaker appears to be familiar with SD’s children, and vice versa, at one
+    point apparently speaking to one of them, and no “who are you sitting with? or
+    “who is this?” questions to their mother (or anything akin) from the children;
+17. the male speaker expresses disappointment and upset at various points about SD
+    raising the asserted sexual contacts, which squares with her evidence that, in the
+    period in question, MD had told her not to tell anyone about their sexual contacts
+    (“I could get in trouble ... could go to jail”);
+18. more congruence comes from the male speaker referencing “society doesn’t
+    understand” (i.e. about the apparent relationship between the speakers) and SD’s
+    evidence of MD telling her the same thing during the period in question;
+19. the male speaker apologizes to SD, saying that he never meant to cause her any
+    harm, that he loved her (and she loved him), and that he regrets any hurt that the
+    circumstances were causing SD presently, which squares with SD’s overall
+    evidence i.e. of MD having much to apologize for;
+20. at one the male speaker says: “I did it with love. I didn’t do it just because of the
+    sex. I loved you a great deal. ... And I would never, ever do anything to harm
+    you, intentionally. I’m guessing that’s why any time your kid comes near me,
+    you yell at me or yell at the kids to get away ....” Here the speaker indirectly
+    confirms that SD might have a reason to keep her children away from him. (Here
+    I note MD’s trial evidence that he babysat for SD’s children occasionally.
+    However, the evidence did not indicate whether that was on his own or with
+    others);
+21. I note that absence of evidence at trial about any person (i.e. besides MD) who
+    would or may have had the level of familiarity with SD reflected in the recorded
+    conversation;
+22. SD offered a plausible – in fact, very understandable – reason for raising the
+    asserted sexual contacts with MD when she did i.e. her emerging consciousness,
+    as the parent of young children of the wrongfulness of the asserted sexual contacts
+    and a growing zeal that her children not be exposed to the same or similar harms;
+23. nothing in the recording or otherwise signals that the recorded conversation was
+    staged or artificial in any way e.g. ending with “Okay, now we’ve finishing read
+    the dialogue in my new play”;
+24. in MD’s denials at trial that the recorded male voice was his, he referred at least
+    twice to “to my ears”, a possible acknowledgment (indirect) that the voice at least
+    sounded like his i.e. “It may sound that way to you, but not the way I hear it”; and
+                                             Page: 22
+
+
+   25. MD did not offer any particular reason for believing the voice was not his e.g. “I
+       don’t use such words or phrases”, “I wouldn’t have known that detail”, “my voice
+       is different from that voice in _________ way”, or otherwise.
+[53] Based on these factors, I conclude, beyond a reasonable doubt, that the male speaker in
+the recorded conversation was MD and that, in that conversation, he admitted having had sexual
+contacts with SD when she was 12 years old, in the particulars reflected (directly or indirectly) in
+
+
+
+
+                                                                                                       2024 ABKB 104 (CanLII)
+the conversation, including penile-vaginal intercourse.
+
+ V.    Conclusion
+[54]   Based on:
+            1. SD’s evidence being vivid, frequently detailed, centrally consistent,
+               highly candid, logical, responsive, not evidently exaggerated, unusual-
+               detail-including, concession-included, and inconsistencies-largely-
+               explained (and minor ones only, at that), which was corroborated in
+               material respects by MD’s admissions;
+            2. MD’s fundamentally evasive and defensive, and often nonsensical,
+               evidence, particularly when contrasted to his recorded admissions; and
+            3. RW’s unduly-partial-to-MD and sometimes nonsensical evidence
+I reject MD’s evidence on the Crown’s allegations, find that no reasonable doubt on those
+allegations arises from his or RW’s evidence (separately or combined), and, when considering all
+of the evidence, including the admissions, find that no reasonable doubt arises from anyone’s
+evidence or any combination of the evidence.
+[55] Based on all the evidence, I find that the Crown proved each element of each charged
+offence beyond a reasonable doubt. Accordingly, I find MD guilty of both of the charged
+offences.
+Heard on February 5-9, 2024.
+Delivered orally on February 20, 2024.
+Dated at Grande Prairie, Alberta this 22nd day of February, 2024.
+
+
+
+
+                                                     M. J. Lema
+                                                     J.C.K.B.A.
+
+Appearances:
+
+Amber Pickrell
+Alberta Justice
+       for the Crown
+                        Page: 23
+
+
+
+Obinna Ononuju
+Centobin Law Office
+      for the Accused
+
+
+
+
+                                   2024 ABKB 104 (CanLII)
+                                       Page: 24
+
+               _______________________________________________________
+
+                           Corrigendum of the Reasons for Judgment
+                                                  of
+                               The Honourable Justice M. J. Lema
+                 _______________________________________________________
+Page 16- Paragraph 13 – Name redacted and initials inserted.
+
+
+
+
+                                                                           2024 ABKB 104 (CanLII)
+

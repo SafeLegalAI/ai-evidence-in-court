@@ -1,0 +1,41 @@
+1 such models employ ‘generative AI’ in their algorithms, and agreed that such algorithms
+5 are opaque and proprietary. :
+11. The defense argued that the AI tool is not based on new science and urged the Court to
+3). accept the ‘video production community’, which embraces both filmography and
+4 videography, as the relevant community for purposes of Frye, ;
+12, In its oral argument, the Defense candidly admitted to the court that its other retained
+5 expert, Matt Nodel, could utilize the source video (Exhibit 1) as the basis for his expert
+testimony. :
+6 .
+13, The State’s expert witness, Grant Fredericks, is a Certified Forensic Video Analyst, with
+7 national and international forensic video analysis credentials.
+8 14. According to Fredericks’ testimony, which the Court finds credible, about half of his 300
+appearances testifying in Court over the last ten years have been for the State or Plaintiff,
+9 and about half for the Defense,
+. 10], - 15. Fredericks’ focus in performing forensic video analysis is on ‘image integrity’, and not
+7 on creating a smoother, more attractive product for a user.
+: 16. According to Fredericks, the AI tool(s) utilized by Racherbaeumer added approximately
+12 sixteen times the number of pixels, compared to the number of pixels in the original
+images to enhance each video frame, utilizing an algorithm and erihancement method
+13 ; unknown to and unreviewed by any forensic video expert. Furthermore, he demonstrated
+; that the AI method created false image detail and that process is not acceptable to the
+14 forensic video community because it has the effect of changing the meaning of portions
+of the video. :
+15 :
+17. As Fredericks explained, the AI tool(s) modified the source video by eliminating much of
+16 the motion blur and smoothing edges such that objects in the enhanced video on Exhibit 2
+"7 did not maintain their original shape and color from the source video on Exhibit 1.
+18. Mr. Fredericks explained and demonstrated that the AI process removed information that
+18 was in the original images and it added information that was not in the original images.
+The proffered Al-enhanced video removed artifacts on individual images, altered shapes,
+19 and removed the opportunity to forensically analyze which frames in the video utilized
+reference, predictive, and bi-directional images. In short, the Al-enhancement tools made
+20 proper, accepted forensic analysis of the video impossible. .
+21 19, Fredericks defined the relevant community as the forensic video analysis community, one
+» that spans across North America, Europe, and other parts of the world.
+20. In contrast to approved image enlargement techniques like ‘nearest neighbor’, ‘bi-cubic’,
+23 and ‘bi-linear’ — which have been utilized by the forensic video analysis community for :
+44 decades, and which create video products that are reproducible across approved video
+FINDINGS OF FACT & CONCLUSIONS OF LAW
+ON STATE’S MOTION TO SUPPRESS PURSUANT ;
+TA FRVF

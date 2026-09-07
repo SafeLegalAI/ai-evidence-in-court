@@ -1,0 +1,442 @@
+       IN THE COURT OF APPEALS OF IOWA
+                        _______________
+
+                             No. 24-1563
+                        Filed January 28, 2026
+                        _______________
+
+                           State of Iowa,
+                         Plaintiff–Appellee,
+                                  v.
+                            Max Amyda,
+                        Defendant–Appellant.
+                        _______________
+
+      Appeal from the Iowa District Court for Woodbury County,
+             The Honorable Steven J. Andreasen, Judge.
+                        _______________
+
+                             AFFIRMED
+                        _______________
+
+Martha J. Lucey, State Appellate Defender, and Mary K. Conroy (argued),
+          Assistant Appellate Defender, attorneys for appellant.
+
+      Brenna Bird, Attorney General, and Joshua Henry (argued),
+          Assistant Attorney General, attorneys for appellee.
+                        _______________
+
+                        Heard at oral argument
+              by Tabor, C.J., and Ahlers and Langholz, JJ.
+                        Opinion by Langholz, J.
+
+
+
+
+                                   1
+LANGHOLZ, Judge.
+
+       Max Amyda appeals his conviction for third-degree sexual abuse,
+challenging the admission of a digital video that was sent to the victim online
+and purportedly shows him sexually abusing the victim while she was asleep.
+He argues that the State failed to authenticate the video under Iowa Rule of
+Evidence 5.901 because it did not present testimony of a witness who
+personally observed the conduct depicted in the video or who could describe
+the process or system that made the video. And he argues that the video’s
+admission violated the best-evidence rule because it was not an original under
+rule 5.1001 and a duplicate should not have been admitted under rule 5.1003
+because he raised a genuine question about the original’s authenticity—
+alleging that the video was a “deepfake.”
+
+       The district court did not abuse its discretion in admitting the video.
+The path to authentication of a video is not so narrow as Amyda contends.
+Circumstantial evidence based on the “distinctive characteristics” and other
+contents of the video and all the surrounding circumstances can also be
+sufficient to support a finding that the video is what it claims to be—a
+depiction of the victim being sexually abused by Amyda in early May 2023.
+Iowa R. Evid. 5.901(b)(4). So the court was within its discretion to conclude
+that the State made such a showing with the victim’s detailed testimony that
+she recognized her body, her partial clothing, the room, and Amyda’s hand—
+all consistent with the only time that he was in her room in early May 2023.
+
+       So too was the court within its discretion to reject Amyda’s best-
+evidence challenge. Assuming the rule applies to this video and that the video
+is not an original, it was still admissible as a duplicate because Amyda’s
+speculative claims that the video was a “deepfake” without any evidentiary
+support did not raise a genuine question about the video’s authenticity.
+
+
+                                      2
+I.    Background Facts and Proceedings
+
+       On May 5, 2023, a woman—the victim in this case—reached out to
+her life-long friend to make plans to hang out. But the friend was busy and
+suggested that the victim ask the friend’s uncle—Amyda—to hang out
+instead. The victim had never spent time alone with Amyda before. But he
+had been to her sister’s house—where the victim lived with her sister and her
+sister’s husband and young kids—once before with another friend. The
+victim took the suggestion and reached out to Amyda through Facebook
+Messenger to invite him over. And that night, Amyda visited the house.
+
+       First, the victim and Amyda listened to music and drank alcohol
+together in the garage. Late into the night, she became tired and they went to
+her bedroom. They were both drunk and began kissing. Then Amyda took off
+his clothes and repeatedly asked the victim to have sex with him. But she
+rejected Amyda and never took her clothes off. She eventually fell asleep.
+When she woke, Amyda was sleeping next to her, and they were both fully
+clothed. Amyda left later that evening.
+
+       A few weeks later in mid-June, the victim received a message through
+Facebook Messenger from her sister. The message included a roughly one-
+minute-long video that her sister had received from another family member.
+The video started by showing a woman’s vaginal and surrounding pubic area.
+It then panned up to show the victim’s torso and face. She was lying down on
+her bed asleep or unconscious—her eyes were closed and steady breathing
+could be heard in the video’s audio. And she was wearing only what appears
+to be a sports bra. Then, a person’s hand started manipulating her vagina and
+spread apart her labia while the video zoomed in close to the vagina and at
+other times again panned up to show the rest of the victim’s body and face.
+After nearly a minute of this, in the final ten seconds, the video focused on
+
+
+                                      3
+the victim’s pubic hair and showed the hand pointing at the hair and giving a
+thumbs-down gesture. The hand then scratched the hair, as if shaving it, and
+concluded with a thumbs-up gesture. For parts of the video, the back of the
+left hand could be seen with a tattoo on it. The tattoo appeared to be in the
+shape of an “X” with one of the lines replaced by an arrow pointing toward
+the wrist and a few other small numbers or letters under the “X.”
+
+       The victim was devastated. She recognized herself, her clothes, and
+her room. She recognized Amyda’s hand and his tattoo. And she was shocked
+to learn that he had touched her that way without her permission.
+
+       The victim immediately reached out to Amyda through Facebook
+Messenger again “to find out why he did this kind of thing to me.” But rather
+than responding, Amyda blocked her so she could not communicate with him
+further.
+
+       The next day, the victim and her sister went to the police and gave
+them the video. A detective investigating the sexual abuse phoned Amyda at
+least twice, telling him that a complaint of sexual abuse had been made and
+trying to schedule an in-person meeting. But Amyda did not cooperate. And
+the State eventually charged Amyda with third-degree sexual abuse.
+
+       Before trial, Amyda moved in limine to exclude the video or any
+testimony about the video. He argued that the State could not authenticate
+the video because none of the witnesses listed in the minutes of testimony
+“observed the video being shot” and so there was no evidence of “who shot
+it, where it was shot, when it was shot and whether the video is an accurate,
+unaltered representation of the events depicted in it.” He also argued that
+“The Best Evidence Rule Precludes the Admissibility of the Video.” But
+while Amyda quoted the rules of evidence and cases applying the best-
+
+
+
+                                     4
+evidence rule, he did not make any specific argument as to how admission of
+the video violated that rule.1
+
+        The district court held an evidentiary hearing to resolve the
+authentication objection as a preliminary question, “so that the parties will
+know at least whether that foundation is established for” the video before
+trial. See Iowa R. Evid. 5.104. The State presented testimony from the victim,
+her sister, and the detective to whom they turned over the video.
+
+        Four days later, the district court denied Amyda’s motion in a
+thorough written ruling. While the court agreed with Amyda that no
+witnesses could authenticate the video by testifying that they observed the
+conduct shown on the video or the process by which it was shot, the court
+still concluded that Amyda’s authentication objection failed because there
+was sufficient circumstantial evidence “establishing that the video depicts a
+sex act being performed on [the victim]” and that it “depicts [Amyda]
+performing such sex act on or about May 5, 2023.” The court reasoned that
+this evidence included the victim’s detailed testimony that: (1) “the video
+shows her face, her body, and specifically her vaginal area,” including
+“stretch marks and other distinctive features of her body”; (2) “the bed and
+other items on the video accurately depicted her bedroom”; (3) “the
+appearance of her, her bed, her bedroom, and the like depicted in the video
+appear to be in the same condition as existing on May 5, 2023”; (4) “she
+observed a tattoo on [Amyda’s] hand when they were together May 5, 2023,
+that looked similar to the tattoo observed on the hand in the video”; and
+(5) Amyda “was lying next to her on the bed when she fell asleep and was
+there when she woke up the following morning, indicating that [Amyda] not
+
+       1
+         Amyda also raised other evidentiary and constitutional objections to the video
+and testimony about the video that he no longer pursues on appeal.
+
+
+
+                                          5
+only had the opportunity to do what is depicted in the video but was also
+arguably the only person with that opportunity.”
+
+       The court also rejected Amyda’s best-evidence objection, concluding
+that the video received by the victim through Facebook Messenger “is
+arguably the ‘original’” because “[i]t is what they received and viewed.”
+Alternatively, the court reasoned that even “[i]f the video captured by the
+phone, camera, or device at the time it was being taken is the original, the
+Court concludes that such original is either lost or destroyed not due to bad
+faith of the State or otherwise cannot be obtained by any available judicial
+process.”
+
+       During the August 2024 jury trial, the district court admitted the video
+over Amyda’s renewed objections. The court also admitted a photograph
+taken from the video that showed the tattoo on the back of the left hand as it
+was touching the victim’s vagina. And the jury heard testimony from the
+victim, her sister, and the detective to whom they turned over the video—all
+generally consistent with their testimony at the motion-in-limine hearing.
+
+      After the State rested, Amyda presented photos of his hands taken a
+few weeks before trial and a stipulation authenticating the photographs.
+These photos showed a different tattoo on his left hand than the left hand in
+the video. Rather than the simple “X” with an arrow pointing toward the
+thumb joint, the tattoo was an elaborate skull wearing a hood.
+
+      In rebuttal, the State submitted booking photos of Amyda’s hands that
+were taken when he was arrested at the end of July 2023—a little more than
+a month after the victim received the video, reached out to Amyda for an
+explanation, and reported the video to the police in mid-June. The photo of
+Amyda’s left hand also showed the skull tattoo on Amyda’s left hand. But the
+
+
+
+                                      6
+State called an experienced tattoo artist who provided his expert opinion that
+the skull tattoo was “new” and had been placed on Amyda’s hand in the two
+weeks before the photo was taken. The tattoo expert explained that the
+July 2023 photo showed “peeling and flaking skin around the more intense
+dark areas,” which was “a dead giveaway” that it was still in the first two
+weeks of healing. The expert also explained that when a good tattoo artist
+puts a tattoo over an earlier tattoo, the earlier tattoo is not visible anymore—
+and that he could not tell from the photo whether the new skull tattoo had
+been put over another tattoo.
+
+       The jury found Amyda guilty of third-degree sexual abuse. And the
+district court sentenced him to a ten-year indeterminate prison sentence.
+Amyda now appeals his conviction, challenging only the district court’s
+decision to admit the digital video.
+
+II.   Authentication of the Digital Video
+
+       Amyda first argues that the district court should have excluded the
+digital video because the State failed to authenticate it with a proper
+foundation. We review this evidentiary ruling for an abuse of discretion. See
+State v. Manning, 26 N.W.3d 385, 390 (Iowa 2025). “A district court abuses
+its discretion when it bases its decisions on grounds or reasons clearly
+untenable or to an extent that is clearly unreasonable or if it bases its
+conclusions on an erroneous application of the law.” State v. Thoren, 970
+N.W.2d 611, 620 (Iowa 2022) (cleaned up).
+
+       To authenticate the video, like any item of evidence, the State had to
+“produce evidence sufficient to support a finding that the item is what the
+proponent claims it is.” Iowa R. Evid. 5.901(a). The State was not required to
+explain “all the circumstances surrounding” the video. Manning, 26 N.W.3d
+at 392 (cleaned up). Nor did it have to produce “[c]lear, certain and positive
+
+
+                                       7
+proof.” Id. (cleaned up). Rather, circumstantial evidence can be enough. Id.
+And ultimately, the State was merely required to “provide sufficient
+information that could allow a jury to determine the evidence is what the
+proponent claims.” Id. at 393 (cleaned up).
+
+        Among rule 5.901’s non-exhaustive list of examples “of evidence that
+satisfies the” authentication requirement, is: “Distinctive characteristics and
+the like. The appearance, contents, substance, internal patterns, or other
+distinctive characteristics of the item, taken together with all the
+circumstances.” Iowa R. Evid. 5.901(b)(4). Although this method of
+authentication may be used in combination with other examples in the rule,
+authentication of a photo or video with rule 5.901(b)(4) evidence does not
+rest on a witness who personally witnessed the depicted activities or created
+the photo or video. See State v. Farnum, 397 N.W.2d 744, 746 (Iowa 1986)
+(relying in part on rule 5.901(b)(4) to hold that five photos were properly
+authenticated by a detective’s testimony that “the decor of the room” shown
+in the photos matched his personal observations of the defendant’s bedroom
+even though the detective was not “a direct witness to the depicted
+activities” but also relying on rule 5.901(b)(3) because the photos were
+“graphically similar” to other photos that had already been authenticated by
+direct witnesses who were depicted in the photos); see also State v. Deering,
+291 N.W.2d 38, 39 (Iowa 1980) (“[T]he basic principles which govern the
+admission of photographs also apply to the admission of motion picture films
+taken without artificial reconstruction.”).
+
+      Our supreme court discussed this type of authentication evidence
+most extensively in State v. Holderness, 293 N.W.2d 226 (Iowa 1980). There,
+the State sought to admit a photo—taken on a roll of film from a camera that
+was stolen in a burglary—which the State claimed was “a picture of the
+
+
+
+                                      8
+burglar,” apparently accidentally taken by the burglar himself while
+crouching outside the victim’s garage. Id. at 228, 234. The photo was the only
+evidence identifying the burglar. Id. at 230. And the State had no witness who
+observed what the photo depicted or could describe how the photo was
+taken—although the victim who owned the camera gave limited general
+testimony about the reliability of the camera “and the photographic process.”
+Id. at 231.
+
+        But the victim could testify about the short time window between
+when his camera was stolen and a neighborhood boy returned to him “a roll
+of film of the kind which he had in the camera.” Id. at 228, 234. He testified
+that he took the first eight pictures from that roll. Id. at 227. And he
+recognized his boat and trash can appearing in the background of the photo
+of the purported burglar. Id. at 228. The court acknowledged that
+“[c]onventionally,” a photo is authenticated “by the direct testimony of a
+person who, although perhaps not connected with the photography, observed
+the scene and testifies that the picture fairly shows it, or who describes the
+photographic process employed and testifies it produces accurate pictures.”
+Id. at 230. And it reasoned that “[t]he harder cases are those in which direct
+testimony is not available and the proponent must rely on circumstances to
+lay a foundation for admission.” Id. Yet relying on nearly identical language
+to rule 5.901(b)(4) in the Federal Rules of Evidence and precedent from other
+jurisdictions,2 the court held that the mostly circumstantial evidence from
+the testimony was “sufficient to support a finding that the photograph is what
+the State claims.” Id. at 234 (cleaned up). And so, the court affirmed the
+district court’s admission of the photo. Id.
+
+
+       2
+        Holderness was decided a few years before the adoption of the Iowa Rules of
+Evidence, which were modeled after the federal rules.
+
+
+
+                                        9
+       Similarly here, the State claimed that the video depicts Amyda sexually
+abusing the victim in her bedroom on or about May 5, 2023. And much
+circumstantial evidence, including from distinctive characteristics shown in
+the video, would support a finding that the video is what the State claims.
+
+       To start, the victim testified that she invited Amyda to hangout with
+her and that he stayed the night with her on May 5, 2023, that they drank
+alcohol and became drunk, and that she fell asleep and woke up with Amyda
+beside her. These circumstances place Amyda in her room while she was
+asleep, giving him the opportunity to do the acts in the video. Indeed, given
+her testimony that this night was the only time she was ever alone with him,
+a jury could find that around May 5, 2023, was the only time that the acts
+could have occurred.
+
+       The victim also testified that she recognized many details of her
+bedroom in the video, including her bed, pillow, and clothing. She testified
+that the clothes she has on in the video are the same clothes she had on the
+night that Amyda stayed with her. She also recognized her own body and
+specific, extremely personal details—including her face, vagina and its
+internal coloring, her pubic hair, stretch marks, and hair stubble on her legs.
+
+       And the victim recognized the hand—and the distinctive tattoo on the
+hand—in the video as Amyda’s. Her identification of Amyda as the sexual
+abuser in the video is further supported by her testimony that she
+communicated with Amyda through Facebook Messenger, that the video was
+circulated through Facebook Messenger, and that when she reached out to
+Amyda on Facebook Messenger asking for an explanation, he blocked her.
+
+       The victim’s sister backed up the victim with her own testimony about
+the circumstances of Amyda’s visit to her house. And she too recognized
+
+
+
+                                      10
+distinctive details in the video, including the victim, her clothing, the
+bedroom and bed sheets.
+
+       Amyda offers no counterargument against the sufficiency of all this
+circumstantial evidence aside from his claim that the State had to present
+testimony of a witness who personally observed the conduct depicted in the
+video or one who could describe the process or system that made the video.
+But this narrow view of rule 5.901’s authentication requirement is wrong. To
+be sure, those are permissible methods of authentication. See Iowa R.
+Evid. 5.901(b)(1), (9). But so is using circumstantial evidence from the
+distinctive contents of the video and surrounding circumstances. See Iowa R.
+Evid. 5.901(b)(4); Holderness, 293 N.W.2d at 230–34.
+
+       What’s more, other states with similar authentication rules have also
+approved of authenticating videos mainly through circumstantial evidence.
+See, e.g., State v. Anglemyer, 691 N.W.2d 153, 159–63 (Neb. 2005) (affirming
+authentication of videotape showing defendant’s sexual conduct with a dog
+in a motel room based on testimony about distinctive features of the room, a
+date stamp on the video, motel guest records, and identification of the dog);
+State v. Sapp, 332 P.3d 1058, 1062 (Wash. Ct. App. 2014) (affirming
+authentication of digital videos showing sexual abuse of a child who did not
+testify based on testimony of the victim’s grandmother—who did not
+observe the abuse—identifying the victim, the victim’s age in the video, the
+location shown in the video, and the defendant); State v. King, 626 S.W.3d
+828, 841–42 (Mo. Ct. App. 2021) (affirming authentication of video showing
+sexual assaults of unconscious victim); State v. A.S., No. A-5420-13T1, 2015
+WL 6442387, at *4 (N.J. Super. Ct. App. Div. Oct. 26, 2015) (affirming
+authentication of video showing sexual assault of sleeping victim). And this
+remains so even though videos are “susceptible to alteration, and the
+
+
+
+                                     11
+increased availability of new technology, particularly the advent of image-
+generating artificial intelligence, may present unique challenges in
+authenticating videos and photographs.” Mooney v. State, 321 A.3d 91, 110–11
+(Md. 2024) (reaffirming authentication of digital video by circumstantial
+evidence and noting that “photographic manipulation, alterations and
+fabrications are nothing new, nor are such changes unique to digital imaging,
+although it might be easier in this digital age” (cleaned up)).
+
+       Bottom line, the State’s circumstantial evidence of authentication was
+sufficient for a jury to find that the video is what the State claims—a depiction
+of Amyda sexually abusing the victim in her bedroom around May 5, 2023.
+So the court did not abuse its discretion in admitting the video over Amyda’s
+authentication objection.
+
+III.   Best Evidence of the Digital Video
+
+       Amyda next argues that the district court should have excluded the
+digital video under the best-evidence rule because it was not an original and
+a duplicate was inadmissible since he raised a genuine question about the
+original video’s authenticity. The State counters by questioning whether the
+best-evidence rule applies to videos like this one at all, contending that an
+identical copy of a video should be treated as an original rather than a
+duplicate, and arguing that it is admissible as a duplicate because Amyda
+raised no genuine issue about the video’s authenticity. Again, we review for
+abuse of discretion. See Manning, 26 N.W.3d at 393.
+
+      Iowa’s best evidence rule—codified in Iowa Rules of Evidence 5.1001
+through 5.1004—provides that “[a]n original writing, recording, or
+photograph is required to prove its content, unless these rules or a statute
+provides otherwise.” Iowa R. Evid. 5.1002. And the rules otherwise provide
+that “[a] duplicate is admissible to the same extent as the original unless a
+
+
+                                       12
+genuine question is raised about the original’s authenticity or the
+circumstances make it unfair to admit the duplicate.” Iowa R. Evid. 5.1003;
+see also Iowa R. Evid. 5.1001(e) (defining a “duplicate” as “a counterpart
+produced by a[n] . . . electronic, or other equivalent process or technique that
+accurately reproduces the original”).
+
+        We need not resolve all the interesting issues raised by the parties.
+Assuming without deciding that the best-evidence rule applies to this video
+and that the video received by the victim is not an original, it is a duplicate
+“admissible to the same extent as an original.” Iowa R. Evid. 5.1003. True,
+Amyda argued at the motion-in-limine hearing and throughout trial that the
+video may have been a “deepfake”—created through generative artificial
+intelligence when the underlying conduct never actually occurred. But
+Amyda pointed to no evidence in the record supporting this speculative
+theory. And nothing about the video gives even the slightest hint that it is an
+artificial creation. Bare conjecture is not enough to raise “a genuine question
+. . . about the original’s authenticity” or to make it “unfair to admit the
+duplicate.” Id.; see also Manning, 26 N.W.3d at 393 (rejecting best-evidence
+challenge where defendant “did not seriously dispute the content of the
+video,” despite an authentication challenge, and agreeing with the district
+court that “any editing or manipulation of that video would go to the weight
+of that evidence and not to its direct admissibility” (cleaned up)).
+
+      The district court did not abuse its discretion in admitting the digital
+video over Amyda’s best-evidence objection. We thus affirm Amyda’s
+conviction.
+
+      AFFIRMED.
+
+
+
+
+                                       13
+

@@ -1,0 +1,98 @@
+{
+ "dataset": "AI-generated evidence and deepfakes in court — decisions and rule status",
+ "version": "0.1.0",
+ "built": "2026-09-07",
+ "canonical": "https://safelegalai.com/courts/evidence",
+ "repository": "https://github.com/SafeLegalAI/ai-evidence-in-court",
+ "huggingface": "https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court",
+ "license_data": "CC BY 4.0 (SafeLegalAI, Cognesio LLP); underlying official documents keep their own status (see NOTICE)",
+ "notice": "Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) records what courts, regulators, legislatures and vendors' own public pages state; the linked official documents are the record. Names and marks belong to their owners. Anyone named may reply: https://safelegalai.com/report. Full terms: https://safelegalai.com/disclaimer",
+ "tables": {
+  "decisions": {
+   "file": "data/decisions.jsonl",
+   "schema": "schema/decisions.schema.json",
+   "stats": {
+    "rows": 60,
+    "rejected": 0,
+    "by_country": {
+     "US": 23,
+     "CA": 14,
+     "AU": 5,
+     "NL": 3,
+     "IN": 3,
+     "FR": 2,
+     "IT": 2,
+     "IL": 2,
+     "GB": 2,
+     "ES": 1,
+     "NZ": 1,
+     "BE": 1,
+     "CO": 1
+    },
+    "by_ai_role": {
+     "acknowledged-ai-output": 32,
+     "alleged-deepfake": 15,
+     "ai-generated-submitted": 5,
+     "voice-clone": 3,
+     "deepfake-defence": 3,
+     "ai-enhanced": 1,
+     "other": 1
+    },
+    "by_ruling": {
+     "no-weight": 22,
+     "admitted": 16,
+     "other": 8,
+     "excluded": 6,
+     "not-adjudicated": 5,
+     "sanction": 2,
+     "authentication-ordered": 1
+    },
+    "by_evidence_type": {
+     "chat-output": 23,
+     "video": 16,
+     "expert-report": 6,
+     "mixed": 4,
+     "document": 4,
+     "audio": 3,
+     "image": 1,
+     "screenshot": 1,
+     "victim-statement": 1,
+     "witness-statement": 1
+    },
+    "by_verification": {
+     "fetched-and-read": 48,
+     "link-only": 10,
+     "page-read-no-document": 2
+    }
+   }
+  },
+  "instruments": {
+   "file": "data/instruments.jsonl",
+   "schema": "schema/instruments.schema.json",
+   "stats": {
+    "rows": 10,
+    "rejected": 0,
+    "by_status": {
+     "in-force": 4,
+     "published": 4,
+     "under-study": 1,
+     "not-advanced": 1
+    },
+    "by_type": {
+     "rule": 2,
+     "proposed-rule": 2,
+     "bench-card": 2,
+     "guidance": 2,
+     "survey": 1,
+     "statute": 1
+    },
+    "by_country": {
+     "US": 7,
+     "CA": 1,
+     "GB": 1,
+     "IN": 1
+    }
+   }
+  }
+ }
+}

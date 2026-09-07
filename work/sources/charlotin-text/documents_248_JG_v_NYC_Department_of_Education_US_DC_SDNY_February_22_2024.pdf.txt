@@ -1,0 +1,1817 @@
+          Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 1 of 34
+
+
+
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ J.G., individually and on behalf of, G.G.,
+
+                                        Plaintiff,                        23 Civ. 959 (PAE)
+                        -v-
+                                                                         OPINION & ORDER
+ NEW YORK CITY DEPARTMENT OF EDUCATION,
+
+                                        Defendants.
+
+
+PAUL A. ENGELMAYER, District Judge:
+
+       This decision resolves a motion for attorneys' fees and costs under the Individuals with
+
+Disabilities Education Act ("IDEA"), 20 U.S.C. §§ 1400 et seq. Plaintiff J.G. sues the New
+
+York City Department of Education ("DOE") after prevailing in two administrative hearings
+
+before impartial hearing officers ("IHO"). Through the Cuddy Law Firm, J.G. requests
+
+attorneys' fees and costs, totaling $113,484.62, plus interest, covering its representation of her in
+
+the underlying administrative proceedings and the present fees action. For the following
+
+reasons, the Court grants the motion for fees and costs, but in an aggregate sum ($53,050.13)
+
+below that sought.
+
+I.     Background
+
+       G.G. is a child with a disability covered by the IDEA. Dkt. 1 ("Comp!.") at 1. He has
+
+been diagnosed with attention deficit hyperactivity disorder ("ADHD"), language disorder,
+
+developmental coordination disorder, and acute stress disorder. Dkt. 17 ("M. Cuddy Deel.") ,r 5.
+
+His parent, J.G., initiated two due process hearings on his behalf against DOE. Comp!. at 2, 4.
+
+She was represented by the Cuddy Law Firm in both hearings.
+
+
+
+
+                                                     1
+            Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 2 of 34
+
+
+
+
+        A. IDEA Action Initiated on Jnly 23, 2019
+
+        On July 23, 2019, J.G. filed her first due process complaint with DOE ("Case No.
+
+185427''). M. Cuddy Deel., Ex. A. ("2019 DPC"). It alleged that DOE had failed to provide
+
+G.G. with a free appropriate public education ("FAPE") for the 2017-2018 and 2018-2019
+
+school years. Comp!. at 2. J.G. complained that DOE had failed to conduct timely annual
+
+reviews and evaluations; provide appropriate educational services; and implement Special
+
+Education Teacher Support Services ("SETSS") mandated by G.G.'s January 2018
+
+Individualized Education Program ("IEP"). 2019 DPC at 2. J.G. sought, inter alia, that DOE:
+
+(1) provide appropriate evaluations; (2) convene a committee on special education to recommend
+
+appropriate programming; and (3) provide all mandated SETSS and related remedial services.
+
+Id. at 3.
+
+        IHO Rona Feinberg held an impartial hearing, which consisted of sessions on January 12
+
+and February 10, 2021. M. Cuddy Deel. 1120, 26. DOE and J.G., represented by the Cuddy
+
+Law Firm, submitted exhibits into evidence. Id. 1118-19. J.G. presented four witnesses, three
+
+of whom DOE cross-examined. Id. at 1123, 25, 27-29. DOE did not oppose J.G. 's request for
+
+relief; it merely asked that the rate for compensatory services be a "reasonable fair-market rate,
+
+and not excessive." Id., Ex. 3 ("2021 Decision") at 5-6. On March 15, 2021, the Cuddy Law
+
+Firm submitted a closing brief; DOE did not. M. Cuddy Deel. 1133-34. On April 27, 2021, the
+
+IHO issued a decision, finding that DOE had not demonstrated that it had provided G.G. with a
+
+FAPE for the 2017-2018 and 2018-2019 school years. 2021 Decision at 6. It ordered DOE to
+
+provide 500 hours of compensatory education for G.G. Id. at 16. Neither party appealed the
+
+IHO's order. M. Cuddy Deel. 137.
+
+
+
+
+                                                 2
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 3 of 34
+
+
+
+
+       B. IDEA Action Initiated on November 22, 2021
+
+       On November 22, 2021, J.G., represented again by the Cuddy Law Firm, filed a second
+
+due process complaint with DOE ("Case No. 221890"). Dkt. 18 ("Murray Deel.") 123. On
+
+December 13, 2021, J.G. amended her complaint. Id., Ex. 2 ("2021 DPC"). The complaint
+
+alleged that G.G. had been denied a FAPE for the 2019-2020, 2020-2021, and 2021-2022
+
+school years, citing DOE's failure to properly construct G.G.'s October 2020 and December
+
+2021 IEPs in accordance with psychological evaluations. Id. at 5-8. As a result of these
+
+failings, J.G. sought an alternative placement and enrolled G.G. in Winston Preparatory School
+
+("Winston Prep"). Id. at 8. J.G. requested that DOE reimburse G.G. 's tuition at Winston Prep
+
+for the 2021-2022 school year and provide compensatory academic instruction for the 2019-
+
+2020 and 2020-2021 school years. Id. at 8-9.
+
+       IHO Sharyn Finkelstein convened an impartial hearing, which consisted of sessions on
+
+May 3 and July 5, 2022. Murray Deel. 1172, 75. At the hearing, the Cuddy Law Firm presented
+
+four witnesses, two of whom were cross-examined by the DOE. Id. 1180, 82, 84, 87. The DOE
+
+presented one witness, who was cross-examined by associate Erin Murray. Id. 1162, 68. On
+
+July 22, 2022, both parties submitted written closing statements. Id. 190. On August 2, 2022,
+
+IHO Finkelstein issued a decision, in which she determined that DOE had failed to provide G.G.
+
+with a FAPE for the 2019-2020, 2020-2021, and 2021-2022 school years. Id., Ex. 3 ("2022
+
+Decision") at 21. She found G.G.'s placement at Winston Prep appropriate and ordered DOE to
+
+reimburse tuition for Winston Prep, provide G.G. with appropriate vocational evaluations, and
+
+fund 300 hours of compensatory academic instruction. Id. at 21.
+
+
+
+
+                                               3
+          Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 4 of 34
+
+
+
+
+        C. J.G.'s Motion for Attorneys' Fees
+
+        In July and August 2022, J.G. made fee demands for the first and second administrative
+
+proceedings. Dkt. 21 ("A. Cuddy Deel.") ,r,r 31, 33. On February 6, 2023, J.G. filed a complaint
+
+in this Court seeking reasonable attorneys' fees and costs under the IDEA. Comp!. On May 26,
+
+2023, DOE offered to settle the suit for $54,300, but J.G. declined. Dkt. 29 ("Opp. Mem.") at 5.
+
+        On August 21, 2023, J.G. moved for attorneys' fees and costs in the amount of
+
+$113,484.62 ($41,872.50 for Case No. 185427; $51,020.12 for Case No. 221890; and $20,592.00
+
+for the federal action), Dkt. 14, and filed a supporting memorandum of law, Dkt. 22 ("Pl.
+
+Mem.") at 7. See also A. Cuddy Deel., Exs. 19-21 (documenting fee amount breakdown). On
+
+September 25, 2023, DOE opposed the motion and submitted a memorandum of law. Opp.
+
+Mem. On October 6, 2023, J.G. filed a reply. Dkt. 30 ("Reply").
+
+II.     Applicable Legal Principles
+
+        The IDEA aims "to ensure that all children with disabilities have available to them a free
+
+appropriate public education that emphasizes special education and related services designed to
+
+meet their unique needs." 20 U.S.C. § 1400(d)(l)(A). States that receive certain federal funds
+
+must "offer parents of a disabled student an array of procedural safeguards designed to help
+
+ensure the education of their child." Polera v. Ed. ofEduc., 288 F.3d 478,482 (2d Cir. 2002).
+
+Parents are entitled to bring complaints regarding the "provision of a free appropriate public
+
+education" to their child, 20 U.S.C. § 1415(b)(6), and to have those complaints heard by an IHO,
+
+see id. § l 4 l 5(f)(l ); N. Y. Educ. L. § 4404(1 ).
+
+        "In the United States, parties are ordinarily required to bear their own attorney's fees-
+
+the prevailing party is not entitled to collect from the loser." Buckhannon Ed. & Care Home,
+
+Inc. v. W Va. Dep't ofHealth & Hum. Res., 532 U.S. 598,602 (2001) (citation omitted).
+
+
+
+                                                       4
+           Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 5 of 34
+
+
+
+
+However, under the IDEA, if a parent of the child with a disability is the "prevailing party" in the
+
+litigation, the district court has discretion to award the parent "reasonable attorneys' fees" and
+
+costs incurred. 20 U.S.C. § 1415(i)(3)(B)(i); see also JC. v. Reg'! Sch. Dist. 10, Bd. ofEduc.,
+
+278 F.3d 119, 121 (2d Cir. 2002). The award may cover work perfo1med before the IHO or in
+
+federal court. See A.R. ex rel. R. V v. NY.C. Dep't ofEduc., 407 F.3d 65, 84 (2d Cir. 2005)
+
+(affirming award of fees incurred during IHO proceedings and before district court). Prevailing
+
+parties are also entitled to reimbursement for the reasonable costs incurred in litigating an IDEA
+
+case. G.B. ex rel. NB. v. Tuxedo Union Free Sch. Dist., 894 F. Supp. 2d 415,443 (S.D.N.Y.
+
+2012).
+
+         To determine the award and the amount of fees, the court must engage in a two-step
+
+inquiry. First, the court must determine whether the party seeking to enforce the fee-shifting
+
+provision is the "prevailing party." Mr. L. v. Sloan, 449 F.3d 405, 405-07 (2d Cir. 2006). If so,
+
+in calculating fees, the court examines whether the fees are reasonable in light of the litigation.
+
+Hensley v. Eckerhart, 461 U.S. 424, 433 (1983). The district court has the discretion to reduce
+
+the award if the fees or hours reported are excessive or misleading. id. at 437.
+
+         A. Prevailing Party
+
+         To be a prevailing party under the IDEA, a plaintiff must achieve (1) "some material
+
+alteration of the legal relationship of the parties" that is (2) "judicially sanctioned." A.R., 407
+
+F.3d at 67 (internal quotation marks omitted). The Second Circuit has held that a party who
+
+receives agency-ordered relief on the merits of their claim is a "prevailing party" for the
+
+purposes of the IDEA. id. at 75. A party need not recover on all of her claims in order to be
+
+considered the "prevailing party." K.L. v. Warwick Valley Cent. Sch. Dist., No. 12 Civ. 6313
+
+(DLC), 2013 WL 4766339, at *5 (S.D.N.Y. Sept. 5, 2013), qff'd 584 F. App'x 17 (2d Cir. 2014).
+
+
+
+                                                   5
+          Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 6 of 34
+
+
+
+
+However, she "must succeed on a significant issue in litigation which achieves some of the
+
+benefit the parties sought in bringing suit." Id. (internal quotation marks omitted).
+
+       B. Calculation of Fees
+
+       The starting point for determining the presumptively reasonable fee award is the
+
+"lodestar" amount, which is "the product of a reasonable hourly rate and the reasonable number
+
+of hours required by the case." Millea v. Metro-N. R. Co., 658 F.3d 154, 166 (2d Cir. 2011).
+
+The lodestar is not "conclusive in all circumstances," and may be adjusted when it fails to
+
+"adequately take into account a factor that may properly be considered in determining a
+
+reasonable fee." Id. at 167 (citations omitted).
+
+               1. Reasonable Hourly Rates
+
+        Under the fee-shifting provision of the IDEA, the court determines a reasonable hourly
+
+rate "based on rates prevailing in the community in which the action or proceeding arose for the
+
+kind and quality of services furnished." 20 U.S.C. § 1415(i)(3)(C). A reasonable rate is one a
+
+reasonable, paying-per-hour client would pay for the same services rendered. K.F v. N. Y. C.
+
+Dep't a/Educ., No. 10 Civ. 5465 (PKC), 2011 WL 3586142, at *3 (S.D.N.Y. Aug. 10,
+
+2011 ), adhered to as amended, 2011 WL 4684361 (S.D.N.Y. Oct. 5, 2011 ), at *3 (citing Arbor
+
+Hill Concerned Citizens Neighborhood Ass 'n v. County ofAlbany, 522 F.3d 182, 190 (2d Cir.
+
+2008)). The community used for purposes of IDEA fee-shifting litigation is the district in which
+
+the issue arose-specifically, where the student was denied a FAPE. Id. at *2. However, in
+
+determining reasonable hourly rates, it is also important to look to the area oflegal practice at
+
+issue. That is because legal markets are today so interconnected that it is no longer meaningful,
+
+in assessing a reasonable rate, to look at geographic location alone. See Arbor Hill, 522 F .3d at
+
+192.
+
+
+
+                                                   6
+          Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 7 of 34
+
+
+
+
+       In determining a reasonable rate, district courts are also to consider case-specific
+
+variables known as the "Johnson factors." These include:
+
+       (1) the time and labor required; (2) the novelty and difficulty of the questions; (3)
+       the level of skill required to perform the legal service properly; (4) the preclusion
+       of employment by the attorney due to acceptance of the case; (5) the attorney's
+       customary hourly rate; (6) whether the fee is fixed or contingent; (7) the time
+       limitations imposed by the client or the circumstances; (8) the amount involved in
+       the case and the results obtained; (9) the experience, reputation, and ability of the
+       attorneys; (10) the "undesirability" of the case; (11) the nature and length of the
+       professional relationship with the client; and (12) awards in similar cases.
+
+Id at 187 n.3. "A district court need not recite and make separate findings as to all twelve
+
+Johnson factors, provided that it takes each into account in setting the attorneys' fee award."
+
+E.F. ex rel. NR. v. NY.C. Dep't ofEduc., No. 11 Civ. 5243 (GBD) (FM), 2014 WL 1092847, at
+
+*3 (S.D.N.Y. Mar. 17, 2014) (internal citations and quotation marks omitted).
+
+               2. Reasonable Hours
+
+        Once a reasonable rate of pay has been calculated, it is multiplied by a reasonable number
+
+of hours expended to determine the award amount. In this process, the court has discretion to
+
+disregard hours viewed as "excessive, redundant, or otherwise unnecessary." Bliven v. Hunt, 579
+
+F.3d 204,213 (2nd Cir. 2009) (quoting Hensley, 461 U.S. at 434). To determine the
+
+reasonableness of hours spent on a matter, "[t]he district court may attempt to identify specific
+
+hours that should be eliminated, or it may simply reduce the award" by a reasonable percentage.
+
+Hensley, 461 U.S. at 436-37; see also McDonald ex rel. Prendergast v. Pension Plan of the
+
+NYSA-ILA Pension Tr. Fund, 450 F.3d 91, 96 (2d Cir. 2006) ("A district court may exercise its
+
+discretion and use a percentage deduction as a practical means of trimming fat from a fee
+
+application." (internal quotation marks and citations omitted)); J.R. v. NY. C. Dep 't of Educ., No.
+
+19 Civ. 11783 (RA), 2021 WL 3406370, at *5 (S.D.N.Y. Aug. 4, 2021) (citing cases). As
+
+Justice Kagan has instructed, "trial courts need not, and indeed should not, become green-
+
+
+                                                  7
+          Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 8 of 34
+
+
+
+
+eyeshade accountants. The essential goal in shifting fees ... is to do rough justice, not to achieve
+
+auditing perfection." Fox v. Vice, 563 U.S. 826, 838 (201 !).
+
+       C. Costs
+
+       A district court may also award reasonable costs to the prevailing party. 20 U.S.C.
+
+§ 1415(i)(3)(B)(i)(I). The term "costs" includes costs incurred in connection with work yielding
+
+fees covered by a fee award, as well as the specific types of costs set out in 28 U.S.C. § 1920, the
+
+general provision governing the taxation of costs in federal court. See Arlington Cent. Sch. Dist.
+
+Bd. ofEduc. v. Murphy, 548 U.S. 291, 297-98 (2006); G.B., 894 F. Supp. 2d at 443. Commonly
+
+compensable costs include reasonable filing and process server costs. See 28 U.S.C. § 1920;
+
+G.B., 894 F. Supp. 2d at 443.
+
+III.    Discussion
+
+        A. Overview of J.G.'s Fee and Cost Requests
+
+        It is undisputed that J.G. prevailed in the two proceedings before the IHO. The sole issue
+
+before this Court is whether the fees and costs J.G. has requested are reasonable. A. Cuddy
+
+Deel., Ex. 19. As to both fees and costs, J.G. seeks compensation for work performed at the
+
+successive hearings before the IHO (the "first administrative proceeding" and the "second
+
+administrative proceeding"), and in this follow-on fees litigation.
+
+        As to the first administrative proceeding, J.G. seeks fees to reflect hours worked by three
+
+attorneys (Andrew Cuddy, Jason Sterne, and Michael Cuddy) and five paralegals (Allyson
+
+Green, Amanda Pinchak, Cailin O'Donnell, Erin Murray, 1 and Shobna Cuddy). Before the IHO,
+
+Michael Cuddy served as lead counsel. M. Cuddy Deel. at 2-5. J.G. seeks a fee award totaling
+
+
+
+
+1 Murray is a licensed attorney but billed only for administrative tasks for this case.
+
+
+
+
+                                                  8
+            Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 9 of 34
+
+
+
+
+$41,872.50 for the following work during the first administrative proceeding, as summarized
+
+below. 2
+
+
+
+
+ Jason Sterne               $550.00                    8.20                  $4,510.00
+ Michael Cudd               $550.00                    55.20                 $30,360.00
+ Total Attorne Fees                                    68.30                 $37,575.00
+
+
+
+ All son Green              $225.00                    0.10                  $22.50
+ Amanda Pinchak             $225.00                    5.20                  $1,170.00
+ Cailin O'Donnell           $225.00                    10.00                 $2,250.00
+ Erin Murra                 $225.00                    0.50                  $112.50
+ ShobnaCudd                 $225.00                    3.30                  $742.50
+ Total Parale al Fees                                  19.10                 $4,297.50
+
+           As to the second administrative proceeding, J.G. seeks fees to reflect hours worked by
+
+four attorneys (Andrew Cuddy, Erin Murray, Justin Coretti, and Michael Cuddy) and four
+
+paralegals (Allyson Green, Cailin O'Donnell, ChinaAnn Reeve, and Shobna Cuddy). A. Cuddy
+
+Deel., Ex. 20. Before the IHO, Erin Murray served as lead counsel. Mmrny Deel. ,r 6. J.G.
+
+seeks a fee award totaling $50,912.50 for the following work during the second administrative
+
+proceedings, as smnmarized below. 3
+
+                                    Case No. 221890: Attorneys Fees
+                               :u              "'·" ' tl!
+ Andrew Cuddv                $550.00                   3.40                  $1,870.00
+ ErinMurrav                  $375.00                   97.90                 $36,712.50
+ Justin Coretti              $425.00                   7.70                  $3,272.50
+ Michael Cuddy               $550.00                   7.10                  $3,905.00
+ Total Attorney Fees                                   116.10                $45,760.00
+
+2 The data reflected in the chart can be found in Exhibit 19 of Andrew Cuddy's declaration.
+
+
+3 The data reflected in the chart can be found in Exhibit 20 of Andrew Cuddy's declaration.
+
+
+
+
+                                                   9
+            Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 10 of 34
+
+
+
+
+                             $225.00                                                 $832.50
+                             $225.00                                                 $1,012.50
+                             $225.00                                                 $2,632.50
+                             $225.00                                                 $675.00
+                                                                                     $5,152.50
+
+           As to the fees litigation before this Court, J.G. seeks fees to reflect hours worked by
+
+seven attorneys (Andrew Cuddy, Benjamin Kopp, Erin Murray, Francesca Antorino, Kenneth
+
+Bush, Kevin Mendillo, and Michael Cuddy) and four paralegals (Cailin O'Donnell, ChinaAnn
+
+Reeve, FrancescaAntorino, 4 and Shobna Cuddy). A. Cuddy Deel., Ex. 21. Francesco Antorino
+
+served as lead attorney. See Comp!. (filed by Antorino). J.G. seeks a fee award totaling $20,190
+
+for the following work during the instant fees litigation, as summarized below. 5
+
+
+                                                                       ..
+                                I nstan tSDNY A Cf10n: A ttornevs 'F ees
+                                     ·•·
+                                           ..        .                          '1                   .·.
+
+
+ Andrew Cuddv                 $600.00                     5.70                       $3,420.00
+ Beniamin Konn                $425.00                     0.80                       $340.00
+ Erin Murrav                  $375.00                     4.10                       $1,537.50
+ Francesca Antorino           $425.00                     24.60                      $10,455.00
+ Kenneth Bush                 $425.00                     2.80                       $1,190.00
+ Kevin Mendillo               $500.00                     0.90                       $450.00
+ Michael Cuddv                $600.00                     0.50                       $300.00
+ Total Attorney Fees                                      39.40                      $17,692.50
+
+
+           ... ;,.. ··,.·                                     . .. .....
+                                                     c10n: Para Ieirn IF ees
+                                    I ns tan tSDNY A f
+                                               ....,                        .              . ..
+                                                ••
+      '-                        A
+
+
+
+ Francesca Antorino 6         $225.00                     0.90                       $832.50
+ ChinaAnn Reeve               $225.00                     2.00                       $2,632.50
+ Cailin O'Donnell             $225.00                     6.60                       $1,012.50
+ Shobna Cuddv                 $225.00                     1.60                       $675.00
+ Total Paralegal Fees                                     11.10                      $2,497.50
+
+4 Francesca Antorino is a licensed attorney but billed for certain administrative tasks under a
+
+paralegal rate.
+5 The data reflected in the chart can be found in Exhibit 21 of Andrew Cuddy's declaration.
+
+
+6 Antorino is a licensed attorney but billed for certain administrative tasks under a paralegal rate.
+
+
+
+                                                         10
+          Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 11 of 34
+
+
+
+
+        Finally, J.G. seeks reimbursement of$664.12 for costs incurred during the administrative
+
+and fees litigation phases. The costs incurred are summarized below. 7
+
+                                               Costs
+111-Iti~,n'
+ Case No. 185427                                                            $3.50
+ Case No. 185427                                                            $151.00
+ Case No. 221890                                                            $6.12
+ Case No. 221890                                                            $101.50
+ Federal Action                                                             $402.00
+ Total Costs                                                                $664.12
+
+         B. Reasonable Rates
+
+         The Court has considered all Johnson factors in its analysis. Its discussion here centers
+
+on the facts it has found determinative.
+
+                1. Analysis Applicable to all Attorneys and Paralegals
+
+         IDEA litigation is undoubtedly a specialized field in which attorneys seek to vindicate
+
+vitally important interests of children in special education. J.G., however, has not adduced any
+
+evidence that this case presented novel or complex legal or factual issues relative to the typical
+
+single-plaintiff IDEA case. In the first administrative proceeding, DOE conceded its failure to
+
+provide a FAPE to G.G. It did not oppose J.G.'s request for relief, submit a closing brief, or
+
+appeal the IHO's decision. 2021 Decision at 5-6; M. Cuddy Deel. ,r,r 33-34, 37. In the second
+
+administrative proceedip.g, DOE opposed J.G. 's requested relief and contended it provided G.G.
+
+a FAPE for the 2019-2020, 2020-2021, and 2021-2022 school years. But the !HO-convened
+
+hearing was brief; it consisted of two sessions each lasting around two to three hours. See
+
+
+
+
+7 The data reflected in the chart can be found in Exhibits 19-21 attached to Andrew Cuddy's
+
+declaration.
+
+
+                                                  11
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 12 of 34
+
+
+
+
+Murray Deel. 1172, 75. The DOE presented only one witness and cross-examined only two of
+
+the four witnesses presented by J.G. See id. 1163, 77, 81, 85; 2022 Decision at 5. J.G.'s
+
+attorneys undoubtedly spent time and resources preparing for the hearings in the two
+
+administrative proceedings. But the case unavoidably qualifies as "a fairly standard action for
+
+special education and related services." J.R., 2021 WL 3406370, at *4.
+
+       The relevant community for the purposes of determining a reasonable rate is the Southern
+
+District of New York, where this litigation and the underlying administrative proceedings are
+
+centered. 8 The relevant practice area is special education law, specifically IDEA litigation. In
+
+recent years, "[t]he prevailing market rate for experienced, special-education attorneys in the
+
+New York area ... [has been] between $350 and $475 per hour." Id. at *3 (citing MD. v. N
+
+YC. Dep 't of Educ., 17 Civ. 417 (JMF), 2018 WL 4386086, at *3 (S.D.N.Y. Sept 14, 2018)
+
+(collecting cases)); CD. v. Minisink Valley Cent. Sch. Dist., No. 17 Civ. 7632 (PAE), 2018 WL
+
+3769972, at *6 (S.D.N.Y. Aug. 9, 2018) (same)). "For associates with three or fewer years of
+
+experience in such litigation, courts in this District have typically approved rates of $150-$275."
+
+CD., 2018 WL 3769972, at *7. "Paralegals, depending on skills and experience, have generally
+
+garnered between $100 and $125 per hour in IDEA cases in this District." R.G. v. NYC. Dep't
+
+of Educ., No. 18 Civ. 6851 (VEC), 2019 WL 4735050, at *3 (S.D.N.Y. Sept. 26, 2019)
+
+(collecting cases).
+
+        J. G. argues that the Court should not rely exclusively on the rates awarded in prior cases
+
+in determining the reasonable hourly rate to apply in this case. J.G.'s point that a court "cannot
+
+
+
+
+8 For Case No. 185427, G.G. was attending a public charter high school in the Bronx, in this
+District. 2021 Decision at 4. Case No. 221890 granted relief in the form of tuition
+reimbursement for Winston Preparatory School, also located in this District. Pl. Mem. at 15.
+
+
+                                                 12
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 13 of 34
+
+
+
+
+rely only on awards in prior cases in setting the rate" is well-taken. G.B. ex rel. NB., 894 F.
+
+Supp. 2d at 429. Instead, "the equation in the caselaw of a 'reasonable hourly fee' with the
+
+'prevailing market rate' contemplates a case-specific inquiry into the prevailing market rates for
+
+counsel of similar experience and skill to the fee applicants counsel," and it "requires an
+
+evaluation of evidence proffered by the parties." Farbotko v. Clinton County., 433 F.3d 204,209
+
+(2d Cir. 2005).
+
+        J.G. seeks hourly rates of $550-$600 for senior attorneys Michael Cuddy, Andrew
+
+Cuddy, and Jason Sterne; $425 for mid-level associates Justin Coretti, Benjamin Kopp, Kenneth
+
+Bush, and Francesca Antorino; $3 75 for junior associate Erin Murray; and $225 for all
+
+paralegals. These hourly rates exceed those awarded in this District, for attorneys of comparable
+
+experience, and indeed for some of these very attorneys, as documented below.
+
+        As ostensible support for an award at her proposed hourly rates, J.G. points primarily to
+
+four sources: (1) the Real Rate Report conducted by Wolters Kluwer; (2) the 2022 Litigation
+
+Hourly Rate Survey and Report conducted by the National Association of Legal Fee Analysis
+
+("NALFA"); (3) the 50th Annual Survey of Law Firm Economics ("ASLFE"); and (4) the Laffey
+
+Matrix. After evaluating these sources, the Court finds each problematic, and thus declines to
+
+give them substantial weight in its determination of reasonable hourly rates.
+
+        The Real Rate Report (the "Report") analyzes law firm rates in select U.S. cities.
+
+"Although not dispositive, the Court may rely on survey evidence as a cross-check on any fee
+
+award to ensure that it is reasonable." Cortes v. Juquila Mexican Cuisine Corp., No. 17 Civ.
+
+3942 (RER), 2021 WL 1193144, at *5 (E.D.N.Y. Mar. 29, 2021) (cleaned up). But courts in this
+
+District have received the Real Rate Report's results with skepticism. For example, Judge
+
+Forrest, after reviewing the 2012 Real Rate Report, found:
+
+
+
+                                                  13
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 14 of 34
+
+
+
+
+       The report's methodology is opaque; it claims to be based on "the actual hours and
+       fees law firm personnel billed" from 2007-2011 but does not explain whether its
+       sample is representative of the New York market as a whole-i.e., whether its
+       sample is skewed toward litigation partners working for large corporate law firms-
+       or how it normalizes the data ..... Finally, in capturing data from 2007-2011, the
+       report reflects historic rates more than current rates.
+
+Hicks v. Vane Line Bunkering, Inc., No. 11 Civ. 8158 (KBF), 2013 WL 1747806, at *9
+
+(S.D.N.Y. Apr. 16, 2013), ajf'd sub nom., Hicks v. Tug Patriot, 783 F.3d 939 (2d Cir. 2015). See
+
+also Cortes v. Juquila Mexican Cuisine Corp., No. 17 Civ. 3942 (RER), 2021 WL 1193144, at
+
+*5 (E.D.N.Y. Mar. 29, 2021) ("The Real Rate Report is insufficient to meet Plaintiffs' burden to
+
+demonstrate that the requested rates conform to market rates for similar services-representation
+
+of employees in wage-and-hour litigation-in this District.").
+
+        For much the same reasons, this Court finds the Report a dubious resource on which to
+
+rely in calculating reasonable hourly rates for the attorneys who litigated the present case. The
+
+Report provides data of the hourly rates charged by litigation partners and associates in New
+
+York. A. Cuddy Deel., Exs. 3, 6, 7. But that data is not specific to lawyers specializing in IDEA
+
+and special education litigation. Instead, it identifies the rates used in general by litigation
+
+partners and associates at New York law firms. The New York private practice litigation market
+
+is, however, extremely heterogenous. Firm lawyers engage in a diverse set of legal practices,
+
+including mergers and acquisitions, antitrust litigations, complex patent and other intellectual
+
+property matters, bet-the-company white collar and regulatory cases, and multi-billion-dollar
+
+litigations. The Report's broad synthesis of rates, based as it is on this heterodox population, is
+
+ill-tailored to judging the rates in this case, which involves a distinct practice area (under the
+
+IDEA) and garden-variety work within it (in which most lawyer time was spent preparing for
+
+quotidian administrative hearings before an IHO). The Court accordingly affords the Report
+
+little weight in its analysis.
+
+
+                                                  14
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 15 of 34
+
+
+
+
+       The same defect inheres in the 50th Annual Survey of Law Firm Economics and
+
+NALFA's 2022 Litigation Hourly Rate Survey and Report, on which J.G. also relies. Id., Exs.
+
+4-5. The organizations who prepare these annual reports draw data from general surveys sent
+
+out via email to their mailing lists. The reports are not focused on lawyers who specialize in
+
+special education representations. As such, the surveys do no more than summarize the hourly
+
+rates charged by litigators in New York, regardless of practice area or level of experience. Such
+
+aggregated statistics are not a reliable gauge of whether J.G.'s requested rates are "in line with
+
+those prevailing in the community for similar services by lawyers of reasonable comparable
+
+skill, experience, and reputation." ML. ex rel. MP. v. Bd. ofEduc., No. 02 Civ. 4288, 2003 WL
+
+1057476, at *2 (S.D.N.Y. Mar. 10, 2003) (emphases added) (citations omitted). J.G. has not
+
+shown that the litigators covered by the two reports are fair comparators-in services rendered or
+
+in skill, experience, and reputation-for the attorneys who worked on the present case. These
+
+surveys, too, merit little weight here.
+
+        J.G. next urges that the Cuddy Law Firm's rates are comparable to those covered by the
+
+Laffey Matrix. The original Laffey Matrix debuted in 1983 in an employment discrimination
+
+case, Laffey v. Nw. Airlines, Inc., 572 F. Supp. 354 (D.D.C. 1983), and soon became "the most
+
+commonly used fee matrix" for lawyers who practice complex federal litigation in the D.C.
+
+Circuit. Eley v. District of Columbia, 793 F.3d 97, 100 (D.C. Cir. 2015). The Laffey Matrix was
+
+introduced to capture "the prevailing rates for 'complex federal litigation' in Washington, D.C.
+
+legal practice." B.J v. District of Columbia, No. 19 Civ. 2163 (TSC) (ZMF), 2020 WL
+
+8512639, at *2 (D.D.C. Nov. 9, 2020), report and recommendation adopted, No. 19 Civ. 2163
+
+(TSC) (ZMF), 2021 WL 5992052 (D.D.C. Feb. 10, 2021) (citation omitted). The Laffey Matrix
+
+does not have any meaningful bearing on this case, for two reasons. First and most impo1iant,
+
+
+
+                                                 15
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 16 of 34
+
+
+
+
+J.G.'s case, involving routine administrative hearings in which only limited issues were
+
+contested, is a far cty from qualifying as a complex federal litigation. Indeed, in general, courts
+
+have found the Matrix inapplicable to IDEA litigation. See Reed v. District of Columbia, 843
+
+F.3d 517, 525 (D.C. Cir. 2016) (affirming decision finding appellants to have failed to meet their
+
+burden to prove that IDEA cases fall within the area of "complex federal litigation"); Cox v.
+
+District of Columbia, 264 F. Supp. 3d 131, 143 (D.D.C. 2017) ("Courts in this district generally
+
+do not recognize IDEA litigation as complex when it comes to fee awards."). Second, this case
+
+has not been litigated in Washington, D.C. "No court in this Circuit has approved the use of the
+
+Laffey Matrix to determine the rates oflawyers practicing in New York." NG.B. v. NYC. Dep't
+
+of Educ., No. 21 Civ. 11211 (LJL), 2023 WL 2711753, at *11 (S.D.N.Y. Mar. 30, 2023); see
+
+Litlfosky v. P&L Acquisitions, LLC, No. 15 Civ. 5429 (DRH) (AKT) 2016 WL 7167955, at *11
+
+(E.D.N.Y. Aug. 19, 2016), report and recommendation adopted, 2016 WL 7168069 (E.D.N.Y.
+
+Dec. 8, 2016) (noting that no case in the Second Circuit has approved use of any form of the
+
+Laffey Matrix in assessing fees for lawyers outside Washington, D.C. metropolitan area, and
+
+citing cases to that effect); In re Terrorist Attacks on Sept. 11, 2001, No. 03 MDL 1570 (GBD)
+
+(FM) 2015 WL 6666703, at *8-9 (S.D.N.Y. Oct. 28, 2015), report and recommendation
+
+adopted, 2015 WL 9255560 (S.D.N.Y. Dec. 18, 2015) (noting that Laffey Matrix is intended for
+
+use in the D.C. area).
+
+        The Cuddy Law Firm also states that its requested hourly rates are supported by feedback
+
+it received from the artificial intelligence tool "ChatGPT-4." Pl. Mem. at 16; see also Dkt 19
+
+("Kopp Deel."). In fairness, the Cuddy Law Firm does not predominantly rely on ChatGPT-4 in
+
+advocating for these billing rates. It instead presents ChatGPT-4 as a "cross-check" supporting
+
+the problematic sources above. Pl. Mem. at 16. As such, the Court need not dwell at length on
+
+
+
+                                                 16
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 17 of 34
+
+
+
+
+this point. It suffices to say that the Cuddy Law Firm's invocation of ChatGPT as support for its
+
+aggressive fee bid is utterly and unusually unpersuasive. As the firm should have appreciated,
+
+treating ChatGPT' s conclusions as a useful gauge of the reasonable billing rate for the work of a
+
+lawyer with a particular background carrying out a bespoke assignment for a client in a niche
+
+practice area was misbegotten at the jump. In two recent cases, courts in the Second Circuit have
+
+reproved counsel for relying on ChatGPT, where ChatGPT proved unable to distinguish between
+
+real and fictitious case citations. In Mata v. Avianca, Inc., Judge Castel sanctioned lawyers who
+
+"abandoned their responsibilities when they submitted non-existent judicial opinions with fake
+
+quotes and citations created by the artificial intelligence tool ChatGPT." No. 22 Civ. 1461
+
+(PKC), 2023 WL 4114965, at* 1 (S.D.N.Y. June 22, 2023). And in Park v. Kim, the Second
+
+Circuit referred an attorney to the Circuit's Grievance Panel for further investigation after
+
+finding that her brief relied on "non-existent authority" generated by ChatGPT. 91 F .4th 610,
+
+615 (2d Cir. 2024). In claiming here that ChatGPT supports the fee award it urges, the Cuddy
+
+Law Firm does not identify the inputs on which ChatGPT relied. It does not reveal whether any
+
+of these were similarly imaginary. It does not reveal whether ChatGPT anywhere considered a
+
+very real and relevant data point: the uniform bloc of precedent, canvassed below, in which
+
+courts in this District and Circuit have rejected as excessive the billing rates the Cuddy Law Firm
+
+urges for its timekeepers. The Court therefore rejects out of hand ChatGPT's conclusions as to
+
+the appropriate billing rates here. Barring a paradigm shift in the reliability of this tool, the
+
+Cuddy Law Firm is well advised to excise references to ChatGPT from future fee applications.
+
+        Having considered (although largely discounting) the resources which J.G. urges be used
+
+in determining appropriate billing rates, the Court next considers the Johnson factors, and the
+
+
+
+
+                                                  17
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 18 of 34
+
+
+
+
+rates courts in this District have found reasonable awarded for the Cuddy Law Firm's attorneys,
+
+and attorneys with comparable skill and experience litigating special education matters.
+
+               2. Michael Cuddy, Andrew Cuddy, and Jason Sterne
+
+       J.G. seeks an hourly rate of$550 for attorneys Michael Cuddy, Andrew Cuddy, and Jason
+
+Sterne, with a $50 rate increase for work billed in 2023. The DOE argues that these rates are
+
+unreasonable. It urges instead rates of $367 .50 for work in the administrative hearings, and $200
+
+for work in this federal fees action. Opp. Mem. at 14.
+
+       The three attorneys are experienced in special education law. Andrew Cuddy is a 1996
+
+law school graduate who has been litigating special education matters since 2001. Dkt. 21 ,r 18.
+
+Michael Cuddy is a 1988 law school graduate who has been practicing special education law for
+
+more than 10 years. Id. ,r 19. And Sterne is a 1996 law school graduate who has specialized in
+
+IDEA litigation since 2005. Id. ,r 20.
+
+        Courts in this District have recently approved awards for the work of senior Cuddy Law
+
+Firm attorneys, including these three, at rates between $360 and $420 per hour, well below J.G.'s
+
+requested rates, and have done so in proceedings more contested than this. See, e.g., MH v.
+
+N.Y.C. Dep't of Educ., No. 20 Civ. 1923 (LJL), 2021 WL 4804031 at *13 (S.D.N.Y. Oct. 13,
+
+2021), ajf'd, 71 F.4th 120 (2d Cir. 2023) (approving $420 hourly rate for Cuddy Law Firm senior
+
+attorneys Andrew Cuddy and Sterne in contested case with lengthy proceedings and cross-
+
+examination); Y.S. v. N. Y. C. Dep 't of Educ., No. 21 Civ. 2159 (RA), 2022 WL 4096071 at *3
+
+(S.D.N.Y. Sept. 6, 2022) (approving hourly rate of$400 for Andrew Cuddy); FN. v. N.Y.C.
+
+Dep't of Educ., No. 21 Civ. 3379 (JPO), 2022 WL 3544128 at *4 (S.D.N.Y. Aug. 18, 2022)
+
+ (approving $375 hourly rate for CLF senior attorneys, including Andrew Cuddy, where DOE
+
+mounted no defense and case involved a single 41-minute hearing); H C. v. N. Y. C. Dep 't of
+
+
+
+                                                 18
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 19 of 34
+
+
+
+
+Educ., No. 20 Civ. 844 (JLC), 2021 WL 2471195, at *6 (S.D.N.Y. June 17, 2021) (awarding rate
+
+of $360 per hour for Cuddy Law Firm attorneys Michael Cuddy, Andrew Cuddy, and Sterne).
+
+Because this matter spanned two administrative proceedings in which some issues were
+
+contested, the Court finds that awarding senior Cuddy Law Firm attorneys an hourly rate at the
+
+upper bound of this range is appropriate. However, the $550/$600 hourly rate sought by J.G. is
+
+well above what a reasonable client would pay. Considering the case law, along with the
+
+Johnson factors, the Court finds a rate of $400 per hour for the work of each of these three
+
+attorneys reasonable.
+
+               3. Erin Murray
+
+       J.G. seeks an hourly rate of $375 for junior associate Erin Murray, who served as the lead
+
+attorney and billed by far the most hours during the second administrative proceeding. Murray
+
+was admitted to practice law in New York in 2020 after graduating magna cum laude from Barry
+
+University's Dwayne 0. Andreas School of Law in May 2019. A. Cuddy Deel. ,i 21. The DOE
+
+argues that Murray's hourly rate should be $200.
+
+        J.G.'s proposed rate for Murray is above the range of rates typically approved by courts
+
+in this District for junior associates in IDEA litigation. "For associates with three or fewer years
+
+of experience in such litigation, courts in this District have typically approved rates of $150-
+
+$275." C.D., 2018 WL 3769972, at *7 (citing.JS. ex rel. Z.S. v. Carmel Cent. Sch. Dist., No. 10
+
+Civ. 8021 (VB), 2011 WL 3251801, at *6 (S.D.N.Y. Jul. 26, 2011) (awarding first- and second-
+
+year associates rates of $150 to $175 per hour in IDEA litigation)); L. V v. N. Y. C. Dep 't of Educ.,
+
+700 F. Supp. 2d 510, 519-20 (S.D.N.Y. 2010) (awarding $275 for junior attorney with one-to-
+
+three years' experience); R.P. v. N.Y.C. Dep't ofEduc., No. 21 Civ. 4054 (JMF), 2022 WL
+
+
+
+
+                                                  19
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 20 of 34
+
+
+
+
+1239860, at *8 (S.D.N.Y. Apr. 27, 2022), ajf'd sub nom. HC. v. N.Y.C. Dep't ofEduc., 71 F.4th
+
+120 (2d Cir. 2023) (using $150 rate for Murray).
+
+       Murray was admitted to the bars of Florida in 2019 and New York in 2020. A. Cuddy
+
+Deel.~ 21. Shortly thereafter, in October 2020, she joined the Cuddy Law Firm as an associate
+
+attorney. Pl. Mem. at 11. Four months later, in February 2021, she was assigned as lead
+
+attorney for Case No. 221890. Murray Deel.~ 6. Despite her short tenure at the law firm,
+
+Murray ably handled the case and achieved positive results for J.G. She was responsible for the
+
+bulk of the firm's work in the second administrative proceeding: she led hearing preparations,
+
+communicated with DOE and J.G., attended pre-hearing conferences, argued on behalf of J.G. at
+
+the hearing, and drafted and submitted post-hearing briefs.
+
+       In light of Murray's effective performance in the second administrative proceeding,
+
+which involved contested issues and a degree of procedural complexity, the Court finds it
+
+appropriate to award an hourly rate towards the upper end of the $150-$275 range generally
+
+awarded in this District for junior associates in IDEA administrative proceedings. CLF has not,
+
+however, justified a $375 hourly rate. Accordingly, this Court finds $250 an appropriate hourly
+
+rate for Murray here.
+
+               4. Kevin Mendillo
+
+        J.G. seeks an hourly rate of $500 for Kevin Mendillo. He was admitted to the New York
+
+bar in 2011 and joined the Cuddy Law Firm in 2014, where he has litigated special education
+
+matters for almost a decade. A. Cuddy Deel.~ 22. J.G.'s request for a $500 billing rate is out of
+
+line with the rates courts in this District have found appropriate for similarly experienced IDEA
+
+attorneys, including Mendillo himself. See, e.g., H W. v. N. Y. C. Dep 't ofEduc., No. 20 Civ.
+
+10591 (RA), 2022 WL 541347, at *3 (S.D.N.Y. Feb. 23, 2022), aff'd sub nom., HC. v. N.Y.C.
+
+
+
+                                                   20
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 21 of 34
+
+
+
+
+Dep 't of Educ., 71 F.4th 120 (2d Cir. 2023) (using $300 rate for Mendillo); Y.S., 2022 WL
+
+4096071, at *3 (using $300 rate for Mendillo); CD., 2018 WL 3769972, at *7 (finding in 2018
+
+that a rate of$300 per hour was appropriate for a lawyer with 10 years' experience in general
+
+litigation). In consideration of the Johnson factors and Mendillo's level of experience as of the
+
+proceedings in this case, the Court finds $310 an appropriate hourly rate.
+
+               5. Justin Coretti, Benjamin Kopp, Francesco Antorino, Kenneth Bush
+
+       J.G. seeks an hourly rate of $425 for mid-level associates Justin Coretti, Benjamin Kopp,
+
+Francesca Antorino, and Kenneth Bush. As to Coretti, the DOE argues for a $300 hourly rate for
+
+his work during the administrative proceeding, and $200 for his work in this federal fees action.
+
+DOE does not propose an alternative hourly rate for the other mid-level associates.
+
+        Coretti is a 2012 law school graduate who has been litigating special education matters
+
+since 2016. A. Cuddy Deel. 125. Kopp is a 2015 law school graduate who has been litigating
+
+special education matters since joining the firm in 2018. Id. 126. Bush is a 2015 law school
+
+graduate who joined the firm in January 2016. Id. 124. Antorino is a 2017 law school graduate
+
+who began litigating special education matters immediately after graduation. Id. 123.
+
+         J. G. 's proposed rate for the four associates is above the range of rates typically approved
+
+by courts in this District for junior associates in IDEA litigation, and above the range of rates
+
+approved for Coretti, the most senior of the group. See J.R., 2021 WL 3406370, at *4 (setting
+
+$250 hourly rate for Coretti, where $350-$375 per hour was requested); MH, 2021 WL
+
+4804031, at *14 (setting $280 hourly rate for Coretti, where he worked.on the administrative
+
+stage of an IDEA case, including by preparing witnesses for testimony and attending hearings).
+
+The Court, recognizing that these four attorneys have greater experience than Murray, and less
+
+
+
+
+                                                 21
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 22 of 34
+
+
+
+
+than Andrew Cuddy, Michael Cuddy, Mendillo, and Sterne, and having considered the Johnson
+
+factors, finds $300 is a reasonably hourly rate for Coretti, Kopp, Antorino, and Bush.
+
+               6. Paralegal Time
+
+        J.G. seeks an hourly rate of $225 for paralegals Amanda Pinchak, Allyson Green, Cailin
+
+O'Donnell, ChinaAnn Reeve, and Shobna Cuddy. 9 Shobna Cuddy is the Cuddy Law Firm's
+
+senior paralegal and has worked there as a paralegal and office manager since 2007. A. Cuddy
+
+Deel.   27. Green has an associate degree and is cun-ently pursuing a bachelor's degree from
+
+Clarion University. Id.    30. O'Donnell has a bachelor's degree and worked as a paralegal at the
+
+firm from 2019 to 2022. Id.~ 28. Reeve has an associate degree and is working toward a
+
+bachelor's degree. She joined the firm in 2021. Id.~ 29. J.G. does not provide any infmmation
+
+about Pinchak's qualification. DOE argues that all paralegals' hourly rates should be $100.
+
+        J.G.'s proposed hourly rate for the paralegals far exceeds the prevailing rate in this
+
+District, as reflected in numerous recent decisions. Decisions involving the Cuddy Law Firm
+
+have approved fee awards with hourly rates of$100 to $125 for paralegal work. See, e.g., J.R.,
+
+2021 WL 3406370, at *4 (awarding $100 per hour for Cuddy Law Firm paralegals in IDEA
+
+case); HC., 2021 WL 2471195, at *7 (same); MD., 2018 WL 4386086, at *3 (awarding $100-
+
+$120 per hour for Cuddy Law Firm paralegals); C.D., 2018 WL 3769972, at *7 (awarding $125
+
+hourly rate for experienced Cuddy Law Firm paralegal with more than entry-level qualifications
+
+and $100 hourly rate for inexperienced paralegal and for Shobna Cuddy, who had only entry-
+
+level qualifications, in IDEA case). And this case has not presented the challenges paralegals
+
+may encounter in complex commercial cases that go to trial--challenges which, for paralegals
+
+
+
+9 J.G. also seeks $225 as the rate for administrative tasks that attorneys perfmmed (and for which
+
+they billed at a paralegal rate).
+
+                                                  22
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 23 of 34
+
+
+
+
+with significant experience, have justified $200 rates. Cf Beastie Boys v. Monster Energy Co.,
+
+112 F. Supp. 3d 31, 56-57 (S.D.N.Y. 2015).
+
+       Consistent with these authorities, the Court finds $125 per hour a reasonable rate for
+
+work performed in this matter by an experienced paralegal with more than entry-level
+
+qualifications. The Court will apply that rate to Shobna Cuddy's work.
+
+       However, as to Green, O'Donnell, Pinchak, and Reeve, the Court finds an hourly rate of
+
+$110 warranted given their comparative inexperience. J.G. bears the burden of providing
+
+evidence to support her fee application, including as to the relevant qualifications and experience
+
+of the various attorneys and paralegals that worked on her case. See Torres v. City ofNew York,
+
+No. 07 Civ. 3473 (GEL), 2008 WL 419306, at *2 (S.D.N.Y. Feb. 14, 2008) ("Although it is his
+
+burden to do so, plaintiff presents no evidence regarding the skills, qualifications, or experience
+
+of the paralegal here."). When such evidence has not been provided, courts typically award fees
+
+at the bottom of the customary fee range. See, e.g., L. V, 700 F. Supp. 2d at 523 ("If plaintiffs
+
+had provided no information about the paralegals' levels of experience, an award at the lower
+
+end of the range might be appropriate."); Robinson v. City ofNew York, No. 05 Civ. 9545 (GEL),
+
+2009 WL 3109846, at *5 (S.D.N.Y. Sept. 29, 2009) ("While defendants are correct that the
+
+burden is on the moving party to show that the requested fees are reasonable, plaintiffs' request
+
+of $100 per hour is on the low end of the customary range in this district and therefore
+
+commensurate with the presumed inexperience of plaintiffs' paralegal staff."); Torres, 2008 WL
+
+419306, at *2 ("[C]ompensation must be made near the lower end of the market range" given
+
+lack of evidence regarding paralegals' qualifications). J.G. did not address Green's or Pinchak's
+
+paralegal experience. Reeve had two months of paralegal experience at the time she worked on
+
+J.G. 's case; and O'Donnell had less than one year of paralegal experience at the start of the first
+
+
+
+                                                 23
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 24 of 34
+
+
+
+
+administrative proceeding and about two years' experience at the start of the second.
+
+Accordingly, an $110 hourly rate-which recognizes the passage of time since a number of the
+
+decisions approving a $100 rate for comparable work-is appropriate.
+
+       C. Reasonable Hours
+
+       As reviewed above, the underlying IDEA litigation was not unusually complicated or
+
+burdensome. It involved two administrative proceedings. The first entailed several short pre-
+
+hearing conferences before the IHO, and a two-session hearing, at which J.G. presented four
+
+witnesses and DOE presented none, and at which DOE conceded liability. The second likewise
+
+entailed several short pre-hearing conferences, and a two-session hearing, with each session
+
+lasting around two hours, at which J.G. presented four witnesses and DOE presented only one.
+
+        In connection with the administrative proceedings, the Cuddy Law Firm billed 184.4
+
+hours of attorney time and 42 hours of paralegal time (226.4 hours total). In connection with this
+
+fees litigation, the firm billed 39.4 hours of attorney time and 11.1 hours of paralegal time (50.5
+
+hours total). DOE argues that the reported hours at both stages were excessive. For the reasons
+
+that follow, the Court agrees.
+
+                1. Administrative Proceedings
+
+        In various respects, the Court finds excessive or inadequately explained the hours on
+
+which the Cuddy Law Firm bases its fee request.
+
+        As to the first administrative proceeding (Case No. 185427), the firm's time entries begin
+
+on January 28, 2019, five months before Sterne began drafting the due process complaint. A.
+
+ Cuddy Deel., Ex. 19 at 8 (Sterne began drafting due process complaint on June 28, 2019).
+
+ During that period, CLP billed more than 10 hours' time, during which Sterne and Pinchak
+
+ appear, without explanation, to have billed J.G. for reviewing the same records. Id. at 2-8. It
+
+
+
+                                                 24
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 25 of 34
+
+
+
+
+then took Sterne an unexplained 3 .9 hours to draft a three-page boilerplate complaint, for which
+
+the law firm charged J.G. $2,155.3. Id. at 8.
+
+       As to the second proceeding (Case No. 228190), the firm began billing on April 7, 2020,
+
+16 months before MuTI'ay began drafting the due process complaint. Id., Ex. 20 (initial drafting
+
+of complaint on August 24, 2021 ). The Cuddy Law Firm billed close to 30 hours before drafting
+
+the complaint. Id. at 2-14. J.G. does not explain the need for such work; such an explanation
+
+was particularly waTI'anted given the firm's preexisting familiarity with G.G. 's condition and
+
+circumstances arising from its handling of the first administrative action. And the relief
+
+requested in the second action was based on the same administrative record underlying the first.
+
+MuTI"ay then, by the Court's count, billed some 15 hours drafting the second complaint, for
+
+which the law firm charged J.G. more than $5,000. Id. The Court finds those hours excessive.
+
+The complaint is a simple 11-page document, which recites G.G.'s educational history and
+
+makes boilerplate requests for relief. It does not reflect sophisticated legal or factual analysis.
+
+Without a sound explanation, it is unreasonable to shift responsibility from J.G. to DOE for this
+
+much unjustified billable time.
+
+        Across the two cases, the Cuddy Law Firm then billed a total of 34.1 hours to draft its
+
+closing brief or statement. A. Cuddy Deel., Ex. 19 at 22-23, 30 (11 hours); id., Ex. 20 at 30-34
+
+(23.1 hours). The two briefs totaled 31 pages. Murray Deel. ,r 91; see id (14-page closing
+
+statement); Cuddy Deel., Ex. 2 at 1-17 (17-page closing brief). The 17-page brief included 12
+
+pages of procedural history and background facts, Cuddy Deel., Ex. 2 at 1-12, which largely
+
+reproduced information in the due process complaint. It should not have taken Michael Cuddy,
+
+ an experienced IDEA lawyer, 11 hours to draft this document.
+
+
+
+
+                                                  25
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 26 of 34
+
+
+
+
+       There was also significant overlap between the two administrative proceedings. They
+
+involved the same student, whose learning disability and educational needs had not materially
+
+changed between January 28, 2019 (date of the first billing entry) to February 24, 2023 (date of
+
+the last billing entry). A. Cuddy Deel., Ex. 19-20. The proceedings also temporally overlapped.
+
+The firm billed hours for the first proceeding covering January 28, 2019, to February 24, 2023,
+
+id., Ex. 19; and, for the second proceeding, covering April 7, 2020, to August 31, 2022. Id., Ex.
+
+20. The assignment of common personnel to the two proceedings should have been a source of
+
+efficiency. The film then spent nearly twice the attorney time on the second proceeding as the
+
+first. Id., Ex. 19 (68.3 hours attorney time billed for Case No. 185427); Id., Ex. 20 (116.10 hours
+
+attorney time billed before for Case No. 221890). The Court recognizes that the distinct needs of
+
+the second proceeding, at which DOE asserted that it had provided a F APE but was found not to
+
+have done so, justified meaningful new work. The submissions in support of the fee award, and
+
+the firm's time records, however, do not make clear why 116.10 attorneys' hours were justified
+
+at this stage.
+
+        In evaluating fee applications, courts must make "a conscientious and detailed inquiry
+
+into the validity of the representations that a certain number of hours were usefully and
+
+reasonably expended." See Lunday v. City ofAlbany, 42 F.3d 131, 134 (2d Cir. 1994).
+
+Considering the inefficiencies noted above, the overlap between the two proceedings, the relative
+
+simplicity of the matter, and the absence of detailed explanations for much of the hours logged,
+
+the Court finds that an across-the-board 20% reduction for the 226.4 total hours billed is
+
+warranted to make the Cuddy Law Firm's claimed hours reasonable. This reduction is in line
+
+with the reductions applied by courts in this District involving underlying administrative actions
+
+of similar complexity. See, e.g., R.G., 2019 WL 4735050, at *4 (18% reduction of97.3 billed
+
+
+
+                                                26
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 27 of 34
+
+
+
+
+hours for administrative action that included an impartial hearing that consisted of three sessions
+
+totaling four hours); HC., 2021 WL 2471195, at* 10 (20% reduction of 215.5 hours billed in
+
+two related administrative proceedings because the first hearing was uncontested and the second
+
+hearing "contained much of the same information as the [due process complaint] for the first
+
+hearing"); see also McDonald ex rel. Prendergast v. Pension Plan of the NYSA-ILA Pension Tr.
+
+Fund, 450 F.3d 91, 96 (2d Cir. 2006) ("A district court may exercise its discretion and use a
+
+percentage deduction as a practical means of trimming fat from a fee application." (internal
+
+citation marks omitted)).
+
+        In total, the Court reduces the hours billed for the administrative proceedings by 45.28
+
+hours. This yields 181.12 hours, a figure the Court finds reasonable to have incurred.
+
+               2. Federal Fees Action
+
+        Courts in this District also have discounted fee requests for the time spent in follow-on
+
+litigation over the appropriate fee award. Such proceedings, as here, concern the "simple and
+
+straightforward issue" of establishing "the reasonable amount of fees and costs that Plaintiffs
+
+attorneys should be paid for prevailing on behalf of the Plaintiff," but courts have often found the
+
+hours claimed on such fee applications unjustified. J.R., 2021 WL 3406370, at *6 (citation
+
+omitted); see also id. (reducing by 25% the Cuddy Law Firm's 82.5 hours billed for fees
+
+litigation in this District); R.G., 2019 WL 4735050, at *5 (reducing by approximately 26% the
+
+firm's 59.9 hours billed for fees litigation, given case's simplicity); HA. v. NY.C. Dep't of
+
+Educ., No. 20 Civ. 10785 (PAE), 2022 WL 580772, at *10 (S.D.N.Y. Feb. 25, 2022) (applying
+
+20% reduction in hours billed for fee litigation).
+
+        For the simple fee application here, the Cuddy Law Firm has billed for 50.50 hours of
+
+work. The Comt finds this request similarly excessive.
+
+
+
+                                                 27
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 28 of 34
+
+
+
+
+       At the threshold, the Cuddy Law Finn seeks recompense for the work of seven attorneys
+
+and four paralegals on the fee litigation. The firm does not attempt to justify this level of staffing
+
+on a routine fee application, a species of project which, in the Court's experience supervising
+
+IDEA fee litigations, is often handled by a single attorney and a single paralegal. A discount of
+
+the requested fee is merited, at the outset, for the inefficiencies inherent in spreading the work on
+
+this project across 11 timekeepers. See, e.g., L. V. v. NYC. Dep 't ofEduc., 700 F. Supp. 2d 510,
+
+525 (S.D.N.Y. 2010) (reducing plaintiffs' requested hours by an additional 5% because of
+
+excessive overstaffing and duplicative work when law firm used 29 attorneys and 19 non-legal
+
+staff in IDEA class action); Sabatini v. Corning-Painted Post Area Sch. Dist, 190 F. Supp. 2d
+
+509, 521 (W.D.N.Y. 2001) Gustifying hour reduction because of duplicative work resulting from
+
+unnecessary timekeepers attending hearings and conferences); F.R. v. NYC. Dep't ofEduc.,
+
+No. 22 Civ. 1776 (VEC) (GWG), 2023 WL 4991118, at *8 (S.D.N.Y. Aug. 4, 2023), report and
+
+recommendation adopted, 2023 WL 5950686 (S.D.N.Y. Sept. 13, 2023) (same).
+
+        There are other inefficiencies or unexplained areas of work. The fee action was initiated
+
+on February 6, 2023, with the filing of an eight-page complaint. See Comp!. But the hours for
+
+which the Cuddy Law Finn seeks to be awarded for its fee application began accruing nearly
+
+seven months earlier, on August 15, 2022. The firm seeks recompense for 10.6 hours it billed
+
+prior to the filing of the fees complaint. A. Cuddy Deel., Ex. 21 at 2-7. Several billing entries
+
+during this period do not appear to have any relationship to the researching and drafting of the
+
+fees complaint. Instead, these reflect the making of phone calls and the sending of emails by
+
+paralegals and attorneys related to the mechanics of receiving "tuition deposit reimbursement"
+
+from DOE, scheduling G.G. 's vocational assessment, and finding educational providers. Id. at 2.
+
+Other entries reflect signing, filling out, and correcting forms authorizing reimbursement for
+
+
+
+                                                  28
+          Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 29 of 34
+
+
+
+
+G.G.'s tuition and tutoring. Id. at 3. The Cuddy Law Firm does not explain how these logistical
+
+tasks advanced the present fee action. The firm claims to have spent 3.9 hours drafting and
+
+preparing the complaint. A. Cuddy Dec., Ex. 21. Those hours too are unjustified. The eight-
+
+page complaint consists of a series of single-sentence paragraphs that simply summarize the
+
+administrative phase of the case-all information readily pasted from the previous due process
+
+complaints-followed by boilerplate recitations of the causes of action customary in IDEA
+
+litigation.
+
+        A review of the Cuddy Law Firm's submissions after the fees complaint was filed also
+
+bespeaks "highly inefficient practice[s]." B.B. v. NY. C. Dep 't ofEduc., No. 17 Civ. 4255 (VEC)
+
+(SDA), 2018 WL 1229732, at *3 (S.D.N.Y. Mar. 8, 2018). The firm seeks fees for almost 27
+
+hours of preparing declarations. The declarations submitted, however, are disorganized,
+
+duplicative, and difficult to parse. Of the eight declarations and the more than 30 exhibits that
+
+the firm filed in support of its fee application, Dkts. 15-21, 31, only a handful have been useful
+
+to resolving the present motion. These hours also appear to have been elevated by the firm's
+
+aggressive pursuit of outsized billing rates based on dubious databases. As reviewed above, the
+
+Court has discounted various sources which some of the declarations endorse as support for the
+
+firm's proposed billing rates. See, e.g., A. Cuddy Deel., Exs. 3, 6, 7 (Real Rate Report), Ex. 4
+
+(ASLFE Survey), Ex. 5 (NALFA Survey), Ex. 8 (Laffey Matrix). Pruning the firm's claimed
+
+hours is necessary to tame the unjustified and "costly exercise of preparing such [] voluminous
+
+declaration[s]." HA., 2022 WL 580772, at *11.
+
+         The fee request in this case "ought to have been routine." Id. J.G. filed and served the
+
+fees complaint and then moved for summary judgment on a straightforward issue. Such tasks
+
+should not have taken 50.5 hours to execute. Accordingly, the Court finds that an across-the
+
+
+
+                                                 29
+           Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 30 of 34
+
+
+
+
+board reduction of hours by 30% is necessary to bring the fee request into line with reasonable
+
+billing practices. See, e.g., Mr. & Mrs. B. v. Weston Bd of Ed, 34 F. Supp. 2d 777, 783 (D.
+
+Conn. 1999) (reducing attorneys' fee award by 30% in IDEA case); C.A. v. NYC. Dep 't of
+
+Educ., No. 20 Civ. 2101 (AMD) (VMS), 2022 WL 673272, at *I (E.D.N.Y. Mar. 7, 2022)
+
+(adopting report and recommendation's 30% reduction in attorney hours in IDEA case);
+
+HomeAway.com, Inc. v. City ofNew York, 523 F. Supp. 3d 573,593 (S.D.N.Y. 2021) (reducing
+
+fee award by 25%); Beastie Boys, 112 F. Supp. 3d at 57 (reducing fee award by 30% and citing
+
+cases).
+
+          D. Costs
+
+          A district court may award reasonable costs to the prevailing party in IDEA
+
+cases. See 20 U.S.C. § 1415(i)(3)(B); see also Murphy, 548 U.S. at 297-98 (2006) (holding
+
+"costs," as used in 20 U.S.C. § 1415(i)(3)(B), to refer to the list set out in 28 U.S.C. § 1920, the
+
+statute governing taxation of costs in federal court); HC., 2021 WL 2471195, at* 11 (S.D.N.Y.
+
+June 17, 2021) ("A district court may award reasonable costs to the prevailing party in IDEA
+
+cases." (quoting C.D., 2018 WL 3769972, at *12)).
+
+          J.G. seeks $262.12 in costs at the administrative level and $420 at the federal level.
+
+Because these costs are reasonable, the Court approves them.
+
+          E. Post-Judgment Interest
+
+          The Comi also awards, as required by 28 U.S.C. § 1961, post-judgment interest. See 28
+
+U.S.C. § 1961; Lewis v. Whelan, 99 F.3d 542,545 (2d Cir. 1996) ("The award of post-judgment
+
+interest is mandatory on awards in civil cases as of the date judgment is entered.").
+
+          F. Fee Cap
+          The IDEA prohibits all awards for services rendered after a written offer of settlement is
+
+made to a parent if: (1) "the offer is made within the time prescribed by Rule 68 of the Federal
+
+                                                   30
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 31 of 34
+
+
+
+
+Rules of Civil Procedure or, in the case of an administrative proceeding, at any time more than
+
+10 days before the proceeding begins"; (2) "the offer is not accepted within 10 days"; and (3)
+
+"the court or administrative hearing officer finds that the relief finally obtained by the parents is
+
+not more favorable to the parents than the offer of settlement." 20 U.S.C. § 1415(i)(3)(D)(i); see
+
+also S.M v. Taconic Hills Cent. Sch. Dist., No. 11 Civ. 1085 (LEK) (RFT), 2013 WL 1180860,
+
+at *2 (N.D.N.Y. Mar. 20, 2013).
+
+        Here, the DOE argues that the statutory fee cap applies, provided that the Court finds an
+
+aggregate award ofless than $54,300 warranted for the work performed through May 26, 2023.
+
+That is because, as is undisputed, the DOE that day offered to settle the case for $54,300.00, but
+
+J.G. did not accept the offer. The DOE's analysis is legally correct. It is also factually
+
+applicable, because, based on the Court's analysis above, as of May 26, 2023, J.G. was entitled
+
+to a fee-and-cost award below the $54,300 offered by the DOE. The Court therefore is obliged
+
+to cap the award so as not to award J.G. fees and costs that accrued after May 26, 2023.
+
+        All of the work performed on the two administrative actions was complete before May
+
+26, 2023. The work on the first administrative action was complete on February 24, 2023, A.
+
+Cuddy Deel., Ex. 19 at 31 (last billing entry February 24, 2023); and the work on the second
+
+administrative action was complete on August 31, 2022, id., Ex. 20 at 34 (last billing entry
+
+August 31, 2022). Applying the hourly rates the Court has found reasonable to the hours it has
+
+found reasonable, the total award of fees and costs across the two administrative actions is
+
+$50,677.72.
+
+
+
+
+                                                  31
+        Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 32 of 34
+
+
+
+
+                                      Case No. 185427
+
+
+                                                                          $1,568.00
+Jason Sterne                                                              $2,624.00
+Michael Cudd                                                              $17,664.00
+Total Attome Fees                                                         $21,856.00
+
+
+                        $110.00                  0.08                     $8.80
+Amanda Pinchak          $110.00                  4.16                     $457.60
+Cailin O'Donnell        $110.00                  8.00                     $880.00
+Erin Murra              $110.00                  0.40                     $44.00
+                        $125.00                  2.64                     $330.00
+                                                 15.28                    $1,720.40
+
+                                       Case No. 221890
+
+
+                        $400.00                  2.72                     $1,088.00
+Erin Murra              $250.00                  78.32                    $19,580.00
+Michael Cudd            $400.00                  5.68                     $2,272.00
+Justin Coretti          $300.00                  6.16                     $1,848.00
+Total Attome Fees                                92.88                    $24,788.00
+
+
+                         $110.00                 2.96                     $325.60
+ChinaAnn Reeve           $110.00                 9.36                     $1,029.60
+Cailin O'Donnell         $110.00                 3.60                     $396.00
+ShobnaCudd               $125.00                 2.40                     $300.00
+                                                 18.32                    $2,051.20
+
+                                             Costs
+
+
+                                                                          $3.50
+                                                                          $151.00
+ Case No. 221890                                                          $6.12
+
+ Total Costs                                                              $262.12
+
+
+       The fees and costs incurred in the federal fees litigation, however, straddled May 26,
+
+2023. The charts below summarize the fees and costs incurred in this action through and
+
+                                               32
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 33 of 34
+
+
+
+
+including May 26, 2023, again applying the hourly rates found reasonable to the hours found
+
+reasonable.
+
+
+
+                          $400                                              $252.00
+                          $300                                              $42.00
+                          $250                     0                        $0
+ Francesca Antorino       $300                     1.26                     $378.00
+ Kenneth Bush             $300                     1.96                     $588.00
+ Kevin Mendillo           $310                     0.21                     $65.10
+ Michael Cudd             $400                     0                        $0
+ Total Attome Fees                                 4.2                      $1325.10
+
+
+ Cailin O'Donnell         $110.00                  4.48                     $492.80
+ ChinaAnn Reeve           $110.00                  0.91                     $100.01
+ Francesco Antorino       $110.00                  0                        $0
+ ShobnaCudd               $125.00                  0.42                     $52.50
+                                                   5.81                     $645.31
+
+
+                          $402.00
+
+       The fee litigation thus added $2,372.41 in compensable fees and costs, as of May 26,
+
+2023. Adding this sum to the compensable fees and costs from the administrative proceeding,
+
+yields an award of$53,050.13. Because that figure is below the DOE's unaccepted settlement
+
+offer of$54,300 made that day, the Court must apply the statutory cap. See, e.g., R.P., 2022 WL
+
+1239860, at *6 ("no fees should be awarded for costs or work performed after July 7, 2021, when
+
+the DOE made a written offer of settlement" because total fees and costs to which plaintiff was
+
+entitled as of that date was lower than DOE's settlement offer); HC., 2021 WL 2471195, at* 10
+
+(declining to award fees or costs incurred after date of DO E's written offer because the plaintiffs
+
+were entitled to less in fees and costs); O.R. v. NY.C. Dep'to/Educ., 340F. Supp. 3d357, 371
+
+(2018) (same).
+
+       J.G. is thus entitled to $53,050.13, broken out as follows.
+
+                                                 33
+         Case 1:23-cv-00959-PAE Document 32 Filed 02/22/24 Page 34 of 34
+
+
+
+
+            Summary Chart of Approved Fees aud Costs Through May 26, 2023
+
+
+ Case No. 185427     $21,856.00           $1,720.40            $154.5           $23,730.90
+ Case No. 221890     $24,788.00           $2,051.20            $107,62          $26,946.82
+ SDNY Action         $1325.10             $645.31              $402             $2,372.41
+ Total               $47,969.10           $4,416.91            $664.12          $53,050.13
+
+
+                                         CONCLUSION
+
+       For the reasons stated, the Court grants J.G.'s motion for an award of fees and costs, but
+
+in an amount below that sought. J.G. is awarded $52,386.01 in fees and $664.12 in costs, for a
+
+total of $53,050.13, plus post-judgment interest at the applicable statutory rate. The Clerk of
+
+Court is respectfully directed to terminate the motion at Docket 14 and close the case.
+
+
+
+
+       SO ORDERED.
+
+
+
+                                                             PA~~
+                                                             United States District Judge
+Dated: February 22, 2024
+New York, New York
+
+
+
+
+                                                34
+

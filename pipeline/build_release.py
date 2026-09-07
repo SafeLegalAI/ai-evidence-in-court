@@ -36,6 +36,15 @@ def read_jsonl(p: Path):
     return out
 
 
+def is_banned(url, banned) -> bool:
+    """Exact host or subdomain match only (so bloomberglaw.com is not caught by law.com)."""
+    if not url:
+        return False
+    from urllib.parse import urlparse
+    host = (urlparse(url).hostname or "").lower()
+    return any(host == b or host.endswith("." + b) for b in banned)
+
+
 def flatten(r: dict) -> dict:
     """Parquet/CSV-friendly: nested objects and arrays become JSON strings."""
     return {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v) for k, v in r.items()}
@@ -51,7 +60,7 @@ def build_table(tname: str, tcfg: dict, version: str):
         for r in read_jsonl(f):
             errs = [e.message for e in validator.iter_errors(r)]
             for uf in tcfg.get("url_fields", ["source_url"]):
-                if any(h in (r.get(uf) or "") for h in banned):
+                if is_banned(r.get(uf), banned):
                     errs.append(f"{uf} is a banned host")
             if errs:
                 rejected.append({"file": f.name, "id": r.get(idf), "errors": errs[:6]})

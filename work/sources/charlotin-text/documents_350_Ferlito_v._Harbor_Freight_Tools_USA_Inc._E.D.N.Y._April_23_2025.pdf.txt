@@ -1,0 +1,405 @@
+Ferlito v. Harbor Freight Tools USA, Inc.                                                                                 Doc. 48
+
+
+
+
+                                                                                               FILED
+                                                                                               CLERK
+              UNITED STATES DISTRICT COURT
+              EASTERN DISTRICT OF NEW YORK                                              4/23/2025 12:34 pm
+              -----------------------------------------------------------X              U.S. DISTRICT COURT
+              JOSEPH FERLITO,                                                      EASTERN DISTRICT OF NEW YORK
+                                                                                        LONG ISLAND OFFICE
+                                                          Plaintiff,
+                                                                                      MEMORANDUM OF
+                                                                                      DECISION AND ORDER
+                      -against-
+                                                                                      Civil Action
+                                                                                      No. 20-5615 (GRB) (SIL)
+
+              HARBOR FREIGHT TOOLS USA, INC.,
+
+                                                           Defendant.
+              -----------------------------------------------------------------X
+              GARY R. BROWN, United States District Judge:
+
+                               “If I had four hours to chop down a tree, I’d spend the first two hours sharpening
+                               the axe.”
+
+                                        -Aphorism incorrectly attributed to Abraham Lincoln. See
+                                        https://quoteinvestigator.com/2014/03/29/sharp-axe/.
+
+                      Plaintiff Joseph Ferlito commenced this lawsuit against defendant Harbor Freight Tools
+
+              USA, Inc., alleging that an axe he purchased from defendant was defectively designed. Before
+
+              this Court is defendant’s motion to exclude plaintiff’s proposed expert witness for failure to
+
+              comply with Federal Rule of Evidence 702. For the reasons stated herein, the motion is
+
+              DENIED.
+
+                      Background
+
+                      The basic facts of this case are straightforward. Plaintiff purchased a splitting maul (an
+
+              axe specially designed for splitting wood) from defendant in 2017. See Defendant’s Statement
+
+              of Material Facts, DE 39-1 ¶¶ 4-7. Several months later, while plaintiff was hanging the maul to
+
+              store it, the head of the tool detached and struck plaintiff, causing injuries to his nose and left
+
+              eye. Id. ¶¶ 23-25. Plaintiff initiated this lawsuit in 2020, alleging that the head detached due to a
+
+
+
+                                                                       1
+
+
+                                                                                                                Dockets.Justia.com
+design defect; defendant asserts the product failed due to plaintiff’s misuse, which it contends is
+
+evidenced by a large crack in the handle. Compare Complaint, DE 1-1 ¶ 15 with DE 39-1 ¶ 90.
+
+Below is an image of the axe, which was admitted into evidence during a hearing.
+
+
+
+
+       To support his defective design claim, plaintiff seeks to offer expert testimony by Mark
+
+Lehnert, who identifies himself as a “consultant with products and liability history, extensive
+
+knowledge and experience in manufacturing and assembly, [and] mechanical and electrical
+
+engineering management.” Lehnert Report, DE 39-9 at 9. Lehnert holds no engineering
+
+degrees, yet reports extensive experience designing and manufacturing power tools, holds over a
+
+dozen patents, and has worked in management positions in engineering departments at several
+
+corporations over a period of decades. Id. at 9-10; Tr. at 6-9. Lehnert contends the maul used by
+
+plaintiff was defectively designed because the handle and head were weakly bound with
+
+adhesive, leading to the accident. DE 39-9 at 7. He opines that good design requires securely
+
+
+
+                                                 2
+attaching the head and handle by “drilling a small diameter hole through the side of the maul,
+
+into and through the handle” and placing an aluminum pin “through the head” to reduce the
+
+possibility of separation. Id. at 5. Lehnert’s report references several other mauls currently
+
+available for purchase that incorporate such a pin. Id. at 5-6.
+
+       Defendant moves to preclude Lehnert’s testimony, arguing that he is unqualified as an
+
+expert because he lacks engineering degrees, and his experience is limited to designing power
+
+tools rather than manual tools. DE 39-1 at ¶¶ 42-47. Defendant further argues that Lehnert’s
+
+opinion is unreliable because (i) he did not rely on any scientific, technical, or trade articles in
+
+preparing his report, and (ii) after completing the report, he entered a query into ChatGPT about
+
+the best way to secure a hammer head to a handle, which produced a response consistent with his
+
+expert opinion. Id. at ¶¶ 49-62. To address these contentions, the Court held a Daubert hearing
+
+on February 27, 2025, at which Lehnert testified. This opinion follows.
+
+       Discussion
+
+       Lehnert’s Qualifications
+
+       The admissibility of expert testimony is governed by Federal Rule of Evidence 702,
+
+which states that “[a] witness who is qualified as an expert by knowledge, skill, experience,
+
+training, or education may testify in the form of an opinion … [if] the expert’s scientific,
+
+technical, or other specialized knowledge will help the trier of fact to understand the evidence or
+
+to determine a fact in issue.” Fed. R. Evid. 702(a). To meet this threshold, a party need only
+
+show that the proposed expert’s “opinion will probably aid the trier of fact … Doubts about
+
+whether an expert’s testimony will be useful should generally be resolved in favor of
+
+admissibility.” Lappe v. Am. Honda Motor Co., 857 F. Supp. 222, 226 (N.D.N.Y. 1994)
+
+(internal quotations omitted), aff’d sub nom. Lappe v. Honda Motor Co. of Japan, 101 F.3d 682
+
+
+
+                                                   3
+(2d Cir. 1996). An expert need not hold advanced degrees, as “background and practical
+
+experience [may] qualify as ‘specialized knowledge.’” McCullock v. H.B. Fuller Co., 61 F.3d
+
+1038, 1043 (2d Cir. 1995). Concerns about lack of “academic training…[are] properly explored
+
+on cross-examination [and bear on the] testimony’s weight and credibility—not its
+
+admissibility.” Id.
+
+       Courts in this circuit have held that, “[i]n the context of a products liability action, an
+
+expert witness is not strictly confined to his area of practice, but may testify concerning related
+
+applications.” Lara v. Delta Int’l Mach. Corp., 174 F. Supp. 3d 719, 730 (E.D.N.Y. 2016)
+
+(collecting cases) (internal quotations omitted). “Where an expert has the education or
+
+background to permit him to analyze a given set of circumstances, he can through reading,
+
+calculations, and reasoning from known scientific principles make himself very much an expert
+
+in the particular product even though he has not had actual experience in its manufacture.”
+
+Lappe, 857 F. Supp. at 226–27; see also Hilaire v. DeWalt Indus. Tool Co., 54 F. Supp. 3d 223,
+
+236 (E.D.N.Y. 2014) (finding that the expert, although not a professional mechanical or
+
+electrical engineer, was qualified to “opine on questions of the safety elements of a product’s
+
+design” and that any lack of knowledge or experience with the product at issue would go “to the
+
+weight of his testimony”); Manzo v. Stanley Black & Decker, Inc., No. 13-CV-3963 (MKB),
+
+2024 WL 5319230, at *8 (E.D.N.Y. Mar. 20, 2024) (“[A]n expert need not specialize in … a
+
+specific type of tool, nor personally design safety features for specific tools to provide helpful
+
+context on prevailing safety practices, product design, or warnings”).
+
+       Here, Lehnert meets the modest standards to qualify as an expert. Based on Lehnert’s
+
+experience designing products and supervising engineering teams, his opinion as to a safer
+
+design for a splitting maul will likely be helpful to a jury of laypeople. Lehnert’s lack of
+
+
+
+                                                  4
+engineering degrees or professional licenses does not necessitate exclusion of his testimony;
+
+opposing counsel can address on cross-examination. Furthermore, the fact that Lehnert’s
+
+professional experience is limited to power tools does not preclude his testimony here. As
+
+Lehnert explained during the hearing:
+
+        [M]y experience here is in the cojoining of dissimilar materials. When you add -- when
+        you put two things together, you either have to connect them mechanically, glue them
+        with some type of material that forms a cohesive joint. Sometimes you'll solder things
+        together. You can weld things together. You can spot them. So this is an assembly issue,
+        which is my specialty, [] assembly process engineering.
+
+Tr. at 12. Lehnert’s familiarity with joining dissimilar materials in connection with power tools
+
+appears applicable to a simpler manual tool. See Lara, 174 F. Supp. 3d at 732 (“[A] lack of
+
+specific familiarity with a product, machine or specific field does not, in itself, render an expert
+
+unqualified to proffer their opinion.”). Accordingly, the Court finds that Lehnert is qualified to
+
+testify as an expert.
+
+        Reliability of Lehnert’s Testimony
+
+        Federal Rule of Evidence 702 states that a witness, once qualified as an expert, may only
+
+testify “if [1] the testimony is based upon sufficient facts or data; [2] the testimony is the product
+
+of reliable principles and methods; and [3] the expert’s opinion reflects a reliable application of
+
+the principles and methods to the facts of the case.” In Daubert v. Merrell Dow Pharms., Inc.,
+
+509 U.S. 579 (1993), the Supreme Court provided a list of factors trial judges should use to
+
+evaluate the reliability of expert testimony, which the Second Circuit summarized as follows:
+
+        Although Rule 702 sets forth specific criteria for the district court's consideration, the
+        Daubert inquiry is fluid and will necessarily vary from case to case. The Supreme Court
+        has identified a number of factors bearing on reliability that district courts may consider,
+        such as (1) whether a theory or technique “can be (and has been) tested,” Daubert, 509
+        U.S. at 593, 113 S.Ct. 2786; (2) “whether the theory or technique has been subjected to
+        peer review and publication,” id.; (3) a technique's “known or potential rate of error,” and
+        “the existence and maintenance of standards controlling the technique's operation,” id. at
+
+                                                  5
+        594, 113 S.Ct. 2786; and (4) whether a particular technique or theory has gained “general
+        acceptance” in the relevant scientific community, id.
+        …
+        These factors do not constitute, however, a “definitive checklist or test.” Daubert, 509
+        U.S. at 593, 113 S.Ct. 2786. Rather, “[t]he inquiry envisioned by Rule 702 is ... a flexible
+        one,” id. at 594, 113 S.Ct. 2786, and “the gatekeeping inquiry must be tied to the facts of
+        a particular case,” Kumho Tire, 526 U.S. at 150, 119 S.Ct. 1167 (internal quotation marks
+        omitted).
+
+Amorgianos v. Nat’l R.R. Passenger Corp., 303 F.3d 256, 266 (2d Cir. 2002).
+
+        “In a products liability case, the touchstone of an expert’s report should be a comparison
+
+of the utility and cost of the product's design and alternative designs.” Hilaire, 54 F. Supp. 3d at
+
+244 (internal quotations omitted). “This comparison should usually be supported by testing of
+
+the alternative design.” Id. However, “such testing is not required…if the expert can point to an
+
+existing design in the marketplace” that incorporates the expert’s proposed alternative.
+
+Humphrey v. Diamant Boart, Inc., 556 F. Supp. 2d 167, 178 (E.D.N.Y. 2008); see also Bah v.
+
+Nordson Corp., No. 00-CV-9060 (DAB), 2005 WL 1813023, at *8 (S.D.N.Y. Aug.1, 2005)
+
+(“[T]he interlock switch and nozzle diffuser proffered by [the expert] do exist in the marketplace
+
+in products similar to the subject machine that he helped design, and thus testing is not needed to
+
+establish their feasibility.”).
+
+        Lehnert’s proposed testimony meets the standard for reliability. Initially, Lehnert’s
+
+report focuses almost exclusively on potential flaws in the design of defendant’s maul and
+
+proposes an alternative design—specifically, incorporating a metal pin to better secure the
+
+maul’s head to its handle—that he asserts would be safer and cost-effective. DE 39-9 at 5.
+
+Although Lehnert concedes he did not test his proposed design, he identified existing products,
+
+including other splitting mauls, that use such a pin, meaning that, like in Humphrey and Bah,
+
+testing is not required to establish the reliability of Lehnert’s testimony. Id. at 5-6. Finally, the
+
+
+                                                  6
+fact that Lehnert did not rely on any peer-reviewed articles in preparing his report is
+
+appropriately addressed via cross-examination rather than by exclusion. See Amorgianos, 303
+
+F.3d at 266–67 (2d Cir. 2002) (“This is not to suggest that an expert must back his or her opinion
+
+with published studies that unequivocally support his or her conclusions…. [L]ack of textual
+
+support may go to the weight, not the admissibility of the expert’s testimony.”). Accordingly,
+
+the Court finds that Lehnert’s testimony is sufficiently reliable to present to the jury.
+
+       Lehnert’s Use of ChatGPT
+
+       Federal courts have grappled with the appropriateness of an expert’s use of artificial
+
+intelligence to form opinions, and the validity of AI as a research tool in litigation more broadly.
+
+See Kohls v. Ellison, No. 24-CV-3754 (LMP)(DLM), 2025 WL 66514, at *5 (D. Minn. Jan. 10,
+
+2025) (excluding expert testimony when the expert’s affidavit contained ChatGPT-generated
+
+references to non-existent academic articles); Mata v. Avianca, Inc., 678 F. Supp. 3d 443, 464-65
+
+(S.D.N.Y. 2023) (sanctioning lawyers and law firm pursuant to Rule 11 for using ChatGPT to
+
+find non-existent cases, which the attorneys cited in a filing); Park v. Kim, 91 F.4th 610, 615-16
+
+(2d Cir. 2024) (referring attorney to the Court’s Grievance Panel for relying on ChatGPT to write
+
+a brief containing non-existent cases).
+
+       In Kohls, the expert’s “citation to fake, AI-generated sources in his declaration …
+
+shatter[ed] his credibility with th[e] Court” such that his testimony would not be reliable as
+
+required by Rule 702 and Daubert. 2025 WL 66514, at *4. However, the Court emphasized that
+
+experts can use “AI for research purposes” given its “potential to revolutionize legal practice for
+
+the better.” Id. Daubert issues arise only “when attorneys and experts abdicate their
+
+independent judgment and critical thinking skills in favor of ready-made AI-generated answers.”
+
+Id.
+
+
+
+                                                  7
+       Here, there is little risk that Lehnert’s use of ChatGPT impaired his judgment regarding
+
+proper methods for securing the maul’s head to its handle. The record from the hearing reflects
+
+that Lehnert used ChatGPT after he had written his report to confirm his findings, Tr. at 46,
+
+which were based on his decades of experience joining dissimilar materials, Tr. at 12. During
+
+the hearing, Lehnert professed to being “quite amazed” that the “ChatGPT search confirmed
+
+what [he] had already opined.” Tr. at 47. On re-direct, Lehnert reiterated that he did not rely on
+
+ChatGPT:
+
+       Q: Now, the other items that you have consulted and listed, [including] ChatGPT …
+       those aren’t things that you relied upon in reaching your conclusions and opinions,
+       correct?
+
+       A: Correct.
+
+Tr. at 67. There is no indication that Lehnert used ChatGPT to generate a report with false
+
+authority or that his use of AI would render his testimony less reliable. Accordingly, the Court
+
+finds no issue with Lehnert’s use of ChatGPT in this instance.
+
+           Use of Hyperbole
+
+           At the hearing, defense counsel noted that Lehnert displayed a troubling propensity
+
+for hyperbole. Tr. 76 (“[T]his is the classic example of ipse dixit: Because he says it, it’s true”).
+
+The Court is inclined to agree. There were several instances during the hearing when Lehnert
+
+stated matters in a sweeping manner that raised questions about accuracy. See, e.g., Tr. 12
+
+(stating he is an engineer); Tr. 24, 53-57 (implying that defendant failed to comply with ISO
+
+standard before indicating that no such standard exists).
+
+           To be clear, these verbal embellishments, standing alone, do not represent a basis for
+
+excluding the witnesses’ testimony. However, while the Court is permitting the proffered
+
+
+
+
+                                                  8
+testimony, plaintiff’s counsel is cautioned that in preparing the witness for trial, care should be
+
+taken to instruct the witness to avoid overstatement during his testimony before the jury.
+
+           Conclusion
+
+           For the reasons set forth herein, defendant’s motion to exclude plaintiff’s expert
+
+witness is denied.
+
+
+
+           SO ORDERED.
+
+           Dated: Central Islip, New York
+                  April 23, 2025
+
+
+                                                              /s/ Gary R. Brown
+                                                              GARY R. BROWN
+                                                              United States District Judge
+
+
+
+
+                                                  9
+

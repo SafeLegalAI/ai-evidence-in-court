@@ -1,0 +1,237 @@
+J-S21018-24
+
+
+NON-PRECEDENTIAL DECISION - SEE SUPERIOR COURT O.P. 65.37
+
+  IN THE INTEREST OF: D.S., A                  :   IN THE SUPERIOR COURT OF
+  MINOR                                        :        PENNSYLVANIA
+                                               :
+                                               :
+  APPEAL OF: D.S., MINOR                       :
+                                               :
+                                               :
+                                               :
+                                               :   No. 2032 EDA 2023
+
+         Appeal from the Dispositional Order Entered July 10, 2023
+  In the Court of Common Pleas of Philadelphia County Juvenile Division at
+                     No(s): CP-51-JV-0001161-2023
+
+
+BEFORE: LAZARUS, P.J., NICHOLS, J., and MURRAY, J.
+
+MEMORANDUM BY NICHOLS, J.:                          FILED NOVEMBER 14, 2024
+
+       Appellant D.S. appeals from the dispositional order entered following his
+
+adjudication of delinquency for possession of a firearm as a minor and
+
+possession of a firearm prohibited.1 Appellant challenges the admission of
+
+Instagram Live video evidence and a law enforcement agent’s lay opinion
+
+testimony regarding that video evidence. We affirm.
+
+       We adopt the juvenile court’s summary of the relevant facts and
+
+procedural history. See Juvenile Ct. Op., 10/30/23, at 2-5. Briefly, Appellant
+
+admitted to possession of a firearm as a minor and was adjudicated delinquent
+
+on April 21, 2023. See Commonwealth Exhibit C-4. Prior to adjudication,
+
+Appellant resided with his father in Upper Darby, Pennsylvania, and
+
+subsequent to this adjudication Appellant was placed on probation under GPS
+
+____________________________________________
+
+
+1 18 Pa.C.S. §§ 6110.1(a) and 6105(a)(1), respectively.
+J-S21018-24
+
+
+
+monitoring and released to the custody of his mother, who resided in
+
+Philadelphia, Pennsylvania. See N.T., 7/10/23, at 56-57. The juvenile court
+
+summarized the testimony of Agents Andrea Guse and Kyle Boyd of the
+
+Pennsylvania Office of Attorney General Gun Violence Task Force as follows:
+
+     on June 12, 2023, [Agent Guse] received information about an
+     Instagram Live [video] regarding an investigation with
+     [Appellant]. N.T. 7/10/23, 7, 13. She explain[ed] that Instagram
+     Live is when the user goes live to broadcast everything happening
+     at that moment, and anyone with an email, phone number, and
+     phone can access Instagram. Id. at 12. She is familiar with
+     [Instagram Live] because she has personal and professional
+     experience and knowledge of using Instagram. Id. After she
+     received the Instagram Live video and other information from an
+     Upper Darby police officer and [also] a Juvenile Probation officer,
+     she followed up with both sources regarding the video. Id. at 16.
+     After watching the video and following up, she [applied for] a
+     search warrant for [Appellant’s residence], [which was] approved
+     by a judge. Id. at 16-17. Then, on June 15, 2023, Agent Guse
+     and the gun violence team went to [Appellant’s residence] to
+     execute the search warrant. Id. at 19. At the house, she saw
+     [Appellant] coming from the second floor to be present with other
+     family members. Id. at 30. At the trial, the Commonwealth
+     presented a stipulation by and between counsels that on June 7,
+     2023, [Appellant] was on GPS at [Appellant’s residence] at the
+     same property [Appellant] was seen by Agent Guse on June 15,
+     2023. Id. at 21, 30.
+
+     Furthermore, Agent Guse recognized an Instagram Live video
+     presented by the Commonwealth [at trial] to be the same video
+     she received regarding an investigation with [Appellant]. Id. at
+     23. She was able to say that [Appellant was] in the top right in
+     the video holding a black color firearm with an extended magazine
+     seated and a laser sight attached on his right hand. Id. at [25].
+     Based on her training and experience, Agent Guse recognized the
+     firearm in [Appellant]’s right hand as a Taurus semi-automatic
+     handgun. Id. at 26-27. During cross-examination, she stated
+     that the police recovered the firearm from a bookbag inside a []
+     closet [of a bedroom used by females] and that the bookbag
+     belonged to another male resident of the house. Id. at 29-30.
+
+
+                                    -2-
+J-S21018-24
+
+
+     . . . Agent Kyle Boyd testified that he executed a search warrant
+     on June 15, 2023, at [Appellant’s residence] in . . . Philadelphia.
+     He recovered a black Taurus G3, nine-millimeter with an extended
+     magazine and a laser sight attachment . . . from a bookbag. Agent
+     Boyd then placed the recovered firearm in the property receipt
+     3609681 and confirmed that the photographs presented at trial .
+     . . [were] fair and accurate descriptions of the firearm he
+     recovered. Id. at [33-]34. During the trial, both defense counsel
+     and the Commonwealth stipulated that Officer Andrewjczak
+     reviewed the firearm placed on property receipt 3609681, and it
+     was a black Taurus firearm. Id. at [36].
+
+Juvenile Ct. Op. at 3-5 (some formatting altered).
+
+     On the same date as the search of Appellant’s residence, the
+
+Commonwealth filed a delinquency petition alleging that Appellant committed
+
+the delinquent act of possession of a firearm by a minor. See Delinquency
+
+Petition, 6/15/23.   The following day, the Commonwealth amended this
+
+petition to add the count of possession of a firearm prohibited, based on
+
+Appellant’s prior adjudication for possessing a firearm as a minor.        See
+
+Juvenile Ct. Order, 6/16/23. After a hearing, the juvenile court adjudicated
+
+Appellant delinquent on both counts and entered a dispositional order on July
+
+10, 2023.
+
+     Appellant filed a timely notice of appeal, and both Appellant and the
+
+juvenile court complied with Pa.R.A.P. 1925. Appellant raises the following
+
+issues on appeal:
+
+     1. Did not the [juvenile] court err and abuse its discretion by
+        allowing into evidence a video purporting to be an Instagram
+        [L]ive video that was not properly authenticated and the
+        authorship of the video was never established?
+
+     2. Did not the [juvenile] court err and abuse its discretion in
+        permitting an agent of the office of the Pennsylvania Attorney
+
+                                    -3-
+J-S21018-24
+
+
+          General to testify as a lay witness regarding how Instagram
+          [L]ive works in violation of Pa.R.E. 701 and 702?
+
+Appellant’s Brief at 3 (some formatting altered). 2
+
+       In its Rule 1925(a) opinion, the juvenile court aptly addressed
+
+Appellant’s issues and correctly concluded that Appellant was not entitled to
+
+relief. Following our review of the record, the parties’ briefs, and the relevant
+
+law, we affirm on the basis of the juvenile court’s opinion addressing the lay
+
+
+
+
+____________________________________________
+
+
+2 In his Rule 1925(b) statement, Appellant also challenged the sufficiency of
+
+the evidence. See Appellant’s Rule 1925(b) Statement, 9/15/23, at 2.
+Appellant has abandoned these sufficiency claims on appeal as he has
+proffered no argument related to them, and these issues are therefore waived.
+See Pa.R.A.P. 2116(a), 2119(a); see also Commonwealth v. McGill, 832
+A.2d 1014, 1018 n.6 (Pa. 2003) (finding waiver where the appellant
+abandoned claim on appeal).
+
+Additionally, Appellant now objects that the Instagram Live video evidence
+may be “manipulated” or “falsified,” or be a “deepfake[.]” Appellant’s Brief at
+17-19. Appellant did not, however, raise these objections to the video before
+the juvenile court at the adjudicatory hearing. Pursuant to Pa.R.A.P. 302(a),
+issues not raised at trial are waived and cannot be raised for the first time on
+appeal, to “ensure that the trial court that initially hears a dispute has had an
+opportunity to consider the issue, which in turn advances the orderly and
+efficient use of our judicial resources, and provides fairness to the parties.”
+See Commonwealth v. Eisenberg, 98 A.3d 1268, 1274 (Pa. 2012) (some
+formatting altered and citation omitted); see also In re R.N., 951 A.2d 363,
+371 (Pa. 2008) (“in juvenile proceedings, appellants must preserve issues on
+appeal by raising them in the [juvenile] court; otherwise, they are waived”
+and “while juvenile proceedings are not quite civil and not quite criminal, the
+purposes of the waiver doctrine argue for its application in such proceedings”
+(some formatting altered and citations omitted)).
+
+                                           -4-
+J-S21018-24
+
+
+
+witness testimony and admissibility of the Instagram Live video evidence.
+
+See Juvenile Ct. Op., 10/30/23, at 5-8.3 Accordingly, we affirm.4
+
+       Order affirmed. Jurisdiction relinquished.
+
+
+
+
+Date: 11/14/2024
+
+
+
+
+____________________________________________
+
+
+3 We note that the juvenile court’s opinion contains two relevant typographical
+
+errors. The first sentence under the Lay Witness Testimony section on page
+5 of the juvenile court’s opinion should read: “The [juvenile] court has the
+discretion to allow [a lay] witness to testify in the form of an opinion if the
+opinion is rationally based on the witness’s perception, which is helpful to the
+trier of fact to determine the issue.” See Juvenile Ct. Op., 10/30/23, at 5
+(citation omitted). Additionally, the first sentence of the next paragraph on
+page 5 should read: “Here, [Appellant] claims Agent Guse’s testimony on how
+Instagram Live works [fails to comply] with Pa. R.E. 701 and 702 because it
+is specialized knowledge.” See id.
+
+4 The parties are directed to attach a copy of the juvenile court’s opinion in
+
+the event of further proceedings.
+
+                                           -5-
+

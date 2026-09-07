@@ -1,0 +1,1659 @@
+Pegnatori et al v. Pure Sports Technologies LLC                                                                        Doc. 25
+
+
+
+
+                                             IN THE UNITED STATES DISTRICT COURT
+                                             FOR THE DISTRICT OF SOUTH CAROLINA
+                                                     CHARLESTON DIVISION
+
+                         CARL PEGNATORI and MONSTA                 )
+                         ATHLETICS LLC, a California Limited       )
+                         Liability Company,                        )
+                                                                   )
+                                              Plaintiffs,          )
+                                                                   )              No. 2:23-cv-01424-DCN
+                                       vs.                         )
+                                                                   )                       ORDER
+                         PURE SPORTS TECHNOLOGIES LLC, a           )
+                         South Carolina Limited Liability Company, )
+                                                                   )
+                                              Defendant.           )
+                         _______________________________________)
+
+                                 The following matter is before the court on plaintiffs Carl Pegnatori (“Pegnatori”)
+
+                         and Monsta Athletics LLC’s (“Monsta Athletics”) (together, “plaintiffs”) motion for
+
+                         preliminary injunction, ECF No. 16. For the reasons set forth below, the court denies the
+
+                         motion.
+
+                                                           I. BACKGROUND
+
+                                 This case arises from a patent dispute over softball bat technology. Pegnatori is
+
+                         the inventor of the floating core bat technology described and covered by U.S. Patent No.
+
+                         9,005,056 (the “‘056 Patent”). ECF No. 1, Compl. ¶ 7, see also ECF No. 1-1, U.S. Pat.
+
+                         No. 9,005,056 (filed July 30, 2013). Pegnatori is the President and primary partner of
+
+                         Monsta Athletics, which has the exclusive right to use the ‘056 Patent and marks bats
+
+                         which incorporate the ‘056 Patent with the 9,005,056-patent number (the “Patented
+
+                         Bats”). Compl. ¶¶ 8–10. The Patented Bats are described as having a “floating inner
+
+                         barrel” or “FIB” and includes the Monsta Athletics “TORCH” bat. Id. ¶ 13. The Monsta
+
+                         TORCH bat has a triple wall outer barrel and a short, inner barrel spaced from the inside
+
+
+
+                                                                      1
+
+
+                                                                                                           Dockets.Justia.com
+diameter of the outer barrel. Id. ¶ 14. The triple wall outer barrel has a thickness of
+
+about 0.0190 inches ± 0.005 inches for manufacturing tolerances, and the inner barrel has
+
+a thickness of about 0.095 inches and a length of about two inches. Id. ¶¶ 14–15. The
+
+‘056 Patent has two claims. 1 ECF No. 1-1, col. 6, ll. 51–col. 7, ll. 10. The claim at issue,
+
+Claim 1, is for
+
+        A bat, comprising:
+
+                  [1] a tubular frame having a circular cross-section, the tubular frame
+                      including a large diameter hitting portion, an intermediate
+                      tapering portion, and a small diameter handle portion;
+
+                  [2] a tubular insert positioned within the large diameter hitting
+                      portion, the insert having a circular cross-section, the insert
+                      having first and second ends, the insert being separated from the
+                      tubular frame by a void gap along the entire length of the insert,
+                      the gap being largely of constant width, the gap having such
+                      width so that the insert and tubular frame will elastically deform
+                      in conjunction with each other when a baseball is struck;
+
+                  [3] a foam fitted within the insert, the foam protruding beyond the
+                      first and second ends of the insert and expanding beyond the first
+                      and second ends of the insert such that the diameter of the
+                      expanded foam is greater than an outer diameter of the insert,
+                      allowing the insert to be suspending within the tubular frame, to
+                      move independently of the tubular frame, and to elastically
+                      deform in conjunction with the tubular frame when a baseball is
+                      struck to improve the rebound effect;
+
+                  [4] a knob covering an exposed end of the handle portion; and
+
+                  [5] a cap covering an exposed end of the hitting portion.
+
+ECF No. 1-1, col. 6, ll. 51–col. 7, ll. 8. 2
+
+
+
+
+        1
+         Claim 2 is not at issue but the court provides it for completeness. Claim 2 is in
+reference to Claim 1 and is for “[t]he bat according to claim 1 in which the foam is
+adhered to the tubular frame by an adhesive.” ECF No. 1-1, col. 7, ll. 9–10.
+       2
+         Each of the descriptors that the court delineates as [1], [2], [3], [4], or [5] are
+known as “limitations.” Thus, Claim 1 has five limitations.
+                                                2
+       The ‘056 Patent describes the preferred embodiment 3 of the invention in Figure 1,
+
+which the court includes below, though an additional three figures are provided in the
+
+‘056 Patent to explain the invention. ECF No. 1-1, col. 5, ll. 42–60.
+
+
+
+
+ECF No. 1-1, fig. 1. Figure 1 shows a sectional view through the center of a bat. ECF
+
+No. 1-1, col. 4, ll. 13–14. The shaded portion identified with “28” is high density foam,
+
+and the FIB described above is illustrated in the diagram with “20”, which has no contact
+
+with the bat frame identified with “12”. ECF No. 1-1, col. 5, ll. 44–53. The FIB freely
+
+moves within the hitting portion “14” to both absorb energy by elastic deformation and to
+
+dampen vibrations by compressing against the wall on the side opposite to the point of
+
+impact. ECF No. 1-1, col. 5, ll. 54–60. Monsta Athletics has fought off patent lawsuits
+
+filed by industry giants Wilson Sporting Goods and Easton Athletics. ECF No. 16-3,
+
+
+
+       3
+         An embodiment is the description of the production, use, practice, or expression
+of an invention in the patent application.
+                                            3
+Pegnatori Decl. ¶ 16; see Wilson Sporting Goods Co. v. Monsta Athletics, LLC, Case
+
+No. 5:19-cv-00738 (C.D. Cal.); Easton Diamond Sports LLC v. Monsta Athletics, LLC,
+
+Case No. 5:21-cv-01626 (C.D. Cal.).
+
+        Defendant Pure Sports Technologies LLC (“Pure Sports”) sells various sporting
+
+goods products including bats under its “HELLFIRE,’ “SIDEWINDER,’ and
+
+“SKYBOLT” brands. Compl. ¶ 17. All the bats include what Pure Sports describes as a
+
+“Power Amplification Device” or “PAD.” Id. Pure Sports advertises that “[w]hen the
+
+bat hits the ball the barrel will compress and allow the PAD to amplify the force of the
+
+swing. This causes a faster rebound, allowing for hits to go much further than a
+
+traditional bat.” Id. ¶ 42. Pure Sports took a license to use the ‘056 Patent in 2019 and as
+
+a result Pure Sports has had knowledge of the ‘056 Patent since 2019. Id. ¶¶ 22–23; see
+
+ECF No. 16-3 at 25. The three-year license expired in 2022 and Pure Sports currently
+
+has no rights in or to the ‘056 Patent. Id. Even so, the Pure Sports HELLFIRE bat has a
+
+triple wall outer barrel and a shorter inner barrel and the respective thicknesses,
+
+diameters, and lengths match that of the Monsta TORCH bat. Compl. ¶¶ 18–20. An
+
+image of the HELLFIRE bat is included in the complaint to demonstrate the bat’s
+
+similarity with the first, fourth, and fifth limitations of Claim 1:
+
+
+
+
+Id. ¶ 30. Plaintiffs also included an image of the inner tubular insert cylinder and spacer,
+
+which coincides with the second and third limitations of Claim 1:
+
+
+
+
+                                               4
+Compl. ¶ 37. 4 Plaintiffs allege that the Pure Sports bats offered for sale “infringe at least
+
+claim 1 of the 9,005,056 Patent.” Id. ¶ 28.
+
+       On April 7, 2023, plaintiffs filed this lawsuit claiming infringement of the ‘056
+
+Patent under 35 U.S.C. § 271 of the Patent Act and seeking: (1) a declaratory judgment
+
+that Pure Sports infringed the ‘056 Patent; (2) damages for the infringement; and (3)
+
+injunctive relief such that Pure Sports be preliminarily and permanently enjoined from
+
+infringing the patent. Compl. ¶¶ 24–49. On June 15, 2023, plaintiffs filed the instant
+
+motion for a preliminary injunction. ECF No. 16. On June 29, 2023, Pure Sports
+
+responded in opposition, ECF No. 17, to which plaintiffs replied on July 6, 2023, ECF
+
+No. 18. Pure Sports filed a sur-reply without leave of court on July 19, 2023. ECF No.
+
+21. The court held a hearing on this motion on August 8, 2023, where the Managing
+
+Director, Founder, and Owner of Pure Sports Chris Osborne (“Osborne”) testified under
+
+oath. ECF No. 23. The transcript of that hearing is available. ECF No. 24. As such, the
+
+motion has been fully briefed and is now ripe for review.
+
+
+
+       4
+          Pure Sports has sent physical exhibits to chambers for the court to examine: (1)
+Exhibit A: Pure Sports’s PAD, ECF No. 17-2; (2) Exhibit B: a cross section of Pure
+Sports’s X22 bat barrel segment comprising PAD, ECF No. 17-3, and (3) Exhibit C:
+plaintiff’s FIB, ECF No. 17-4. Plaintiffs introduced the physical exhibit of the PAD
+photographed above at the hearing and Pure Sports testified that the orange-colored
+PADs were those used in their prototypes, rather than the black-colored PADs used in the
+final design and submitted to the court as ECF No. 17-2. ECF No. 23.
+                                              5
+                                      II. STANDARD
+
+        A. Preliminary Injunction Standard
+
+        Federal Rule of Civil Procedure 65 authorizes federal courts to issue temporary
+
+restraining orders and preliminary injunctions. “The purpose of a preliminary injunction
+
+is merely to preserve the relative positions of the parties until a trial on the merits can be
+
+held.” United States v. South Carolina, 840 F. Supp. 2d 898, 914 (D.S.C. 2011) (quoting
+
+Univ. of Tex. v. Camenisch, 451 U.S. 390, 395 (1981)), modified in part, 906 F. Supp. 2d
+
+463 (D.S.C. 2012), aff’d, 720 F.3d 518 (4th Cir. 2013). A party seeking a preliminary
+
+injunction must demonstrate that: (1) it is likely to succeed on the merits, (2) it is likely to
+
+suffer irreparable harm, (3) the balance of hardships tips in its favor, and (4) the
+
+injunction is in the public interest. Metro. Reg’l Info. Sys. v. Am. Home Realty Network,
+
+Inc., 722 F.3d 591, 595 (4th Cir. 2013) (citing Winter v. Nat. Res. Def. Council, Inc., 555
+
+U.S. 7, 20 (2008)). “To obtain a preliminary injunction under the Winter test, a movant
+
+must make a ‘clear showing’ of [the] four requirements.” Alkebulanyahh v. Nettles,
+
+2011 WL 2728453, at *3 (D.S.C. July 13, 2011), aff’d, 454 F. App’x 231 (4th Cir. 2011);
+
+see also Dewhurst v. Century Aluminum Co., 649 F.3d 287, 290 (4th Cir. 2011) (“Winter
+
+thus requires that a party seeking a preliminary injunction . . . must clearly show that it is
+
+likely to succeed on the merits.”) (internal quotation marks omitted). As the Supreme
+
+Court has noted, a preliminary injunction is “an extraordinary remedy that may only be
+
+awarded upon a clear showing that the plaintiff is entitled to such relief.” Winter, 555
+
+U.S. at 22.
+
+
+
+
+                                               6
+                                    III. DISCUSSION
+
+       Plaintiffs seek a preliminary injunction and therefore bear the burden of proving
+
+the four elements favor an injunction. See Winter, 555 U.S. at 20. The court, as umpire
+
+of this dispute, considers the parties’ arguments in turn.
+
+       A. Likelihood of Success on the Merits
+
+       To establish a likelihood of success on the merits, a patentee must demonstrate (1)
+
+that it will likely prove that the defendant is infringing one or more claims of the patent at
+
+issue and (2) that at least one of the allegedly infringed claims will also likely withstand
+
+validity challenges presented by the defendant. AstraZeneca LP v. Apotex, Inc., 633
+
+F.3d 1042, 1050 (Fed. Cir. 2010) (quoting Amazon.com, Inc. v. Barnesandnoble.com,
+
+Inc., 239 F.3d 1343, 1351 (Fed. Cir. 2001)). A plaintiff seeking a preliminary injunction
+
+“need not establish a certainty of success, but must make a clear showing that he is likely
+
+to succeed at trial.” Di Biase v. SPX Corp., 872 F.3d 224, 230 (4th Cir. 2017) (internal
+
+quotation marks omitted). “[T]he estimated likelihood of success in establishing
+
+infringement is governed by Federal Circuit law, while the other factors are governed by
+
+the law of the regional circuit.” ABC Corp. I v. P’ship & Unincorporated Ass’ns
+
+Identified on Schedule “A”, 52 F.4th 934, 941 (Fed. Cir. 2022) (internal citations and
+
+quotation marks omitted); BlephEx, LLC v. Myco Indus., Inc., 24 F.4th 1391, 1400 (Fed.
+
+Cir. 2022) (“[W]e give dominant effect to Federal Circuit precedent insofar as it reflects
+
+considerations specific to patent issues [and w]hether a patentee has shown a likelihood
+
+of success on the merits is one such area where we apply our own law.” (citations and
+
+punctuation omitted)). The Federal Circuit “views [a motion for a preliminary
+
+injunction] in light of the burdens and presumptions that will inhere at trial.” Titan Tire
+
+
+
+                                              7
+Corp. v. Case New Holland, Inc., 566 F.3d 1372, 1376 (Fed. Cir. 2009) (noting that, at
+
+trial, “an issued patent comes with a statutory presumption of validity under 35 U.S.C.
+
+§ 282”). “A preliminary injunction should not issue if an alleged infringer raises a
+
+substantial question regarding either infringement or validity, i.e., the alleged infringer
+
+asserts an infringement or invalidity defense that the patentee has not shown lacks
+
+substantial merit.” AstraZeneca, 633 F.3d at 1050 (citing Genentech, Inc. v. Novo
+
+Nordisk A/S, 108 F.3d 1361, 1364 (Fed. Cir. 1997)).
+
+       Plaintiffs argue that Pure Sports’s bats plainly infringe on the valid ‘056 Patent;
+
+whereas Pure Sports argues that plaintiffs are unable to show infringement and that Pure
+
+Sports is likely to prevail on its defense that the ‘056 Patent is invalid. ECF Nos. 16-1 at
+
+11–20; 17 at 3. The court examines the parties’ arguments in turn, ultimately finding that
+
+plaintiffs have not met the high bar required for a preliminary injunction to issue—
+
+namely, they have not shown a substantial likelihood of success on the merits of their
+
+infringement claim.
+
+               1. Infringement
+
+       The infringement analysis entails two steps, “the first of which is construing the
+
+claims, and the second of which is comparing the properly construed claims to the
+
+accused products.” Philip Morris Prods. S.A. v. Int’l Trade Comm’n, 63 F.4th 1328,
+
+1348 (Fed. Cir. 2023) (internal quotation marks omitted). Thus, the court begins with
+
+claim construction before turning to a comparison of the construed claims against Pure
+
+Sports’s accused products.
+
+
+
+
+                                              8
+                          a. Claim Construction
+
+       The purpose of claim construction is to “determine[e] the meaning and scope” of
+
+a patented invention to define the patent owner’s rights. Markman v. Westview
+
+Instruments, Inc., 517 U.S. 370, 372 (1996). The proper construction of the patent claims
+
+is an issue of law “exclusively within the province of the court,” id., and “a correct claim
+
+construction is almost always a prerequisite for imposition of a preliminary injunction,”
+
+Chamberlain Grp., Inc v. Lear Corp., 516 F.3d 1331, 1340 (Fed. Cir. 2008).
+
+       When interpreting claims, the court inquires “into how a person of ordinary skill
+
+in the art would have understood claim terms at the time of the invention.” Pfizer, Inc. v.
+
+Teva Pharms., USA, Inc., 429 F.3d 1364, 1372–73 (Fed. Cir. 2005) (citing Phillips v.
+
+AWH Corp., 415 F.3d 1303, 1313 (Fed. Cir. 2005) (en banc)). “[T]he person of ordinary
+
+skill in the art is deemed to read the claim term not only in the context of the particular
+
+claim in which the disputed term appears, but in the context of the entire patent, including
+
+the specification.” Id.
+
+       Courts generally use three sources to determine the meaning: the claims
+
+themselves, the specification, and the prosecution history—these sources are the intrinsic
+
+evidence of a claim’s meaning. Z-Man Fishing Prods., Inc. v. Renosky, 790 F. Supp. 2d
+
+418, 426 (D.S.C. 2011) (citing Markman v. Westview Instruments, Inc., 52 F.3d 967,
+
+979–80 (Fed. Cir. 1995), aff’d, 517 U.S. 370 (1996)). The specification may provide
+
+insight into an inventor’s understanding of its invention at the time of patenting, as it
+
+might contain an intentional disclaim of claim scope that reveals limits on an inventor’s
+
+intended invention. See Phillips, 415 F.3d at 1317; see also White v. Dunbar, 119 U.S.
+
+47, 52 (1886) (noting that it is “unjust to the public, as well as an evasion of the law, to
+
+
+
+                                              9
+construe [the invention] in a manner different from the plain import of its terms”). The
+
+court “should also consider the patent’s prosecution history, if it is in evidence.” Id. The
+
+prosecution history consists of “all the proceedings before the Patent and Trademark
+
+Office, including any express representations made by the applicant regarding the scope
+
+of the claims.” Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582 (Fed. Cir.
+
+1996). “While courts may also consider extrinsic evidence in claim construction, ‘such
+
+evidence is generally of less significance than the intrinsic record.’” Allergan Sales, LLC
+
+v. Sandoz, Inc., 935 F.3d 1370, 1373 (Fed. Cir. 2019) (quoting Wi-LAN, Inc. v. Apple
+
+Inc., 811 F.3d 455, 462 (Fed. Cir. 2016)).
+
+       The parties only dispute the definition of “foam” as used in the ‘056 Patent—the
+
+parties appear to agree that the remaining terms and specifications of the ‘056 Patent are
+
+clear, meaning not subject to interpretation. See ECF Nos. 16-1 at 13; 17 at 14–15; 18 at
+
+5. Plaintiffs propose that “foam” as referenced in the ‘056 Patent describes “a plastic
+
+material which includes air gaps.” ECF No. 16-1 at 13. They arrive at this description
+
+based on the declaration of their technical expert, Lawrence Fallon (“Fallon”). See ECF
+
+No. 16-4, Fallon Decl. ¶ 17. In contrast, Pure Sports consulted ChatGPT to determine
+
+that the definition of “foam” is “a substance with a structure characterized by the
+
+presence of numerous gas bubbles within a liquid or solid matrix.” ECF No. 17 at 14–15.
+
+ChatGPT went on to distinguish solid foams as being “materials that have a cellular
+
+structure composed of gas-filled voids.” Id. at 15.
+
+       In reply, plaintiffs emphasize that the plaintiffs’ technical expert reviewed the
+
+patent and the claim term “foam” and opined that as used in the ‘056 Patent, “the
+
+majority of foams are manufactured using various polymers of plastic, and the term
+
+
+
+                                             10
+‘foam’ commonly describes a plastic material which includes air gaps.” ECF No. 18 at 5
+
+(citing Fallon Decl. ¶¶ 16–17). Plaintiffs argue that the definition “is not countered in the
+
+Opposition with a declaration or admissible evidence.” Id. Rather, Pure Sports’s reliance
+
+on ChatGPT is defective “as ChatGPT did not exist in 2012,” and ChatCPT “has recently
+
+been found to be an unreliable source of information, especially in legal proceedings.” 5
+
+Id. at 5–6. Thus, plaintiffs conclude that Pure Sports’s arguments regarding “foam” are
+
+unsupported by evidence. Id.
+
+        Claim 1 of the ‘056 Patent specifies in each of the four illustrated embodiments of
+
+the invention that “high density foam” is used. ECF No. 1-1, col. 5, ll. 47–54 (fig. 1); id.,
+
+col. 6, ll. 3–6 (fig. 2), 17–18 (fig. 3), 35–39 (fig. 4). It also specifies where the foam is
+
+used and how it is attached to the bat. Id. It does not define foam, besides indicating it is
+
+“high density.” See generally id. Each of the embodiments includes some amount of
+
+foam inside of the floating insert. Id. Thus, the claims do not clearly set forth the
+
+definition of foam. The specification, read in full, provides little more clarity than the
+
+claims, since foam is not mentioned in either the background of the invention or the brief
+
+summary. ECF No. 1-1, col. 1, ll. 19–col. 4, ll. 6. Instead, those sections focus on the
+
+issue which the invention purports to solve: how to improve the rebound effect while
+
+simultaneously dampening vibrations. Id. The parties have not filed the prosecution
+
+
+
+
+        5
+         The court agrees that thus far ChatGPT’s batting average in legal briefs leaves
+something to be desired. See, e.g., Mata v. Avianca, Inc., 2023 WL 4114965, at *15–17
+(S.D.N.Y. June 22, 2023) (imposing sanctions on attorneys who relied on ChatGPT for
+research and whose ChatGPT queries resulted in fabricated legal authority which the
+attorneys submitted to the court without confirming the authority’s veracity).
+                                              11
+history, and therefore the court finds that after considering the intrinsic evidence the
+
+definition of “foam” remains unclear. 6 The court turns to extrinsic evidence.
+
+       Extrinsic evidence includes such evidence that concerns “relevant scientific
+
+principles, the meaning of technical terms, and the state of the art;” it “consists of all
+
+evidence external to the patent and prosecution history, including expert and inventor
+
+testimony, dictionaries, and learned treatises.” Phillips, 415 F.3d at 1314, 1317. “In the
+
+course of litigation, each party will naturally choose the pieces of extrinsic evidence most
+
+favorable to its cause, leaving the court with the considerable task of filtering the useful
+
+extrinsic evidence from the fluff.” Id. at 1318. The parties have explicitly presented two
+
+pieces of extrinsic evidence for the court’s consideration. Plaintiffs rely on the
+
+declaration of technical expert Fallon to propose that “foam” as referenced in the ‘056
+
+Patent describes “a plastic material which includes air gaps.” ECF No. 16-1 at 13; ECF
+
+No. 16-4, Fallon Decl. ¶ 17. Pure Sports requests use of the definition provided by
+
+ChatGPT: “a substance with a structure characterized by the presence of numerous gas
+
+
+
+
+       6
+          It is unclear whether the court may consider the prosecution history if it is not
+already in evidence. See Phillips, 415 F.3d at 1317 (“In addition to consulting the
+specification, we have held that a court should also consider the patent’s prosecution
+history, if it is in evidence.”). The court reviewed the prosecution history—meaning all
+filed documents affiliated with the ‘056 Patent—from the United States Patent and Trade
+Office’s Patent Center. In the prosecution history, plaintiffs emphasized that the ‘056
+Patent was unique in that it teaches “using foam, or some other elastic material, as a
+means to allow an inner tube to move independently within the outer tube.” Prosecution
+History for Application No. 13/954,901 (emphasis added), Applicant
+Arguments/Remarks Made in an Amendment at 6 (filed Dec. 24, 2014). However,
+beyond that one reference suggesting that foam be used for its elasticity, the prosecution
+history reiterates that the foam is “high density” without defining what “foam” means.
+See generally Prosecution History. At the hearing, the court asked the parties if they had
+submitted the prosecution history and they confirmed they had not. ECF No. 24 at
+82:21–83:6. Thus, the court does not rely on the prosecution history in its evaluation of
+intrinsic evidence.
+                                              12
+bubbles within a liquid or solid matrix.” ECF No. 17 at 14–15. The court reviews the
+
+applicable extrinsic evidence—expert and inventor testimony as well as a technical
+
+dictionary—to arrive at a definition of foam.
+
+        First, courts are clear that “the ordinary and customary meaning of a claim term is
+
+the meaning that the term would have to a person of ordinary skill in the art in question at
+
+the time of the invention, i.e., as of the effective filing date of the patent application.”
+
+Phillips, 415 F.3d at 1313 (emphasis added). The filing date of the ‘056 Patent was in
+
+2013, well before the launch of ChatGPT in November 2022. See ECF No. 18 at 5.
+
+Thus, the court would be taking its eye off the ball if it applied the ChatGPT definition in
+
+its review of extrinsic evidence. See Phillips, 415 F.3d at 1313.
+
+        Second, expert testimony “can be useful to a court for a variety of purposes, such
+
+as to provide background on the technology at issue, to explain how an invention works,
+
+to ensure that the court’s understanding of the technical aspects of the patent is consistent
+
+with that of a person of skill in the art, or to establish that a particular term in the patent
+
+or the prior art has a particular meaning in the pertinent field.” Id. at 1318. But
+
+“conclusory, unsupported assertions by experts as to the definition of a claim term are not
+
+useful to a court.” Id. Additionally, expert testimony is typically procured for the
+
+purpose of litigation and therefore can suffer from bias, and “[t]he effect of that bias can
+
+be exacerbated if the expert is not one of skill in the relevant art or if the expert’s opinion
+
+is offered in a form that is not subject to cross-examination.” Id. Plaintiffs’ expert,
+
+Fallon, has four decades of experience as an engineer; he began consulting for the
+
+sporting goods industry in 1990, predominately supporting baseball/softball equipment
+
+manufacturers and governing organizations. Fallon Decl. ¶¶ 2, 4. He co-founded the
+
+
+
+                                               13
+Baseball Research Center which became the official baseball and baseball bat test center
+
+for Major League Baseball, the National Collegiate Athletic Association, and the
+
+National Federation of High Schools. Id. ¶ 5. In his opinion, “the term ‘foam’
+
+commonly describes a plastic material which includes air gaps.” Id. ¶ 17.
+
+       Third, inventor testimony is also helpful extrinsic evidence, which may be used to
+
+aid in defining terms. See Phillips, 415 F.3d at 1317. Plaintiffs have filed the declaration
+
+of Pegnatori, the inventor credited with the ‘056 Patent. See ECF No. 16-3. In his
+
+declaration, it is apparent that Pegnatori’s definition of foam is inclusive of objects “made
+
+of plastic-like material” that “may include air gaps or bubbles between layers” which
+
+“thereby ha[s] the structure of foam.” Pegnatori Decl. ¶ 43. Thus, Pegnatori’s
+
+declaration accords with the definition provided by Fallon. See id.; Fallon Decl. ¶ 17.
+
+       Fourth and finally, the court consults a technical dictionary that predates the date
+
+the patent was filed. 7 See Phillips, 415 F.3d at 1318. One technical dictionary published
+
+prior to the ‘056 Patent’s filing defines “foam” as “a dispersion of a gas in a liquid or
+
+solid.” Foam, Academic Press Dictionary of Science & Tech. (Christopher Morris ed.,
+
+1992). This accords with the declarations from Pegnatori and Fallon which seek to
+
+define “foam” as used in the ‘056 Patent to include solids with gas or air gaps dispersed
+
+within it. See Fallon Decl. ¶ 17; Pegnatori Decl. ¶ 43.
+
+
+
+
+       7
+         The Federal Circuit has repeatedly noted that “judges are free to consult
+dictionaries and technical treatises ‘at any time in order to better understand the
+underlying technology and may also rely on dictionary definitions when construing claim
+terms, so long as the dictionary definition does not contradict any definition found in or
+ascertained by a reading of the patent documents.’” Phillips, 415 F.3d at 1322–23
+(quoting Vitronics, 90 F.3d at 1584 n.6).
+                                             14
+       Thus, the court finds that extrinsic evidence generally suggests that “foam” as
+
+understood in the ‘056 Patent is defined as a plastic material in which gas is dispersed.
+
+The court next applies that definition to analyze whether Pure Sports’s bats infringe on
+
+the elements of the claims of the ‘056 Patent.
+
+                       b. Elements of the Claim
+
+       To establish infringement at trial, the plaintiff must prove by a preponderance of
+
+the evidence that every limitation set forth in a patent claim is found in the accused
+
+product or process either literally or by a substantial equivalent. TDM Am., LLC v.
+
+United States, 92 Fed. Cl. 761, 768 (emphasis in original) (citing Laitram Corp. v.
+
+Rexnord, Inc., 939 F.2d 1533, 1535 (Fed. Cir. 1991)), aff’d, 471 F. App’x 903 (Fed. Cir.
+
+2012). This standard is known as the “all elements” rule. See Warner-Jenkinson Co.,
+
+Inc. v. Hilton Davis Chem. Co., 520 U.S 17, 29 (1997). The court must compare the
+
+construed claim to the accused device or process to determine whether all of the claim
+
+limitations are present either literally or by a substantial equivalent. Renishaw PLC v.
+
+Marposs Societa’ per Azioni, 158 F.3d 1243, 1247–48 (Fed. Cir. 1998). Failure to meet
+
+even a single element within a claim precludes a finding of literal infringement. Laitram
+
+Corp., 939 F.2d at 1535.
+
+       Plaintiffs argue that Pure Sports’s PAD “is a blatant knock-off of Monsta’s FIB
+
+technology that infringes Plaintiffs’ [‘056 Patent].” ECF No. 16-1 at 11. Plaintiffs’
+
+technical expert Fallon confirmed in his submitted declaration that Pure Sports’s PAD
+
+design, as embodied in the SIDEWINDER products, infringes the ‘056 Patent. Id. at 13
+
+(citing ECF No. 16-4, Fallon Decl. ¶ 25). Namely, plaintiffs aver that Pure Sports’s bats
+
+are identical in design with the exception of the material specified in the third limitation
+
+
+
+                                             15
+of Claim 1 of the ‘056 Patent, and further argue that the difference is immaterial as the
+
+changed material functions identically to the foam described in the ‘056 Patent. Id. at
+
+13–16. Pure Sports identifies differences between their bats and the ‘056 Patent to argue
+
+that it has raised substantial questions regarding infringement. ECF No. 17 at 13–19; see
+
+also ECF No. 24 at 81:13–25. Pure Sports also contends that there is no infringement
+
+because Osborne spoke with Pegnatori who purportedly said he was not worried about
+
+Pure Sports’s bat infringing on his patent. 8 ECF No. 24 at 37:17–38:19. The court
+
+describes the allegations in greater detail below, focusing on the similarities between the
+
+parties’ bats in reference to the five limitations included in Claim 1 of the ‘056 Patent.
+
+See ECF No. 1-1, col. 6, ll. 51–col. 7, ll. 8.
+
+        First, plaintiffs argue that Pure Sports’s bats clearly meet the first limitation of
+
+Claim 1 of the ‘056 Patent as the bats have a tubular frame with a large diameter hitting
+
+portion, an intermediate tapering portion, and a handle that is formed as a separate small
+
+diameter handle portion, as can be seen above in the photo of the HELLFIRE bat. Id. at
+
+13–14 (citing Pegnatori Decl. ¶ 37; Fallon Decl. ¶ 13). Additionally, the hitting portion
+
+of the tubular frame of the HELLFIRE bat has the same triple wall structure and total
+
+wall thickness as Monsta’s DNA bat. Id. at 14 (citing Pegnatori Decl. ¶¶ 33–35, 40).
+
+
+
+        8
+          At the hearing, plaintiffs’ counsel objected to the inclusion of this statement as
+hearsay. The court allowed it into evidence as a statement against interest. ECF No. 24
+at 38:1–2. Hearsay is not admissible unless a federal statute, the Federal Rules of
+Evidence, or other rules prescribed by the Supreme Court provide otherwise. Fed. R.
+Evid. 802. The court alternatively could have categorized the statement as non-hearsay
+either because it was a statement of a party opponent, see Fed. R. Evid. 801(d)(2), or
+because it was offered to show the statement’s impact on Osborne’s future actions, see
+Fed. R. Evid. 802(c)(2) (defining hearsay as a statement offered “to prove the truth of the
+matter asserted”); United States v. Guerrero-Damian, 241 F. App’x 171, 173 (4th Cir.
+2007) (“A statement is not hearsay if it is offered to prove knowledge, or show the effect
+on the listener or listener’s state of mind.”).
+                                                 16
+The SIDEWINDER bat features a two-piece composite construction. Id. (citing Fallon
+
+Decl. ¶ 9). Pure Sports does not contest this description. See generally ECF No. 17. The
+
+court finds that plaintiffs have shown that they can likely prove at trial that Pure Sports’s
+
+bats meet this limitation.
+
+       Second, plaintiffs argue that the HELLFIRE and SIDEWINDER bats also meet
+
+the second limitation as they include an inner tubular insert cylinder that has a circular
+
+cross section and generally constant diameter. ECF No. 16-1 (citing Pegnatori Decl.
+
+¶ 38). The inner tubular insert appears to be a fiber reinforced resin material, and it has a
+
+generally constant outer diameter that is slightly less than the inner diameter of the bat
+
+barrel, leaving a void gap along the entire length of the inner tubular insert. Id. (citing
+
+Pegnatori Decl. ¶ 39; Fallon Decl. ¶¶ 10–15). The inner tubular insert of the HELLFIRE
+
+bat has the same thickness and length as the inner barrel of the Monsta DNA bat. Id.
+
+(citing Pegnatori Decl. ¶ 40). In response, Pure Sports highlights that to violate the
+
+second limitation, Pure Sports’s rigid ring must be installed so as to form a void gap
+
+along the entire length of the insert. ECF No. 17 at 16. Pure Sports provided an image of
+
+the cross-section of the barrel segment of its SIDEWINDER bat to emphasize that the
+
+outer diameter of the carbon fiber ring is substantially identical to that of the inner
+
+dimension of the bat frame such that it is in contact with the bat frame. Id. Thus, even
+
+where a gap may be present, “such a gap would be exceedingly small and practically
+
+impossible to maintain a floating arrangement of the rigid ring.” Id. at 17. Consequently,
+
+Pure Sports argues that since plaintiffs have not clearly shown that a void gap exists, they
+
+have not met their burden to show that Pure Sports’s bats violate the second limitation of
+
+Claim 1 of the ‘056 Patent. Id. at 17–18.
+
+
+
+                                              17
+       In reply, plaintiffs emphasize that Pure Sports’s photo is not dispositive since it
+
+could be easily manipulated to eliminate any “void gap” and that the proper proof would
+
+be if Pure Sports provided dimensioned design documents. ECF No. 18 at 6–7. When
+
+plaintiffs reviewed those specifications, they arrived at the conclusion that a void gap of
+
+.04 inches exists between the rigid ring and the bat barrel, since the rigid ring’s outer
+
+diameter is approximately 1.77 inches and the bat barrel’s inner diameter is
+
+approximately 1.85 inches. 9 Id.; ECF No. 18-1, Pegnatori 2d Decl. ¶¶ 3–6. Thus,
+
+plaintiffs argue that Pure Sports’s only argument on this limitation is “merely a
+
+manipulation of a photograph.” Id. at 7.
+
+       At the hearing, plaintiffs established that Pure Sports’s bats were certified as non-
+
+linear bats by the ASA softball organization. ECF No. 24 at 43:7–19. The USA softball
+
+non-linear bat protocol applies to bats for which components not initially in contact later
+
+become in contact once deformed. Id. Thus, plaintiffs argue that the certification works
+
+to establish that all six of the Pure Sports bats designed with a PAD were certified as
+
+having a gap. Id. Additionally, plaintiffs entered into evidence one of Pure Sports’s
+
+softball bats with a hole cut into the barrel to expose the inner ring of the PAD. Id.
+
+(referencing Exhibit 13). Plaintiffs thereafter inserted a piece of paper that circled the
+
+inner ring to demonstrate a void gap exists between the outer diameter of the inner ring
+
+and the inner diameter of the frame. Id. In response, Pure Sports contested that
+
+description to explain that the inner carbon fiber ring and the frame are not concentric
+
+
+
+
+       9
+          The court notes that the difference between 1.85 and 1.77 inches is .08 inches,
+not .04 inches. Nevertheless, the court cites to the .04-inch gap that Pegnatori identifies,
+which plaintiffs rely upon. ECF No. 18 at 7; Pegnatori 2d Decl. ¶¶ 3–6.
+                                             18
+circles—meaning, to the extent that a gap exists, it is not necessarily around the entire
+
+inner ring when the bat is at rest. Id.
+
+       The plain language of the claims specifies that the void gap is “along the entire
+
+length of the insert” and “largely of constant width.” ECF No. 1-1, col. 6, ll. 57–64.
+
+Literal infringement requires the accused devices embody all the limitations in the
+
+asserted claims. See Tate Access Floors, Inc. v. Interface Architectural Res., Inc., 279
+
+F.3d 1357, 1366 (Fed. Cir. 2002). It is unclear whether the gap in Pure Sports’s bats has
+
+the properties described in the second limitation; it is also unclear from the patent
+
+whether, or to what extent, the properties of the void gap described in Claim 1, are
+
+important. Nevertheless, relying on the plain language of the limitation, the court finds
+
+that at the preliminary injunction stage plaintiffs have not met the high bar to show a
+
+likelihood of success on the infringement claim—specifically, it is debatable whether
+
+there is literal infringement of the second limitation. This conclusion is bolstered by the
+
+court’s consideration of the third limitation.
+
+       Third, plaintiffs claim that the HELLFIRE and SIDEWINDER bats include a
+
+spacer 10 within and extending from the insert inner cylinder, which mimics the third
+
+limitation of Claim 1 of the ‘056 Patent. ECF No. 16-1 at 14 (citing Pegnatori Decl.
+
+¶¶ 41–42; Fallon Decl. ¶¶ 15–18). Plaintiffs note that the third limitation explains that
+
+the spacer be made of foam, as defined above. Id. Plaintiffs also observe that the spacers
+
+in Pure Sports’s bats are “made of plastic-like material,” which “may include air gaps or
+
+
+
+
+       10
+          The court notes that plaintiffs describe this feature as a “spacer” while Pure
+Sports calls it a “positioning sleeve.” See ECF Nos. 16-1 at 14; 17 at 13. The court uses
+the terms interchangeably, but generally opts for “positioning sleeve” since that is the
+preferred term of the company that manufactures that bat.
+                                             19
+bubbles between layers thereby having the structure of foam.” Id. (citing Pegnatori Decl.
+
+¶ 43; Fallon Decl. ¶¶ 17–18). Plaintiffs emphasize that, to the extent the spacer is not a
+
+foam material, it nevertheless performs the same function as the foam limitation of Claim
+
+1—meaning it meets this limitation under the doctrine of equivalents. Id. at 15–16.
+
+       Unsurprisingly, Pure Sports highlights this difference and argues that its PAD
+
+“cannot infringe [on the ‘056 Patent] unless the positioning sleeve consists of a foam or
+
+its substantial equivalent.” ECF No. 17 at 14. As considered above, Pure Sports
+
+proposes its own definition of “foam,” as defined by ChatGPT, and argues that its PAD
+
+cannot be construed as comprising a foam. Id. at 14–15. Rather, “the tubular insert is a
+
+single ply fabric consisting of adjacent polyurethane without any air gaps whatsoever,
+
+and without any solid material regular and recurring cellular structure composed of gas-
+
+filled voids.” Id. at 13, 15 (citing ECF No. 17-1, Osborne Decl. ¶ 11). Similarly, the
+
+solid ring is composed of rigid unitary plastic which has neither air gaps nor a regular and
+
+recurring cellular structure. Id. Thus, “no component of [Pure Sports’s] PAD can be
+
+considered as containing a foam.” Id. Thus, Pure Sports claims there is no literal
+
+infringement of Claim 1 of the ‘056 Patent. Id. at 16.
+
+       At the hearing, Osborne of Pure Sports testified under oath that to create the
+
+positioning sleeve of the PAD, Pure Sports takes specific care to ensure no gas or water is
+
+in the product because its inclusion would delaminate the product. ECF No. 24 at 31:11–
+
+32:8. To reiterate, the court defined “foam” as a plastic material in which gas is
+
+dispersed; without gas or air gaps the material does not meet the definition of “foam.”
+
+Consequently, the court finds that plaintiffs have not met their burden to prove they will
+
+likely succeed at trial in proving literal infringement of the third limitation. The court
+
+
+
+                                             20
+next considers whether the sleeve nevertheless infringes under the doctrine of
+
+equivalents.
+
+       “Under the doctrine of equivalents, ‘a product or process that does not literally
+
+infringe upon the express terms of a patent claim may nonetheless be found to infringe if
+
+there is equivalence between the elements of the accused product or process and the
+
+claimed elements of the patented invention.’” Bondyopadhyay v. United States, 136 Fed.
+
+Cl. 114, 122–23 (Fed. Cl.) (citing Warner-Jenkinson, 520 U.S. at 21), aff’d 748 F. App’x
+
+301 (Fed. Cir. 2018). “The doctrine of equivalents prohibits one from avoiding
+
+infringement liability by making only ‘insubstantial changes and substitutions . . . which,
+
+though adding nothing, would be enough to take the copied matter outside the claim, and
+
+hence outside the reach of law.’” Siemens Med. Sols. USA, Inc. v. Saint-Gobain
+
+Ceramics & Plastics, Inc., 637 F.3d 1269, 1279 (Fed. Cir. 2011) (quoting Graver Tank &
+
+Mfg. Co. v. Linde Air Prods. Co., 339 U.S. 605, 607 (1950)). The Supreme Court has
+
+identified two possible approaches to analyze whether there is equivalence: the
+
+“insubstantial differences” approach and the “triple identity test.” Bondyopadhyay, 136
+
+Fed. Cl. at 122–23 (citing Warner-Jenkinson, 520 U.S. at 39). The “insubstantial
+
+differences” test looks to whether the element asserted to be an equivalent in the accused
+
+device is insubstantially different from the claimed element. Id. The “triple identity test”
+
+focuses on: (1) the function served by a particular claim element; (2) the way the element
+
+serves that function; and (3) the result thus obtained by that element. 11 Id.
+
+       Pure Sports argues that plaintiffs’ allusion to the doctrine of equivalents is
+
+misplaced because its PAD represents an improvement to the claimed product by
+
+
+
+       11
+            The triple identity test is also known as the function-way-result test.
+                                               21
+eliminating the foam within the insert and instead incorporating a positioning sleeve that
+
+does not exert an expansion force on the bat frame. Id. at 18. Thus, the PAD avoids “the
+
+undesirably muted sound on contact experience with Plaintiffs’ FIB technology,” and
+
+“achieve[s] a more even power distribution along the length of the bat.” Id. These
+
+changes to the design mean that “PAD cannot be considered as infringing any claim of
+
+the [‘056 Patent] under the doctrine of equivalents.” Id. at 19. In reply, plaintiffs
+
+emphasize that Pure Sports’s doctrine of equivalents analysis is defective because it
+
+provided no analysis of the “function-way-result” test which applies that doctrine, nor
+
+does it cite any supporting evidence that the PAD design does not infringe under the
+
+doctrine of equivalents. Id. at 7. At the hearing, Osborne testified that the positioning
+
+sleeve of the PAD operates to permanently place the reinforcement ring in different
+
+positions within the barrel and these changes impact the bat’s balance. 12 ECF No. 24 at
+
+25:3–23; 29:5–16; 45:6–17.
+
+       The claims and specification establish that the foam permits the insert to remain
+
+free floating, which improves the rebound effect by “working in total elastic harmony
+
+
+
+
+       12
+           Osborne identified additional differences between the PAD and the FIB that
+derive from changing the sleeve from foam to thermoplastic polyurethane (“TPU”). ECF
+No. 24 at 18:20–35:23. He testified that eliminating the foam decreases the bat’s weight,
+it allows more control over the bat’s balance, it improves the sound of the bat upon
+hitting, and the hollow center improves the air flow within the bat. Id. Plaintiffs
+correctly argued that these changes and comparisons to the FIB were mostly irrelevant as
+the correct comparison is between the PAD and the claims within the ‘056 Patent, which
+are silent as to the bat’s hitting sound, the bat’s desired weight, the bat’s balance, and the
+bat’s airflow. Id.; see Amstar Corp. v. Envirotech Corp., 730 F.2d 1476, 1481 (Fed. Cir.
+1984) (“The law of infringement requires that the asserted claims [of the patent] be
+compared with the products or processes accused of infringement.”). Thus, the court
+focuses on the parties’ arguments under the substantial equivalents doctrine to determine
+whether the positioning sleeve nevertheless infringes the limitations of the ‘056 Patent
+even though it is not made of foam as is specified in the patent.
+                                             22
+with the wall of [the] hitting portion and damping vibrations that reduce the amount of
+
+energy being absorbed elastically.” See ECF No. 1-1, col. 4, ll. 59–63; Warner-
+
+Jenkinson, 520 U.S. at 39. Pure Sports’s website explains the purpose of the PAD,
+
+saying “When the bat hits the ball the barrel will compress and allow the PAD to amplify
+
+the force of the swing. This causes a faster rebound, allowing for hits to go much further
+
+than a traditional bat.” ECF No. 16-3 at 32. The functional equivalents doctrine, and the
+
+two tests used to determine its applicability, “is designed to determine whether the
+
+alternative is sufficiently close to the claimed feature that the patentee should be able to
+
+capture the equivalent and bar its use by a competitor.” Festo Corp. v. Shoketsu Kinzoku
+
+Kogyo Kabushiki Co., 493 F.3d 1368, 1380 (Fed. Cir. 2007).
+
+       The court asked both parties at the hearing what the primary function was of the
+
+foam in the FIB and the positioning sleeve in the PAD. ECF No. 24 at 83:25–85:11.
+
+Plaintiffs explained that the foam holds the inner barrel in the center of the bat, meaning
+
+it positions the inner barrel concentrically within the frame. Id. In contrast, Pure Sports
+
+explained that their positioning sleeve focuses on keeping the inner ring in position
+
+longitudinally—meaning at a particular place within the barrel either closer to the handle
+
+portion or to the cap. Id. In fact, the positioning sleeve’s placement accounts for the
+
+different bats that Pure Sports has available within the non-linear market, as Osborne
+
+testified on cross-examination. Id. Plaintiffs entered into evidence a list of the bats
+
+certified as non-linear by the USA softball organization, and Osborne testified that all six
+
+identified bats had the PAD but different wrappers and different balances—which is
+
+achieved by using the positioning sleeve to locate the PAD in varying areas of the barrel.
+
+Id.
+
+
+
+                                             23
+       Thus, under the triple identity test, the FIB’s foam keeps the inner ring suspended
+
+such that it moves independently of the outer frame, which functions to improve the bat’s
+
+rebound effect. See Bondyopadhyay, 136 Fed. Cl. at 122–23. In contrast, under that
+
+same test, the PAD’s positioning sleeve primarily works to position the inner ring within
+
+the barrel to change the balance of the bat. See id. While such a distinction is not
+
+dispositive, the divergent primary functions of the foam and the positioning sleeve are
+
+such that plaintiffs have not met their burden. To reiterate, the relevant determination at
+
+the preliminary injunction stage is substantial likelihood of success by plaintiffs of their
+
+infringement claims, not a legal conclusion as to the ultimate issue of infringement.
+
+Amazon.com, 239 F.3d at 1355–56 (emphasis added).
+
+       Given the foregoing analysis, it is debatable whether the third limitation is met.
+
+The court concludes that plaintiffs have not met their burden and shown a substantial
+
+likelihood of success on their claim that the positioning sleeve of the Pure Sports’s bats
+
+meets the third limitation of the ‘056 Patent—either literally or by a substantial
+
+equivalent. See Renishaw, 158 F.3d at 1247–48.
+
+       Fourth and fifth, plaintiffs claim that the HELLFIRE and SIDEWINDER bats
+
+include a knob covering the end of the handle and a cap covering the end of the hitting
+
+portion, which are identical to the fourth and fifth limitations of Claim 1 of the ‘056
+
+Patent. ECF No. 16-1 at 16 (citing Pegnatori Decl. ¶¶ 44–45; Fallon Decl. ¶¶ 19–22).
+
+Pure Sports does not contest this description. See generally ECF No. 17. The court finds
+
+that plaintiffs have shown that they can likely prove at trial that Pure Sports’s bats meet
+
+these limitations.
+
+
+
+
+                                             24
+       In sum, the court finds that, though plaintiffs have demonstrated a substantial
+
+likelihood of success in proving that Pure Sports’s bats meet the first, fourth, and fifth
+
+limitations of the ‘056 Patent, they have not met their heavy burden at the preliminary
+
+injunction stage as to the second or third limitations. Thus, plaintiffs have not
+
+demonstrated a substantial likelihood of success on their claim of patent infringement at
+
+this early stage which guides the court to deny plaintiffs’ motion for a preliminary
+
+injunction.
+
+               2. Validity
+
+       “[A]n issued patent always enjoys a presumption of validity.” OrthoAccel Techs.,
+
+Inc., v. Propel Orthodontics, LLC, 785 F. App’x 871, 874 (Fed. Cir. 2019). If an alleged
+
+infringer—here, Pure Sports—attacks the validity of a patent at the preliminary
+
+injunction stage, it bears the initial burden to come forward with evidence of invalidity,
+
+just as it would at trial. BlephEx, 24 F.4th at 1399. Stated differently, Pure Sports is “at
+
+bat” on this defense.
+
+       At the preliminary injunction stage, the alleged infringer “need only present
+
+evidence showing that there is a substantial question of validity despite the presumption
+
+of patent validity and [the patent holder’s] arguments in favor of validity, such that [the
+
+patent holder’s] likelihood of success is in question.” Id. Plaintiffs must demonstrate a
+
+likelihood of success that Pure Sports “will not prove that the patent is invalid;” in other
+
+words, plaintiffs must demonstrate that Pure Sports’s defenses “lack[] substantial merit.”
+
+Purdue Pharma L.P. v. Boehringer Ingelheim GMBH, 237 F.3d 1359, 1365 (Fed. Cir.
+
+2001). Here, Pure Sports argues that the ‘056 Patent is invalid as anticipated by U.S.
+
+
+
+
+                                             25
+Publication No. 2011/0111894 (the “‘894 Publication”) and for obviousness based on the
+
+same. 13 The court considers each argument in turn.
+
+                       a. Anticipation
+
+       For the patent to be valid, it must be “novel,” meaning that the claimed aspects of
+
+the invention were not previously covered or “anticipated” by inventions that came
+
+before it. See 35 U.S.C. § 102(a)–(b). “[A] claim is anticipated if each and every
+
+limitation is found either expressly or inherently in a single prior art reference.” Celeritas
+
+Techs., Ltd. v. Rockwell Int’l Corp., 150 F.3d 1354, 1361 (Fed. Cir. 1998); Hakim v.
+
+Cannon Avent Grp., PLC, 479 F.3d 1313, 1319 (Fed. Cir. 2007). A single prior art
+
+reference must “clearly and unequivocally” describe the claimed invention “without any
+
+need for picking, choosing, and combining various disclosures not directly related to each
+
+other by the teachings of the cited reference.” Net MoneyIN, Inc. v. VeriSign, Inc., 545
+
+F.3d 1359, 1371 (Fed. Cir. 2008) (internal citations omitted). In other words, “it is not
+
+enough that the prior art reference discloses part of the claimed invention, which an
+
+ordinary artisan might supplement to make the whole, or that it includes multiple, distinct
+
+teachings that the artisan might somehow combine to achieve the claimed invention.” Id.
+
+       Pure Sports argues that both claims of the ‘056 Patent are anticipated by the ‘894
+
+Publication. ECF No. 17 at 21. The ‘894 Publication was purportedly not considered by
+
+
+
+       13
+           Plaintiffs provide the United States Patent Application Publication for the ‘894
+Publication in anticipation of Pure Sports’s arguments of invalidity. ECF No. 16-7.
+Plaintiffs included the arguments in their motion because Pure Sports has asserted similar
+defenses in its counterclaims and has also referenced U.S. Patent No. 6,997,826, ECF No.
+10 at 11 ¶ 13; U.S. Patent No. 8,197,366, ECF No. 16-6; and U.S. Publication No.
+2011/0111892, ECF No. 16-8. ECF No. 16-1 at 18–19. The court only considers the
+‘894 Publication in its analysis of anticipation and obviousness, as that is the publication
+to which Pure Sports confines its arguments for the instant motion. See ECF No. 17 at
+21–24.
+                                             26
+the Patent and Trademark Office “during prosecution of the ‘056 patent.” Id. at 21–22.
+
+The ‘894 Publication “discloses an embodiment of a baseball bat with internal core
+
+member,” as reproduced in the following figures:
+
+
+
+
+Id. at 22 (referencing ECF No. 16-7 at 6). The ‘894 Publication is for a bat with similar
+
+barrel, tapering, and handle portions. Id. It comprises a tubular insert, “266”, positioned
+
+within the barrel portion, “24”, and having a circular cross section. Id. One embodiment
+
+of the invention involves a multilayer insert, comprising an inner member, “266”, and an
+
+outer member, “264.” Id. Pure Sports says that the ‘894 Publication “discloses the insert
+
+being separated from the tubular frame by a void gap.” Id. (citing ECF No. 16-7
+
+¶ [0033]). Pure Sports also indicates that the ‘894 Publication “discloses wherein the
+
+core member can comprise a foam.” Id. (citing ECF No. 16-7 ¶ [0048]). Plaintiffs argue
+
+that Pure Sports misreads the ‘894 Publication; rather, plaintiffs aver that it clearly lacks
+
+a void gap. ECF No. 18 at 8–9.
+
+       The court finds that Pure Sports slightly misstates the embodiment included
+
+within the ‘894 Publication. The ‘894 Publication only references a gap to say that the
+
+
+                                              27
+invention may have gaps between the internal surface of the frame and the external
+
+surface of the core member, but such gaps would be “due to manufacturing tolerances
+
+and/or due to intentional inclusion to meet desired design or performance criteria.” ECF
+
+No. 16-7 ¶ [0033]. The ‘894 Publication, properly construed, teaches that the exterior
+
+surface of the internal core member “may be in direct contact with the interior surface of
+
+[the] barrel portion.” Id. Moreover, such engagement between the two surfaces “may be
+
+a continuous, non-interrupted interface.” Id. Pure Sports appears to concede that the
+
+referenced gap is different from that included in Claim 1 of the ‘056 Patent, which
+
+requires the void gap be “along the entire length of the insert” and “largely of a constant
+
+width.” ECF No. 17 at 23 (referencing ECF No. 1-1, col. 6, ll. 59–64). Nevertheless,
+
+Pure Sports argues that since plaintiffs claim that PAD infringes on the ‘056 Patent, and
+
+PAD purportedly has no void gap much like the ‘894 Publication, the scope of Claim 1
+
+“must be broad enough to encompass the embodiment disclosed by the ‘894 Publication.”
+
+Id. Consequently, it says the ‘056 Patent was anticipated by the ‘894 Publication and
+
+therefore is invalid. Id.
+
+       Pure Sports swings and misses with this argument for two reasons. First,
+
+plaintiffs argue that the specifications of the PAD indicate that a .04 inch void gap exists
+
+in Pure Sports’s infringing bats. ECF No. 18 at 7. The appropriate place to challenge
+
+whether Pure Sports’s design infringes on the ‘056 Patent is under infringement, not
+
+validity, and the court provided a clear analysis above, supra III.A.1.b, which addressed
+
+the parties’ respective arguments surrounding the void gap and infringement. Thus, the
+
+court’s analysis of whether the ‘894 Publication anticipated the ‘056 Patent properly
+
+
+
+
+                                             28
+considers the gap included in the second limitation of Claim 1 of the ‘056 Patent as a
+
+distinguishing factor.
+
+       Second, the ‘056 Patent was not anticipated by the ‘894 Publication because the
+
+clear and explicit language of the ‘056 Patent references designs similar to the ‘894
+
+Publication which had “multiple walls that directly abut[] one another” and rejects that
+
+design. ECF No. 1-1, col. 2, ll. 9–26. The ‘056 Patent even considered patents which
+
+had “multiple walls that incorporate some sort of gap between the walls” and
+
+demonstrated its bat was an improvement on those bats because those referenced designs
+
+effectively absorbed energy at multiple points where the separate walls connected or
+
+made contact, not just the point of impact. ECF No. 1-1, col. 2, ll. 27–56. Thus, the ‘056
+
+Patent is unique because “[t]he free floating nature of [the] insert improves the rebound
+
+effect in two ways; working in total elastic harmony with the wall of [the] hitting portion
+
+and damping vibrations that reduce the amount of energy being absorbed elastically.”
+
+ECF No. 1-1, col. 4, ll. 59–63. In sum, the void gap is unique and essential to the design
+
+of the ‘056 Patent, and the ‘894 Publication’s failure to include a void gap means it did
+
+not anticipate the ‘056 Patent. See Net MoneyIN, Inc., 545 F.3d at 1371.
+
+                         b. Obviousness
+
+       A claim is invalid for obviousness “if the differences between the claimed
+
+invention and the prior art are such that the claimed invention as a whole would have
+
+been obvious before the effective filing date of the claimed invention to a person having
+
+ordinary skill in the art to which the claimed invention pertains.” 35 U.S.C. § 103.
+
+Stated differently, “[t]he combination of familiar elements according to known methods
+
+is likely to be obvious when it does no more than yield predictable results.” KSR Int’l
+
+
+
+                                            29
+Co. v. Teleflex Inc., 550 U.S. 398, 416 (2007). The obviousness inquiry entails
+
+consideration of whether a person of ordinary skill in the art “would have been motivated
+
+to combine the teachings of the prior art references to achieve the claimed invention,
+
+and . . . would have had a reasonable expectation of success in doing so.” Procter &
+
+Gamble Co. v. Teva Pharms. USA, Inc., 566 F.3d 989, 994 (Fed. Cir. 2009) (internal
+
+citation omitted). The Supreme Court has explained that the obviousness analysis
+
+consists of three factual inquiries: (1) determining the scope and content of the prior art;
+
+(2) ascertaining the differences between the prior art and the claims at issue; and (3)
+
+identifying the level of ordinary skill in the art at the time the invention was made.
+
+Graham v. John Deere Co. of Kan. City, 383 U.S. 1, 17 (1966).
+
+       In determining whether there would have been a motivation to combine prior art
+
+references to arrive at the claimed invention, it is insufficient to simply conclude the
+
+combination would have been obvious without identifying any reason why a person of
+
+skill in the art would have made the combination. See In re Van Os, 844 F.3d 1359, 1361
+
+(Fed. Cir. 2017). The required analysis reads the prior art in context, taking account of
+
+“demands known to the design community,” “the background knowledge possessed by a
+
+person having ordinary skill in the art,” and “the inferences and creative steps that a
+
+person of ordinary skill in the art would employ.” KSR Int’l, 550 U.S. at 418. The
+
+Supreme Court has explained that various factors may also serve to guard against
+
+slipping into the use of hindsight, and to resist the temptation to read into the prior art the
+
+teachings of the invention at issue. Apple Inc. v. Samsung Elecs. Co., 839 F.3d 1034,
+
+1052 (Fed. Cir. 2016) (en banc) (citing Graham, 383 U.S. at 36). These factors are
+
+commonly known as secondary considerations or objective indicia of non-obviousness
+
+
+
+                                              30
+and include: “commercial success enjoyed by devices practicing the patented invention,”
+
+“industry praise for the patented invention,” “copying by other,” and “the existence of a
+
+long-felt but unsatisfied need for the invention.” Id.
+
+       Pure Sports contends that the claims of the ‘056 Patent are obvious in view of the
+
+‘894 Publication. ECF No. 17 at 24. It argues that “where there is some recognized
+
+reason to solve a problem, and there are a finite number of identified, predictable
+
+solutions, a [person of ordinary skill in the art] has good reason to pursue the known
+
+options within his or her technical grasp.” Id. Pure Sports posits that two-part core
+
+members in non-linear bats “were known for the purpose of creating a more evenly
+
+distributed power curve along the barrel of the bat,” and the design provided in the ‘894
+
+Publication meant that “[i]t would have been well within the competence of a [person of
+
+the ordinary skill in the art] to pursue alternative arrangement of these components in
+
+similar devices.” Id. Namely, Pure Sports claims that “merely rearranging the foam
+
+outer member within the inner member of the ‘894 Publication would allow a [person of
+
+ordinary skill in the art] to reproduce the device claimed by the ‘056 Patent.” Id. Pure
+
+Sports thereby concludes that Claim 1 of the ‘056 Patent is obvious. Id.
+
+       Plaintiffs provide four arguments why Pure Sports has failed to demonstrate that
+
+the ‘056 Patent is invalid for obviousness. First, plaintiffs emphasize that the ‘894
+
+Publication “describes a two piece insert with an outer portion made of wood and an
+
+inner portion made of carbon fibers, with the outer portion engaging the inner surface of
+
+the bat barrel.” ECF No. 16-1 at 18–19. They argue that the ‘894 Publication does not
+
+“teach[] an inner tubular insert separated from the tubular frame of the bat barrel by a
+
+void gap or a foam element functioning to suspend the inner tubular insert within the bat
+
+
+
+                                             31
+barrel as required by claim 1 of the ‘056 Patent.” Id. at 19. Second, plaintiffs argue that
+
+Pure Sports’s proposal to move the larger diameter outer member inside the smaller
+
+diameter inner member would be an impossibility but more importantly, the suggestion
+
+“improperly uses the disclosure of the ‘056 Patent as the reason to move or modify the
+
+references [sic] teachings.” ECF No. 18 at 9–10. Third, plaintiffs emphasize that the
+
+obviousness analysis requires the factfinder to ask “whether the relevant skilled artisan
+
+had a motivation to combine two or more pieces of prior art in the way eventually
+
+claimed in the patent at issue.” Id. at 10 (citing Samsung Elecs., 839 F.3d at 1047–48,
+
+1051) (emphasis added). They argue that since Pure Sports has only identified one piece
+
+of prior art—the ‘894 Publication—there is no second prior art reference that a person of
+
+ordinary skill in the art would have been motivated to combine with the ‘894
+
+Publication. 14 Id. Fourth and finally, plaintiffs argue that Pure Sports has not addressed
+
+the required secondary considerations of an obviousness analysis. Id. (citing Graham,
+
+383 U.S. at 17–18 (“Such secondary considerations as commercial success, long felt but
+
+unsolved needs, failures of others, etc., might be utilized to give light to the
+
+circumstances surrounding the origin of the subject matter sought to be patented.”)); see
+
+
+
+
+       14
+           The court notes that the Federal Circuit in Samsung Electronics Co., did not
+explicitly require there be two or more pieces of prior art. See 839 F.3d at 1047–51. In
+practice, the obviousness analysis performed in that case did consider two pieces of prior
+art. Id. Based on the cases before the court, it is unclear whether a party could establish
+an obviousness argument by combining two references from within a single piece of prior
+art, such as a single publication. As the court does not reach its conclusion based on this
+argument, it declines to determine what is sufficient to constitute prior art references
+sufficient to establish a viable obviousness argument. See In re Cyclobenzaprine
+Hydrochloride Extended-Release Capsule Pat. Litig., 676 F.3d 1063, 1068–69 (Fed. Cir.
+2012) (“Generally a party seeking to invalidate a patent as obvious must demonstrate by
+clear and convincing evidence that a skilled artisan would have had reason to combine
+the teaching of the prior art references to achieve the claimed invention.”).
+                                              32
+also Samsung Elecs., 839 F.3d at 1048 (“Objective indicia of nonobviousness must be
+
+considered in every case where present.”).
+
+       The specification of the ‘894 Publication explains that the core—whose exterior is
+
+in contact with the interior frame of the barrel portion—“supports the barrel portion and
+
+resists radial deformation of the barrel portion when striking an object” by providing
+
+local support. ECF No. 16-7 ¶ [0009]. The support “may reduce peak performance of
+
+the barrel portion while still allowing of a large ‘sweet spot’” and “may also reduce the
+
+aging process or breakdown of the laminate layers . . . such that the performance of the
+
+bat does not significantly increase and/or change over its useful life.” Id. Neither
+
+vibration nor rebound effect are mentioned or analyzed. See id. The core materials for
+
+either the inner or outer member are broadly unspecified, with the ‘894 Publication
+
+noting that “[s]uitable materials include, by way of non-limiting example, plastics, foams,
+
+metals, woods, composites, elastomers, polymers, and the like.” ECF No. 16-7 ¶ [0048].
+
+Though the ‘894 Publication hypothesizes the use of different materials and similarly
+
+suggests different ways to place the core member within the barrel portion of the bat, it
+
+does not suggest inverting the inner and outer member to improve the bat performance.
+
+See generally ECF No. 16-7. Thus, an analysis of the ‘056 Patent suggests that it was
+
+not, on its face, obvious in light of the ‘894 Publication.
+
+       Moreover, analysis of objective indicia of non-obviousness also indicates that
+
+Pure Sports has not met its burden on this counterargument. See Samsung Elecs., 839
+
+F.3d at 1052. First, Monsta Athletics’s bats have achieved commercial success with sales
+
+of three to four million dollars annually in the eleven years since its initial startup. See
+
+ECF No. 16-1 at 8–9. In the past three years alone, Monsta Athletics increased its annual
+
+
+
+                                              33
+sales to six-to-seven-million-dollar levels, which it attributes to its superior bat
+
+technology. Id. Second, the Monsta Athletics FIB bats “have received substantial
+
+industry praise on Facebook and YouTube channels under the titles of ‘Bat Flip bp’, ‘Fat
+
+Guy bp’, ‘War Stick Bat Review’, ‘Bat Hound’ and ‘Bat Boss BP.’” Id. at 19. Third,
+
+plaintiffs can point to the licensing agreement they previously had with Pure Sports to
+
+show that there has been copying by others. See ECF Nos. 16-1 at 9; 16-3 at 25. Fourth,
+
+plaintiffs included in their specification that their invention enhances the rebound effect
+
+and dampens vibrations, which are two ongoing problems identified by bat
+
+manufacturers. ECF No. 1-1, col. 1, ll. 34–col. 3, ll. 65.
+
+       Overall, the objective indicia of non-obviousness tend to show that the ‘056
+
+patent is not invalid for obviousness. 15 The court finds that Pure Sports has not met its
+
+burden to prove the ‘056 Patent invalid. See BlephEx, 24 F.4th at 1399. Stated
+
+differently, plaintiffs have demonstrated that Pure Sports’s defenses lack substantial
+
+merit. See Purdue Pharma, 237 F.3d at 1365.
+
+       In sum, despite overcoming Pure Sports’s invalidity argument, plaintiffs
+
+nevertheless fail to demonstrate a likelihood of success on the merits required for the
+
+court to issue a preliminary injunction. To reiterate, the court finds that the conflicting
+
+evidence before the court undermines the argument that plaintiffs are likely to succeed in
+
+proving infringement by Pure Sports of the second and third limitations of Claim 1 of the
+
+
+
+       15
+          The court lacks arguments from the parties that would allow it to identify the
+level or ordinary skill in the art at the time the invention was made. Thus, the court notes
+that though such an analysis is a required factual inquiry of the obviousness analysis, the
+court cannot definitively make such a determination at this time based on the evidence
+currently before the court. Thus, the factual analysis primarily rests on determining the
+scope and content of the prior art and ascertaining the differences between the prior art
+and the claims at issue. See Graham, 383 U.S. at 17.
+                                              34
+‘056 Patent. Finding a clear bar to the issuance of the preliminary injunction, the court
+
+declines to consider the remaining three elements of the preliminary injunction
+
+framework.
+
+       B. Bond
+
+       Plaintiffs request that the preliminary injunction be granted and that the court
+
+require a bond amount not exceeding $5,000 because plaintiffs have demonstrated a
+
+strong likelihood of success on the merits, and Pure Sports has not yet provided
+
+substantive evidence of likelihood of irreparable harm from wrongful issuance of the
+
+injunction. ECF No. 16-1 at 25.    Pure Sports does not address the question of the bond.
+
+See ECF Nos. 17, 21. The court finds that it need not consider the bond since the first
+
+factor is not met as plaintiffs have not demonstrated a substantial likelihood of success on
+
+the merits of the patent infringement claim.
+
+                                  IV. CONCLUSION
+
+       For the reasons set forth above, the court DENIES the motion for preliminary
+
+injunction.
+
+       AND IT IS SO ORDERED.
+
+
+
+
+                                      DAVID C. NORTON
+                                      UNITED STATES DISTRICT JUDGE
+
+October 11, 2023
+Charleston, South Carolina
+
+
+
+                                               35
+

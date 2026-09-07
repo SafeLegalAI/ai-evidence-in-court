@@ -1,0 +1,341 @@
+os . _ KING COUNTY, WASHINGTON .
+2 . MAR 29 2024 os
+SUPERIOR CO ;
+3 URT CLERK
+; ' - _ BY LaTanya Smith
+DEPUTY
+5 .
+6 ; .
+af SUPERIOR COURT OF WASHINGTON FOR KING COUNTY
+3 STATE OF WASHINGTON, . ) ;
+a, )
+9 ; Plaintiff, ) No. 21-1-04851-2 KNT
+; vs. ; ) ;
+10. ) FINDINGS OF FACT AND
+JOSHUA PULOKA, 2) CONCLUSIONS OF LAW RE: FRYE
+11 |) Aka JOSHUA EVERYBODYTALKSABOUT, ) HEARING ON ADMISSIBLITY OF
+Defendant. ) VIDEOS ENHANCED BY '
+12 oo ; ) ARTIFICIAL INTELLIGENCE ;
+- 13]. .
+14 . ;
+15 ‘On Wednesday, February 21 and Thursday, February 22, the Court heard testimony from
+16 | defense witness Brian Racherbaeumer and State’s witness Grant Fredericks regarding proposed
+17! defense video exhibits enhanced by artificial intelligence..On Monday, February 26, the Court ,
+18 |! heard oral argument from both parties. In addition to the witness testimony and oral arguments, ,
+19 ll the Court reviewed each party’s filed briefing and the relevant pre-trial exhibits, and gave an oral
+20 ruling on Thursday, February 29, which is incorporated by reference. The Court makes the
+21 following findings of fact and conclusions of law: .
+22 .
+23 . . :
+24 :
+FINDINGS OF FACT & CONCLUSIONS OF LAW
+_ ON STATE’S MOTION TO SUPPRESS PURSUANT
+TOFRYE. :
+1 I. FINDINGSOFFACT:
+2 ,
+. 1, The use of artificial intelligence (AI) tools to enhance video introduced in a criminal trial ©
+3]} -  isanoveltechnique. ©
+4 2. Defense expert witness Brian Racherbaeumer utilized at least one AI enhancement tool to
+5] enhance a total of 7 (seven) videos, admitted on a flash drive as pre-trial Exhibit 5 (five).
+3. At trial, the defense intends to admit — at a minimum — an AJ-enhanced version of.a video
+6 recorded by a civilian witness on an iPhone. The original recording was streamed to
+Snapchat. The AI enhanced copy of the video recording was admitted pre-trial as Exhibit
+7 2 (two). . mo :
+8 4. A version of this iPhone video extracted directly from the civilian witness’s iPhone was
+‘admitted on a flash drive as pre-trial Exhibit 1 (one). This video — hereinafter referred to
+9 __ as the ‘source video’ — is about 10 (ten) seconds in duration.
+10 5. Defense witness Racherbaeumer was a self-identified videographer and filmmaker who ;
+started working with video in 1993. He was very candid and open about the fact that he is -
+1 not — and has not claimed to be — a forensic video technician and has not been
+‘ D forensically trained. .
+; 6. Racherbaeumer testified that the source video (Exhibit 1) was of low resolution, and
+13 contained substantial ‘motion blur’
+14 7. In contrast to Exhibit 1, the defense witness presented Exhibit 2 as an enhanced version
+of Exhibit 1 which he said added clarity through use of an AI video-editing tool in the
+1S program ‘Topaz Labs AI’, and was further processed on Adobe Premier Pro.
+16 8. Racherbaeumer testified that the Topaz Labs AI program uses 'technology to intelligently
+scale up the video’ to increase resolution. He stated that the tool adds sharpness,
+17 definition, and smoother edges to objects in the video, whereas the source video
+18 contained fuzzier images with ‘blocky’ edge patterns. ;
+9. Racherbaeumer was candid, and was unable to say whether the Topaz Labs AI tool he .
+ets ‘used, which has been commercially available for about 3 (three) years, is currently
+utilized by the forensic video analysis community, He described peer usage as
+20 ‘corporate.’ He was unaware of any testing, publications, or discussion groups within his
+peer group that was involved in evaluating the reliability of AI tools for video
+21 enhancement purposes. ;
+22 10. Racherbaeumer described that the Topaz Labs Al tool uses ‘machine learning,’ .
+employing specific processing models based on a vast library of videos, but he did not ;
+23 know what videos the Al-enhancement models are ‘trained’ on, did not know whether
+24 ,
+FINDINGS OF FACT & CONCLUSIONS OF LAW
+ON STATE’S MOTION TO SUPPRESS PURSUANT. - . .
+TO FRYE.
+1 such models employ ‘generative AI’ in their algorithms, and agreed that such algorithms
+5 are opaque and proprietary. :
+11. The defense argued that the AI tool is not based on new science and urged the Court to
+3). accept the ‘video production community’, which embraces both filmography and
+4 videography, as the relevant community for purposes of Frye, ;
+12, In its oral argument, the Defense candidly admitted to the court that its other retained
+5 expert, Matt Nodel, could utilize the source video (Exhibit 1) as the basis for his expert
+testimony. :
+6 .
+13, The State’s expert witness, Grant Fredericks, is a Certified Forensic Video Analyst, with
+7 national and international forensic video analysis credentials.
+8 14. According to Fredericks’ testimony, which the Court finds credible, about half of his 300
+appearances testifying in Court over the last ten years have been for the State or Plaintiff,
+9 and about half for the Defense,
+. 10], - 15. Fredericks’ focus in performing forensic video analysis is on ‘image integrity’, and not
+7 on creating a smoother, more attractive product for a user.
+: 16. According to Fredericks, the AI tool(s) utilized by Racherbaeumer added approximately
+12 sixteen times the number of pixels, compared to the number of pixels in the original
+images to enhance each video frame, utilizing an algorithm and erihancement method
+13 ; unknown to and unreviewed by any forensic video expert. Furthermore, he demonstrated
+; that the AI method created false image detail and that process is not acceptable to the
+14 forensic video community because it has the effect of changing the meaning of portions
+of the video. :
+15 :
+17. As Fredericks explained, the AI tool(s) modified the source video by eliminating much of
+16 the motion blur and smoothing edges such that objects in the enhanced video on Exhibit 2
+"7 did not maintain their original shape and color from the source video on Exhibit 1.
+18. Mr. Fredericks explained and demonstrated that the AI process removed information that
+18 was in the original images and it added information that was not in the original images.
+The proffered Al-enhanced video removed artifacts on individual images, altered shapes,
+19 and removed the opportunity to forensically analyze which frames in the video utilized
+reference, predictive, and bi-directional images. In short, the Al-enhancement tools made
+20 proper, accepted forensic analysis of the video impossible. .
+21 19, Fredericks defined the relevant community as the forensic video analysis community, one
+» that spans across North America, Europe, and other parts of the world.
+20. In contrast to approved image enlargement techniques like ‘nearest neighbor’, ‘bi-cubic’,
+23 and ‘bi-linear’ — which have been utilized by the forensic video analysis community for :
+44 decades, and which create video products that are reproducible across approved video
+FINDINGS OF FACT & CONCLUSIONS OF LAW
+ON STATE’S MOTION TO SUPPRESS PURSUANT ;
+TA FRVF
+1 processing programs such as Adobe Premier Pro, Adobe Photoshop, Amped5 and Axon
+Investigate — the Topaz Labs AI model uses an opaque process called ‘machine learning’
+2 to enlarge and enhanice video.
+3 21. Fredericks referenced the Scientific Working Group on Digital Evidence (SWGDE),
+. whose members represent state, local and federal law enforcement agencies engaged in
+4}. forensic video examinations, as a peer group that regularly publishes Best Practices and
+Guidelines for video enhancement for legal purposes. One specific SWGDE publication
+5 “Fundamentals of Resizing Imagery and Considerations for Legal Proceedings”, was
+admitted as Pre-trial Exhibit 6. Fredericks testified consistent with the SWGDE document
+6 that up-scaling an image (resizing) is referred to as ‘interpolation’ and that the most
+accurate interpolation method that preserves image detail when observing small objects is
+_7 called Nearest Neighbor, Section 6 of the SWDGE document establishes that:
+8 Utilizing Nearest Neighbor interpolation to enlarge imagery that
+contains small objects within (e.g., weapon in hands) may help ;
+9 mitigate the distortion of the object’s shape, length, or size
+represented by a few pixels. The Nearest Neighbor algorithm can
+10 reduce the potential of providing a misleading representation of the
+i level of pixel detail in the original imagery. ,
+1” See Pre-trial Exhibit 6 at 8.
+13 22. Although the ‘machine learning’ Al-enhancement algorithm(s) utilized by Topaz Video
+Al tools may have been market-tested by members of the video production community,
+14 they do not have a formal organization and they do not publish their testing outcomes. As
+a result, their findings, if they exist, cannot be evaluated by the defense expert, the ©
+15 forensic video analysis community, or by this court.
+16 23. Rather than approving the use of such Al-enhancement tools, the forensic video analysis
+community has issued only warnings about the use of such tools in a courtroom; for
+17 example, SWGDE has found that, for ‘machine- learning’ interpolation algorithms, “it
+can be challenging to identify what process were applied to the imagery and replicate
+18 those steps with accuracy.” See Pre-trial Exhibit 6 at 7,
+19 . :
+»0 Il. CONCLUSIONS OF LAW - mo
+1. Given the Court’s finding that use of artificial intelligence (AI) tools to enhance video
+21 introduced in a criminal trial is a novel technique, the proponent of evidence utilizing
+these AI tools must make a showing that any expert’s opinion or theory is based on a
+22 methodology accepted in the relevant community. State v. Russell, 125 Wn.2d 24, 41
+- (1994),
+23
+ng .
+FINDINGS OF FACT & CONCLUSIONS OF LAW .
+‘ON STATE’S MOTION TO SUPPRESS PURSUANT ; ;
+TO FRVE
+1 2, The standard for admitting evidence utilizing a novel scientific theory or principle is
+; whether it has achieved general acceptance in the relevant scientific community. Frye v.
+2 ’ United States, 293 F.1013, 1014 (D.C. Cir, 1923).
+3 3. To determine whether a consensus of scientific opinion has been achieved, the court
+: examines testimony that asserts general acceptance, articles and publications, widespread
+4 use in the community, secondary legal sources, and/or legal authority from other
+jurisdictions. Lake Chelan Shores Homeowners Ass’n v. St. Paul Fire and Marine Ins. Co.,
+5 176 Wn. App 168, 176, 313 P.3d 408, 412 (2013) ;
+6 4, Testimony from an expert is admissible only if such evidence will assist the trier of fact,
+7 and is reliable. ER 702.
+5. Even if relevant, evidence is not admissible if its probative value is substantially
+8 outweighed by the danger of unfair prejudice. ER 403. ;
+91 6. “Erye excludes testimony based on novel scientific methodology until a scientific ;
+consensus decides the methodology is reliable, [whereas] ER 702 excludes testimony
+10 . where the expert fails to adhere to that reliable methodology.” In re Detention of :
+UW McGary, 175 Wn. App. 328, 339 (2013).
+7. The court does not determine if the scientific theory underlying the proposed testimony is
+12 . correct; rather, the court “must look to see whether the theory has achieved general ;
+acceptance in the appropriate scientific community.” State v. Riker, 123 Wn.2d 351, 369-
+13 370 (1994),
+14 8. For example, where a psychologist’s opinion was based on-the ‘MATS-1’ test he himself
+had created, the test had not been sufficiently utilized by other forensic experts in the
+15 community, and no published state or federal appellate court decisions referred to the
+‘MATS-1’ test, a trial court did not err in finding that “the test was not reasonably relied
+16 upon by experts generally [in the relevant community] and thus not sufficiently reliable
+17 to support [this expert’s] opinion.” McGary, 175 Wn.App. at 341.
+. 9. The scientific community relevant to this Court’s determination of the admissibility of
+18 videos enhanced by AI tools is the forensic video analysis community. .
+19 10. The Topaz Video AI enhancement tool(s), which utilize ‘machine learning’ algorithms,
+have not been peer-reviewed by the forensic video analysis community, are — at the
+20 ‘ present time — not reproducible by that community, and are not accepted generally in that :
+community. . :
+21 ‘
+11. The defense has not offered any state or federal appellate court decisions, from any
+22 jurisdiction, which have examined — let alone approved of — the introduction of AI-
+3 enhanced videos in a criminal or civil trial.
+24 " ‘
+‘ FINDINGS OF FACT & CONCLUSIONS OF LAW .
+ON STATE’S MOTION TO SUPPRESS PURSUANT ,
+; 1 12. The defense has not offered any articles, publications, or secondary legal sources
+5 approving the introduction of Al-enhanced video evidence in a criminal or civil trial.
+13. The video evidence produced by the Topaz Video AI enhancement model does not ,
+3 satisfy ER 401, as the resulting video does not show with integrity what actually
+happened but uses opaque methods to represent what the AI model ‘thinks’ should be
+4 shown. ;
+5 14. Moreover, this Court finds that admission of this Al-enhanced evidence would lead to a
+confusion of the issues and a muddling of eyewitness testimony, and could lead to a time-
+6 consuming trial within a trial about the non-peer-reviewable-process used by the AI
+model, such that any relevance is substantially outweighed by the danger of unfair
+7) prejudice under ER 403.
+8 15. The danger of unfair prejudice is particularly concerning in this case, as the jury will
+likely be focused on the size and location of individuals and objects during the events
+; 9 depicted by the Al-enhanced video. .
+10 16. The best evidence for the jury is the source video recorded and preserved in Exhibit 1... ,
+i 17. Any testimony which would be offered using the Al-enhanced video is not crucial to the
+charges, as the State intends to call multiple eyewitnesses and will offer the source video
+12 (Exhibit 1) at trial. Both sides can use the source video for argument, and the jury will be
+3B able to utilize the source video for its determination.
+- 18. The Defense’s proffered pre-trial Exhibit 2.is refused, and all Al-enhanced videos on pre-
+14). trial Exhibit 5 are refused.
+15 ‘ - so
+16 . ' Signed in OPEN COURT thisAT day of March, 2024.
+18 ms ‘The on, Judge Leroy McCullough
+20 . .
+Presented by:
+/s/ Thomas O’Ban
+22 | Thomas C. O’Ban, WSBA #50179 oO ‘
+Brandy Gevers, WSBA #45234 ;
+. 231 Senior Deputy Prosecuting Attorneys oe
+9 .
+4 FINDINGS OF FACT & CONCLUSIONS OF LAW :
+: ON STATE’S MOTION TO SUPPRESS PURSUANT :
+TO FRYER .
+. 2 | Approved as to Form: ;
+no habia. accor! Zesty 2°Cer oe
+Yevgeniya Mordekhova, WSBA #36731
+5 || James Koenig, WSBA #19956 .
+6 Attorneys for the Defendant
+. 9 Fe, .
+10 a Hs ;
+1
+17 :
+19 a : ft
+20 | .
+4 FINDINGS OF FACT & CONCLUSIONS OF LAW | .
+ON STATE’S MOTION TO SUPPRESS PURSUANT
+. TO FRYE : oO
+Judge’s AI-Video Rejection Evokes Broader Tech, Evidence Issues https://www.bloomberglaw.com/product/blaw/bloomberglawnews/b...
+Bloomberg Law: © Research Trail » =} My Work v fH Client Matter v @ Help v
+& Account v
+Bloomberg L... » | Search Bloomberg Law News ® Select Sources Go
+Home Practice Litigation Transactional Business Practitioner News& Laws & Secondary
+Ps Centers eS v v Tools v Analysis Regulations Sources
+v v v v
+4 Manage Subscription
+rape Law
+April 9, 2024, 8:01 AM PDT
+Judge’s Al-Video Rejection Evokes Broader Tech, Evidence Issues
+By Kyle Jahner
+@ Al-enhanced video excluded as untested in criminal case
+© Unease with ‘black box’ echoes earlier tech used in court
+Bloomberg Law News 2024-04-09T17:12:17852488842-04:00
+Judge's Al-Video Rejection Evokes Broader Tech, Evidence Issues
+By Kyle Jahner 2024-04-09T11:01:03000-04:00
+Al-enhanced video excluded as untested in criminal case
+Unease with ‘black box’ echoes earlier tech used in court
+A Washington state judge's exclusion of Al-enhanced video evidence puts a novel twist on controversial issues regarding what
+technologies to put in front of juries.
+The video-offered by a man accused of shooting five people, killing three, outside a Seattle bar—relied on an artificial intelligence
+model that hadn't been validated and could lead to confusion, King County Superior Court Judge Leroy McCullough ruled March
+29. The model altered pixels with opaque methods and hadn't been peer reviewed, which could have led to “a time-consuming
+trial within a trial” over its reliability, McCullough said.
+The ruling comes as Al's capabilities and applications continue to proliferate and raises questions about how to draw boundaries
+regarding the role Al-generated evidence can play in courts. And while Al technology is new, concerns about the ability to inspect, |
+vet, and challenge it mirror ones legal professionals say persist for other technologies, often without satisfactory answers.
+“That kind of black-box process can’t be explained in court,” criminal law professor Andrew Guthrie Ferguson of American
+University said of large-language models. “That should be troubling for courts and judges.”
+While in the Washington case, it was defendant Joshua Puloka seeking to introduce the evidence to support his claim of self-
+defense, it's more often prosecutors pushing courts—often successfully-to admit evidence generated or enhanced by technology,
+criminal law professor Rebecca Wexler of University of California at Berkeley said. Attention to Al "is sorely needed,” she said, but
+courts also fail to vet other technologies, and vendors often rely on contract law and trade secrets to evade transparency and
+scrutiny.
+“It's an opportunity to fix general problems that apply to Al technology and also have applied to forensic software for a long time,”
+said Wexler, who has testified before Congress on Al-based evidence. “There’s nothing about Al specifically that we should
+blanketly exclude it. But we should hold Al-makers to high standards to make sure the tools are fair and accountable.”
+lof3 4/9/2024, 2:12 PM
+Judge’s Al-Video Rejection Evokes Broader Tech, Evidence Issues https://www.bloomberglaw.com/product/blaw/bloomberglawnews’b...
+Contact Us
+View Full Desktop Site
+®
+
+BLAW ® 24 / 7 Help Desk (888) 560-2529
+LWCNTIIQUe Cal De ANU NAY VEN LESLEU, IS SULJELL LO PER! TeVIEW, [lds ¢ KNOW! OF POLENUd! BITUT dle, dnd Nas accEplalice Mm ue
+scientific community.
+But courts have no definition for what counts as “peer review,” Wexler sald, and that imprecision leaves judges a lot of discretion
+that often weighs in favor of prosecutors admitting evidence hinging on technology,
+Aside from being open to interpretation, Ferguson said, the rules are often dated, He said he tells students, “most rules of
+evidence were written in an era they can’t even comprehend,” before the digital age, leading to “tension applying this old law to
+technology.”
+Judges often have been too willing to accept prosecutor assertions that a technique is reliably used in law enforcement and
+vendors’ trade secret claims to deny defendant access, criminal law professor Brandon Garrett of Duke University said,
+He noted that in December the Federal Rules of Evidence on expert testimony were amended for the first time since the 2000
+codification of Daubert. To ensure judges were adequately exercising their gatekeeping function, language clarified a burden on
+the introducing party to demonstrate a likelihood of relevance and reliability. It also clarified that judges shouldn't leave it to a jury
+to assess methodology.
+Ferguson pointed to forensic bite-mark evidence as an area where courts often admitted evidence that purported to be more
+definitive than science allowed, Complex DNA samples, containing a mix of multiple unknown parties’ genetic materials, is another
+example.
+In one capital murder case in Virginia a prosecutor's expert testified there was a 1-in-11 billion chance elements in the DNA mix
+didn't belong to defendant Leon Winston. But years later, criminology professor William C, Thompson of UC Irvine argued ina
+paper that the analytical methodology was flawed and the chance was closer to 1 in 2.
+“Maybe we've learned our lesson that jumping into untested criminal science In criminal cases can lead to bad results,” Ferguson
+said.
+Wexler, the co-director of the Berkeley Center for Law and Technology, testified before the Senate Judiciary Committee in January,
+arguing lawmakers should require Al tools used in court to be available for-auditing by independent researchers. She cited an
+email from crime-scene DNA analysis company Cybergenetics that said the company “does not provide research licenses.”
+Congress also should bar using trade-secret privileges to block access to relevant criminal evidence, she said,
+“Vendors of some forensic software systems that are consistently used in criminal prosecutions flat-out refuse to provide research
+licenses to independent experts seeking to conduct independent quality assurance and validation studies,” Wexler told
+Bloomberg Law. “Private forensic systems we use to put people behind bars or even take their lives are using contract law to block
+peer review of their products.”
+‘Black Box’
+Despite Judge McCullough’s caution, Wexler sald, "judges are not going to be able to keep Al out of the evidence system for
+long"-which she says isn’t inherently bad, As in other fields, Al comes with the vast potential to assist courts in administering
+justice. She said it’s "going to be built into everything,” including pattern and facial recognition.
+
+2 of 3 4/9/2024, 2:12 PM
+Judge’s AI-Video Rejection Evokes Broader Tech, Evidence Issues hitps://www.bloomberglaw.com/product/blaw/bloomberglawnews/b...
+“We want the best, most fair, most accurate technologies in the criminal system. We want both sides to have access to those
+technologies,” Wexler said. .
+That means understanding how large-language models and other Al tools operate, what they can do, and what their limitations
+are, legal professionals said, Ferguson noted that the same prompt can lead a model like ChatGPT to produce different answers,
+and the popular chatbot operates without indicating the specific steps it took or what information factored into any specific output.
+Garrett noted the “black box” problem leaving attorneys at a loss to challenge an expert witness, "How can the defense
+meaningfully cross-examine /f the witness doesn’t know how the software works?” he asked,
+Wexler told the Senate committee at least six people have been wrongfully arrested or jailed from mistaken hits from Al facial
+recognition software, and that a “state-of-the-art” Al system for estimating a person's height and weight from a photo performed
+> worse than regular people with no training. Meanwhile, 90% of police deployments initiated by Chicago's Al gunshot detection
+system turned up no corroborating evidence of gunfire, but led to use of force on at least 82 mostly Black and Latino men as welt
+as three false imprisonments, she said, clting data compiled by the MacArthur Justice Center.
+“A\'s going to present new problems, the next generation of new problems of whether we can trust and test the evidence In a way
+that we feel is going to be reliable enough to give to jurors to be able to believe it and use it," Ferguson said,
+To contact the reporter on this story: Kyle Jahner in Raleigh, N.C. at kjahner@bloomberglaw.com
+To contact the editors responsible for this story; Adam M, Taylor at ataylor@bloombergindustry.com; James Arkin at
+jarkin@bloombergindustry.com
+© 2024 Bloomberg Industry Group, Inc. All Rights Reserved
+3 of 3 4/9/2024, 2:12 PM

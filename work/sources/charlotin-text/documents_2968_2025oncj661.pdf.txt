@@ -1,0 +1,1155 @@
+                         O NT AR I O C O UR T O F J US T ICE
+                                                                   Citation: R. v. Medow, 2025 ONCJ 661
+                                                                                DATE: 2025 December 11
+                                                                    COURT FILE: Toronto #24-48103731
+
+
+
+
+                                                                                                                              2025 ONCJ 661 (CanLII)
+BETWEEN:
+
+HIS MAJESTY THE KING
+
+— AND —
+
+ALEXANDER MEDOW
+
+
+
+                                                     Judgment
+
+                                          Before Justice Brock Jones
+
+                             Heard on December 16 and 17, 2024
+               January 17, June 10, July 4, November 10, and December 9, 2025
+
+                      Reasons for Judgment released on December 11, 2025
+
+
+J. Rinaldi .....................................................................................counsel for the Crown
+D. Molloy ................................................................................................... 486.3 counsel
+A. Stastny……………………………………………………………………..…amicus curiae
+
+
+
+Jones J.:
+
+Introduction and Procedural History
+
+[1]     On January 17, 2024, PC Elliot Lee conducted a routine traffic stop at Queen Street
+West and York Street in Toronto. While speaking to the motorist he had pulled over,
+Alexander Medow approached him on foot and patted him on the back. The two men had
+never met before. This seemingly innocuous interaction triggered a chain of events that
+culminated in a violent confrontation involving Mr. Medow, PC Lee, and several other
+police officers. Mr. Medow was arrested and charged with various offences as a result,
+including obstructing PC Lee in the course of his duties (Criminal Code section 129(a)),
+impersonating a police officer (Criminal Code section 130(1)(b)), and assaulting a peace
+officer causing bodily harm (Criminal Code section 270.01(1)(b)).
+
+[2]    The entire interaction between PC Lee and Mr. Medow was captured on two
+separate video recording devices: PC Lee’s body-worn camera footage (“BWC”) and the
+in-car camera of his police squad car (“ICC”). At the start of the trial, there appeared to
+                                              — 2 —
+
+
+be little dispute between the Crown and Mr. Medow regarding what factually occurred.
+The issues in the trial were to centre around Mr. Medow’s intent, the reasonableness (or
+lack thereof) of the police officers’ response to his conduct, and whether he lawfully acted
+in self-defence once the officers used force against him.
+
+[3]     As the trial progressed, Mr. Medow clarified that he disputed the authenticity of the
+
+
+
+
+                                                                                                         2025 ONCJ 661 (CanLII)
+video evidence presented by the Crown. He asserted that it had been digitally altered to
+distort what truly occurred between him and PC Lee. He also asked me to consider the
+possibility that this central video evidence might be a “deepfake.” He believed he had
+been the victim of a harassment campaign by the Toronto Police Service (“TPS”) for over
+four years. According to his narrative, they had a motive to frame him.
+
+[4]    Throughout the trial, I repeatedly heard him explain why he held these beliefs.
+During the first two days of the trial, he explained that he lacked the resources to properly
+advance his defence and felt that his previous counsel, who was appointed under a legal
+aid certificate, was unable to effectively represent him. That lawyer had to be removed
+from the record on a prior occasion by a different judge. He could not secure a new lawyer
+through a change of solicitor application with legal aid and was left to challenge the
+prosecution’s case on his own, from jail, with limited resources.
+
+[5]     While Mr. Medow had Mr. Molloy's assistance as 486.3 counsel and Mr. Stastny
+was present as amicus, the Crown raised questions about the lawfulness of Mr. Molloy’s
+appointment at the start of the trial.1 Additionally, Mr. Medow indicated that he wanted to
+challenge the Crown’s witnesses himself, in addition to any questioning conducted by Mr.
+Molloy. He held strong beliefs regarding the Charter of Rights and Freedoms, the proper
+role of the police, and the lawful exercise of state authority in a democratic society. He
+felt that I would not understand his perspective unless he could articulate those views
+personally, both through cross-examination and submissions. This included his steadfast
+belief that the video evidence presented by the Crown had been manipulated to
+misrepresent his actions on the day of the incident.
+
+[6]    I ordered that he would be permitted to ask questions of the Crown witnesses
+himself, in addition to any questioning done by 486.3 counsel and/or amicus. This would
+ensure Mr. Medow’s right to defend himself as he saw fit was respected. Since all the
+Crown witnesses were police officers, Mr. Rinaldi did not object. An accused’s right to
+cross-examination is a fundamental part of making a full answer and defence to the
+charges he is facing: see R. v. Samaniego, 2022 SCC 9, at para. 77.
+
+[7]    The trial did not finish on schedule, and obtaining continuation dates was
+challenging. On January 17, 2025, I released Mr. Medow on bail, as continuing his
+detention would have been unjustified in these circumstances.
+
+[8]   On June 10, 2025, Mr. Medow failed to appear in person, despite having been
+ordered to do so.2 He appeared on Zoom. He claimed he was not aware of the trial’s
+
+1 Mr. Molloy was appointed 486.3 counsel by a case management judge.
+2 The information was before a Justice of the Peace in a case management court, who set the trial
+continuation dates. While an agent for amicus appeared on that date, Mr. Medow did not. However, I was
+                                              — 3 —
+
+
+continuation date and was unable to attend in person, regardless, due to his personal
+financial situation. After a lengthy discussion with him, Mr. Stastny and Mr. Rinaldi, I
+granted an adjournment of the trial to July 4, 2025, and ordered Mr. Medow to appear in
+person, with the expectation that he would be prepared to testify in his own defence if he
+chose to do so. Mr. Medow again raised his concern that the Crown’s video evidence had
+been manipulated and was a “deepfake.” He asserted that he would conduct his own
+
+
+
+
+                                                                                                          2025 ONCJ 661 (CanLII)
+forensic examination of the video in support of this claim, despite having limited funds
+available.
+
+[9]     On July 4, 2025, Mr. Medow attended. Mr. Stastny, as amicus, brought a directed
+verdict application on Mr. Medow’s behalf for three of the counts. I granted it with respect
+to only one, the charge of impersonating an officer. On a review of all the evidence in this
+case, I concluded there was no evidence that any objective observer of Mr. Medow’s
+conduct could reasonably conclude he was genuinely attempting to impersonate a police
+officer.
+
+[10]   Mr. Medow indicated he wanted to testify on the remaining charges, but insisted
+he was entitled to an adjournment. He needed more time as he had too many other legal
+cases ongoing. He also spoke about physical and mental health concerns.
+
+[11] Mr. Medow had over six months after being released from custody to prepare for
+the continuation of the trial, with the assistance of amicus. He was very knowledgeable
+about the court process, despite not being a lawyer. As a self-represented person, he
+was responsible for advancing his defence as he desired, including bringing appropriate
+applications. Mr. Medow cast aspersions on the integrity of the justice system on several
+of his court appearances and on Mr. Rinaldi as Crown counsel. He reiterated that he had
+been treated unfairly and that not a single lawyer who had worked on his case, either as
+his counsel or as an amicus, had truly helped him.
+
+[12] I did not accede to the request for another adjournment. I was satisfied that he had
+been given more than enough opportunity to present his defence as he wished, and that
+he was exaggerating his health concerns. He had plenty of time to prepare and knew that
+July 4 was the scheduled completion date of the trial. His accusations directed at the
+Crown and Mr. Stastny were unfounded. An accused person is entitled to a fair trial, not
+a perfect one: Samaniego, at para. 76. While I made every reasonable effort to assist
+him, there is a limit to the extent to which a court can provide assistance to a self-
+represented accused person. A court must at all times remain neutral and can never cross
+the line into becoming counsel for the accused: see R. v. Breton, 2018 ONCA 753, at
+paras. 13-14.
+
+[13] On July 4, 2025, Mr. Medow testified and provided his version of events.
+Submissions were adjourned to November 10, 2025. On that date, the Crown sought an
+adjournment. Mr. Rinaldi was in the midst of a murder trial at the Superior Court of Justice
+that had gone past its anticipated completion date. Mr. Stastny sent an agent who
+requested that he be removed as amicus. He could no longer continue in that role. I
+granted his request and ordered that the trial proceed to final arguments on December 9.
+
+informed by Mr. Stastny that Mr. Medow was subsequently told about the June 10th trial date and that he
+was to appear in person.
+                                         — 4 —
+
+
+Mr. Medow appeared on Zoom and was loud, disrespectful, and could not be reasoned
+with. I informed him to be prepared for the next court date. He did not require further
+assistance from an amicus to complete the trial.
+
+[14] Finally, on December 9, the parties appeared before me. I attempted to provide
+Mr. Medow with a typed memorandum on the applicable law in this case approximately
+
+
+
+
+                                                                                               2025 ONCJ 661 (CanLII)
+two weeks prior to this date. My intention was to assist him with making final submissions.
+I sent a copy to his surety, who informed my office he would send it to Mr. Medow.
+Unfortunately, Mr. Medow found himself back in custody on new charges on a date in
+November. On December 9, we reviewed the legal principles applicable to this case
+together in open court and he was able to review a copy of the memorandum.
+
+[15] Mr. Medow requested yet another adjournment. He argued that he was being
+denied the opportunity to present evidence showing that the videos the Crown relies on
+were deepfakes, medical evidence that could potentially cast doubt on some of the other
+charges, and written materials that would help him make informed submissions about his
+case. I denied the request for a further adjournment. Over the past year, Mr. Medow
+claimed he would call witnesses regarding the authenticity of the video. However, he
+never provided anything to the court to support his claim, and each time I inquired about
+this proposed evidence, he was unable to supply any details. The other types of evidence
+Mr. Medow mentioned were of questionable relevance, even on his theory of the case,
+and he never demonstrated that he took any reasonable steps to obtain that evidence for
+trial. Specifically, Mr. Medow never served a subpoena on any of the alleged witnesses
+he asserted would assist him.
+
+[16] Court resources are not unlimited, and Mr. Medow was not entitled to unlimited
+process: see R. v. Reyes, 2025 ONCA 840, at para. 9. At a certain point, a trial must end.
+This case is not unusually complex, either on its facts or on the applicable law. After a
+year of trial proceedings, I ruled that Mr Rinaldi would make submissions and that Mr
+Medow would be given an opportunity to respond with his own submissions. However,
+there would not be any further adjournments. Mr. Medow was quite adept at claiming
+procedural unfairness and demanding more and more time to make a full answer and
+defence. I concluded that nothing would ever end these requests. There is a requirement
+of some degree of due diligence, even from a self-represented person. Mr. Medow’s
+claims that other forms of evidence existed that would bolster his defence were
+unfounded. He simply wanted to delay the conclusion of the trial as long as possible.
+
+[17] After hearing from the parties, and after nearly a year of litigation, I ruled that the
+matter would be set for a judgment on December 11, 2025.
+
+Overview of the Crown’s Case
+
+   (i) PC Lee
+
+[18] PC Lee had 15 years’ experience with the TPS. On January 17, 2024, he was
+working in full uniform with a marked police car near Queen St. West and York St.
+
+[19] At 12:56 p.m., he stopped a driver who was using his cellphone while operating
+his motor vehicle. He was speaking to the driver when, at 1:02 p.m., a man approached
+                                         — 5 —
+
+
+and tapped him on the back to get his attention. He did not recognize this man and told
+him he was busy, and asked him to wait on the sidewalk. The man referred to him as
+“Bruce Lee”, a well-known martial artist and actor.
+
+[20] The man, later identified as Mr. Medow, then asked PC Lee, “Are you helping
+people or are you fucking people?” He raised his voice significantly and yelled this exact
+
+
+
+
+                                                                                              2025 ONCJ 661 (CanLII)
+phrase again. Next, he placed his hand on PC Lee’s police radio, which was attached to
+his vest. This was unusual and concerned PC Lee, as it indicated that the man might be
+unstable and could escalate his behaviour.
+
+[21] PC Lee pushed Mr. Medow’s hand away and activated the emergency button on
+his radio. This would notify other officers in the area that he needed assistance. Mr.
+Medow advanced toward him and shouted, displaying what appeared to be a badge
+under his jacket. As PC Lee stepped back, the man careened over to Queen Street and
+slammed his hand down on the hood of PC Lee’s squad car.
+
+[22] Mr. Medow refused to follow PC Lee’s commands to stop. PC Lee believed he
+needed to restrain Mr. Medow and that he had reasonable and probable grounds to arrest
+him for assaulting a peace officer. He deployed his taser, causing Mr. Medow to fall to the
+ground. Another officer, PC Scheffer, assisted in placing handcuffs on Mr. Medow to gain
+control over him. However, the taser malfunctioned, and Mr. Medow resisted. Mr. Medow
+formed closed fists and struck PC Lee on the nose.
+
+[23] By this time, many officers had arrived on the scene and assisted in arresting Mr.
+Medow. PC Lee was taken to a local hospital for treatment of his injuries.
+
+[24] PC Lee identified his BWC video and his car’s ICC video as accurately depicting
+the events that occurred between him and Mr. Medow. Everything unfolded very quickly.
+Between the time Mr. Medow first approached him and when he decided to deploy his
+taser, less than two minutes elapsed.
+
+   (ii) PC Sheffer
+
+[25] PC Scheffer was working at Osgoode Hall when he became aware that PC Lee
+required assistance after the emergency alarm was activated. He promptly went to help.
+
+[26] He heard a police taser being deployed and saw PC Lee bleeding from his face.
+He placed a handcuff on Mr. Medow’s left hand. Mr. Medow tried to stand up, and PC
+Scheffer struggled to get his other hand behind his back as he was resisting. Mr. Medow
+was yelling.
+
+[27] PC Lee told Mr. Medow to “stop resisting.” Mr. Medow attempted to grab PC
+Scheffer’s face but never made contact. Eventually, he and the other officers managed
+to place handcuffs on Mr. Medow and gain control of him. He reviewed the video of his
+involvement with Mr. Medow and did not raise any concerns about its accuracy.
+
+   (iii) PC Kell
+                                                — 6 —
+
+
+[28] PC Kell was working at 52 Division when he received a radio call to assist another
+officer. Upon arriving on Queen St., he found PCs Lee and Scheffer struggling with Mr.
+Medow.
+
+[29] After Mr. Medow was handcuffed, he was placed in the back of PC Kell’s squad
+car. Once seated, he told PC Kell, “If you see me walking down the street, you better turn
+
+
+
+
+                                                                                                               2025 ONCJ 661 (CanLII)
+around and find God.”3 PC Kell asked Mr. Medow, “Are you threatening to kill me?” Mr.
+Medow denied that he meant the words as a threat. Nevertheless, PC Kell arrested him
+for uttering a threat.
+
+[30] PC Kell identified audio-video footage from another officer’s BWC as an accurate
+recording of what Mr. Medow said to him. He also identified ICC footage that provided
+another audio recording of what was said by Mr. Medow.
+
+Testimony of Mr. Medow
+
+[31] Mr. Medow described a series of tragic events that occurred in his life beginning in
+2019. I will not repeat them in this written judgment. In summary, he testified that he had
+been mistreated by the police on several occasions and believed he was being unfairly
+targeted now due to his ongoing efforts to hold the authorities accountable for their past
+behaviour.
+
+[32] Some of his prior legal disputes involved the manipulation of audio-visual
+recordings. For example, following several freedom of information requests, he has been
+provided with footage from a government body that had certain portions of the audio
+redacted. He believed this was done to cover up the actions of the police and to help them
+avoid embarrassment. He was adamant he had been falsely charged more than once.
+These events were presented to provide context for why he believed he was unlawfully
+arrested and charged for the current charges.
+
+[33] On January 17, 2024, Mr. Medow understood he was subject to a release order
+with terms that restricted his liberty. He was permitted to attend court. He testified that he
+was on Queen Street because he was attending court to seek a bail variation. On the
+way, he encountered PC Lee.
+
+[34] When Mr. Medow located PC Lee, he was standing facing the sky. He did not
+appear to be engaged in a traffic stop. He felt that he could forgive the police for what
+they had done to him in the past, and had a pleasant conversation with the officer at first.
+The video evidence introduced by the Crown was evidently manipulated, as it did not
+align with his memory of what occurred.
+
+[35] He denied touching the officer’s radio. He pushed the officer’s hand away to protect
+himself. He felt he had a right to defend himself as PC Lee was being aggressive.
+Following a brief confrontation, he walked away, trying to disengage from the situation.
+Afterwards, PC Lee assaulted him from behind, and any actions he took thereafter were
+
+
+3 PC Kell initially testified to a different version of the alleged threat. However, after reviewing the BWC
+
+footage, he agreed these were the words Mr. Medow spoke.
+                                          — 7 —
+
+
+to defend himself. PC Lee did not tell him he was under arrest, and therefore, the officer
+had no right to use force against him. As he put it, a police officer is not “above the law.”
+
+[36] Regarding what he told PC Kell, it was not a threat. He was attempting to inform
+the officer that he would have to seek redemption for his role in what had just transpired
+(that being his unlawful arrest and confinement), and that God was watching him, too.
+
+
+
+
+                                                                                                2025 ONCJ 661 (CanLII)
+Positions of the Parties
+
+[37] Mr. Rinaldi argues that Mr. Medow was bound by a release order with a “house
+arrest” term. While going to a courthouse might provide a hypothetical reasonable excuse
+for the charge of failing to comply with the terms of the release order, I should reject Mr.
+Medow’s testimony in this regard. At a minimum, Mr. Medow intentionally interfered with
+an officer’s duties, which would place his conduct outside the parameters of any possible
+defence. He did not travel directly to a courthouse, on his own version of events.
+
+[38] Mr. Medow’s conduct also establishes the offence of obstructing an officer. Mr.
+Rinaldi argues that I should accept the police video evidence and PC Lee’s testimony.
+From that evidence, it is clear that Mr. Medow launched a “verbal and physical onslaught”
+against PC Lee, which was done intentionally to interfere with his duties. His conduct was
+so frightening that it amounted to an assault, even if the physical contact was very minor.
+PC Lee reasonably feared for his safety. This constituted the first charge of assaulting an
+officer.
+
+[39] PC Lee was therefore lawfully entitled to arrest Mr. Medow and deploy his taser.
+PC Lee was reasonably concerned that Mr. Medow was acting erratically, violently and
+dangerously, and he could not just let him wander off into a highly populated area. Mr.
+Medow, by contrast, was not permitted to use force legally to resist the arrest. He struck
+PC Lee and caused bodily harm to him, without justification. Mr. Rinaldi thus submits that
+I should find Mr. Medow guilty of the second charge of assaulting PC Lee and causing
+bodily harm to him.
+
+[40] Finally, Mr. Rinaldi argues that Mr. Medow’s behaviour during the arrest was
+enough to show he was actively resisting the officers assisting PC Lee. He is therefore
+also guilty of resisting those officers’ lawful demands.
+
+[41] The threats made to PC Kell should be viewed as what they are – clear threats to
+PC Kell’s safety at least. Telling the officer that he would “see you in Hell” and he would
+“find God” was meant to intimidate him. Mr. Rinaldi submits that proves the final count of
+threatening on the information.
+
+[42] Regarding the defence evidence, Mr. Rinadli asked me to reject Mr. Medow’s
+testimony. It was illogical, filled with inconsistencies and implausible elements, and
+generally entirely at odds with the reliable video evidence. It should not raise any
+reasonable doubt in my mind.
+
+[43] Mr. Medow argued that he was the victim of a malicious prosecution and was
+entirely innocent. The trial process was unfair. He could access evidence that would prove
+                                                  — 8 —
+
+
+his innocence, because I had denied him that right. Mr. Stastny, as amicus, also failed
+him. He was a victim of abuse from everyone who had a role to play in the court process.
+
+[44] When asked to make submissions on the offences, Mr. Medow instead chose to
+tell me new things about the case, as if he were testifying again. He went on irrelevant
+tangents that had nothing to do with what I needed to decide, despite clear legal
+
+
+
+
+                                                                                                                2025 ONCJ 661 (CanLII)
+instructions to assist him, and the opportunity to consider Mr. Rinaldi’s comprehensive
+submissions. He did not make many coherent submissions based on the applicable law
+and the evidence that was presented in the case. He repeated multiple times that God
+favoured him, that he understood the world in a way that I did not, and that Mr. Rinaldi
+would face justice for what he had done in this case.
+
+[45] However, during the trial, I was able to understand, with the assistance of an
+amicus, what Mr. Medow’s perspective was on the Crown’s allegations, and how his
+testimony, if accepted, would exonerate him.4 As well, Mr. Medow did make some
+relevant submissions during the opportunity I provided him to address the court on
+December 9, 2025. I have also considered what he told me as well, when he was able to
+focus, however briefly, on the requirements of the specific charges before the court.
+
+The Authenticity of the Crown’s Video Evidence
+
+[46] The party seeking to introduce digital evidence bears the burden of persuading the
+trial court through some evidence that the “electronic document is that which it is
+purported to be”: Canada Evidence Act (“CEA”) section 31.1; R. v. C.B., 2019 ONCA 380,
+at para. 66; Richardson v. R., 2020 NBCA 35, at para. 27. The standard is not onerous:
+see R. v. Martin, 2021 NLCA 1, at para. 49. Once admitted, the trier of fact must assess
+the evidence’s ultimate reliability at the conclusion of the trial and determine what weight
+it should be afforded.
+
+[47] The finding of a trial court that digital evidence has been “authenticated” and is
+therefore admissible does not prevent an accused person from disputing the evidence's
+trustworthiness and questioning whether it is sufficient to prove the case against him. As
+explained by the Newfoundland Court of Appeal in Martin,
+
+        [49]…authentication does not mean the document is genuine. If the “evidence
+        capable of supporting” a finding had to actually determine that the electronic
+        document is in fact what it purports to be, a court would always be required to
+        subject individual pieces of electronic evidence to the standard of beyond a
+        reasonable doubt or the balance of probabilities at the admissibility stage. Such a
+        requirement conflicts with general evidentiary principles respecting the
+        admissibility of evidence.
+
+        …
+
+        [51] …authentication of electronic evidence does not prove that the electronic
+        evidence is what it appears to be. Electronic evidence, once admitted, is simply
+        evidence, no more no less. It is able to be used in the same way any other piece
+
+4 Mr. Rinaldi did not dispute that if I accepted Mr. Medow’s testimony, it would entitle him to an acquittal.
+                                           — 9 —
+
+
+       of admissible evidence can be used. The weight given to it is a matter for a trial
+       court to determine in its consideration of the totality of the evidence when coming
+       to a final conclusion on a case.
+
+[48] Thus, if the proposed digital evidence meets the requirements for admissibility
+under the CEA, the trier of fact must still determine its ultimate reliability. In a case like
+
+
+
+
+                                                                                                  2025 ONCJ 661 (CanLII)
+this one, that will depend, in part, on my assessment of the credibility and reliability of the
+witness(es) who authenticated it, as well as any who challenge its accuracy: R. v. Ball,
+2019 BCCA 32, at para. 70; R. v. Hirsch, 2017 SKCA 14, at para. 18.
+
+[49] Before the proliferation of deepfakes, in R. v. Aslami, 2021 ONCA 249, the Ontario
+Court of Appeal cautioned against trial courts placing blind faith in digital evidence that
+had seemingly been “authenticated” by a witness. In Aslami, the appellant was convicted
+of multiple charges related to the firebombing of a home in Ottawa. He had recently
+separated from his wife, who had sent him photographs of herself and another man, S.F.,
+in bed together. Shortly thereafter, the home of S.F.’s wife was firebombed.
+
+[50] The case against Mr. Aslami was largely circumstantial. The Crown introduced
+electronic messages sent to the appellant’s ex-wife and S.F. that suggested the sender's
+involvement in the incident. The Crown alleged that Mr. Aslami was the author. The
+defence theorized that someone else, such as his ex-wife or S.F., had fabricated the
+messages to implicate him.
+
+[51] The Court allowed the appeal. The trial judge had not conducted a proper voir dire
+on the authenticity of the messages. Justice Nordheimer noted the ease with which digital
+evidence can be manipulated and suggested that expert evidence might be necessary to
+meet the authentication standard in certain circumstances:
+
+       [11] This case demonstrates the risks associated with not paying adequate heed
+       to the dangers that are associated with relying on text and other messages, absent
+       expert evidence explaining how various pieces of software, or "apps", can be used
+       to generate these messages, and how reliable the resulting messages are in
+       different respects. Put simply, it is too easy to use various pieces of software to
+       create, or manipulate, messages such that they can appear to be from someone
+       when, in fact, they emanate from an entirely different person. Similarly, the timing
+       of the messages can be altered to suit a particular purpose.
+
+       […]
+
+       [30] As I said at the outset, trial judges need to be rigorous in their evaluation of
+       such evidence, when it is presented, both in terms of its reliability and its probative
+       value. The trial judge did not engage in that rigorous analysis in this case. In
+       fairness, the trial judge was not assisted by the prosecution in this task. The
+       prosecution ought to have called expert evidence to address the issues that the
+       evidence posed, but they did not.
+
+[52] Just as it is easy to manipulate electronic messages, Mr. Medow asks me to take
+judicial notice that it has become all too easy to create or manipulate video evidence
+through generative artificial intelligence (“AI”) technology. He referenced a documentary
+                                             — 10 —
+
+
+he watched about Elon Musk, deepfakes and AI software. He submits that these
+programs or apps are readily available online. A cursory Google search for information
+about deepfakes lends support to his argument, and I note that Canada is hardly immune
+from what has become a global concern.5
+
+[53] Justice Rowe explained the concept of taking judicial notice in his reasons in R. v.
+
+
+
+
+                                                                                                          2025 ONCJ 661 (CanLII)
+Kruk, 2024 SCC 7, at para. 144:
+
+       Judicial notice” is the acceptance by a court of the truth of a particular fact without
+       “proof” (Lederman, Fuerst and Stewart, at ¶19.25). The threshold for taking judicial
+       notice of fact is strict — “a court may properly take judicial notice of facts that are
+       either: (1) so notorious or generally accepted as not to be the subject of debate
+       among reasonable persons; or (2) capable of immediate and accurate
+       demonstration by resort to readily accessible sources of indisputable accuracy” (R.
+       v. Find, 2001 SCC 32, [2001] 1 S.C.R. 863, at para. 48).
+
+[54] I agree with Mr. Medow that the existence and widespread proliferation of AI
+technology capable of producing realistic deepfake videos are matters properly subject
+to judicial notice: see R. v. Cheng, 2025 ONCJ 252, at para. 7. Anyone who spends time
+online has likely encountered well-known deepfake videos, particularly those featuring
+celebrities or politicians. These can be highly deceptive, making it challenging to discern
+what is authentic and what is fiction. Applications that help users create these videos are
+heavily marketed and promoted on various social media platforms, including Twitter/X
+and TikTok. Many more can be purchased and downloaded from various websites.
+Recently, the Supreme Court of Canada noted that the production of deepfakes through
+artificial intelligence for criminal purposes, such as the creation of child sexual abuse and
+exploitation material, is a “present and growing danger”: see Quebec (Attorney General)
+v. Senneville, 2025 SCC 33, at para. 32.
+
+[55] I also agree that even if a court diligently evaluates digital evidence, a deepfake
+video could be “authenticated” by a witness who might honestly but mistakenly believe it
+to be an accurate depiction of the events it purports to represent. Alternatively, a witness
+could intentionally deceive a court by claiming a video was authentic when, in fact, they
+knew it was not. I agree that the existence of deepfakes presents a potentially serious
+concern to the integrity of our justice system. However, the admission of digital evidence
+does not mean that its ultimate reliability should be presumed. By contrast, a rigorous
+analysis of the ultimate reliability of any type of digital evidence is always required. The
+admissibility standard associated with the authentication of digital evidence must never
+be confused with the Crown’s heavy burden to prove its case against an accused person
+beyond a reasonable doubt. Furthermore, a trial court must consider not only any
+disputed digital evidence when determining if the Crown has met its burden, but the
+
+
+
+5  For example: “Can you spot the deepfake?”, from CBC news online, January 17, 2024:
+https://www.cbc.ca/player/play/video/1.7087086; “This Article Is Real – But Deepfakes Look Damn Close”,
+CBC News, February 4, 2024: https://www.cbc.ca/news/canada/deepfake-ai-scam-ads-1.7104225; Videos
+from Google’s new AI video generator stir awe and alarm, CTV News, May 22, 2025:
+https://www.ctvnews.ca/sci-tech/article/videos-from-googles-new-ai-video-generator-stir-awe-and-alarm/
+                                                 — 11 —
+
+
+totality of the evidence presented at the conclusion of the trial: see S.J. v. R., 2024 QCCA
+253, at paras. 91-93; C.B. at para. 61.
+
+[56] PC Lee testified that the video evidence from his BWC and the ICC video
+accurately depicted his interactions with Mr. Medow. PC Scheffer and PC Kell verified the
+segments of these videos in which they appeared but were unable to confirm the
+
+
+
+
+                                                                                                                 2025 ONCJ 661 (CanLII)
+authenticity of the remaining footage. Each officer testified that they did not alter the video
+evidence. PC Lee explained that after he uploaded his BWC footage through a TPS
+docking station, he lost control over it. The Crown did not call any witnesses to clarify
+what occurs with BWC footage after it is uploaded in this manner, who has access to it,
+and how it is ultimately provided to the accused in disclosure or to the court at trial.
+Additionally, no evidence was presented regarding the process by which the ICC video
+was retrieved, prepared, and supplied to Mr. Medow.
+
+[57] Notably, the Crown did not dispute that a portion of the video had been intentionally
+manipulated. In the BWC footage, the face of the motorist detained by PC Lee was blurred
+out. I heard no evidence regarding how this was done or who was responsible, although
+Mr. Rinaldi explained that it was likely done by the police service to protect that person’s
+privacy interests.6 Mr. Medow’s argument that it is not only possible to manipulate the
+police video evidence but also that some degree of manipulation actually occurred in this
+case is, therefore, not entirely without merit.
+
+[58] Additionally, Mr. Medow asked PC Lee during cross-examination if it was possible
+that the video footage did not accurately represent how their confrontation began and
+suggested an alternative version of events. PC Lee could only say he “did not remember”
+matters occurring in the alternative manner suggested by Mr. Medow, but he did not
+emphatically rule them out. He was uncertain.
+
+[59] However, while the onus lies with the Crown to authenticate the video evidence it
+presented, the collective testimony of the officers is sufficient to meet that requirement
+in this case. Mr. Medow did not present or point to any evidence suggesting that the
+videos had been manipulated, aside from the blurring of the motorist’s face. This was a
+benign change to the video that did not impact Mr. Medow’s right to a fair trial. I
+acknowledge that Mr. Medow does not face any burden in this trial, and it was the
+Crown that tendered the video evidence. Nevertheless, mere speculation by an accused
+person that digital evidence has been falsified to deceive the viewer is insufficient to
+preclude its admissibility or to diminish its weight. For example, in C.B., the Ontario
+Court of Appeal held that “rank speculation” that text messages were not authored by
+the accused, in the face of circumstantial evidence suggesting he was the author, was
+an insufficient basis upon which the trial judge could assign them no weight: see para.
+72.
+
+
+
+
+6  While I have no doubt Mr. Rinaldi was acting as an officer of the court when he made these
+representations, they did not constitute evidence. I was informed that the identity of the driver was provided
+in the disclosure materials and neither side sought to call him as a witness. Nevertheless, I am prepared to
+accept, based on my judicial experience, that it is common for the TPS to blur third-party faces in videos of
+this nature for privacy reasons.
+                                               — 12 —
+
+
+[60] An interesting, reported case that addressed an argument similar to Mr. Medow’s
+is R. v. MD, 2024 ABKB 104. In MD, the accused was the complainant’s uncle. He was
+charged with historical sexual interference charges. 17 years after the events allegedly
+occurred, the complainant surreptitiously recorded a conversation she had with him. In
+this conversation, he made inculpatory statements. While the accused admitted at trial
+that the conversation occurred, he denied making the inculpatory statements contained
+
+
+
+
+                                                                                                       2025 ONCJ 661 (CanLII)
+within it. He took the position that the complainant had somehow cloned his voice and
+the recording had been tampered with. The trial judge rejected this argument as
+speculative and found that there was no evidence to suggest the complainant had any
+familiarity with AI technology. Furthermore, there were no obvious signs of tampering,
+and no forensic evidence was presented to suggest that the recording was not
+authentic: see paras. 16 and 46-53.
+
+[61] With respect to the BWC footage at the centre of this case, I cannot infer that the
+video was intentionally altered to falsely incriminate Mr. Medow, simply given the
+measures taken to protect the unknown motorist’s identity.7 Nor does Mr. Medow’s firmly
+held belief that the police in general have a motive to frame him provide the court a reason
+to disregard the content of the videos. The specific officers who testified provided credible
+and reliable testimony, demonstrating a strong, independent recollection of the offences
+they witnessed and confirming each other’s accounts regarding Mr. Medow’s acts of
+violence. PC Lee’s uncertainty about how Mr. Medow first approached him holds little
+significance in this case. None of the officers’ testimony was undermined by impeachment
+on prior inconsistent statements, and their notes did not contain significant inaccuracies.
+Furthermore, PC Lee’s testimony was substantiated by the photographs taken of his
+injuries as well.
+
+[62] Mr. Medow asked me to consider the existence of a larger police conspiracy, but
+there was no evidence that PCs Scheffer and Kell had met each other or PC Lee before
+January 17, 2024. Nor was there evidence that they were somehow connected to the
+other officers Mr. Medow had negative experiences with in the past. Although Mr.
+Medow’s testimony that the events in the video are inaccurate does provide a basis for
+rejecting the ultimate reliability of the video evidence, as I will explain, I do not accept his
+testimony, and it does not raise any reasonable doubt in my mind. The officers testified
+that they had no prior history with Mr. Medow, and I accept that they had no animus
+towards him. The video evidence was not novel but was relatively standard Toronto Police
+Service BWC and ICC footage. Furthermore, it was not suggested that the officers could
+have personally affected the video evidence after it was uploaded or that they possessed
+the technical knowledge to do so. I accept their testimony on each of these points.
+
+[63] Mr. Medow’s testimony was riddled with inconsistencies and evolved in
+unpredictable ways. He often lost focus and gave speeches about entirely peripheral
+matters. He often did not answer Mr. Rinaldi’s questions directly in cross-examination and
+was openly hostile to him. He resorted to insulting and demeaning language that was
+completely unwarranted when confronted with questions or suggestions he did not want
+to answer.
+
+
+7 To be clear, nor does Mr. Medow’s suggestion, unsupported by any other source of evidence, raise a
+
+reasonable doubt in my mind regarding the video’s authenticity.
+                                         — 13 —
+
+
+[64] A few examples are enough to explain why his testimony was incredible and
+completely unreliable. He could not plausibly explain why he deliberately approached PC
+Lee, since his bail conditions required him to go straight to court if he was outside his
+residence. He had no reason to speak to the officer and could not give a satisfactory
+explanation for his actions, despite Mr. Rinaldi asking him multiple times. He also did not
+convincingly explain why he called the officer "Bruce Lee." He admitted that he did not
+
+
+
+
+                                                                                               2025 ONCJ 661 (CanLII)
+know the officer before seeing him on Queen Street.
+
+[65] When he finally explained that he was working to reform police actions, which
+apparently explained why he needed to approach PC Lee, he was asked why he had
+used profanity when he first spoke to the officer. He did not answer this question
+convincingly and tried to deflect when pressed by Mr. Rinaldi. He went on a tangent about
+recording a music album and a campaign to expose corruption. He also seemed to agree
+that this part of the video was an accurate recording, despite having previously claimed
+that his initial interactions with PC Lee were misrepresented in the video. He was
+inconsistent.
+
+[66] When asked why he had a fake badge that he showed to PC Lee, he initially
+responded that Mr. Rinaldi should not assume it was a fake. He later changed his
+testimony, saying it was a fake badge. Once again, this was internally inconsistent.
+
+[67] Mr. Rinaldi asked Mr. Medow if the footage on the ICC video was authentic, even
+though Mr. Medow believed the BWC footage of PC Lee was a deepfake. He initially
+refused to answer, asserting that he did not have to submit to questioning. Mr. Rinaldi
+persistently questioned him, and he fluctuated between stating that if one video was
+manipulated, then none could be trusted, and selectively relying on parts of the videos to
+support his testimony when he believed those parts favoured him.
+
+[68] Phrased differently, during his testimony, he seemed to choose on a whim which
+parts of the video he wanted to claim were real, while also simultaneously claiming that
+entire portions of the video could not be trusted. At times, he referred to the video
+evidence as entirely untrustworthy deepfakes; other times, as “the evidence” that
+confirmed his version of events. There was little to no logical consistency.
+
+[69] Of course, I understand that a video might be manipulated in some parts while the
+rest remains authentic. However, Mr. Medow’s testimony was meandering. There was no
+clear dividing line in his account between what he claimed was a falsified video and what
+he acknowledged as genuine. His stance on the accuracy of different forms of video
+evidence kept changing.
+
+[70] Having accepted the officers' testimony that the videos are authentic, I therefore
+find that the digital evidence satisfies the test for admissibility required by section 31.1
+of the CEA. Although the Crown did not provide evidence regarding the continuity of the
+police videos following Mr. Medow's arrest, I do not believe that the weight to be given
+to the videos is affected by the absence of that evidence in this case.
+
+[71] Before concluding on this matter, I wish to make a few additional observations. Mr.
+Medow fairly voiced concerns about having limited resources, which affected his ability
+to effectively challenge the admissibility of the digital evidence. He suggested that the
+                                               — 14 —
+
+
+videos’ metadata might indicate manipulation and that an expert examination was
+necessary before I should trust them. Although I have ruled that the officers' testimony
+sufficiently authenticated the videos in this case, Justice Nordheimer’s warning in Aslmani
+that some forms of digital evidence may require the Crown to present expert evidence for
+authentication should be taken very seriously. In that case, the Crown witnesses had a
+motive to falsely implicate the appellant. They could have altered the incriminating text
+
+
+
+
+                                                                                                              2025 ONCJ 661 (CanLII)
+messages, as they were familiar with the TextNow app from which those messages were
+sent and received. This is different from the current case, which involves impartial police
+witnesses who had no control over the video evidence after the events in question.
+
+[72] Courts must seriously consider how to assist an economically disadvantaged self-
+represented accused person who disputes the authenticity of digital evidence to ensure
+a fair trial, without compromising their independence. While there are ongoing efforts in
+the scientific community to develop tools for courts to identify deepfakes, they have not
+yet come to fruition, to the best of my knowledge.8 In this case, Mr. Medow challenged
+the Crown witnesses through questioning that I assisted with, and he had the benefit of
+Mr. Molloy’s role as 486.3 counsel, and Mr. Stastny's role as amicus. I am satisfied his
+position was adequately addressed and fairly presented. However, there is no doubt that
+when he was detained for the first part of the trial, he was significantly disadvantaged in
+conducting his defence. While he was out of custody for the latter half of the trial, until his
+recent arrest, he maintained that he still lacked the resources to meaningfully challenge
+the video evidence as he desired.
+
+[73] As generative AI technology continues to advance and the ease with which viewers
+can be deceived by falsified digital evidence increases, courts must ensure that the
+authentication voir dire required for digital evidence is not rendered meaningless. This
+presents a potentially serious access-to-justice issue, as the vast majority of self-
+represented litigants, such as Mr. Medow, will lack the means to retain an expert of their
+own.9 Nothing in this ruling should be interpreted as a decision that the Crown is never
+required to present more comprehensive evidence than was done in this trial to ensure
+that its digital evidence can be safely relied upon. Each case must be assessed
+independently, and the law may soon need to adapt given the stark realities of these ever-
+changing technologies and their capacity to negatively impact on the truth-seeking
+function of the criminal trial process: R. v. Tessling, 2004 SCC 67, at para. 55; R. v.
+Vermeer, 2023 BCCA 206, at para. 8.10
+
+8  For example, an inaugural research initiative funded through the Canadian Institute for Advanced
+Research’s Canadian AI Safety Institute program intends “to spend the next two years creating an open-
+source, free and easy to use tool that courts, people navigating the justice system and others can use to
+help detect AI-generated content”: Real or fake? Researchers to develop tool that would help courts spot
+AI evidence, Toronto Star, December 5, 2025.
+9 Whether an expert witness would be able to provide reliable testimony about the likelihood a video or
+
+image is inauthentic is the subject of much debate: see Fakhar Abbas, and Araz Taeihagh: Unmasking
+deepfakes: A systematic review of deepfake detection and generation techniques using artificial
+intelligence, Expert Systems with Applications, Volume 252, Part B, 2024, 124260, ISSN 0957-4174. A voir
+dire to assess each proposed expert witness’s qualifications will be necessary to avoid “junk science” from
+infiltrating the courts.
+10 In 2025, the Ontario Civil Rules Committee’s subcommittee on artificial intelligence, chaired by Ontario
+
+Court of Appeal Justice Peter Lauwers, sought feedback on four proposed changed to the Rules of Civil
+                                              — 15 —
+
+
+Analysis – The Offences
+
+[74] With the video evidence presented by the Crown determined to be reliable, very
+little is factually unclear about what transpired between Mr. Medow and PC Lee. Whether
+or not the offences have been established, however, raises questions of mixed fact and
+law, and there were conflicting views of how I should interpret the video recordings. Where
+
+
+
+
+                                                                                                           2025 ONCJ 661 (CanLII)
+necessary, I will comment on the testimony of the officers and Mr. Medow.
+
+[75] Mr. Medow is presumed innocent. The Crown must prove the essential elements
+of each offence beyond a reasonable doubt. If I accept Mr. Medow’s testimony, he must
+be acquitted. Even if I do not fully accept it, if it leaves a reasonable doubt in my mind, I
+must also enter an acquittal. Finally, even if I fully reject his testimony, I must consider all
+of the evidence I do accept to determine whether the Crown has proven its case against
+him beyond a reasonable doubt. Every charge must be examined carefully, taking into
+account the applicable evidence regarding the essential elements of the offence’s actus
+reus and mens rea components.
+
+[76] Mr. Medow was charged with obstructing PC Lee contrary to section 129(a),
+assault peace officer and assault peace officer causing bodily harm contrary to section
+270(1)(a) and section 270.01(b) of the Criminal Code.
+
+[77] An essential element of the offence of assaulting an officer is that the target of the
+assault was a peace officer engaged in the execution of his duty at the time the assault
+occurred: see R. v. Beseiso, 2018 ONSC 5042, at para. 39. The accused must also have
+known that the person assaulted was a police officer: see R. v. Hashi, 2021 ONSC 5617,
+at para. 69. PC Lee was in full uniform and easily identified himself as a police officer
+while lawfully investigating a motorist for a driving offence.
+
+[78] Regarding the charge of obstructing PC Lee in the course of his duties, in R. v.
+Blackman, 2024 ONSC 3595, Justice Phillips summarized the essential elements of the
+offence at para. 8:
+
+      First, there must be a peace officer who is engaged in the execution of a lawful
+       duty.
+
+      Second, the accused person must know or be wilfully blind to the fact that this
+       person is a police officer and must know or be wilfully blind to the act that the officer
+       is executing.
+
+      Third, the alleged obstructive conduct must be an intentional act by the accused
+       person.
+
+
+Procedure around AI-generated evidence. One of the proposed rules would give parties the power to
+challenge       the     authenticity     of       AI-generated  or      modified     evidence:       see
+https://www.lawtimesnews.com/news/general/toronto-lawyers-org-questions-need-for-proposed-ontario-
+civil-rules-changes-on-ai-evidence/392994. In the United States, on May 2, 2025, the U.S. Judicial
+Conference’s Advisory Committee on Evidence Rules considered proposals to amend the Federal Rules
+of     Evidence     to  address      the    challenges    posed by    AI-generated     evidence:     see
+https://natlawreview.com/article/ai-generated-deepfakes-court-emerging-threat-evidence-authenticity.
+                                               — 16 —
+
+
+       Fourth, that act must make it more difficult for a peace officer to carry out their
+        duties.
+
+       Finally, the accused person must intend to make it more difficult for the police to
+        execute their duty.
+
+
+
+
+                                                                                                              2025 ONCJ 661 (CanLII)
+[79] The video evidence recorded Mr. Medow approaching PC Lee while he was
+speaking with a detained motorist. He tapped PC Lee on the shoulder and shortly
+thereafter begins screaming at him aggressively, questioning whether he was acting
+appropriately as an officer. I accept PC Lee’s testimony that Mr. Medow touched his radio,
+which was attached to his vest, and came extremely close to PC Lee while yelling at him.
+Mr. Medow made a racist remark to PC Lee, calling him “Bruce Lee.”11 He ignored PC
+Lee’s orders to step aside. Understandably, PC Lee had to end his traffic investigation,
+turn his attention to Mr. Medow, and take steps to detain him for public safety reasons.
+Mr. Medow’s conduct was volatile, intimidating, and somewhat violent.
+
+[80] The Crown has proven all the requirements beyond a reasonable doubt. Mr.
+Medow’s intentional conduct hindered PC Lee in performing his duties and ultimately
+compelled the officer to abandon his investigation under the Highway Traffic Act
+altogether. Mr. Medow’s testimony about his actions was illogical and inconsistent with
+the video evidence. It does not raise any reasonable doubt in my mind. He is found guilty
+of obstructing PC Lee, count 2.
+
+[81] When Mr. Medow first approached PC Lee, he patted him on his upper back to
+get his attention. PC Lee did not consider this an assault, and I will not decide the
+charge of assaulting an officer on that basis, as Mr. Rinaldi, honourably, did not ask me
+to do so.
+
+[82] But Mr. Rinaldi did point me to another theory about how the assault happened.
+To reiterate some of the evidence, Mr. Medow quickly started asking PC Lee whether he
+was helping people or “fucking people.” He raised his voice, was standing just a short
+distance away, and refused to stop his behaviour despite being told to stand on the
+sidewalk. He repeated himself and touched PC Lee’s radio. Mr. Medow was taller and
+larger than PC Lee. He was very close to PC Lee. In an attempt to gain control, PC Lee
+pushed Mr. Medow away and then ordered him to stop moving. Mr. Medow slammed his
+hand down on the hood of PC Lee’s squad car and began walking down Queen Street,
+which was filled with civilians. To regain control of Mr. Medow, who was highly agitated
+and ignoring the commands given to him, PC Lee deployed his taser, causing Mr. Medow
+to fall to the curb.
+
+[83] I accept PC Lee’s testimony that this happened as he described, even if it is not
+entirely clear in the videos, as some of what occurred was outside his BWC’s scope of
+vision. Nevertheless, the video confirms his testimony to a significant degree. For
+example, at 6:52, the viewer can see PC Lee move Mr. Medow’s hand away from his
+torso, confirming PC Lee’s testimony that Mr. Medow placed his hand upon his radio.
+
+11 Indeed, during cross-examination, he referred to the officer as Bruce Lee again when responding to one
+
+of Mr. Rinaldi’s questions: “Bruce Lee comes behind me and starts striking at me like he’s some ninja...” –
+see the transcript from July 4, 2025, in courtroom 802, at page. 79.
+                                         — 17 —
+
+
+[84] I agree with Mr. Rinaldi’s submission that Mr. Medow’s language, tone, body
+language, and overall actions towards PC Lee should not be viewed in isolation. Looking
+at the entire video, Mr. Medow displayed very aggressive behaviour and language. He
+had just interfered with PC Lee’s duties and appeared to be seeking a confrontation with
+the officer. It is unquestionably dangerous for any member of the public to approach a
+uniformed officer on duty, raise their voice at them, use profanity, and touch their body or
+
+
+
+
+                                                                                               2025 ONCJ 661 (CanLII)
+equipment. This naturally raises questions in the officer’s mind about the person’s true
+intentions and what might be causing such behaviour. PC Lee was genuinely worried
+about his safety and the safety of others nearby.
+
+[85] PC Lee found himself in a strange and rapidly escalating situation. He had been
+physically and verbally accosted by Mr. Medow, who was obviously very emotionally
+disturbed. Criminal Code section 265(1)(b) states that an assault occurs if a person
+attempts or threatens, by an act or gesture, to apply force to another person, and if he
+causes that other person to believe on reasonable grounds that he has the present ability
+to effect that purpose. I accept Mr. Rinaldi’s submissions regarding this charge. PC Lee
+had reasonable grounds to believe that Mr. Medow was in the process of assaulting him.
+Mr. Medow knew what he was doing and that he was causing PC Lee to fear for his
+safety. The point of his conduct was to intimidate PC Lee. I therefore find the Crown has
+proven the essential elements of this offence beyond a reasonable doubt and find him
+guilty of count 4.
+
+[86] Furthermore, I find that PC Lee had reasonable and probable grounds to arrest
+Mr. Medow based on the totality of Mr. Medow’s conduct, for either obstruction or assault.
+He subjectively viewed Mr. Medow’s actions and comments as providing a basis to make
+an arrest, and I find that decision to be objectively reasonable.
+
+[87] After Mr. Medow attempted to leave the scene, he was struck with a conducted
+energy weapon (taser), and then lay on the ground briefly. PCs Lee and Scheffer arrived
+and tried to put handcuffs on him and arrest him. Mr. Medow then attempted to stand up,
+accused the officers of excessive force and assault, and refused to comply with their
+demands. The taser was no longer effective. As they struggled, Mr. Medow lashed out
+and intentionally struck PC Lee in the face, causing him to suffer a bloody nose and
+soreness.
+
+[88] Officers are entitled to use reasonable force when effecting an arrest: Criminal
+Code section 25. I find that the officers’ decisions were justified. Mr. Medow was highly
+agitated, had verbally and physically accosted PC Lee, and would not comply with
+repeated demands to stop moving. When PC Lee attempted to place a hand on Mr.
+Medow, it was met with physical resistance. PC Lee was unable to gain control of him
+and could not allow him to continue into a highly populated civilian area. He posed a
+danger to himself and other members of the public. His decision to deploy the taser was
+unfortunate, but defensible.
+
+[89] However, PC Lee did not inform Mr. Medow that he was “under arrest” before
+deploying the taser. Criminal Code section 29(2) states that “it is the duty of everyone
+who arrests a person… to give notice to that person, where it is feasible to do so… (b) of
+the reason for the arrest.” PC Lee initially disputed failing to inform Mr. Medow he was
+                                         — 18 —
+
+
+under arrest before using force, but upon reviewing the video footage in court, he agreed
+it was not until after he had him on the ground with PC Scheffer.
+
+[90] That being said, given the rapidly escalating nature of this incident, I find it is
+understandable that PC Lee did not follow a flawless procedure. He had to prioritize taking
+control of a dangerous and unpredictable person within seconds. Human beings,
+
+
+
+
+                                                                                                 2025 ONCJ 661 (CanLII)
+including professional actors like police officers, will sometimes make errors in highly
+stressful situations.
+
+[91] Criminal Code section 29(2) mirrors the requirements of section 10(a) of the
+Charter of Rights and Freedoms, which requires that a person be informed of the reason
+for their arrest or detention. In R. v. Roberts, 2018 ONCA 411, the Court of Appeal
+described what this Charter right protects at para. 78:
+
+       Section 10(a) does not require that detainees be told of the technical charges they
+       may ultimately face. A person will be properly advised of the reason for their
+       detention if they are given information that is sufficiently clear and simple to enable
+       them to understand the reason for their detention and the extent of their
+       jeopardy…Put more purposively: “The issue is whether what the accused was told,
+       viewed reasonably in all the circumstances, was sufficient to permit [her] to make
+       a reasonable decision to decline or submit to arrest”
+
+[92] While PC Lee did not articulate that Mr. Medow was “under arrest,” he did indicate
+that Mr. Medow was to cease his behaviour and remain in place. He was also told to get
+on the ground. There could be no doubt in his mind that he was to be placed in police
+custody for his prior conduct towards the officer. This entire series of events happened in
+a very short time, lasting no more than one to two minutes. PC Lee’s error was regrettable,
+but it does not undermine the lawfulness of the arrest. He had to take control of someone
+who posed a threat to public safety very quickly. I find as a fact that Mr. Medow knew the
+reason for his detention; he simply did not want to submit to it. And if there was any doubt
+in his mind, PC Lee told him he was “under arrest” as he and PC Scheffer were attempting
+to place handcuffs on him.
+
+[93] Mr. Medow further argued that he was acting in self-defence and that the officers
+used excessive force, justifying his acts of resistance. Mr. Medow’s subjective belief that
+the use of the taser was excessive or that the officer was acting unlawfully does not
+determine this issue. While an honest, mistaken belief by the accused can be a factor to
+consider in a claim of self-defence, the accused’s conduct must still be reasonable and
+proportionate.
+
+[94] The fundamental problem with Mr. Medow’s position is that where an officer is
+acting lawfully in the course of their duties, an accused person is denied the defence of
+self-defence: R. v Evanshen, 2020 BCSC 1626; R. v. Plummer, 2006 CanLII 38165 (Ont.
+C.A.). As I have concluded that PC Lee had reasonable and probable grounds to arrest
+Mr. Medow for both obstruction and assault, and that his use of force was reasonable in
+all the circumstances, Mr. Medow could not respond to the use of police force by
+assaulting the officers.
+                                         — 19 —
+
+
+[95] Mr. Medow’s actions were dangerous and violent. He lashed out at PC Lee, striking
+him in the face, which resulted in injury and bleeding. This constituted an intentional
+assault, regardless of his subjective belief about the legitimacy of his actions. The injury
+was more than merely transient or trifling. PC Lee required over a week to recover, both
+physically and emotionally. He suffered a visible injury and was bleeding. This constitutes
+bodily harm: see R. v. Chahal, 2024 ABCA 218, at paras. 32-48. The mens rea required
+
+
+
+
+                                                                                               2025 ONCJ 661 (CanLII)
+for assault causing bodily harm includes both the intent for assault and an objective
+foresight of bodily harm. Mr. Medow was aware that his actions could likely lead to bodily
+harm. I find him guilty of assaulting a peace officer and causing bodily harm, count 5.
+
+[96] Mr. Medow is charged with two counts of resisting PCs Lee and Scheffer while
+they were performing their duties, contrary to Criminal Code section 129(a). Along with
+what I have previously described, both officers testified that Mr. Medow resisted arrest
+through his physical actions and fought back against them. He refused to comply with
+their demands to place his hands behind his back. Even after being handcuffed and
+placed against a police vehicle, he jumped up and down or gyrated his body as the officers
+attempted to put him in the squad car.
+
+[97] This offence requires more than being uncooperative. It requires the Crown to
+prove the accused engaged in active physical resistance to lawful police demands: see
+R. v. Kennedy, 2016 ONCA 879, at para. 36. I find that Mr. Medow was actively resisting
+the officers beyond a reasonable doubt, and did so intentionally. He is therefore guilty of
+counts 6 and 7.
+
+[98] When Mr. Meadow was finally seated in the back of the squad car for transport to
+the division, he told another officer, PC Kell, “If you see me walking down the street, you
+better turn around and find God.” The interaction was recorded on PC Kell’s BWC. PC
+Kell interpreted this as a threat to his life.
+
+[99] The Crown presented additional BWC footage showing PC Kell asking Mr. Medow
+whether he had just threatened him. Mr. Medow responded that he was not threatening
+the officer. At this point in the video, Mr. Medow appeared relatively subdued. He testified
+that he was not threatening the officer, but essentially, asking if he understood God would
+be judging him for his conduct.
+
+[100] PC Kell’s subjective assessment of these words is understandable. I am left to
+determine whether this was actually intended as a threat. The Crown introduced Mr.
+Medow’s spontaneous exculpatory statement alongside the alleged threat, and I must
+consider this as well as Mr. Medow’s testimony when determining if the Crown has met
+its burden: see R. v. Bagherzadeh, 2023 ONCA 706, at para. 29. I caution myself against
+double-counting these different sources of exculpatory evidence, but they must both be
+considered: see para. 36.
+
+[101] I find the statement ambiguous and open to multiple interpretations. I agree with
+Mr. Rinaldi that immediately before the purported threat, Mr. Medow stated that the
+officers should “go to hell”, which adds important context. But I am left with reasonable
+doubt regarding whether he intended to truly threaten the officer’s life. An alternative
+interpretation of Mr. Medow’s words was that he meant to convey the officer would regret
+                                         — 20 —
+
+
+his conduct and find redemption when he realized his error. I find him not guilty of count
+8.
+
+[102] Finally, Mr. Medow was bound by a release order on January 17, 2024. A term of
+that order placed him under house arrest, with limited exceptions. One of those
+exceptions permitted him to attend court. He was located on Queen Street West, just a
+
+
+
+
+                                                                                                 2025 ONCJ 661 (CanLII)
+short distance from each of Toronto’s criminal courts. He testified that he was going to
+court to seek a bail variation, which would provide him with a lawful excuse under the
+terms of his bail.
+
+[103] In R. v. Zora, 2020 SCC 14, the Supreme Court of Canada held that failure to
+comply with a condition of a release order is subject to the defence of “lawful excuse”:
+see para. 37. If the evidence establishes an “air of reality” to the defence, the Crown bears
+the persuasive burden of disproving it beyond a reasonable doubt: see R. v. Refaeh, 2024
+ONSC 755, at paras. 55-71. If Mr. Medow’s testimony raises a reasonable doubt in my
+mind that he had been travelling to court, I accept that this would require an acquittal.
+
+[104] Even if Mr. Medow was initially walking towards one of the downtown courthouses,
+he chose to confront PC Lee. He deliberately went out of his way to do so and could have
+easily avoided him on his way to court. The exception to his house arrest did not grant
+him the freedom to take unnecessary detours, let alone commit further criminal acts.
+Moreover, none of the unknown evidence that Mr. Medow claimed he could produce on
+December 9, 2025, if granted an adjournment, would have been relevant to this charge.
+His decision to interfere with PC Lee’s duties as an officer was his alone, and he must
+bear responsibility for it. I find him guilty of count 1, violating his release order.
+
+
+Final Remarks
+
+[105] Mr. Rinaldi and Mr. Stastny deserve praise for their patience and professionalism
+throughout this proceeding. They ensured the case advanced as efficiently as possible
+and that Mr. Medow’s rights were respected, regardless of Mr. Medow’s personal views
+on the matter. In particular, Mr. Rinaldi exemplified the role of a Minister of Justice during
+this trial, despite being subjected to repeated and entirely unjustified attacks on his
+character by Mr. Medow.
+
+[106] From this point forward, Mr. Medow is on notice that I will not tolerate any further
+remarks towards Mr. Rinaldi that call into question his personal integrity or that could be
+reasonably construed as a threat. If he engages in this conduct again, I will cite him in
+contempt.
+
+
+
+Released: December 11, 2025
+
+
+
+
+                                                               Signed: Justice Brock Jones
+                              — 21 —
+
+
+
+
+Criminal Code              Charge                       Verdict
+   Section
+   145(5)       FTC Release Order                        Guilty
+
+
+
+
+                                                                             2025 ONCJ 661 (CanLII)
+   129(a)       Obstruct Peace Officer Lee               Guilty
+  130(1)(b)     Impersonating Peace Officer   Dismissed – Directed Verdict
+  270(1)(a)     Assault Peace Officer Lee                Guilty
+ 270.01(1)(b)   Assault Peace Officer Lee –              Guilty
+                Cause Bodily Harm
+
+   129(a)       Wilfully Resist PC Lee                   Guilty
+   129(a)       Wilfully Resist PC Scheffer              Guilty
+ 264.1(1)(a)    Threatening Death – PC Kell            Not Guilty
+

@@ -1,0 +1,115 @@
+Bench Card: Evaluating Unacknowledged AI-Generated Evidence
+Introduction:
+While fabricated evidence is not a new problem in courts, the increased accessibility of artificial
+intelligence (AI) has made it easier to enhance or alter evidence or create fake digital evidence that
+looks convincingly real. Meanwhile, the increased sophistication of AI technology has made
+detecting such manipulation more difficult than ever. Issues related to evidence that is actually or
+allegedly generated or altered by AI may take two forms: one where the use of AI is acknowledged,
+such as enhancement of a photo or audio (“acknowledged AI-generated evidence”), and a second
+where evidence is offered by one party and another party challenges its authenticity on grounds
+suggesting possible generation or alteration using AI (alleged “unacknowledged AI-generated
+evidence”). If not properly evaluated, the potential consequences of unacknowledged AI-generated
+evidence could lead to miscarriages of justice. This bench card addresses the second set of issues
+by suggesting questions or areas of inquiry that may help inform a trial court’s determination about
+the authenticity of digital evidence alleged to be unacknowledged AI-generated evidence.
+
+Questions for the Proﬀering Party
+1. Source and Acquisition: What is the source of this evidence, and how, when, and where was it
+obtained?
+Guidance: Establish a clear record of the evidence's origin. Treat the evidence with heightened
+scrutiny if the source is questionable (such as an anonymous online platform). If the evidence is
+not in the same form originally created (such as a print-out or a converted PDF), explore how it
+was converted.
+2. Access to the Evidence: Who had access to this evidence from its creation or capture until now?
+Guidance: Storing the evidence in a manner that allows multiple handlers to access it increases
+the risk of tampering or fabrication. If access cannot be accounted for, consider increased
+scrutiny or expert analysis, if available, to ensure integrity.
+3. Preservation: What steps were taken to preserve the original data and prevent alteration?
+Guidance: Data should be preserved in its original (i.e., native) format whenever possible. If
+preservation methods are inadequate, consider appointing a neutral expert to examine the digital
+media or evidence. Depending on the circumstances, it may be necessary to request that the
+proffering party submit the device (e.g., mobile phone) containing the proffered digital media
+evidence for proper authentication analysis, notwithstanding the intrusive nature of such a
+request.
+4. Chain of Custody: Can you tell me who has had custody of this evidence from its creation or
+capture until now, including sharing or transferring the evidence, and where it has been stored?
+Guidance: This should be a chronological record, ideally with dates, times, locations, and
+individuals responsible. If gaps in custody exist, consider requiring corroborating evidence.
+5. Alterations: Has the evidence been altered, edited, converted to a different format, or processed
+in any way since its creation?
+Guidance: Even seemingly minor edits can affect authenticity. Require disclosure of all
+alterations, including the software or other process used, and whether earlier versions are still
+
+available. If alterations are unexplained or suspicious, seek expert analysis or consider excluding
+the evidence.
+6. Corroboration: Is there any other data or source that can confirm the authenticity of the
+evidence?
+Guidance: Encourage the submission of corroborating evidence, particularly from independent
+sources. If the evidence is a text message thread, direct the opposing party to provide their
+corresponding thread for comparison. If corroborating evidence is unavailable, consider seeking
+external validation. Is there any inconsistency between digital evidence depicting an individual
+and the individual's actual characteristics (such as facial features and voice)?
+
+Additional Questions for the Proﬀering Party (Potentially Requiring Expert Assistance)
+7. Forensic Verification: Were any forensic tools or methods used to verify the integrity of the
+evidence?
+Guidance: Consider the need for forensic analysis, especially if the evidence is technically
+complex or there are concerns about manipulation. If no forensic analysis has been conducted,
+consider ordering an examination by a neutral qualified expert, if available.
+8. Metadata: Can you provide metadata or other technical information that supports the authenticity
+of this digital file?
+Guidance: Metadata can offer valuable clues about creation date, time, and the software used to
+create or modify the evidence. Unexplained inconsistencies raise red flags (for example, if the
+metadata suggests that the evidence was created by a different custodian, or the dates do not
+align). If metadata is not provided or appears inconsistent, request a detailed explanation and
+consider appointing a neutral expert to examine the file's authenticity. Metadata can be
+confusing; judges should be wary of drawing conclusions themselves from metadata without
+specialized training.
+9. Expert Testimony: Can a qualified expert explain the processes used to handle and verify this
+digital evidence?
+Guidance: Expert testimony may be essential for the court to understand the technical aspects of
+the evidence and assess its reliability. If the parties do not identify an expert, and the evidence is
+complex or crucial, consider appointing a neutral, court-approved expert, if available.
+
+Judicial Actions
+•
+•
+
+•
+•
+
+•
+
+•
+
+•
+•
+
+Be mindful of the parties’ technical knowledge: Consider the parties' technical capabilities,
+especially in cases with self-represented parties.
+Request additional information: If the proffering party’s answers to the questions above are
+incomplete or raise concerns, then request clarification, supporting documents and files, or
+expert testimony.
+Issue orders for preservation: Ensure that the evidence is preserved in its current (and, if
+applicable, original) state to prevent further alteration or deletion.
+Appoint a neutral expert: In cases involving complex evidence, consider appointing a neutral,
+independent expert to examine the evidence and provide an unbiased assessment of its
+authenticity.
+Weigh authenticity cautiously: Understand the dual risks accompanying assessments of alleged
+unacknowledged AI-generated evidence: (1) erroneously accepting inauthentic evidence; and (2)
+erroneously excluding authentic evidence. Assessments need to guard against both. Weigh the
+authenticity of evidence carefully, considering the potential for manipulation and the reliability of
+the authentication methods used.
+Determine admissibility: Based on the answers to the questions set forth above and expert
+opinions (if applicable), determine the admissibility of the evidence under applicable rules of
+evidence.
+Document the rationale for the determination: Clearly state the reasons for admitting or excluding
+the evidence, addressing the concerns related to AI's role in generating it.
+Stay up to date on AI knowledge: Stay informed about developments in AI technology,
+particularly Generative AI and its potential use in altering digital evidence, as well as automated
+(or other) tools that may be developed to assist with differentiating fake from real methods.
+
+Note: This bench card provides general guidance. Specific legal standards and procedures may vary
+depending on the jurisdiction and the circumstances of the case before the court.
+
+

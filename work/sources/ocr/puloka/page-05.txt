@@ -1,0 +1,39 @@
+1 2, The standard for admitting evidence utilizing a novel scientific theory or principle is
+; whether it has achieved general acceptance in the relevant scientific community. Frye v.
+2 ’ United States, 293 F.1013, 1014 (D.C. Cir, 1923).
+3 3. To determine whether a consensus of scientific opinion has been achieved, the court
+: examines testimony that asserts general acceptance, articles and publications, widespread
+4 use in the community, secondary legal sources, and/or legal authority from other
+jurisdictions. Lake Chelan Shores Homeowners Ass’n v. St. Paul Fire and Marine Ins. Co.,
+5 176 Wn. App 168, 176, 313 P.3d 408, 412 (2013) ;
+6 4, Testimony from an expert is admissible only if such evidence will assist the trier of fact,
+7 and is reliable. ER 702.
+5. Even if relevant, evidence is not admissible if its probative value is substantially
+8 outweighed by the danger of unfair prejudice. ER 403. ;
+91 6. “Erye excludes testimony based on novel scientific methodology until a scientific ;
+consensus decides the methodology is reliable, [whereas] ER 702 excludes testimony
+10 . where the expert fails to adhere to that reliable methodology.” In re Detention of :
+UW McGary, 175 Wn. App. 328, 339 (2013).
+7. The court does not determine if the scientific theory underlying the proposed testimony is
+12 . correct; rather, the court “must look to see whether the theory has achieved general ;
+acceptance in the appropriate scientific community.” State v. Riker, 123 Wn.2d 351, 369-
+13 370 (1994),
+14 8. For example, where a psychologist’s opinion was based on-the ‘MATS-1’ test he himself
+had created, the test had not been sufficiently utilized by other forensic experts in the
+15 community, and no published state or federal appellate court decisions referred to the
+‘MATS-1’ test, a trial court did not err in finding that “the test was not reasonably relied
+16 upon by experts generally [in the relevant community] and thus not sufficiently reliable
+17 to support [this expert’s] opinion.” McGary, 175 Wn.App. at 341.
+. 9. The scientific community relevant to this Court’s determination of the admissibility of
+18 videos enhanced by AI tools is the forensic video analysis community. .
+19 10. The Topaz Video AI enhancement tool(s), which utilize ‘machine learning’ algorithms,
+have not been peer-reviewed by the forensic video analysis community, are — at the
+20 ‘ present time — not reproducible by that community, and are not accepted generally in that :
+community. . :
+21 ‘
+11. The defense has not offered any state or federal appellate court decisions, from any
+22 jurisdiction, which have examined — let alone approved of — the introduction of AI-
+3 enhanced videos in a criminal or civil trial.
+24 " ‘
+‘ FINDINGS OF FACT & CONCLUSIONS OF LAW .
+ON STATE’S MOTION TO SUPPRESS PURSUANT ,

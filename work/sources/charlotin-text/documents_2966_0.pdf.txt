@@ -1,0 +1,876 @@
+Burnley v. Valentin, et al.                                                                                       Doc. 195
+
+
+
+
+                                    IN THE UNITED STATES DISTRICT COURT
+                                   FOR THE EASTERN DISTRICT OF VIRGINIA
+                                              Richmond Division
+
+             JOHN RODGERS BURNLEY,
+                  Plaintiff,
+
+                              v.                                          Civil Action No. 3:23-cv-00160 (RCY)
+
+             ALEXANDRA M. VALENTIN, et al.,
+                 Defendants.
+
+
+                                                MEMORANDUM OPINION
+
+                      This matter was referred to the undersigned to resolve Defendants Jeffrey W. Walburn
+
+             (“Walburn”)1 and Margaret Cunningham’s (“Cunningham”) Motions to Enforce the Settlement and
+
+             Mutual Release Agreement, entered into by the parties on November 17, 2023 (ECF No. 169). (ECF
+
+             No. 167) (the “Walburn Motion to Enforce”); (ECF No. 170) (the “Cunningham Motion to Enforce”).
+
+             For the reasons set forth below, the Court GRANTS the Walburn Motion to Enforce (ECF No. 167)
+
+             and DENIES, in part as moot, and DENIES, in part, without prejudice Cunningham’s Motion to
+
+             Enforce (ECF No. 170). Additionally, the Court will AWARD reasonable attorneys’ fees and costs
+
+             to Walburn in an amount to be determined upon a reasonableness review.
+
+                                                  I.      BACKGROUND
+
+                      Before the Court are matters arising from two motions to enforce settlement agreements
+
+             reached by the moving parties and John Rodgers Burnley (“Burnley”) following a settlement
+
+             conference on November 17, 2023. The Court sets forth the relevant procedural history below to
+
+             provide context for its resolution of the pending motions.
+
+
+
+
+             1
+               The Court notes that a previous Motion to Enforce Settlement Agreement (ECF No. 162) and
+             Memorandum in Support of Motion to Enforce (ECF No. 163) identified the movants as Walburn and
+             Alexandra Valentin. (ECF Nos. 162, 163.) That Motion, as explained in this Opinion, was withdrawn.
+             (ECF No. 166.) The present Motion to Enforce (ECF No. 167) is filed by Walburn only.
+
+
+
+
+                                                                                                        Dockets.Justia.com
+        A. Civil Action No. 3:23cv160.
+
+       On March 7, 2023, Burnley initiated Civil Action No. 3:23cv160 against multiple defendants,
+
+including Alexandra Valentin (“Valentin”), Walburn, Robert Bono, Brittany Bono, Andrew Nash,
+
+Jordan Niermeyer, Mary Niermeyer, Cunningham, and Captain Donald Davenport (“Davenport”),
+
+asserting claims arising from alleged harassment, intimidation, and conspiratorial conduct by his
+
+neighbors and members of the Richmond Police Department. (ECF No. 1.) After litigation and motion
+
+practice, the parties participated in a court-ordered settlement conference before the undersigned on
+
+November 17, 2023. (ECF Nos. 106, 129.) Burnley proceeded pro se throughout the litigation, though
+
+he was represented by pro bono counsel for purposes of the settlement conference on November 17,
+
+2023. (ECF No. 127.) During the settlement conference, the parties reached a settlement, which was
+
+memorialized in two written Settlement and Mutual Release Agreements: one was between Burnley
+
+and Walburn (ECF No. 168-1) (the “Walburn-Burnley Settlement Agreement”), and the other was
+
+between Burnley and Cunningham. (ECF No. 171-1) (the “Cunningham-Burnley Settlement
+
+Agreement”) (collectively, the “Settlement Agreements”). On November 21, 2023, the parties filed a
+
+stipulation of dismissal pursuant to their respective settlement agreements. (ECF No. 160.) The Court
+
+entered a final order dismissing the case while expressly retaining jurisdiction “for the sole purpose
+
+of enforcing the settlement agreement, if necessary.” (ECF No. 161.)
+
+       B. The Walburn-Burnley Settlement Agreement.
+
+       The Walburn-Burnley Settlement Agreement contains several provisions central to the present
+
+dispute. First, the parties included a release provision, wherein Burnley released all claims against
+
+Walburn that “arise out of or relate to the matters and claims asserted or which could have been
+
+asserted” in this action. (Walburn-Burnley Settlement Agreement ¶ 1(a).) Likewise, Walburn released
+
+potential defamation claims arising from Burnley’s prior communications with Walburn’s former
+
+employer, FedEx. (Id. ¶ 1(b); see also ECF No. 168 at 2.) Walburn agreed not to call the Richmond
+
+                                                  2
+Police Department about Burnley unless he had a “reasonable basis to believe that a crime or civil
+
+infraction” has or is being committed, or “in order to prevent imminent physical injury or death.”
+
+(Walburn-Burnley Settlement Agreement ¶ 2.) For his part, Burnley agreed not to contact any past,
+
+present, or future employer of Walburn about Walburn. (Id. ¶ 3.) The settlement agreement also
+
+included a provision requiring written notice and an opportunity to cure as a condition precedent to
+
+any enforcement action. (Id. ¶ 4.) Specifically:
+
+               As a condition precedent to the initiation any of [sic] action for
+               enforcement, any lawsuit, or other legal proceeding alleging a breach
+               of this Agreement, a Party shall send written notice by US Mail to all
+               involved Parties describing the alleged breach and supplying written,
+               audio, video, photographic, or other tangible evidence of the alleged
+               breach. For purposes of this provision, an affidavit, declaration, written
+               statement, or similar document by a Party or a Party’s immediate family
+               member, shall not constitute tangible evidence. The Parties agree that
+               if a Party initiates an action for enforcement, lawsuit, or other legal
+               proceeding without fully satisfying this condition precedent, then the
+               action for enforcement, lawsuit, or legal proceeding shall be dismissed.
+(Id. ¶ 5.)
+
+        Further, the parties agreed that the undersigned retained jurisdiction to enforce the settlement,
+
+and that the prevailing party in an enforcement action would be entitled to attorneys’ fees and costs.
+
+(Walburn-Burnley Settlement Agreement ¶¶ 8–9.)
+
+        C. The Cunningham-Burnley Settlement Agreement.
+
+        Like the Walburn-Burnley Settlement Agreement, the Cunningham-Burnley Settlement
+
+Agreement contains mutual release provisions (Cunningham-Burnley Settlement Agreement ¶¶ 1(a)-
+
+(c).) It also has an identical “Notice of Breach” provision, requiring that a party initiating any “action
+
+for enforcement, any lawsuit, or other legal proceeding alleging a breach of this Agreement” shall
+
+first send written notice to “all involved Parties describing the alleged breach and supplying written,
+
+audio, video, photographic, or other tangible evidence of the alleged breach.” (Id. ¶ 4.) The Notice of
+
+Breach provision explicitly provides that failure to do so will result in the “action for enforcement,
+
+lawsuit, or legal proceeding” being dismissed. (Id.) Like the Walburn-Burnley Settlement Agreement,
+                                                   3
+the Cunningham-Burnley Settlement Agreement has a fee-shifting provision providing that the
+
+prevailing party, in an enforcement action, “shall be entitled to recover their reasonable attorney’s
+
+fees, expenses, disbursements, and costs of suit, including appellate fees and costs, from the non-
+
+prevailing Party or Parties.” (Id. ¶ 8.) In addition to these provisions, the Cunningham-Burnley
+
+Settlement Agreement contains a “Non-Disparagement Provision” whereby the parties agreed that
+
+they will “not knowingly or intentionally disparage the other Parties concerning this Litigation or this
+
+Agreement.” (Id. ¶ 3.)
+
+       D. Burnley’s Post Settlement Conduct.
+
+       In June 2024, Burnley allegedly contacted Walburn’s employer, an apparent violation of
+
+paragraph 3 of the Walburn-Burnley Settlement Agreement. (ECF No. 168 at 2-3.) On August 27,
+
+2024, Valentin and Walburn filed a Motion to Enforce the Settlement Agreement and a supporting
+
+memorandum. (ECF Nos. 162, 163.) The Court subsequently entered a briefing order on October 1,
+
+2024, directing the moving parties to certify compliance with the settlement agreement’s notice-of-
+
+breach provisions. (ECF No. 164.) Shortly thereafter, on October 7, 2024, Valentin and Walburn
+
+moved to withdraw their Motion to Enforce, which the Court granted on October 8, 2024. (ECF Nos.
+
+165, 166.)
+
+       On November 19, 2024, Walburn provided Burnley with a written notice of breach. (ECF No.
+
+168-3.) Specifically, counsel for Walburn sent, by USPS Priority Mail, a letter to Burnley identifying
+
+the provision of the Settlement Agreement he allegedly breached, providing a copy of the Settlement
+
+Agreement, and enclosing the audio recording of Burnley allegedly calling Walburn’s employer.
+
+(ECF No. 168-3.)
+
+       On March 18, 2025, Burnley initiated a second lawsuit, Civil Action No. 3:25cv2102, against
+
+
+2
+ Burnley v. Walburn, et al., Civil Action No. 3:25cv210 (DJN) (E.D.Va. 2025). In the 3:25cv210
+case, the Defendants Walburn, Valentin, and Cunningham moved to dismiss the complaint while
+
+                                                   4
+Walburn, Valentin, Cunningham, Davenport, and unnamed undercover police officers. Burnley v.
+
+Walburn, et al., Civil Action No. 3:25cv210-DJN (E.D.Va. 2025.) Plaintiff alleged that his neighbors,
+
+acting in concert with Cunningham, Davenport, the Richmond Police Department, and unnamed
+
+federal agents, engaged in an ongoing conspiracy to harass, intimidate, and surveil him in retaliation
+
+for his prior lawsuit in Civil Action No. 3:23cv160 (RCY). (Civ. Action No. 3:25cv210, ECF No. 1.)
+
+Specifically, Burnley alleged, inter alia, that the named defendants assigned undercover officers to
+
+follow him, placed “ping” devices on his vehicles and phone, coordinated with federal agencies to
+
+“take him down,” and conspired with neighbors to fabricate complaints against him. (Id.) Burnley
+
+expressly asked the Court to “reinstate” claims previously asserted in the settled 2023 action. (Id.)
+
+       E. Current Procedural Posture.
+
+       On April 16, 2025, Walburn filed the instant Motion to Enforce the Settlement Agreement in
+
+the present case. Burnley v. Walburn, et al. Civ. Action No. 3:23cv160, (ECF No. 167.) On May 20,
+
+2025, Cunningham filed a separate Motion to Enforce the Settlement Agreement and supporting
+
+memorandum. (ECF Nos. 170, 171.) They collectively argue that Burnley materially breached the
+
+settlement agreement by: (1) making defamatory statements to Walburn’s employer (ECF No. 168 at
+
+2); (2) disparaging parties to the litigation (ECF No. 171 at 2-3); (3) initiating new litigation barred
+
+by the settlement agreement (ECF No. 171 at 1-2); and (4) failing to comply with the settlement
+
+agreement’s notice provisions. (ECF No. 171 at 3).
+
+
+
+
+separately moving to enforce the settlement agreement and judgment entered in Civil Action No.
+3:23cv160. Id. They further requested dismissal, or alternatively, transfer of the matter to the
+undersigned judge who presided over the settlement in the earlier action. Id. On February 4, 2026, the
+presiding judge dismissed the action without prejudice after noting that Burnley’s claims in that
+matter “duplicate and reference the claims involved in [Civil Action 3:23cv160]” and finding that
+that case constituted “a more appropriate forum in which Burnley may seek the relief he requests in
+this matter.” Burnley v. Walburn, et al., Civ. Action No. 3:25cv210, ECF No. 30. Burnley has
+appealed the District Court’s ruling dismissing his action. (Id. at ECF No. 31.)
+
+                                                   5
+       Because Burnley had not filed a response to either motion, the Court entered an Order and
+
+Notice directing Burnley to respond by June 10, 2025, and to certify compliance with the settlement
+
+agreement’s notice requirements. (ECF No. 172.) On May 27, 2025, Burnley filed responses to the
+
+Motions to Enforce. (ECF Nos. 173, 174, 175, 176.) On the same day, Burnley filed appeals in both
+
+the present matter and Civil Action No. 3:25cv210, all of which were dismissed by the Fourth Circuit.
+
+(ECF No. 177.)
+
+                                       II.    JURISDICTION
+
+       As discussed above, the parties’ settlement agreements provide that the Court retains
+
+jurisdiction to enforce the settlement agreement. (Walburn-Burnley Settlement Agreement ¶ 8;
+
+Cunningham-Burnley Settlement Agreement ¶ 7.) This language was expressly included in the
+
+District Court’s dismissal order on November 22, 2023, which stated that the Court shall “retain
+
+jurisdiction for the sole purpose of enforcing the terms of the settlement agreement, if necessary.”
+
+(ECF No. 161.) Accordingly, the Court has jurisdiction to resolve the Motions to Enforce.
+
+                                III.     STANDARD OF REVIEW
+
+       District courts possess “inherent authority, deriving from their equity power, to enforce
+
+settlement agreements.” Hensley v. Alcon Labs., Inc., 277 F.3d 535, 540 (4th Cir. 2002) (citing
+
+Millner v. Norfolk & W. Ry. Co., 643 F.2d 1005, 1009 (4th Cir. 1981)). A settlement agreement is a
+
+contract, and therefore standard contract principles apply when considering a motion to enforce a
+
+settlement agreement. See Bradley v. Am. Household Inc., 378 F.3d 373, 380 (4th Cir. 2004). To
+
+enforce a settlement agreement, the court must (1) find that the parties agreed to settle the case, and
+
+(2) be able to determine terms of the settlement. See Moore v. Beaufort Cty., N.C., 936 F.2d 159, 162
+
+(4th Cir. 1991). “In deciding whether a settlement agreement has been reached, the Court looks to the
+
+objectively manifested intentions of the parties.” Id. (citing Piver v. Pender County Bd. of Educ., 835
+
+F.2d 1076, 1083 (4th Cir.1987)). The clearest manifestation of intent is the contract’s plain language.
+
+                                                  6
+See Providence Square Assoc., L.L.C. v. G.D.F., Inc., 211 F.3d 846, 850 (4th Cir. 2000). If a court
+
+determines that the parties entered into a binding settlement agreement, it may enforce the agreement
+
+without the need for a hearing. See Cosby v. Huntington Ingalls, Inc., No. 4:17cv112, 2018 WL
+
+1511735, at *2 (E.D. Va. Mar. 27, 2018) (citing Hensley, 277 F.3d at 540).
+
+       Here, the parties have reached a complete agreement to resolve Burnley’s claims. The
+
+Settlement Agreements were the culmination of a settlement conference and were signed by all of the
+
+parties, including Burnley with the guidance, assistance and advice of his pro bono settlement counsel.
+
+(ECF Nos. 168-1, 171-1.) It plainly contains a complete agreement, with all material terms
+
+sufficiently definite for the Court to determine each term’s meaning, and it sets forth the parties’
+
+respective rights and obligations. Thus, the Court finds that the Walburn-Burnley Settlement
+
+Agreement and the Cunningham-Burnley Settlement Agreement are valid and enforceable contracts
+
+between the parties. The question remains as to whether Burnley breached these settlement
+
+agreements. For the reasons stated below, the Court finds that Burnley violated the Walburn-Burnley
+
+Settlement Agreement by contacting Walburn’s employer about Walburn. However, the Court finds
+
+that Cunningham’s Motion to Enforce asks for relief already granted by the District Court in Civil
+
+Action No. 3:25cv210; as a result, the Court DENIES her Motion to Enforce, in part, as MOOT. To
+
+the extent that Cunningham seeks to enforce the non-disparagement provision in the Cunningham-
+
+Burnley Settlement Agreement, the Court DENIES the Motion to Enforce WITHOUT PREJUDICE,
+
+for the reasons stated below.
+
+                                       IV.     DISCUSSION
+
+   A. Burnley violated the Walburn-Burnley Settlement Agreement by Contacting Walburn’s
+      Employer regarding Walburn.
+
+       Beginning in June 2024, a caller identifying himself as “Tyrone Jackson” contacted Walburn’s
+
+
+
+
+                                                  7
+new employer (Livewire), by telephone.3 (ECF No. 168 at 2-3.) The caller identified Walburn’s home
+
+address, his previous employer, FedEx, and stated that Walburn, among other things: (1) was “stealing
+
+materials from [Livewire];” (2) has a “terrible drug habit;” (3) sells drugs; and (4) previously lost
+
+employment for those reasons. (ECF No. 168 at 2-3.) Walburn’s Supporting Memorandum surmises
+
+that the caller was Burnley using a pseudonym, as: (1) Walburn recognized the caller’s as Burnley’s
+
+voice; (2) Walburn is not acquainted with anyone named Tyrone Jackson; (3) Tyrone Jackson is the
+
+name of one of Burnley’s former neighbors; (4) the substance of the call matches prior remarks
+
+Burnley previously directed to Walburn’s previous employer, FedEx; and (5) the caller had
+
+“knowledge uniquely available to [Burnley], including information about Walburn’s past and present
+
+employment, Walburn’s home address, where Walburn parks his work truck, and Walburn’s
+
+whereabouts.” (ECF No. 168 at 3 n.3; see also ECF No. 117-1.) As a result of these calls, Livewire
+
+initiated an internal inquiry. (ECF No. 168 at 3.)
+
+       Walburn maintains that Burnley, using the pseudonym “Tyrone Jackson,” materially breached
+
+the Walburn-Burnley Settlement Agreement’s express prohibition against contacting Walburn’s
+
+employers about Walburn. (ECF No. 168-1 ¶ 3.) In defense, Burnley denies calling Walburn’s current
+
+employer and claims that the Court cannot assume it was him based on voice comparison alone. (Pl.’s
+
+Resp. to Walburn’s Motion to Enforce, ECF No. 176 at 3-4.) He adds that any connection to a former
+
+neighbor named “Tyrone Jackson” is incorrect, as the man who once lived across from Burnley was
+
+named “Tyrone Miller.” (Id. at 3-4.) He argues that the Court cannot grant the Motion to Enforce
+
+because the audio recordings have not been “authenticated prior to admission” pursuant to Federal
+
+Rule of Evidence 901(a). (Id.) Instead, he argues, the recordings are either someone else entirely or
+
+are a manipulated audio made by artificial intelligence to “clone” his voice. (Id.) Given Burnley’s
+
+
+3
+ In his memorandum in support, Walburn submitted an audio recording of the phone call to Livewire
+as Exhibit B, which the Court will refer to only as represented in Walburn’s sworn filings. (ECF No.
+168-2.)
+                                                   8
+dispute over the authenticity of the audio recording, the Court ordered supplemental briefing and
+
+conducted an evidentiary hearing on the issue. (ECF No 184.)
+
+               1. The Court’s Findings Regarding the Authenticity of the Audio Recording.
+
+       On February 18, 2026, Walburn filed a supplemental brief containing a sworn declaration
+
+from Dustin Roskam (“Roskam”), a manager at Livewire who received the audio recording4 from a
+
+service agent at Parasol, LiveWire’s affiliate. (ECF No. 186-2 (“Roskam Decl.”).) After receiving
+
+and reviewing the recording, Roskam “shared a copy of it with Mr. Walburn.” (Roskam Decl. ¶ 8.)
+
+Roskam certified that “the recording in the Court’s possession and the written communication
+
+between [him] and Parasol’s service agent . . . are original or exact duplicates of the original
+
+evidence.” (Id. ¶ 9.)
+
+       In addition to Roskam’s Declaration, Walburn submitted a sworn declaration. (ECF No. 186-
+
+1 (“Walburn Decl.”).) In it, Walburn declared that he has been “acquainted with [Burnley] for
+
+approximately 5 years[,]” and has “had the opportunity to engage in conversations with him and hear
+
+his voice on multiple occasions.” (Walburn Decl. ¶ 2.) He declared that he received a copy of the
+
+audio recording from Raskom on June 10, 2024, and that it is his “sworn opinion and belief that the
+
+audio recording is both authentic and that ‘Tyrone Jackson’s’ identity is [Burnley].” (Id. ¶¶ 6-7.) He
+
+based his sworn opinion and belief on recognizing Burnley’s voice “from numerous prior verbal
+
+interactions with him.” (Id. ¶ 7.) Finally, Walburn certified that “the recording in the Court’s
+
+possession is original or an exact duplicate of the original recorded evidence.” (Id. ¶ 8.)
+
+       On February 23, 2026, Burnley responded to Walburn’s supplemental brief. (ECF No. 187.)
+
+In his response, Burnley maintains that: (1) the declarations of Walburn and Roskam are defective
+
+because referenced exhibits were not attached (Id. ¶¶ 1-3); (2) that the declarations themselves must
+
+
+4
+  According to Roskam, ““[a]ll calls coming in to LiveWire, through Parasol, are recorded[,]” and
+that it is “the regular practice of Parasol service agents to record incoming calls and share them as
+necessary with LiveWire management.” (Roskam Decl. ¶ ¶ 4, 6.)
+                                                    9
+be stricken as submitted in bad faith pursuant to Civil Procedure Rule 56(h) (Id. ¶ 4); (3) there are
+
+deficiencies in the chain of custody that require a certificate of authentication (Id. ¶ 8-9); and (4) it
+
+would “be an abuse of judicial process to attempt to authenticate [the audio recording] on February
+
+17, 2026 when the telephonic recording occurred on June 6, 2024 (Id. ¶11, citing United States v.
+
+Howard-Arias, 679 F.2d 363 (4th Cir. 1982)). Further, Burnley denies having any conversations with
+
+Walburn which would substantiate Walburn’s claim that he can recognize Burnley’s voice. (ECF No.
+
+187 ¶ 10.)
+
+       Federal Rule of Evidence 901(a) requires only that the proponent of evidence produce
+
+evidence “sufficient to support a finding that the item is what the proponent claims it is.” Fed. R.
+
+Evid. 901(a). “Importantly, the burden to authenticate under Rule 901 is not high—only a prima facie
+
+showing is required . . . .” United States v. Hassan, 742 F.3d 104, 133 (4th Cir. 2014). The Court
+
+finds that Walburn sufficiently established the authenticity of the audio recording through the sworn
+
+declarations of Walburn and Roskam.5 The declarations primarily established: (1) how the recording
+
+was made; (2) how the recording was received; and (3) that the recording in the Court’s possession is
+
+an original or exact duplicate. The Court finds that none of these foundational facts depend on the
+
+attachment of an exhibit, as Burnley contends. Indeed, the absence of an exhibit, however referenced
+
+in the declaration, does not render sworn, factual statements inadmissible, nor does it undermine
+
+authentication under Rule 901. At any rate, the Walburn cured this deficiency by filing their Reply to
+
+Burnley’s Response and attaching the exhibits referenced in the Walburn and Roskam declarations.6
+
+
+5
+ Burnley incorrectly notes that both Walburn and Roskam filed “unsworn” declarations. (ECF No
+187 ¶¶ 1-2.) The Court finds that the declarations are sworn declarations pursuant to 28 U.S.C. §
+1746, as both declarants declared “under penalty of perjury that the foregoing statements are true and
+correct . . . .” (ECF Nos. 186-1 at 3, 186-2 at 3.)
+6
+  In his Reply, Walburn represented that the exhibits “were inadvertently not attached to the
+Defendants’ Brief” but that “both exhibits have already been in the Court’s and [Burnley]’s
+possession for over a year, as they were attached or embedded” within the initial, but later withdrawn,
+Memorandum in Support of Motion to Enforce Settlement Agreement (ECF No. 163, . 188 at 1.)
+                                                  10
+(ECF No. 188.)
+
+        Similarly, the Court finds Burnley’s reliance on the “sham affidavit” doctrine and Federal
+
+Rule of Civil Procedure 56(h) to be unavailing for multiple reasons. First, the sham affidavit doctrine
+
+applies where a party submits an affidavit that directly contradicts prior sworn testimony without
+
+explanation. See Barwick v. Celotex Corp., 736 F.2d 946 (4th Cir. 1984). Burnley identifies no prior
+
+testimony by Walburn or Roskam that is contradicted by their declarations. Second, Rule 56(h)
+
+applies only in the context of summary judgment affidavits submitted in bad faith. This proceeding
+
+concerns enforcement of a settlement agreement, not summary judgment, and Burnley cites no
+
+authority extending the sham affidavit doctrine to unsworn factual disagreements in settlement
+
+agreement enforcement proceedings.
+
+       Burnley next devotes substantial attention to alleged deficiencies in the audio recording’s
+
+chain of custody, asserting that federal law requires complete documentation of every individual who
+
+accessed the recording, including dates, times, and storage locations, and that failure to do so violates
+
+due process. This argument misstates the law. The Fourth Circuit has made clear that “[e]stablishing
+
+a strict chain of custody is not an iron-clad requirement, and the fact of a missing link does not prevent
+
+the admission of real evidence, so long as there is sufficient proof that the evidence is what it purports
+
+to be and has not been altered in any material respect.” United States v. Summers, 666 F.3d 192, 201
+
+(4th Cir. 2011). Burnley argues that Roskam’s declaration “failed the three (3) main requirements to
+
+satisfy the (chain of custody); (1) control (2) continuity and (3) documentation.” (ECF No. 187 at 3)
+
+(punctuation in original.) To the contrary, the Court was presented with uncontroverted declarations
+
+explaining how the call was recorded in the ordinary course of business, transmitted internally, and
+
+provided to Walburn. (Roskam Decl. ¶¶ 7-8; Walburn Decl. ¶ 6.) Both declarants certified that the
+
+recording in the Court’s possession “is original or an exact duplicate of the original recorded
+
+evidence.” (Roskam Decl. ¶ 9; Walburn Decl. ¶ 8.)
+
+                                                   11
+       Nonetheless, Burnley maintains that Roskam failed to explain “where the voice recording of
+
+June 6, 2024 was stored and the names of the LiveWire employees that had access to the recording”
+
+as well as file a “certificate of authentication.” (ECF No. 187 at 3.) Though Rule 901 governs
+
+authentication, it does not require certificates, seals, or formal attestations beyond evidence
+
+“sufficient to support a finding that the item is what the proponent claims it is.” Fed. R. Evid. 901(a).
+
+Rule 901(b) provides “examples only—not a complete list—of evidence that satisfies the
+
+requirement” to authenticate evidence. Fed. R. Evid. 901(b). Burnley’s insistence on additional
+
+formalities finds no support in the Federal Rules or Fourth Circuit law. On the other hand, Rule 901(b)
+
+non-exhaustive list of evidence that satisfies Rule 901(a)’s authenticity requirement expressly states
+
+that “[t]estimony of a witness with knowledge” that “an item is what it is claimed to be” is sufficient.
+
+Fed. R. Evid. 901(b)(1). Here, the Court has been presented with two declarations, sworn under
+
+penalty of perjury, testifying that the audio recording is what it purports to be, which plainly satisfies
+
+Rule 901.
+
+        Moreover, the Fourth Circuit in Howard-Arias has held that “ultimate question is whether the
+
+authentication testimony was sufficiently complete so as to convince the court that it is improbable
+
+that the original item had been exchanged with another or otherwise tampered with.” 679 F.2d at 366.
+
+Here, the Court is satisfied that the sworn statements from both declarants establish that the audio
+
+recording has not been changed or altered in any material way, and that the exhibit before the Court
+
+is an “original or an exact duplicate of the original recorded evidence.” (Walburn Decl. ¶ 8; see also
+
+Roskam Decl. ¶ 9.)
+
+       Curiously, Burnley claims that the Fourth Circuit in Howard-Arias bars the Court from
+
+“attempt[ing] to authenticate [the audio recording] on February 17, 2026 when the telephonic
+
+recording occurred on June 6, 2024.” (ECF No. 187 at 4.) Doing so, according to Burnley, would be
+
+“unfair and unjust” and would “allow Walburn and Valentin to get a second bite of the apple.” (Id.)
+
+                                                   12
+The case stands for no such proposition. In Howard-Arias, the Fourth Circuit confirmed that evidence
+
+must be authenticated before it is admitted into evidence, consistent with Rule 901. See 679 F.2d at
+
+366. Here, the Court must determine whether the Walburn produced “evidence sufficient to support
+
+a finding” that the audio recording is what the Walburn claims it is. Fed. R. Evid. 901(a). Based on
+
+the evidence presented, which included two sworn declarations, the Court is satisfied that the audio
+
+recording is authentic and has not been materially altered.
+
+               2. The Court’s Findings Regarding the Identity of the Caller.
+
+       The Court now turns to whether the Walburn sufficiently established that the voice of the
+
+caller identifying himself as “Tyrone Jackson” on the audio recording was actually Burnley.
+
+Walburn’s declaration appears to satisfy Rule 901(b)(5), which regards evidence sufficient for
+
+authentication purposes in the form of “[a]n opinion identifying a person’s voice –whether heard
+
+firsthand or through mechanical or electronic transmission or recording—based on hearing the voice
+
+at any time under circumstances that connect it with the alleged speaker.” Fed. R. Evid. 901(b)(5).
+
+Here, Walburn attests, under penalty of perjury, that he has known Burnley for approximately five
+
+years, has heard his voice on numerous occasions, and recognizes the voice on the recording as
+
+Burnley’s voice.
+
+       Burnley, however, denies that he called LiveWire on June 6, 2024, and is skeptical that
+
+Walburn would be able to recognize his voice. (ECF No. 187 at 2, 4.) He argues that he has “under
+
+no circumstances had numerous conversations with [Walburn],” but admits that Walburn spoke to
+
+Burnley in the past. (ECF No. 187 at 4.) In support, he claims that the allegedly racist remarks giving
+
+rise to the underlying complaint began shortly after Walburn moved next door to him, which is why
+
+he “never had any reason to conversate with Walburn and Valentin.” (Id.)
+
+       Given the issues raised by Burnley as to the authenticity and identity of the caller on the audio
+
+recording, the Court convened an evidentiary hearing on March 4, 2026. During the hearing, the Court
+
+                                                  13
+heard the audio recording live. (ECF No. 194 (“Hearing Transcript”) at 13:5.) Walburn testified that
+
+the recording was an accurate, unaltered copy of the recording he heard when his supervisor, Mr.
+
+Roskam, shared it with him. (Hearing Transcript. 13: 8-14.) Walburn clarified that he had previously
+
+worked for FedEx, was not fired for selling illegal narcotics, and does not know of anyone, including
+
+those who live on his street, named Tyrone Jackson. (Hearing Transcript. 13:22-4.) He testified that
+
+he recognized the voice on the audio recording as Burnley’s voice because “it sounds exactly like
+
+him,” and that “[g]iven the previous lawsuits, his previous interactions calling FedEx, and all of the
+
+novel information in there, [there] is only one person, which is him.” (Hearing Transcript. 14:9-19.)
+
+Walburn noted that he could recognize Burnley’s voice because Walburn had “two or three
+
+conversations with him” about “four or five years ago” and has heard him “sometimes outside or so.”
+
+(Hearing Transcript. 11:10-14.)
+
+       On cross-examination, Burnley questioned Walburn about how Walburn recognized the caller
+
+as Burnley, to which Walburn responded: “I have ears” and “I can hear.” (Hearing Transcript 17:23-
+
+25, 18:1-2.) The Court provided Burnley the opportunity to testify, under oath, that the voice on the
+
+recording was not his. (Hearing Transcript 6:11-25.) Notably, Burnley declined to testify under oath
+
+that it was not his voice on the recording. (Hearing Transcript 7:1-4.)
+
+       Based on the evidence presented, the Court credits the statements by “Tyrone Jackson” on the
+
+audio recording as having been made by Burnley. First, despite being given the opportunity to testify
+
+in open court, under penalty of perjury, Burnley declined to state on the record that he did not call
+
+LiveWire on June 6, 2024 and that the statements captured on the audio recording were made by him.
+
+Second, Walburn sufficiently identified Burnley’s voice as the voice of “Tyrone Jackson” based on
+
+hearing Burnley’s voice on prior occasions as his neighbor. Third, Walburn notes that Burnley
+
+previously swore, in an affidavit, that Burnley had contacted Walburn’s former employer, FedEx, in
+
+2023 and alleged that Walburn used illegal drugs and tried to sell Burnley illegal drugs “on numerous
+
+                                                  14
+occasions.” (ECF No. 168 at 2 n.1 (citing ECF No. 117-1 at 6).) The Court considers this previous
+
+behavior as relevant to proving Burnley’s identity as the caller who lodged nearly identical
+
+accusations against Walburn in the phone call to Walburn’s current employer, LiveWire. See Fed. R.
+
+Evid. 404(b)(2) (permitting the use of prior acts for the admissible purpose of proving identity and
+
+not for proving propensity in conformance with the prior acts). Here, the Court finds that Burnley’s
+
+use of a pseudonym demonstrates awareness of the contractual prohibition and an attempt to evade
+
+it. Such conduct indicates that Burnley not only circumvented the settlement agreement in bad faith,
+
+but willfully breached it. His unwillingness to testify under oath to the contrary further shows that
+
+Burnley is aware of the consequences of his actions but nonetheless refuses to take accountability for
+
+them. Given the seriousness of Burnley’s behavior in flagrantly violating the settlement agreement,
+
+the Court finds that enforcement is necessary.
+
+   B. Cunningham’s Motion to Enforce is Denied in Part as Moot and Denied in Part Without
+      Prejudice.
+
+       Cunningham maintains that Burnley’s subsequent lawsuit, Civil Action No. 3:25cv210, seeks
+
+to relitigate settled claims, further undermining and violating the Cunningham-Burnley Settlement
+
+Agreement. (ECF No. 171 at 3.) According to Cunningham, Burnley’s allegations in the subsequent
+
+lawsuit “fall within the terms of the Settlement Agreement[,]” as the Complaint “contains purported
+
+breaches of the Settlement Agreement . . . .” (Id. at 2.) For example, Cunningham points to Burnley’s
+
+allegations that Cunningham assigned undercover police officers and intended to “make his life and
+
+his family life a ‘living hell’” in retaliation “for filing that lawsuit against her (3:23CV160(RCY)).”
+
+(Id. at 3, citing Def. Cunningham Ex. B (ECF No. 171-2).) Given this, “[Burnley] has filed his New
+
+Complaint without complying with the conditions of the Settlement Agreement – he did not provide
+
+Cunningham with notice of the alleged breach or evidence in support thereof.” (ECF No. 171 at 3.)
+
+       In response, Burnley maintains that the claims filed in Civil Action 3:25cv210 “have
+
+absolutely nothing to do with the [sic] Settlement Agreement that occurred on November 17, 2023.
+                                                 15
+The claims may be similar in nature but its [sic] (after the fact).” (ECF No. 174 at 1) (parentheses in
+
+original.) He argues that: (1) Cunningham is using the Settlement Agreement as a “‘procedural bar’
+
+to deny [Burnley]’s due process rights[;]” (2) the “Settlement Agreement is not binding because it
+
+was drawn up by Cunningham’s attorneys’ [sic] for her benefit[;]” (3) Cunningham improperly
+
+brought “the Motion to Enforce Settlement Agreement without first giving [him] ‘written notice of
+
+the breach by certified mail;’” and (4) the District Judge in Civil Action No. 3:25cv210 found that
+
+the subsequent litigation alleged conduct which occurred after the parties’ settlement in this case. (Id.
+
+at 1-2.)
+
+           Like the Walburn-Burnley Settlement Agreement, the Cunningham-Burnley Settlement
+
+Agreement contains an identical “Notice of Breach” provision, requiring that a party initiating any
+
+“action for enforcement, any lawsuit, or other legal proceeding alleging a breach of this Agreement”
+
+shall first send written notice to “all involved Parties describing the alleged breach and supplying
+
+written, audio, video, photographic, or other tangible evidence of the alleged breach.” (Cunningham-
+
+Burnley Settlement Agreement ¶ 4.) The Notice of Breach provision explicitly provides that failure
+
+to do so will result in the “action for enforcement, lawsuit, or legal proceeding” being dismissed. (Id.)
+
+           In her enforcement action, Cunningham asks the Court to dismiss the subsequent lawsuit,
+
+Civil Action No. 3:25cv210, on the basis that Burnley did not provide her with notice as required by
+
+the Settlement Agreement. After she filed her Motion to Enforce, the District Court subsequently
+
+dismissed Civil Action No. 3:25cv210, rendering Cunningham’s request for relief moot. Burnley v.
+
+Walburn, et al., Civ. Action No. 3:25cv210, ECF No. 30. To the extent that Cunningham seeks fees,
+
+costs, and other “relief as appropriate,” the Court is similarly constrained by the four corners of the
+
+settlement agreement, including its notice provision. Here, the plain language of the settlement
+
+agreement required Cunningham to provide written notice that Burnley allegedly breached the
+
+settlement, and to include with that notice “written, audio, video, photographic, or other tangible
+
+                                                   16
+evidence of the alleged breach.” (Cunningham-Burnley Settlement Agreement ¶ 4.). Unlike Walburn,
+
+there is no record that Cunningham sent written notice containing the requisite evidence showing
+
+breach to Burnley prior to initiating the enforcement action in this case. (ECF No. 168 at 4 n.4.)
+
+Therefore, the Court DENIES Cunningham’s Motion to Enforce (ECF No. 170) without prejudice.
+
+Because the Court is denying Cunningham’s Motion to Enforce without prejudice, the Court need not
+
+address the remainder of Burnley’s arguments on the merits of Cunningham’s enforcement action at
+
+this time.
+
+                                    V.     ATTORNEY’S FEES
+
+        As a general rule, each litigant bears the expense of his or her own attorneys’ fees absent a
+
+contrary rule of court or express statutory or contractual authority for recovery. See Hitachi Credit
+
+Am. Corp. v. Signet Bank, 166 F.3d 614, 631 (4th Cir. 1999). Here, the Walburn-Burnley Settlement
+
+Agreement provides that:
+
+               in the event that any litigation is commenced in connection with the
+               construction, interpretation, or enforcement of this Agreement or to
+               enforce any obligation imposed by or contained in this Agreement, the
+               prevailing Party or Parties shall be entitled to recover their reasonable
+               attorney’s fees, expenses, disbursements, and costs of suit, including
+               appellate fees and costs, from the non-prevailing Party or Parties.
+
+(Walburn-Burnley Settlement Agreement ¶ 9.) Thus, by its plain language, the parties expressly
+
+agreed that the prevailing party in an enforcement action shall be awarded its costs and attorney’s
+
+fees. (See id.) The Court finds that the parties’ fee-shifting provision of the agreement requires an
+
+award of costs and reasonable attorneys’ fees to Walburn, which will be subject to a reasonableness
+
+review. Therefore, Walburn is DIRECTED to file a formal fee petition outlining the total fees and
+
+costs requested with the appropriate supporting documentation. Such filing must occur not later than
+
+April 9, 2026. Burnley’s response, if any, shall be filed not later than April 23, 2026. Any Reply,
+
+if necessary, shall be filed by April 30, 2026.
+
+
+                                                  17
+                                     VI.     CONCLUSION
+
+       For the reasons stated above, the Court hereby GRANTS Walburn’s Motion to Enforce (ECF
+
+No. 167); DENIES, in part as moot, and DENIES, in part, without prejudice Cunningham’s Motion
+
+to Enforce (ECF No. 170); and AWARDS Walburn reasonable attorneys’ fees and costs against
+
+Burnley in an amount subject to a reasonableness review.
+
+       Let the Clerk file this Memorandum Opinion electronically, notify all counsel of record and
+
+pro se litigant Burnley, and send a copy to United States District Judge Roderick C. Young.
+
+
+
+
+                                                          /s/
+                                            Mark R. Colombell
+                                            United States Magistrate Judge
+
+Richmond, Virginia
+Date: March 18, 2026
+
+
+
+
+                                                18
+

@@ -1,0 +1,159 @@
+Case 2:24-cv-12947-TGB-APP ECF No. 25, PageID.399 Filed 06/11/25 Page 1 of 5
+
+
+
+
+                 UNITED STATES DISTRICT COURT
+                 EASTERN DISTRICT OF MICHIGAN
+                     SOUTHERN DIVISION
+
+JOSEPH MICHAEL HUNT,                       2-24-CV-12947-TGB-APP
+                  Plaintiff,              HON. TERRENCE G. BERG
+      vs.
+                                         ORDER DENYING MOTION
+ALANIS NADINE                            FOR RECONSIDERATION
+MORISSETTE and EPIPHANY
+PRODUCTIONS INC.,                                 (ECF NO. 24)
+                  Defendants.
+
+     The Court construes ECF No. 24 as Plaintiff Joseph Michael Hunt’s
+moving the Court to reconsider its Order at ECF No. 23. There, the Court
+granted in part and denied in part Defendants’ Motion for Attorneys’
+Fees and Costs, ECF No. 20, and ordered Plaintiff to pay Defendants 10%
+of their costs incurred: $3,284.61. ECF No. 23, PageID.268.
+     Plaintiff argues that the Court erred in two ways. First, Plaintiff
+
+argues that Defendants’ attorneys committed “Fraud Upon The Court”
+either by (a) allowing attorneys not licensed in the State of Michigan to
+participate in this lawsuit, or (b) by allowing Stephen D. Rothschild to
+write a Declaration detailing the attorneys’ fees Defendants expended,
+which Declaration was filed by Defendants’ attorney of record, Brian
+Wassom. ECF No. 24, PageID.274-76.
+     As a preliminary matter, the Court notes that Plaintiff appears to
+base this argument on questions that he posed to an artificial intelligence
+(“AI”) program, and the answers that program provided. ECF No. 24-1,
+Case 2:24-cv-12947-TGB-APP ECF No. 25, PageID.400 Filed 06/11/25 Page 2 of 5
+
+
+
+
+PageID.280-82. AI programs “are based on complex mathematical
+systems that learn their skills by analyzing enormous amounts of digital
+
+data. They do not — and cannot — decide what is true and what is false.
+Indeed, at times, they just make stuff up—a phenomenon some A.I.
+researchers call hallucinations.” Cade Metz & Karen Weise, A.I. Is
+Getting More Powerful, but Its Hallucinations Are Getting Worse, N.Y.
+Times       (May    6,    2025),    https://www.nytimes.com/2025/05/05/
+technology/ai-hallucinations-chatgpt-google.html. As such, some courts
+have rejected the use of such AI programs in legal pleadings “out of
+hand”. J.G. v. New York City Dep’t of Educ., 719 F. Supp. 3d 293, 308
+(S.D.N.Y. 2024). Because AI-generated material is unlikely to be helpful
+to Plaintiff, the Court directs that in the event Plaintiff should file any
+additional pleadings, he should not include or rely upon AI-generated
+material.
+     Plaintiff also argues that Rothschild’s participation in this case
+constituted unauthorized practice of law. This is incorrect. ECF No. 24,
+PageID.274-76. If Rothschild assisted in drafting Defendants’ pleadings,
+then he did so through local counsel, Wassom. When out-of-state counsel
+assist with legal research and drafting, and make no court appearance,
+but rather work with local counsel, this “does not constitute the
+
+unauthorized practice of law.” State Treasurer v. Jackson, 448 Mich. 916,
+919 (1995) (Michigan local counsel, Illinois out-of-state counsel). If
+
+
+                                     2
+Case 2:24-cv-12947-TGB-APP ECF No. 25, PageID.401 Filed 06/11/25 Page 3 of 5
+
+
+
+
+Rothschild consulted with Defendants in this action, that is explicitly
+permitted by the Local Rules of the Eastern District of Michigan:
+           [A]n actively-licensed attorney who is not under
+           suspension or disbarment in this or another
+           federal or state court may . . . counsel a client in
+           an action or proceeding pending in this court.
+E.D. Mich. L.R. 83.20(i)(1)(D)(iii) (“Unauthorized Practice”).
+     Moreover, the Michigan Rules of Professional Conduct state that:
+           A lawyer admitted in another jurisdiction of the
+           United States and not disbarred or suspended
+           from practice in any jurisdiction may provide
+           temporary legal services in this jurisdiction that .
+           . . are undertaken in association with a lawyer who
+           is admitted to practice in this jurisdiction and who
+           actively participates in the matter.
+Mich. Prof’l. Conduct. R. 5.5(c)(1).
+     That is what Rothschild and Wassom did here. Plaintiff also cites
+
+Rule 8.126 of the Michigan Court Rules, which require more in terms of
+out-of-state attorney registration. ECF No. 24-2, PageID.283. But the
+Michigan Court rules do not apply here in federal court. “The
+
+administrative rules of subchapter 8.100 apply to all courts established
+by the constitution and laws of Michigan, unless a rule otherwise
+provides.” Mich. Ct. R. 8.101.
+
+     Because Rothschild’s participation in this case did not violate the
+Local Rules of the Eastern District of Michigan or the Michigan Rules of
+Professional Conduct, it did not constitute the unauthorized practice of
+law, and the Court’s award of attorneys’ fees was not in error. Plaintiff’s
+                                       3
+Case 2:24-cv-12947-TGB-APP ECF No. 25, PageID.402 Filed 06/11/25 Page 4 of 5
+
+
+
+
+reliance on AI instead of an attorney caused him to advance a frivolous
+argument.
+
+     Plaintiff also correctly points out that the Court issued its
+attorney’s fees ruling on May 30, 2025, before Plaintiff had filed his
+response to the motion for fees. ECF No. 24, PageID.276. That response
+was filed the same day, on May 30, 2025. Id. Under the Court’s rules,
+E.D. Mich. L.R. 7.1(e)(1)(A), the Court should have waited until the day
+after May 30, 2025 before issuing its decision, so that Plaintiff could have
+had the entire fourteen days following Defendant’s Motion to respond.
+     Although Plaintiff is correct that the Court should have waited,
+that mistake does not change the Court’s ruling on attorneys’ fees. The
+Court has carefully considered all of the arguments raised in Plaintiff’s
+Response filed May 30, 2025. None of those arguments persuade the
+Court that it should have issued a different Order regarding the Motion
+for Attorneys’ Fees, or that the Order should be amended. And even
+though Plaintiff is correct that he should have been allowed the full 14
+days to respond, the Court has the discretion to decide non-dispositive
+motions before receiving a response. “When a non-dispositive motion is
+filed and adequately advises the court on the issue, the court need not
+wait for a party’s response to that motion.” Smith v. Fender, No. 1:21-CV-
+
+934, 2022 WL 18672973, at *2 (N.D. Ohio Apr. 21, 2022), report and
+recommendation adopted, No. 1:21-CV-00934, 2023 WL 354826 (N.D.
+Ohio Jan. 23, 2023). Defendants’ non-dispositive Motion for Attorneys’
+                                     4
+Case 2:24-cv-12947-TGB-APP ECF No. 25, PageID.403 Filed 06/11/25 Page 5 of 5
+
+
+
+
+fees adequately advised the Court on the issue of the fees to which they
+were entitled. Therefore, the Court did not need to wait for Plaintiff’s
+
+response to be able to rule on the Motion.
+     Because Plaintiff’s Response at ECF No. 24 requests that the Court
+amend an existing Order, the Court construes it as a Motion for
+Reconsideration. That Motion is DENIED. Moreover, because the
+Court’s Order Granting Defendants’ Attorneys’ Fees is still in force, the
+Court ORDERS that Plaintiff must pay Defendants $3,284.61.
+     SO ORDERED.
+
+
+Dated: June 11, 2025             /s/Terrence G. Berg
+                                 HON. TERRENCE G. BERG
+                                 UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                     5
+

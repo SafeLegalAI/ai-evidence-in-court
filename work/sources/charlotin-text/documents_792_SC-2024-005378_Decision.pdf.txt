@@ -1,0 +1,208 @@
+                                                    Date Issued: September 15, 2025
+
+                                                              File: SC-2024-005378
+
+                                                                 Type: Small Claims
+
+
+                             Civil Resolution Tribunal
+
+Indexed as: Agyeman (dba Learn and Drive Academy) v. Hosseinzadmoghadasi, 2025
+                                 BCCRT 1278
+
+
+  BETWEEN:
+
+
+            JOSEPH AGYEMAN (Doing Business As LEARN AND DRIVE
+            ACADEMY)
+
+                                                                     APPLICANT
+
+
+  AND:
+
+
+            MARYNA HOSSEINZADMOGHADASI
+
+                                                                  RESPONDENT
+
+
+
+                           REASONS FOR DECISION
+
+
+Tribunal Member:                                                    Deanna Rivers
+
+
+INTRODUCTION
+
+1. The applicant, Joseph Agyeman, doing business as Learn and Drive Academy, runs
+   a driver training business. The respondent, Maryna Hosseinzadmoghadasi, was in
+   an accident during her road test in Mr. Agyeman’s car. Mr. Agyeman says he
+   incurred costs due to the accident, including $2,442 for car rental, $3,391.34 for the
+   money he spent converting the car to a driver training vehicle, $500 for his
+   insurance deductible, and $10,000 for lost income. He claims half of those costs,
+   totalling $8,166.67. To fit within the Civil Resolution Tribunal’s (CRT) small claims
+   jurisdiction, Mr. Agyeman limits his claim to $5,000.
+
+2. The respondent agrees she was in the accident. She says as a student she is not
+   responsible for the damage. She says Mr. Agyeman’s insurance should cover his
+   costs.
+
+3. Each party represents themselves.
+
+4. For the following reasons, I dismiss Mr. Agyeman’s claims.
+
+
+JURISDICTION AND PROCEDURE
+
+5. The CRT has jurisdiction over small claims brought under Civil Resolution Tribunal
+   Act (CRTA) section 118. The CRT’s mandate is to provide dispute resolution
+   services accessibly, quickly, economically, informally, and flexibly. In resolving
+   disputes, the CRT must apply principles of law and fairness. These are the CRT’s
+   formal written reasons.
+
+6. CRTA section 39 says the CRT has discretion to decide the hearing’s format,
+   including by writing, telephone, videoconferencing, email, or a combination of these.
+   The parties in this dispute each say the other is not being truthful. However, I find
+   the outcome of this dispute turns on the applicable law and the evidence I refer to
+   below. Bearing in mind the CRT’s mandate that includes proportionality and a
+   speedy resolution of disputes, I find that I am properly able to assess and weigh the
+   documentary evidence and submissions before me. I find that an oral hearing is not
+   necessary in the interests of justice.
+
+7. CRTA section 42 says the CRT may accept as evidence information that it
+   considers relevant, necessary, and appropriate, whether or not the information
+   would be admissible in court.
+
+
+                                            2
+8. In his written argument, Mr. Agyeman asks for an order that the respondent’s
+    husband remove his online reviews of Mr. Agyeman’s business. However, asking
+    someone to do something, such as remove a review, is a form of injunctive relief.
+    With limited exceptions that do not apply here, injunctive orders are outside the
+    CRT’s small claims jurisdiction. Further, the respondent’s husband is not a party to
+    this dispute. So, I do not have jurisdiction to make such and order, and I have not
+    considered this request further.
+
+
+ISSUES
+
+9. The issues in this dispute are:
+
+    a. Is Mr. Agyeman entitled to reimbursement for his car rental, the cost to convert
+       the car to a drivers’ training vehicle, and his insurance deductible?
+
+    b. Is Mr. Agyeman entitled to compensation for lost income?
+
+
+EVIDENCE AND ANALYSIS
+
+10. In a civil proceeding like this one, Mr. Agyeman, as applicant, must prove his claim
+    on a balance of probabilities, meaning more likely than not. I have read both parties’
+    submissions and evidence but refer only to the evidence and argument that I find
+    relevant to provide context for my decision.
+
+11. Mr. Agyeman provided an overview of the Insurance Corporation of British
+    Columbia’s (ICBC) policies prepared by generative artificial intelligence (AI). The
+    BC Supreme Court and the CRT have discussed the risks of relying on generative
+    AI tools, as the output is often inaccurate. The document was not written by an
+    expert and is not a business record. So, it does not help prove any facts and is not
+    reliable evidence. I did not consider it in making my decision.
+
+12. The basic facts are not disputed. On December 4, 2023, the respondent was
+    involved in a motor vehicle accident while driving Mr. Agyeman’s student driver car.
+    ICBC found her 100% at fault for the accident.
+
+
+                                            3
+13. The car had been modified for use as a driver training vehicle. ICBC paid Mr.
+    Agyeman the car’s value, less the $500 deductible.
+
+Is Mr. Agyeman entitled to reimbursement for his car rental, the cost to
+convert the car to a drivers’ training vehicle, and his insurance deductible?
+
+14. I find Mr. Agyeman is not entitled to reimbursement for these costs, because they
+    are barred by the Insurance (Vehicle) Act (IVA).
+
+15. As I set out above, Mr. Agyeman claims half of the following costs: $2,442 for car
+    rental, $3,391.34 for money he spent to convert the car into a driver training vehicle,
+    and $500 for his insurance deductible.
+
+16. Since May 1, 2021, IVA section 172 says a person cannot sue for vehicle damage
+    caused by an accident between two or more vehicles. The exceptions set out in the
+    Basic Vehicle Damage Coverage Regulation section 6(2), such as for unlicenced
+    vehicles and leased vehicles, do not apply.
+
+17. So, if Mr. Agyeman’s claims are within the definition of vehicle damage, he does not
+    have a right to bring this claim. Relevant to this dispute, IVA section 170 says, in
+    part, vehicle damage means damage to or loss of the vehicle, loss of use of the
+    vehicle, and damage to or loss of permanently attached equipment.
+
+18. First, I find the car rental was necessary because the accident damage meant his
+    car could not be used. So, I find the rental costs fall within loss of use of the vehicle
+    under IVA section 170.
+
+19. Second, although Mr. Agyeman did not explain what was needed to convert the car
+    into a driver training vehicle, I find that this claim involves loss of or damage to
+    permanently attached equipment. So, I find it qualifies as vehicle damage under IVA
+    section 170.
+
+20. Finally, I note IVA section 170 does not specifically mention insurance deductibles.
+    However, in the previous CRT decision Mark v. Windley Contracting Ltd., 2023
+    BCCRT 579, a vice chair found that a deductible was part of vehicle damage. That
+
+
+                                              4
+    decision is not binding on me, but I agree with it. The deductible is not a cost Mr.
+    Agyeman paid due to the accident. Instead, it reflects the part of the vehicle’s value
+    not covered by his insurance with ICBC. I find that the deductible is a part of the
+    compensation for the damage to or loss of the car under section 170.
+
+21. As I find each of Mr. Agyeman’s claims falls within the meaning of vehicle damage
+    under IVA section 170, they are statute-barred by IVA section 172. Therefore, I
+    must dismiss these claims.
+
+Is Mr. Agyeman entitled to compensation for lost income?
+
+22. I find Mr. Agyeman is not entitled to compensation for lost income arising from an
+    inability to use his modified vehicle because he did not provide any evidence to
+    support his claim.
+
+23. Mr. Agyeman says he lost $10,000 in income while he did not have a driver training
+    vehicle. He claims half that amount, or $5,000.
+
+24. Mr. Agyeman provided 2 undated text messages saying he had to cancel
+    appointments because of the accident. However, he did not provide any other
+    evidence to support this claim, such as how many lessons he could not book or had
+    to cancel, or how much he charged for each lesson.
+
+25. I find that Mr. Agyeman has not proved he lost income due to the accident. I dismiss
+    this claim.
+
+26. Under CRTA section 49 and CRT rules, the CRT will generally order an
+    unsuccessful party to reimburse a successful party for CRT fees and reasonable
+    dispute-related expenses. As Mr. Agyeman was not successful, I dismiss his claim
+    for reimbursement of CRT fees. The respondent did not pay CRT fees.
+
+27. Neither party claimed any dispute-related expenses.
+
+
+
+
+                                             5
+ORDER
+
+28. I dismiss Mr. Agyeman’s claims.
+
+
+
+
+                                          Deanna Rivers, Tribunal Member
+
+
+
+
+                                      6
+

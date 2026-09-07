@@ -1,0 +1,346 @@
+                                                            Date Issued: April 10, 2025
+                                                          Date Amended: April 17, 2025
+
+
+
+
+                                                                                          2025 BCCRT 453 (CanLII)
+                                                                 File: AB-2023-012674
+                                                                 Type: Accident Claims
+                                                            Category: Accident Benefits
+
+
+                              Civil Resolution Tribunal
+
+                    Indexed as: Bahia v. ICBC, 2025 BCCRT 453
+
+
+  BETWEEN:
+
+
+               ONKAR SINGH BAHIA
+
+
+                                                                          APPLICANT
+
+
+  AND:
+
+
+               INSURANCE CORPORATION OF BRITISH COLUMBIA
+
+
+                                                                       RESPONDENT
+
+
+
+                      AMENDED1 REASONS FOR DECISION
+
+
+Tribunal Member:                                                       Deanna Rivers
+
+
+
+INTRODUCTION
+
+1. This dispute is about Onkar Singh Bahia’s entitlement to income replacement
+   benefits.
+2. On April 26, 2024, Mr. Bahia, a teacher, was injured when rear-ended while driving.
+    Mr. Bahia went off work due to his injuries, using sick time he had accumulated with
+    his employer. Once able, he began a graduated return to work (GRTW), but says
+    his injuries meant he had to step down from his higher-paying position of
+
+
+
+
+                                                                                             2025 BCCRT 453 (CanLII)
+    department head of his school’s math program.
+
+3. Once Mr. Bahia began the GRTW, Insurance Corporation of British Columbia
+    (ICBC) determined his entitlement to income replacement benefits and paid them.
+
+4. Mr. Bahia disagrees with ICBC’s entitlement determination. He claims ongoing
+    income replacement benefits based on the department head position. He also
+    claims compensation for the sick days he used, and interest on any payments ICBC
+    owes resulting from this dispute. Mr. Bahia represents himself.
+
+5. ICBC says it correctly determined and paid all income replacement benefits which
+    Mr. Bahia is entitled. It also says that Mr. Bahia is not entitled to compensation for
+    sick days. An authorized employee represents ICBC.
+
+6. For the reasons that follow, I dismiss Mr. Bahia’s claims.
+
+
+JURISDICTION AND PROCEDURE
+
+7. The Civil Resolution Tribunal (CRT) has jurisdiction over accident claims brought
+    under the Civil Resolution Tribunal Act (CRTA). CRTA section 133(1)(a) gives the
+    CRT jurisdiction over the determination of entitlement to accident benefits. These
+    are the CRT’s formal written reasons.
+
+8. CRTA section 2 states that the CRT’s mandate is to provide dispute resolution
+    services accessibly, quickly, economically, informally, and flexibly. In resolving
+    disputes, the CRT must apply principles of law and fairness, and recognize any
+    relationships between parties to a dispute that will likely continue after the dispute
+    resolution process has ended.
+
+
+
+
+                                             2
+9. CRTA section 39 says that the CRT has discretion to decide the format of the
+    hearing, including by writing, telephone, videoconferencing, email, or a combination
+    of these. I find that I am properly able to assess and weigh the documentary
+    evidence and submissions before me. Considering the CRT’s mandate that includes
+
+
+
+
+                                                                                           2025 BCCRT 453 (CanLII)
+    proportionality and a speedy resolution of disputes, I find I am able to hear this
+    dispute through written submissions.
+
+10. CRTA section 42 says that the CRT may accept as evidence information that it
+    considers relevant, necessary, and appropriate, whether or not the information
+    would be admissible in court.
+
+Claims not in Dispute Notice
+
+11. In his submissions, Mr. Bahia claims reimbursement for a massage gun and a
+    watch. He also asks that ICBC arrange for a brain scan related to his concussion
+    symptoms. He did not include these claims in the Dispute Notice. The purpose of
+    the Dispute Notice is to define the issues and provide fair notice to ICBC of the
+    claims against it. CRT rule 1.19 says the CRT will not issue an amended Dispute
+    Notice after the dispute has entered into the tribunal decision process except in
+    extraordinary circumstances. Here, I find there are no extraordinary circumstances
+    that warrant amending the Dispute Notice.
+
+12. So, I do not address Mr. Bahia’s claims for the massage gun, the watch, or a brain
+    scan.
+
+Evidence
+
+13. Mr. Bahia provided evidence from Google AI and other online websites about the
+    risks of health symptoms related to his heart condition.
+
+14. In recent CRT decisions2, tribunal members have noted the inherent risks of
+    unregulated artificial intelligence tools and declined to rely on evidence from AI-
+    generated research. Those decisions note information provided by AI tools is
+    unreliable at best. While these decisions are not binding on me, I agree with their
+
+
+
+                                             3
+    reasoning. So, I give no weight to Mr. Bahia’s AI-produced evidence about the risks
+    associated with his heart conditions.
+
+
+ISSUES
+
+
+
+
+                                                                                             2025 BCCRT 453 (CanLII)
+15. The issues in this dispute are:
+
+      a. Whether Mr. Bahia is entitled to replacement or compensation for sick days.
+
+      b. Whether Mr. Bahia is entitled to ongoing income replacement benefits.
+
+      c. Whether Mr. Bahia is entitled to interest for late payments.
+
+
+BACKGROUND, EVIDENCE, AND ANALYSIS
+
+16. As the applicant in this civil proceeding, Mr. Bahia must prove his claims on a
+    balance of probabilities, meaning “more likely than not.” While I have read all of the
+    parties’ submitted evidence and arguments, I only refer to those necessary to
+    explain my decision.
+
+17. As I note above, on September 27, 2023, Mr. Bahia was rear-ended while driving.
+    The impact forced him into the vehicle in front of him. Mr. Bahia’s injuries included
+    back pain and neck pain, and he suffered a concussion.
+
+18. At the time of the accident, Mr. Bahia was a senior math secondary school teacher.
+    Following the accident, Mr. Bahia took time from work due to his injuries.
+
+Sick Days
+
+19. Mr. Bahia says he has a genetic heart condition, and he will have further heart-
+    related conditions as he ages. He says he rarely used his sick days during his
+    employment and accumulated them anticipating he will need them in the future to
+    deal with his heart condition.
+
+
+
+
+                                             4
+20. Mr. Bahia claims the return of, or compensation for, 51 sick days he used due to his
+    accident-related injuries.
+
+21. Entitlement to income replacement benefits is determined under Insurance (Vehicle)
+
+
+
+
+                                                                                              2025 BCCRT 453 (CanLII)
+    Act Part 10, Division 6. IVA Division 6 provides income replacement benefits to
+    people who are unable to work because of an accident. IVA section 122(2) says
+    ICBC must not pay a benefit under Part 10 to a person who is entitled to other
+    compensation for the same accident, unless the amount paid under Part 10 is
+    higher than the other compensation. This means that if a person is entitled to other
+    compensation, ICBC may only pay the difference between the other compensation
+    and their IVA income replacement benefits.
+
+22. IVA section 122(1) defines “other compensation” as amounts paid or payable for a
+    loss or expense similar to one covered under Part 10, including from a “prescribed
+    compensation plan or scheme.” Enhanced Accident Benefits Regulation (EABR)
+    section 18(2)(c) defines a “prescribed compensation plan or scheme” to include
+    compensation from employment or through a collective bargaining agreement.
+
+23. Mr. Bahia does not dispute that his sick days are provided through his employer or
+    through collective bargaining. He also does not dispute that his paid sick time
+    covered his full wages for the days he was off sick. He says that the legislation is
+    unfair because it does not put him in the same position he would be if the accident
+    had not happened. He asks for his sick days to be reinstated.
+
+24. It is the role of the court (or the CRT) to apply the law to the circumstances that are
+    before it.3 In this dispute, Mr. Bahia claims benefits under a regulation, not damages
+    at common law. Damages at common law, or compensatory damages, are
+    designed to compensate a person for all of the losses the person suffered or is
+    expected to suffer in the future, or to “make the claimant whole.” However, Mr.
+    Bahia’s claim for benefits is under the legislated income replacement benefits
+    scheme. That legislation limits income replacement benefits to only cover wage loss
+    to the extent that it is not otherwise payable to the injured person.
+
+
+
+
+                                             5
+25. So, I find under IVA section 122 and EABR section 18, ICBC must not reimburse or
+    otherwise pay Mr. Bahia for the use of his sick days. I dismiss his claim.
+
+Income Replacement Benefits
+
+
+
+
+                                                                                             2025 BCCRT 453 (CanLII)
+26. In addition to being a senior math teacher, since September 2012 Mr. Bahia was his
+    school’s math program department head. The department head position is posted
+    every second year, for a 2-year term. Before the accident, Mr. Bahia was
+    reappointed to the position for a term running from September 2023 to June 2025.
+    He says that after the accident, he could not fulfill the role, and resigned effective
+    April 18, 2024. He says ICBC should include the department head allowance when
+    calculating income replacement benefits from April 18, 2024 to the end of June
+    2025.
+
+27. ICBC does not dispute that Mr. Bahia held the math department head position, but
+    says that he did not resign from it due to the accident. It did not pay Mr. Bahia
+    income replacement benefits after June 2024.
+
+28. However, I find it does not matter why Mr. Bahia resigned. Mr. Bahia is not entitled
+    to further income replacement because his income exceeds the maximum insurable
+    income amount under Income Replacement Benefits Regulation (IRBR) section 2.
+
+29. IRBR section 2(3) sets an insured person’s maximum yearly insurable income at
+    $100,000 for May 1, 2021 to March 31, 2022. Each year, the maximum income
+    increases according to the legislated formula. The cap for April 1, 2023 to March 31,
+    2024 was $109,000, and for April 1, 2024 to March 31, 2025 it was $113,000.
+
+30. IRBR section 4 and 17 together provide for a calculation of an insured person’s
+    gross yearly employment income (GYEI), which is based on the 52 weeks prior to
+    the accident. As Mr. Bahia’s income in the year prior to the accident exceeded the
+    2023 income cap, his GYEI for the purpose of determining income replacement
+    benefits was limited to the statutory cap of $109,000.
+
+
+
+
+                                              6
+31. IVA section 146(1)(c) and IRBR section 11(1)(d) together say that ICBC must
+    suspend income replacement benefits if the insured’s current employment income is
+    equal to or greater than the GYEI on which the income replacement benefit is
+    determined. As Mr. Bahia’s 2024 income exceeded the cap for income replacement
+
+
+
+
+                                                                                             2025 BCCRT 453 (CanLII)
+    benefits, I find Mr. Bahia was not entitled to income replacement benefits for the
+    loss of the department head allowance.
+
+32. Although Mr. Bahia says he believes he paid for extra insurance to cover his full
+    wage loss, ICBC says he did not purchase “top-up” insurance. He did not provide a
+    copy of any optional insurance contract which increased his income replacement
+    insurance coverage.
+
+33. Mr. Bahia also says that he entered into a verbal and written contract with ICBC to
+    provide his full wages after the accident. To support this claim, he provided ICBC’s
+    September 18, 2024 email calculating his loss of earnings and eligibility for income
+    replacement benefits for May and June 2024. That email says that he can continue
+    to submit paystubs during his GRTW, and ICBC will calculate his income
+    replacement benefit top up each pay period until “the end of the DH assignment -
+    June 2025.”
+
+34. I find that ICBC’s September 18, 2024 email is not a contract to pay income
+    replacement benefits to Mr. Bahia in excess of the amount set out in IRBR section
+    2(3). The email says ICBC will calculate the benefit. I find it calculated the benefit
+    correctly and determined that Mr. Bahia is not eligible for further income
+    replacement benefits.
+
+35. So, I dismiss Mr. Bahia’s claim.
+
+
+FEES AND EXPENSES
+
+36. Under CRTA section 49 and the CRT rules, a successful party is generally entitled
+    to the recovery of their CRT fees and dispute-related expenses. As Mr. Bahia was
+    not successful, I find that he is not entitled to reimbursement of his CRT fees. Since
+
+
+
+                                             7
+    ICBC was successful, I find it is entitled to the $25 it paid in CRT fees. Neither party
+    claimed dispute-related expenses.
+
+
+ORDER
+
+
+
+
+                                                                                                   2025 BCCRT 453 (CanLII)
+37. I dismiss Mr. Bahia’s claims.
+
+38. Within 21 days of this decision, I order Mr. Bahia to pay ICBC $25 as
+    reimbursement for CRT fees.
+
+39. ICBC is entitled to post-judgment interest under the Court Order Interest Act.
+
+40. This is a validated decision and order. Under section 57 and 58 of the CRTA, a
+    validated copy of the CRT’s order can be enforced through the Supreme Court of
+    British Columbia or the Provincial Court of British Columbia if it is under $35,000.
+    Once filed, a CRT order has the same force and effect as a court order.
+
+
+
+
+                                                             Deanna Rivers, Tribunal Member
+
+
+
+
+1 Amendment note: Paragraph 4 was amended to correct an accidental typographical error under the
+
+authority of Civil Resolution Tribunal Act section 64(a).
+2 For example, Yang v. Gibbs (dba D & G Cedar Fencing), 2024 BCCRT 613, SQBox Solutions Ltd. v.
+
+Oak, 2025 BCCRT 408.
+3 Wunderlich v. Kamloops (City), 2025 BCSC 555.
+
+
+
+
+                                                 8
+

@@ -1,0 +1,271 @@
+Demissie v. Ford et al                                                                                                            Doc. 105
+
+
+
+
+                1                                         UNITED STATES DISTRICT COURT
+                2                                                 DISTRICT OF NEVADA
+                3                                                              ***
+                4            DANIEL DEMISSIE,                                              Case No. 2:25-cv-00504-GMN-EJY
+                5                          Plaintiff,
+                                                                                                           ORDER
+                6                v.
+                7            AARON D. FORD, ATTORNEY GENERAL
+                             OF NEVADA, LAS VEGAS
+                8            METROPOLITAN POLICE DEPARTMENT
+                             (Metro), DETECTIVE GABRIEL LEA
+                9            (#16511), OFFICER BROOKS WEST
+                             (#16134), CAESARS ENTERTAINMENT,
+               10            INC., FLAMINGO LAS VEGAS
+                             OPERATING COMPANY, LLC, AND
+               11            JOHN DOE, FLAMINGO ASSISTANT
+                             SECURITY SHIFT MANAGER,
+               12
+                                           Defendants.
+               13
+
+               14                Pending before the Court is Defendants Las Vegas Metropolitan Police Department
+               15        (“Metro”) and the individual Defendants’ collective Motion to Seal pertaining to exhibits provided
+               16        in support of Defendants’ opposition to a Motion for Terminating Sanctions. 1 ECF No. 88. The
+               17        Court initially granted Defendants’ Motion to Seal (ECF No. 89), but upon review of Plaintiff’s
+               18        Motion for Reconsideration (ECF No. 91), the Court agreed to reconsider its original Order. ECF
+               19        No. 92. The Court is now in possession of additional filings pertaining to the Motion to Seal filed
+               20        by the parties. ECF Nos. 96, 104. All filings pertinent to the instant decision were considered by
+               21        the Court.
+               22        I.      Background
+               23                The Motion to Seal seeks to prevent public access to body worn camera, which was produced
+               24        under a Court approved confidentiality agreement and protective order (ECF No. 65), and which
+               25        Defendants contend meets the standard of sealing set by the Ninth Circuit in Kamakana v. City &
+               26        Cnty. Of Honolulu, 447 F.3d 1172 (9th Cir. 2006) and its progeny. Defendants also rely on NRS
+               27        289.025, which is titled: “Confidentiality of home address and photograph of peace officer in
+               28        1
+                                 Metro together with the individual Defendants are referred to herein as “Defendants.”
+                                                                                 1
+
+                                                                                                                         Dockets.Justia.com
+ 1   possession of law enforcement agency; exceptions.” Subsections 1 and 2 of this statute together
+
+ 2   state: “1. Except as otherwise provided in subsections 2 and 3 and NRS 239.0115, the home address
+
+ 3   and any photograph of a peace officer in the possession of a law enforcement agency are not public
+
+ 4   information and are confidential. 2. The photograph of a peace officer may be released: (a) If the
+
+ 5   peace officer authorizes the release; or (b) If the peace officer has been arrested.”
+
+ 6          Defendants contend the body worn camera at issue which is, of course, in Plaintiff’s
+
+ 7   possession and can be used in the prosecution of Plaintiff’s case, falls squarely within the statutory
+
+ 8   language of NRS 289.025 and, therefore, the images of the police officers in that footage must
+
+ 9   remain under seal as neither exception to the release of officers’ images is met. Defendants further
+
+10   contend that the release of the body worn camera images serves no benefit to the public and, thus,
+
+11   the Kamakana standard is met.
+
+12          Plaintiff contends that there is a strong presumption of disclosure under Kamakana and
+
+13   follow-on Ninth Circuit case law because the body worn camera video was altered and fabricated to
+
+14   create false appearances. Plaintiff avers this fraud is of particular public concern in light of the
+
+15   increasing risks of deepfake technology. Plaintiff says the images on the body worn camera are
+
+16   “deepfake alterations deliberately introduced by defense counsel to mislead the Court.” ECF No. 96
+
+17   at 5. Plaintiff attacks defense counsel and says there is no legitimate privacy interest at stake.
+
+18          With respect to NRS 289.025, Plaintiff concludes it does not govern federal proceedings and
+
+19   responds to Defendants’ public interest argument by contending that allegations of fabricated body
+
+20   worn camera footage outweighs any “generalized” privacy interest the law enforcement officers may
+
+21   have. Plaintiff says keeping the footage confidential is prejudicial to him and his case because
+
+22   sealing these images will only lead to more motion practice and, in any event, Plaintiff is trying to
+
+23   bring to light the issue of fabrication, which “federal authorities” will want to review for purposes
+
+24   of criminal prosecutions. Plaintiff closes his argument by again attacking defense counsel as
+
+25   misrepresenting facts to the Court. Plaintiff seeks sanctions.
+
+26          Defendants respond to Plaintiff’s arguments reiterating the applicable standard and quoting
+
+27   the NRS at issue. Defendants then argue that Plaintiff’s repeated accusations of altered body worn
+
+28   camera images is unsupported by any evidence and that NRS 289.025 is clearly applicable to the
+
+                                                       2
+ 1   case at bar. Defendants quote legislative history because no case law exists interpreting this statute.
+
+ 2   Defendants point to such history as demonstrating that “photographs of peace officers are
+
+ 3   confidential”—a mere repetition of what the statute states. Defendants offer that the safety of police
+
+ 4   officers, whose personal information may be disseminated to the public, could be jeopardized by
+
+ 5   disclosure of the body worn camera. Defendants point out that prior rulings in the District of Nevada
+
+ 6   have favored confidentiality of law enforcement’s private information when the opposing party is
+
+ 7   an unrepresented individual.
+
+ 8          Defendants says the most compelling fact for the Court to consider is that Plaintiff previously
+
+ 9   moved to seal the body worn camera recognizing that the “footage has already drawn heightened
+
+10   attention between the parties in this case and risks attracting unnecessary public interest if publicly
+
+11   disseminated. … Plaintiff respectfully submits that sealing is appropriate to prevent unnecessary
+
+12   prejudice.” ECF No. 105 at 5 citing ECF No. 72 at 2.
+
+13   II.    Discussion
+
+14          The Court notes that the intent and application of NRS 289.025 has not been discussed by
+
+15   the Nevada Court of Appeals or the Nevada Supreme Court. The District of Nevada applied the
+
+16   statute in Sykes v. Las Vegas Metropolitan Police Department, Case No. 2:21-cv-1479-RFB-DJA,
+
+17   2023 WL 9896903, at *1 (D. Nev. Oct. 25, 2023), and withheld a police officer’s home address from
+
+18   public disclosure under NRS 289.025. In Voss v. McClellan, Case No. 3:08-cv-0342-RJC (RAM),
+
+19   2011 WL 1076135, at *10 (D. Nev Feb. 8, 2011), the Court again held that disclosure of a police
+
+20   officer’s home address was impermissible under the statute. This Court notes that withholding a law
+
+21   enforcement officer’s home address in support of safety does not necessarily equate to withholding
+
+22   body worn camera video. Nonetheless, the Court in McClellan did take note that, within the prison
+
+23   system, disclosing personal information of corrections officers could endanger the safety and
+
+24   security of such officers. Id. While the Court welcomes the application of NRS 289.025 in these
+
+25   cases, neither decision addressed body worn camera footage.
+
+26          First, the Court finds Plaintiff offers no evidence that supports the conclusion that Metro
+
+27   altered or fabricated body worn camera footage. While this issue may be resolved through this
+
+28   proceeding, and Plaintiff need not disprove the request to seal is appropriate, the Court nevertheless
+
+                                                      3
+ 1   notes that there is nothing at this juncture on which it can rely with confidence to conclude Plaintiff’s
+
+ 2   allegation is true or even worthy of credence such that there is a public interest in viewing alleged
+
+ 3   altered or fabricated police video. Second, the Court categorically rejects Plaintiff’s unsupported
+
+ 4   allegations regarding defense counsel’s conduct as the counsel appearing in this case are officers of
+
+ 5   the Court and their representations are taken as true in the absence of any reason to question what
+
+ 6   they have proffered. Third, that the body worn camera footage contains images of the officers is
+
+ 7   without doubt. Thus, there is some basis to find NRS 289.025 was meant to prevent disclosure of
+
+ 8   camera footage; albeit this issue is unresolved. Fourth, in contrast to Plaintiff’s current position,
+
+ 9   Plaintiff previously told the Court he recognized the risks associated with disclosure including
+
+10   “attracting unnecessary public interest if publicly disseminated” and “unfairly affect[ing] the
+
+11   integrity of these proceedings.” ECF No. 72 at 2. Plaintiff’s representation regarding the impact of
+
+12   disclosure was made only (approximately) six weeks ago on August 21, 2025. Id.
+
+13          Plaintiff’s recognition that release of video could unfairly affect the integrity of these
+
+14   proceedings, a concern Defendants adopt, is considered along with Defendants’ contention that
+
+15   release may cause efforts to “dox” the individual Defendants (that is, prompt a search for and
+
+16   malicious publication of private information about the officers being sued), especially in light of the
+
+17   allegations made by this pro se Plaintiff. The Court finds these concerns sufficiently establish
+
+18   compelling reasons to permit the body worn camera footage to be filed under seal. While the public’s
+
+19   interest in the integrity of law enforcement activity is not discounted, the safety of law enforcement
+
+20   and potential misuse of the video (given the unique aspects of the current case that includes
+
+21   Plaintiff’s salacious allegations of egregious wrongdoing (see ECF No. 7)) is of equal importance.
+
+22          This is not mere generalized concern, but recognition of specific danger impacting the
+
+23   integrity of the instant proceedings and safety of the individual Defendants, which must override the
+
+24   disclosure of the evidence at issue especially given the lack of credible information that would allow
+
+25   the Court to find a basis to conclude the body worn video was fabricated or materially altered. It is
+
+26   these considerations and not necessarily the language of NRS 289.025, which compels the Court’s
+
+27   decision. The Court notes this decision is not static; that is, should information come to light
+
+28
+                                                       4
+ 1   demonstrating a credible basis for finding fabrication or alteration of body worn camera footage in
+
+ 2   this case, the Court may reach a different result in the future.
+
+ 3          Accordingly, the Court confirms its Order at ECF No. 89 and IT IS HEREBY ORDERED
+
+ 4   that exhibits J, K, L, M, N, and O, filed manually with the Court (see docket entries on September 8
+
+ 5   and 9, 2025) are and shall remain sealed.
+
+ 6          IT IS FURTHER ORDERED that Plaintiff’s request for sanction is denied.
+
+ 7          Dated this 2nd day of October, 2025.
+
+ 8
+
+ 9
+
+10                                                  ELAYNA J. YOUCHAH
+                                                    UNITED STATES MAGISTRATE JUDGE
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+                                                       5
+

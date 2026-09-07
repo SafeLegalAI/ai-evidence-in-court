@@ -1,0 +1,718 @@
+      IN THE SUPREME COURT OF BRITISH COLUMBIA
+
+Citation:      Head v. John Doe,
+               2026 BCSC 184
+                                                                Date: 20260204
+
+
+
+
+                                                                                       2026 BCSC 184 (CanLII)
+                                                               Docket: M185379
+                                                             Registry: Vancouver
+
+Between:
+                             Arthur Ari-Douglas Head
+                                                                           Plaintiff
+
+And
+
+            John Doe and Insurance Corporation of British Columbia
+                                                                       Defendants
+
+                   Before: The Honourable Mr. Justice Veenstra
+
+                            Reasons for Judgment
+
+The Plaintiff, appearing in person:                                      A. Head
+
+Counsel for the Defendant, Insurance                                      G. Kim
+Corporation of British Columbia:
+
+Places and Date of Hearing:                                   Vancouver, B.C.
+                                                            November 18, 2025
+Place and Date of Judgment:                                       Vancouver, B.C.
+                                                                 February 4, 2026
+Head v. John Doe                                                                                                     Page 2
+
+
+                                              Table of Contents
+
+INTRODUCTION ....................................................................................................... 3
+THE FIRST SUMMARY TRIAL JUDGMENT ............................................................ 3
+CROSS-EXAMINATION EVIDENCE......................................................................... 9
+
+
+
+
+                                                                                                                                   2026 BCSC 184 (CanLII)
+SUBSEQUENT PROCEEDINGS............................................................................. 11
+OTHER NEW EVIDENCE ........................................................................................ 12
+POSITIONS OF THE PARTIES ............................................................................... 12
+   ICBC ..................................................................................................................... 12
+   The Plaintiff .......................................................................................................... 13
+ANALYSIS ............................................................................................................... 14
+CONCLUSION ......................................................................................................... 17
+Head v. John Doe                                                                         Page 3
+
+
+Introduction
+
+[1]   This is the continuation of a summary trial brought by the defendant,
+Insurance Corporation of British Columbia (“ICBC”), which seeks to dismiss this
+action pursuant to Rule 9-7 of the Supreme Court Civil Rules. In reasons for
+
+
+
+
+                                                                                                  2026 BCSC 184 (CanLII)
+judgment given in April 2024, and indexed at 2024 BCSC 692 (the “First Summary
+Trial Judgment”), I ordered that the summary trial application be adjourned for
+purposes of cross-examination, then continue before me.
+
+The First Summary Trial Judgment
+
+[2]   The factual background to this matter is summarized at paras. 4-7 of the First
+Summary Trial Judgment:
+
+      [4]     On or about April 16, 2017, Mr. Head was operating a yellow 2009
+      Harley Davidson and was travelling with a group of other motorcyclists on
+      Highway 1 south of Boston Bar, BC. Mr. Head was driving on the right of the
+      right lane. He was injured when his motorcycle left the highway. He suffered
+      significant injuries, including some memory loss.
+      [5]    Among the motorcycles behind Mr. Head was one driven by
+      Mr. Johnston. Mr. Johnston braked suddenly upon seeing the plaintiff leave
+      the highway. He was hit from behind by yet another of the motorcycles,
+      driven by a Mr. Ash.
+      [6]    The result has been a series of court actions. Mr. Johnston sued
+      Mr. Ash. Mr. Ash sued Mr. Johnston. And Mr. Head sued ICBC, alleging that
+      Mr. Head:
+          … was operating a motorcycle in a careful and prudent manner, in a
+          northbound direction on Highway No. 1, at or near the Town of Boston
+          Bar … when suddenly and without warning, an unidentified motorcycle,
+          being operated in a negligent manner by the Defendant, John Doe, in a
+          northbound direction on Highway No. 1, attempted to pass the Plaintiff
+          causing a collision which forced the Plaintiff’s motorcycle off the highway.
+      [7]     The action was commenced pursuant to the then-applicable
+      provisions of the Insurance (Vehicle) Act, R.S.B.C. 1996, c. 231, which
+      allowed a tort claim to be commenced against ICBC as a nominal defendant
+      where the names of the owner and driver who caused an accident were
+      unascertainable.
+
+[3]   The evidence of Mr. Head supporting this claim is summarized at paras. 31-
+32 of the First Summary Trial Judgment:
+
+      [31]    In the affidavit filed on October 23, 2023, Mr. Head gives evidence
+      with respect to the events of April 16, 2017. He deposes that he recalls
+Head v. John Doe                                                                         Page 4
+
+      moving toward the left side of the right lane in order to avoid some potholes,
+      that at about the same time a motorcycle in the left lane swerved toward him,
+      contacting him and causing him to correct to the right. His motorcycle started
+      to drift to the shoulder of the road, which was covered in sand and salt. He
+      tried to make his way back, but there was another motorcycle beside him who
+      surged toward him, effectively forcing him onto the shoulder as the road
+      curved to the left.
+
+
+
+
+                                                                                                  2026 BCSC 184 (CanLII)
+      [32]    I understand from the plaintiff’s submissions that there may have been
+      a time when he did not recall what happened on April 16, 2017. In his
+      affidavit, he deposes that at a subsequent time, he had “a triggered sudden
+      recall” which allowed him to provide the evidence in his affidavit.
+
+[4]   The First Summary Trial Judgment described the course of this litigation at
+paras. 9-26. At paras. 27-30, it summarized briefly the evidence of Mr. Johnston,
+who was riding behind Mr. Head at the time of the accident and who deposed to
+having had a GoPro camera installed at the front of his motorcycle. Mr. Johnston’s
+affidavit evidence of his own recollection was summarized as follows at para. 30:
+
+      a) At the time of the accident, all the other motorcycles ahead were veering
+         left and following the road, but Mr. Head’s motorcycle went straight ahead
+         and drifted in the sand to the right of the lane, then tumbled two times on
+         the shoulder area.
+      b) He did not see anything interfere with the plaintiff’s motorcycle in a way
+         that could have caused the plaintiff to lose control.
+      c) He did not see any motorcycle attempting to pass the plaintiff’s
+         motorcycle or force it off the highway.
+
+[5]   The video produced by Mr. Johnston was described at paras. 33-36:
+
+      [33]    The video is 2:19 in length. A date stamp on the bottom-right corner of
+      the video shows a date of 2014/08/12.
+      [34]    Mr. Head’s yellow Harley Davidson is readily identifiable ahead of
+      Mr. Johnston. It is one of about ten motorcycles in view. Initially, the
+      motorcycles are spread out over two northbound lanes. At about the 45-
+      second mark, the road narrows to a single northbound lane as the group
+      approaches the Alexandra Tunnel. As the motorcycles are sharing the one
+      northbound lane, it appears that roughly half are on the right side of the lane
+      (perhaps two to four feet from the right edge) and roughly half are on the left
+      side of the lane (perhaps two to four feet from the yellow line).
+      [35]    At about the two-minute mark of the video, the road widens again so
+      that there are two northbound lanes. As the road widens, Mr. Head can be
+      seen to navigate without issue what appear to be some filled potholes just to
+      the right of the dashed white lines separating the two northbound lanes (the
+      asphalt is a darker colour). Mr. Head’s yellow motorcycle stays to the right. It
+      does not appear that any other motorcycle is close to him.
+Head v. John Doe                                                                             Page 5
+
+       [36]    At about the 2:11 mark, the highway curves to the left. Mr. Head can
+       be seen to get closer and closer to the right edge of the right lane. At that
+       point, the nearest motorcycles to him are in the left lane. At about the 2:13
+       mark, Mr. Head can be seen continuing more or less straight as the road
+       gradually curves to the left. He enters the shoulder, which appears to be
+       primarily sand or gravel at this point. His brake lights come on as do those of
+       the motorcycle behind him. At the 2:15 mark, his motorcycle can be seen
+
+
+
+
+                                                                                                      2026 BCSC 184 (CanLII)
+       flipping over above a cloud of dust. The video ends very quickly thereafter.
+
+[6]    The other key evidence at the initial summary trial hearing was an expert
+report by a forensic examiner, Mr. McKay, who examined the video to determine
+whether there were any reliability, accuracy or technical concerns about it. His
+conclusion was summarized at para. 44:
+
+       He thus concluded that the subject video file was consistent with a
+       continuous recording that was absent of any reliability, accuracy or technical
+       concerns, that it had not been re-formatted, converted or edited, and that it
+       can be considered a “camera original”.
+
+[7]    The First Summary Trial Judgment described at paras. 45-51 and 52-64
+respectively the positions advanced by ICBC and Mr. Head with respect to the
+summary trial. Various legal principles with respect to appropriateness for summary
+trial were set out at paras. 65-71.
+
+[8]    At paras. 72-78, legal principles applicable with respect to “Authentication of
+Electronic Real Evidence” are considered. The first case reviewed is Animal Welfare
+International Inc. v. W3 International Media Ltd., 2013 BCSC 2193, in which
+Justice C. Ross dealt with objections to the authenticity and reliability of various
+computer files drawn from a database by way of an SQL query. At paras. 61-64, she
+noted that:
+
+       [61]    Authentication in this context requires that the Court be satisfied that
+       the records are what they purport to be. W3 submits that the threshold is a
+       low one and can be satisfied by direct or circumstantial evidence, citing R. v.
+       Wilder, 2002 BCSC 1333 at para. 288 [Wilder].
+       [62]     W3 submits that it is not sufficient for a party opposing admissibility to
+       allege falsification of evidence without more. The mere potential for
+       falsification of electronic evidence is not in itself grounds to conclude that the
+       evidence is not admissible, see: Bell Express Vu Limited Partnership v.
+       Rodgers (2007), 52 C.P.C. (6th) 312 (Ont. S.C.J.).
+Head v. John Doe                                                                              Page 6
+
+       [63]    W3 submits further that the authentication threshold does not require
+       parties to show that no one else could have altered the evidence by proving,
+       for example, continuous possession of the evidence in issue and a lack of
+       opportunity for anyone else to interfere with it, citing Wilder at para. 289:
+           [289]       The failure of the Crown to prove continuity of the evidence
+           potentially affects the authenticity of the evidence. However, providing
+
+
+
+
+                                                                                                       2026 BCSC 184 (CanLII)
+           there is some evidence of authenticity, issues of continuity go to the
+           weight of the evidence, not its admissibility. Moreover, Canadian case law
+           makes it clear that proof of continuity is not a legal requirement and that
+           gaps in continuity are not fatal to the Crown's case unless they raise a
+           reasonable doubt about the exhibit's integrity. [Citations omitted]
+       [64]      W3 submits that the reliability component of the principled approach
+       has occasionally been the source of confusion and error on the part of parties
+       opposing admissibility. The question at the admissibility stage does not
+       involve an assessment of the likelihood that the evidence is accurate or true.
+       The Supreme Court of Canada has emphasized that the reliability component
+       of the principled approach involves a much lower standard of “threshold”
+       reliability, as distinct from the “ultimate” reliability, the latter of which relates to
+       the amount of weight to be accorded the evidence once admitted. When
+       assessing the admissibility of a hearsay statement, a trial judge is limited to
+       determining whether there are sufficient indicia of reliability to afford the trier
+       of fact a satisfactory basis to assess the truth of that statement. See, for
+       example, Starr at para. 54; and R. v. Hawkins, [1996] 3 S.C.R. 1043 at para.
+       75.
+
+[9]    At paras. 65-66, Justice Ross concluded that the evidence had been
+“sufficiently authenticated and meets the requirements of threshold reliability”, and
+that the potential for error would go to weight and not admissibility. She noted the
+following points at para. 65:
+
+          W3’s conduct in relation to pre-trial production of the Database is not a
+           bar to the admission of the evidence that is the subject of this application,
+           although it may be a factor in assessing the weight of such evidence;
+          W3 did produce prior to trial a disc of a size comparable to that of the disc
+           submitted as the Database at trial (3.4 GB). AWI has had the opportunity
+           to inspect this disc and to have it examined by an expert prior to trial;
+          while there is a possibility that values in the Database could have been
+           altered, there is no evidence that such alteration has occurred and given
+           the opportunity to check the accuracy of the information in the Database
+           against invoices, price lists, the Sales Reports and other documents
+           generated pre-termination, such possibility is remote;
+          the evidence of Ms. Wong and Patrick Sharp provides sufficient
+           authentication for the pre-termination Database Discs and that of
+           Ms. Wong and Ms. Huang for the balance of the evidence;
+Head v. John Doe                                                                          Page 7
+
+          Ms. Huang gave evidence and was available for cross-examination with
+           respect to the SQL queries that she created. The scripts that she used to
+           obtain the reports were produced and available to be reviewed by AWI for
+           deficiencies; and
+          Ms. Wong and Ms. Huang described comparisons that they conducted
+           that provide circumstantial guarantees of trustworthiness.
+
+
+
+
+                                                                                                   2026 BCSC 184 (CanLII)
+[10]   Authentication was considered in the criminal law context in R. v. C.B., 2019
+ONCA 380, where Justice Watt said:
+
+       [64]    The requirement of authentication applies to various kinds of real
+       evidence. Authentication involves a showing by the proponent of the
+       evidence that the thing or item proffered really is what its proponent claims it
+       to be: Kenneth S. Broun, ed., McCormick on Evidence, 7th ed., vol. 2
+       (Thomson Reuters, 2013), at 212, pp. 4-5.
+       [65]    Authentication is the process of convincing a court that a thing
+       matches the claim made about it. In other words, it is what its proponent
+       claims it to be. Authentication is intertwined with relevance: in the absence of
+       authentication, the thing lacks relevance unless it is tendered as bogus. Thus,
+       authentication becomes necessary where the item is tendered as real or
+       documentary evidence.
+       [66]   At common law, authentication requires the introduction of some
+       evidence that the item is what it purports to be … The requirement is not
+       onerous and may be established by either or both direct and circumstantial
+       evidence.
+       [67]     For electronic documents, s. 31.1 of the [Canada Evidence Act
+       (“CEA”)] assigns a party who seeks to admit an electronic document as
+       evidence the burden of proving its authenticity. To meet this burden, the party
+       must adduce evidence capable of supporting a finding that the electronic
+       document is what it purports to be. Section 31.8 provides an expansive
+       definition of "electronic document", a term which encompasses devices by or
+       in which data is recorded or stored. Under s. 31.1, as at common law, the
+       threshold to be met [page14] is low. When that threshold is satisfied, the
+       electronic document is admissible, and thus available for use by the trier of
+       fact.
+       [68]    To satisfy this modest threshold for authentication, whether at
+       common law or under s. 31.1 of the CEA, the proponent may adduce and rely
+       upon direct and circumstantial evidence. Section 31.1 does not limit how or
+       by what means the threshold may be met. Its only requirement is that the
+       evidence be capable of supporting a finding that the electronic document "is
+       that which it is purported to be". That circumstantial evidence may be relied
+       upon is well established … This accords with general principles about proof
+       of facts in criminal proceedings, whether the facts sought to be established
+       are preliminary facts on an admissibility inquiry or ultimate facts necessary to
+       prove guilt.
+       [Citations omitted.]
+Head v. John Doe                                                                             Page 8
+
+
+[11]   At para. 78, Justice Watt confirmed that satisfaction of the evidentiary
+threshold for authentication renders the evidence admissible, in the sense that it is
+available to the trier of fact for ultimate evaluation. It does not follow from
+admissibility that the trier of fact must find that the evidence is in fact what it claims
+
+
+
+
+                                                                                                      2026 BCSC 184 (CanLII)
+to be. It is up to the trier of fact to determine the weight to be assigned to the
+evidence.
+
+[12]   In the First Summary Trial Judgment, the Analysis begins at paras. 78-79:
+
+       [78]     In my view, this is a case in which, if the court concludes that the
+       video evidence should be considered reliable and given full weight, then it
+       may well be appropriate for the plaintiff’s claim to be decided by way of a
+       summary trial. I say that notwithstanding that, with reference to the factors
+       from Gichuru, the plaintiff’s claim—should he be in a position to establish
+       liability—is likely significant given his injuries, there is no particular urgency,
+       and there is on the face of it a credibility issue with respect to the competing
+       evidence of Messrs. Johnston and Head. On the other side of the Gichuru
+       analysis, the question of liability is not complex and would resolve the action
+       in its entirety, and the costs and delay of taking this matter to a conventional
+       trial would be significant.
+       [79]      If the video can be considered to be a reliable “silent witness”,
+       unsullied by human frailties, then it will likely be that “other admissible
+       evidence” that will make it possible to find the facts necessary to determine
+       liability. The question, then, is whether the court has sufficient evidence to
+       authenticate the video in order both to determine its admissibility and to
+       determine what weight to assign to it.
+
+[13]   At paras. 80-82, I noted that Mr. Head’s former lawyer had not taken
+advantage of an opportunity to examine Mr. Johnston in the context of a related
+action. I then commented that:
+
+       [83]    In my view, it would be wrong to deprive Mr. Head of the opportunity
+       to cross-examine a key witness on liability on the basis that he should have
+       taken advantage of the Rule 7-5 examination. To second-guess the decision
+       of the lawyer at the time, with the benefit of 20-20 hindsight as to how the
+       case has proceeded over the course of the subsequent two years, and to use
+       that as a basis to deprive Mr. Head of the ability to cross-examine Mr.
+       Johnston, would be unfair to Mr. Head. I take into consideration at this point
+       the possibility that, in the absence of cross-examination, his case could be
+       dismissed without any consideration of the merits: Stephens at para. 8.
+       [84]   In my view, there are stark differences between Mr. Head’s evidence
+       and that of Mr. Johnston. The video may well be capable of providing the
+       court with a means to resolve those credibility issues, but in my view, there
+       are questions about the provenance of the video during the four years from
+Head v. John Doe                                                                       Page 9
+
+       2017 to 2021, and a lack of evidence as to how it was copied from medium to
+       medium to the point that it came into evidence at this summary trial. That
+       evidence will go both to the authentication of the video and to its reliability.
+       Mr. Head should have an opportunity to adduce that evidence and put it
+       before the court for purposes of this summary trial application.
+       [85]   Mr. Head should also have the opportunity to cross-examine Mr.
+
+
+
+
+                                                                                                2026 BCSC 184 (CanLII)
+       Johnston on the issues he has identified with respect to Mr. Johnston’s prior
+       statements.
+       [86]  I conclude that there are conflicting material facts and that cross-
+       examination of Mr. Johnston should be ordered.
+
+[14]   Finally, I considered at paras. 87-89 whether any other cross-examinations
+should occur. I concluded that:
+
+       a) There was no basis on the material then before me to order that
+          Mr. McKay be cross-examined, but I raised the possibility that the need to
+          do so might arise based on what was learned from Mr. Johnston’s cross-
+          examination; and
+
+       b) In fairness, the defendant should also have an opportunity to cross-
+          examine Mr. Head.
+
+[15]   The summary trial application was adjourned generally pending these cross-
+examinations, with each party having liberty to apply should issues arise with
+respect to finalizing the evidentiary record.
+
+Cross-Examination Evidence
+
+[16]   The cross-examination of Mr. Johnston occurred on September 19, 2024.
+Although the transcript was titled “Examination for Discovery”, given that what was
+ordered was a cross-examination, it is my view that the transcript should be treated
+as a cross-examination transcript, serving as evidence at large on this summary trial.
+This is of significance because Mr. Johnston passed away in October 2025, and is
+no longer available as a witness. [I note that, even if I had not considered the
+transcript to be a cross-examination transcript, I would have admitted the full
+transcript into evidence under the principled exception to the hearsay rule:
+Yamakami v. Whittey, 2012 BCSC 57 at para. 3.]
+Head v. John Doe                                                                    Page 10
+
+
+[17]   The cross-examination transcript is 28 pages, and includes questions asked
+of Mr. Johnston by Mr. Head as well as by ICBC’s lawyer, Ms. Kim, followed by
+further follow-up questions from Mr. Head.
+
+[18]   Mr. Johnston was asked several questions about what he recalled of the April
+
+
+
+
+                                                                                              2026 BCSC 184 (CanLII)
+2017 accident involving Mr. Head. He recalled seeing Mr. Head’s yellow bike, but did
+not recall having a good view of it at the time Mr. Head went off the road.
+
+[19]   Mr. Johnston was asked questions about when and where he purchased the
+GoPro camera – he said that he purchased it in about 2014 from a Harley Davidson
+dealer in Kamloops, and that it was permanently mounted on his bike and set to
+come on when the bike is started and to turn off when the bike goes off. He said that
+the camera was intact and undamaged in the accident of April 16, 2017.
+
+[20]   Mr. Johnston was asked about the procedure for downloading video from the
+card. He explained:
+
+       You take the camera off the bike. You take the little chip out. Then you go in
+       the house and put it on the big computer.
+
+[21]   Mr. Johnston confirmed that the “little chip” he referred to was an SD card. He
+advised that he had only had the one SD card for that camera.
+
+[22]   Mr. Johnston said that after the accident, his motorcycle was taken by a tow
+truck to a towing yard in Hope and then to “Barnes in Langley”. He retrieved the
+camera from Barnes in Langley two days after the accident. He confirmed that he
+still has the original SD card, and agreed to produce it.
+
+[23]   Mr. Johnston said that he was the first one to view the video after he retrieved
+the camera, which he did four or five days after the accident. He said that he was
+with his wife when he viewed the video, and that it was his wife who downloaded the
+video because he is “kind of computer illiterate”. Mr. Johnston also confirmed that he
+provided a copy of the video file to his lawyer as soon as he had retained counsel.
+Head v. John Doe                                                               Page 11
+
+
+[24]   Mr. Johnston said that he has never played the video back in any other
+format, and that the video was never altered at any point. He confirmed that he was
+not aware of any technical issues with his camera or with the SD card.
+
+Subsequent Proceedings
+
+
+
+
+                                                                                         2026 BCSC 184 (CanLII)
+[25]   At the cross-examination, Mr. Head requested access to the original SD card
+on which the video had been recorded. Mr. Johnston’s law firm emailed Mr. Head on
+October 21, 2024, advising that they had requested the SD card and seeking
+information as to what should be done with it. On October 30, 2024, the law firm
+emailed again to advise that they had the SD card, and advised that Mr. Johnston no
+longer had the original GoPro camera. They advised that the SD card would be
+made available at their office to any expert that Mr. Head might hire. It appears from
+a further series of emails in late November 2024 that there had not been any
+communication in response from Mr. Head.
+
+[26]   ICBC chose not to cross-examine Mr. Head, despite having been given the
+right to do so in the First Summary Trial Judgment.
+
+[27]   The matter came back before me as an application for directions on May 7,
+2025. At that time, I provided a schedule for the filing of any further evidence, and
+directed that there be a Judicial Management Conference on September 3, 2025.
+The plaintiff at this time – and at two subsequent conferences – indicated that he
+wished to retain an expert to rebut Mr. McKay’s report, but that he was having
+difficulty with that.
+
+[28]   There was some suggestion from Mr. Head at those conferences that part of
+his difficulty may relate to ICBC having contacted too many potential experts. In
+response, ICBC filed affidavit evidence confirming that the only expert ICBC had
+contacted in respect of this matter was Mr. MacKay.
+
+[29]   At the conference on September 3, 2025, I gave the plaintiff leave to file
+further evidence by September 17, 2025, scheduled the conclusion of the summary
+trial hearing for a half-day on November 18, 2025, and directed a further conference
+Head v. John Doe                                                                Page 12
+
+
+on September 26, 2025. On September 26, 2025, I provided a further brief extension
+to the plaintiff to file materials. The continuation of the summary trial was heard as
+scheduled on November 18, 2025.
+
+Other New Evidence
+
+
+
+
+                                                                                          2026 BCSC 184 (CanLII)
+[30]   Three additional affidavits were tendered for purposes of the summary trial.
+
+[31]   Mr. Head submitted an affidavit which attached some printouts from the
+internet about authentication of video evidence. He also attached a printout from an
+online AI tool which says “Deepfake Detected”, which Mr. Head said reflected the
+tool’s analysis of the video from Mr. Johnston. The printout went on to identify that:
+
+       The transcript appears to be from a recording where someone repeatedly
+       says “Thank you.”
+
+[32]   The defendant filed two affidavits. One was from a legal assistant, with emails
+and other brief evidence supporting what I have noted above under the heading
+“Subsequent Proceedings”. The second was from the expert, Mr. MacKay, who said
+that there was an audio track on the recording that he was provided to analyze, but
+that it was blank.
+
+Positions of the Parties
+
+       ICBC
+
+[33]   ICBC submitted that the cross-examination transcript confirms that the
+electronic file that was shared amongst the parties was taken directly from
+Mr. Johnston’s SD card. ICBC says that the evidence as to how the electronic video
+file went from the camera attached to Mr. Johnston’s motorcycle to the Johnstons’
+computer to Mr. Johnston’s lawyer makes it unrealistic to believe that there has been
+any tampering, particularly in light of the analysis performed by and conclusions
+reached by Mr. MacKay. There is simply no evidence of tampering, and no reason to
+believe that the video file did not remain intact throughout its handling.
+
+[34]   ICBC says that there is no reason not to believe Mr. Johnston’s evidence
+about the date/time-stamp on the video, and that the incorrect date/time-stamp does
+Head v. John Doe                                                                   Page 13
+
+
+not undermine the reliability, credibility, continuity or admissibility of the video
+recording.
+
+[35]   ICBC says that the AI-generated report about the video is of no evidentiary
+value. There is nothing to indicate its methodology or any assurance of reliability.
+
+
+
+
+                                                                                             2026 BCSC 184 (CanLII)
+ICBC says that Mr. Head’s evidence with respect to this issue is speculative and
+unsupported.
+
+[36]   ICBC says that Mr. Head has been given every opportunity over some three
+years to rebut the video evidence and the expert evidence in support of it, but that
+the best that Mr. Head has been able to put forward is internet printouts and his own
+speculation that ultimately do not provide a basis to discount the video.
+
+       The Plaintiff
+
+[37]   Mr. Head reiterated his concerns about the reliability of Mr. Johnston’s
+evidence. Those concerns were summarized at paras. 57-60 of the First Summary
+Trial Judgment. Mr. Johnston’s evidence on cross-examination was not significantly
+different than what is summarized in those paragraphs.
+
+[38]   Mr. Head argued that the fact that the time stamp on the video showed 2014
+is not just a failure to properly set the camera. He expressed the view that any
+Harley Davidson dealership would, in installing a camera, inevitably have ensured
+that the time stamp feature was properly set, and suggested that any variation in the
+time stamp must be deliberate and symptomatic of tampering.
+
+[39]   Mr. Head referred to a number of primarily U.S. criminal law judgments on the
+importance of establishing a chain of continuity with respect to real electronic
+evidence like the video in this case. He says that because the camera was left
+unattended for at least two days in a towing yard, the Court cannot safely conclude
+that the video was not tampered with.
+
+[40]   Mr. Head said that he did not take steps to review the original SD card, even
+though he had requested it, because he was of the view that the electronic files
+Head v. John Doe                                                                  Page 14
+
+
+would have been changed just through the SD card having been removed from the
+camera and the video file having been downloaded by Mr. Johnston and his wife
+back in 2017. Mr. Head expressed the view that metadata can be easily altered, and
+that it would have been necessary to have the original camera in order to be certain
+
+
+
+
+                                                                                            2026 BCSC 184 (CanLII)
+of the accuracy of the video. He suggested that there was a lot of software available
+in 2017 that would permit manipulation of metadata.
+
+[41]   Mr. Head took issue with Mr. MacKay’s approach, including his reliance on
+analysis of metadata.
+
+[42]   Mr. Head argued that the video should not be considered, that Mr. Johnston’s
+evidence should be discounted as non-reliable, and that the only reliable evidence is
+his own.
+
+Analysis
+
+[43]   I am satisfied on the basis of Mr. Johnston’s evidence that the basic
+requirements of admissibility are met with respect to the video evidence. I do not
+agree that a complete and unbroken chain of custody must be established beyond
+doubt in order to make a video recording like this admissible. As demonstrated in
+both Animal Welfare (in the civil context) and R. v. C.B. (in the criminal context), that
+is not the law in Canada.
+
+[44]   Mr. Johnston’s evidence establishes how the video camera was set up, what
+happened to the camera and SD card after the accident, how he retrieved the
+camera two days later, and how the electronic video file was downloaded and
+provided to his lawyer. Nothing in his evidence suggests any action that would have
+changed the content of the video. In my view, that is adequate authentication to
+render the video admissible. I accept the basic proposition referenced in both the
+Animal Welfare case at para. 62, and in the Bell Express Vu case that it cites, that
+the mere potential for falsification of electronic evidence is not in itself grounds to
+conclude that the evidence is not admissible.
+Head v. John Doe                                                                       Page 15
+
+[45]   The proposition cited in Animal Welfare at para. 63 from the Wilder judgment
+is also relevant:
+
+       [289] The failure of the Crown to prove continuity of the evidence potentially
+       affects the authenticity of the evidence. However, providing there is some
+       evidence of authenticity, issues of continuity go to the weight of the evidence,
+
+
+
+
+                                                                                                 2026 BCSC 184 (CanLII)
+       not its admissibility. Moreover, Canadian case law makes it clear that proof of
+       continuity is not a legal requirement and that gaps in continuity are not fatal to
+       the Crown's case unless they raise a reasonable doubt about the exhibit's
+       integrity. [Citations omitted]
+
+[46]   In my view, there is more than adequate evidence of authenticity in this case
+to render the video evidence admissible.
+
+[47]   The more significant question in this case is the reliability of and the weight to
+be assigned to the video evidence. In my view, the arguments that Mr. Head has
+made with respect to the video evidence are largely speculative. There is simply no
+basis to disbelieve Mr. Johnston’s evidence as to the provenance of the video
+evidence, nor is there any basis to believe that it was tampered with in the two days
+between the accident and Mr. Johnston retrieving the camera and SD card.
+
+[48]   In my view, the fact that the date and time on the camera do not match the
+date and time of the actual accident have been adequately explained and are not
+unusual. Mr. Head’s suggestions to the contrary amount to little more than
+speculation.
+
+[49]   I accept Mr. MacKay’s opinion evidence that upon careful examination of the
+electronic video file, there were no edits, breaks or gaps in the video footage, and
+that as a result, there was no obvious editing or manipulation of the video footage.
+I also accept that the analysis he performed with respect to the internal metadata of
+the file, as well as the frame-by-frame analysis he described, all as detailed at
+paras. 39-43 of the First Summary Trial Judgment, support his conclusion that the
+subject video file was consistent with a continuous recording that was absent of any
+reliability, accuracy or technical concerns, that it had not been re-formatted,
+converted or edited, and that it can be considered a “camera original”.
+Head v. John Doe                                                                Page 16
+
+
+[50]   I can give no weight to Mr. Head’s AI-generated report suggesting the video is
+a “deepfake”. Much of what the report does say appears to be in reference to what is
+in an audio-track, while Mr. MacKay’s evidence is that the audio-track while existent
+was blank. More importantly, there is nothing in the record to verify the methodology
+
+
+
+
+                                                                                           2026 BCSC 184 (CanLII)
+used by or otherwise provide a basis to assess the validity of what is essentially a
+machine-generated opinion.
+
+[51]   Mr. Head’s internet research turned up a May 15, 2025 consultation report
+from the United States Federal Court’s Committee on Rules of Practice and
+Procedure. That report proposed for consultation a new Rule 707 for the Federal
+Rules of Evidence that would provide a framework for acceptance of machine-
+generated evidence. What is set out in that document is of course from a foreign
+country where it is not yet even a rule. More significantly, however, it is clear from
+the consultation document that what is being proposed is a process by which any
+machine-generated evidence would have to be supported by detailed evidence as to
+the process, the inputs, and the development of the machine learning process itself,
+applying the same standards as for the evidence of an expert witness under
+Rule 702. No such evidence has been put forward in the present case.
+
+[52]   This is a summary trial application in a case in which there is conflicting
+evidence. However, even where there is conflicting evidence, it may be that other
+admissible evidence will make it possible for a summary trial judge to find the facts
+necessary for judgment to be given: Inspiration Management Ltd. v. McDermid St.
+Lawrence Ltd. (1989), 36 B.C.L.R. (2d) 202, 1989 CanLII 229 (C.A.) at para. 55.
+
+[53]   In this case, given my conclusion that the video evidence is reliable, it acts as
+a reliable “silent witness” that provides cogent evidence of what happened on
+April 16, 2017, with that evidence being “unsullied by human frailties”: Nelson v.
+Lafarge Canada Inc., 2013 BCSC 1552 at para. 4. As in Nelson, it is my view that
+the video evidence in this case appropriately allows this action to be determined on
+a summary trial.
+Head v. John Doe                                                                Page 17
+
+
+[54]   I conclude that Mr. Head’s assertion that the accident of April 16, 2017, was
+caused by an unidentified motorcycle being operated in a negligent manner that
+caused Mr. Head to leave the road is contradicted by reliable video evidence and is
+not established on a balance of probabilities. In light of that conclusion, his claim
+
+
+
+
+                                                                                          2026 BCSC 184 (CanLII)
+cannot succeed.
+
+Conclusion
+
+[55]   The action is dismissed. If there are any submissions as to costs, they should
+be made within six weeks of this judgment, with any submission in response to be
+made within four weeks thereafter.
+
+
+
+
+                                      “Veenstra J.”
+

@@ -1,0 +1,41 @@
+1 processing programs such as Adobe Premier Pro, Adobe Photoshop, Amped5 and Axon
+Investigate — the Topaz Labs AI model uses an opaque process called ‘machine learning’
+2 to enlarge and enhanice video.
+3 21. Fredericks referenced the Scientific Working Group on Digital Evidence (SWGDE),
+. whose members represent state, local and federal law enforcement agencies engaged in
+4}. forensic video examinations, as a peer group that regularly publishes Best Practices and
+Guidelines for video enhancement for legal purposes. One specific SWGDE publication
+5 “Fundamentals of Resizing Imagery and Considerations for Legal Proceedings”, was
+admitted as Pre-trial Exhibit 6. Fredericks testified consistent with the SWGDE document
+6 that up-scaling an image (resizing) is referred to as ‘interpolation’ and that the most
+accurate interpolation method that preserves image detail when observing small objects is
+_7 called Nearest Neighbor, Section 6 of the SWDGE document establishes that:
+8 Utilizing Nearest Neighbor interpolation to enlarge imagery that
+contains small objects within (e.g., weapon in hands) may help ;
+9 mitigate the distortion of the object’s shape, length, or size
+represented by a few pixels. The Nearest Neighbor algorithm can
+10 reduce the potential of providing a misleading representation of the
+i level of pixel detail in the original imagery. ,
+1” See Pre-trial Exhibit 6 at 8.
+13 22. Although the ‘machine learning’ Al-enhancement algorithm(s) utilized by Topaz Video
+Al tools may have been market-tested by members of the video production community,
+14 they do not have a formal organization and they do not publish their testing outcomes. As
+a result, their findings, if they exist, cannot be evaluated by the defense expert, the ©
+15 forensic video analysis community, or by this court.
+16 23. Rather than approving the use of such Al-enhancement tools, the forensic video analysis
+community has issued only warnings about the use of such tools in a courtroom; for
+17 example, SWGDE has found that, for ‘machine- learning’ interpolation algorithms, “it
+can be challenging to identify what process were applied to the imagery and replicate
+18 those steps with accuracy.” See Pre-trial Exhibit 6 at 7,
+19 . :
+»0 Il. CONCLUSIONS OF LAW - mo
+1. Given the Court’s finding that use of artificial intelligence (AI) tools to enhance video
+21 introduced in a criminal trial is a novel technique, the proponent of evidence utilizing
+these AI tools must make a showing that any expert’s opinion or theory is based on a
+22 methodology accepted in the relevant community. State v. Russell, 125 Wn.2d 24, 41
+- (1994),
+23
+ng .
+FINDINGS OF FACT & CONCLUSIONS OF LAW .
+‘ON STATE’S MOTION TO SUPPRESS PURSUANT ; ;
+TO FRVE

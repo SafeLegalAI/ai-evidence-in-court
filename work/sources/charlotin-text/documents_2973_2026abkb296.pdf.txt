@@ -1,0 +1,634 @@
+                        Court of King’s Bench of Alberta
+
+Citation: R v Flett, 2026 ABKB 296
+
+
+
+
+                                                                                                 2026 ABKB 296 (CanLII)
+                                                                             Date: 20260417
+                                                                       Docket: 240291385Q1
+                                                                      Registry: Ft. McMurray
+
+
+
+Between:
+
+                                    His Majesty the King
+
+
+
+                                                                                        Crown
+                                            - and -
+
+
+
+
+                                      Kylar Flett and
+                                    Dominic Mills-Bruno
+
+
+
+
+                                                                                      Accused
+
+
+
+             _______________________________________________________
+
+                               Reasons for Judgment
+                                      of the
+                           Honourable Justice N.E. Devlin
+             _______________________________________________________
+
+Overview
+[1]   The Royal Canadian Mounted Police (RCMP) in Fort Chipewyan received a call that
+Snapchat videos of men brandishing a handgun in a vehicle were circulating in the small
+community. Police viewed the videos, believed they knew the men involved, identified a suspect
+                                                Page: 2
+
+
+vehicle, found the car within minutes, extracted the occupants, who were dressed identically to
+the men seen on the video, and located the gun under the rear passenger seat.
+[2]    The men inside the car were charged with numerous offences related to the gun’s
+presence. The video’s ostensible maker, Jimmy Houle, has since passed away. The driver, Bruce
+George Lepine, failed to appear for trial. The alleged holder of the gun, Kylar Flett, and the man
+who was seated beside him at the time of arrest, Dominic Mills-Bruno, stood trial before me.
+
+
+
+
+                                                                                                          2026 ABKB 296 (CanLII)
+[3]    The defence challenged the admissibility of the Snapchat videos on several related
+grounds. I provided a summary mid-trial ruling that the videos were admissible and indicated I
+would give full written reasons for that decision. These are those reasons, together with my
+decision on the trial itself.
+
+Facts
+[4]     Around noon on April 5, 2024, the RCMP in Fort Chipewyan received a call for service
+from a community member who reported that certain known individuals were driving around
+with a gun and had posted their misadventures on Snapchat. Sgt Davison and Constable
+Borowdaka went directly to the caller’s home, only a short distance from their detachment.
+
+            The videos viewed and recorded
+
+[5]      At the caller’s home, the officers viewed the Snapchat videos and made screen recordings
+of them playing on the caller’s phone. The three short clips, which appeared to be Snapchat
+stories, showed four men in a car, sometimes masked. The rear seat passenger was waving what
+looked like a semi-automatic pistol in his left hand, and flashing signs with the other. Prominent
+tattoos were visible on both of his hands. The person seated beside him held a bottle of alcohol
+and also flashed signs with his hands, while a third individual video-taped the frivolities from the
+front passenger seat. In the video, the driver could be partially seen, wearing a blue sleeved
+garment. The two rear-seat passengers were unmasked in the third clip.
+[6]      Loud rap music was blaring in the videos, and the scene was constructed in the style of
+urban American gangbangers, acting tough and waving weapons. Consistent with selfie-videos
+of this sort, the recording is laterally inverted (ie: the scene and the people in it are seen reversed
+left to right).
+[7]     The officers identified the gun-holder as Kylar Flett, and the man filming the videos as
+Jimmy Houle. This latter identification was bolstered by the fact that the Snaps had a username
+of “Jim 2times”. The officers knew “Jimmy Two Times” to be Mr. Houle’s nickname. Based on
+the information they gleaned from the videos, taken together with information from the caller,
+the police came to the conclusion that the car involved likely belonged to George Lepine, as they
+had had their own extensive dealings with him and his vehicle.
+[8]    Constable Borowdaka, who had the longest connection to the community, also believed
+he recognized Mr. Mills-Bruno as the other backseat passenger from a portion of the videos.
+[9]     In the phone-to-phone screen capture, a clock display in the top left corner of the original
+screen being recorded reads “11:48”. As the police made their screen recording of the caller’s
+phone sometime shortly after noon, officers testified that this was the time displayed on the
+caller’s phone when he screen-recorded the original Snapchat videos.
+                                             Page: 3
+
+
+[10] Also visible on the recordings, as part of the captured Snaps, were the words “24 minutes
+ago” beneath the username “Jim 2times” on two of the clips, and “34s ago” on the final clip.
+These times were interpreted by the witnesses (consonant with judicial notice I would take as to
+how short-video story postings work on most social media platforms) as signifying that the
+stories had been posted 24 minutes, and 34 seconds, prior to the times they were recorded by the
+caller, respectively. The officers took this, together with what they learned from the complainant,
+
+
+
+
+                                                                                                      2026 ABKB 296 (CanLII)
+to mean that the images had been recently broadcast.
+[11] The prompt “Send a chat” in the text-entry bar at the bottom of the recorded screen
+further identifies the original screen recording as being from the Snapchat app.
+
+           Events on the ground
+
+[12] Deeply concerned that the dangerous conduct depicted in the videos was ongoing in real
+time in their community, the police immediately set out to find the suspect vehicle. Constable
+Borowdaka knew that Mr. Lepine’s vehicle was a black Hyundai Kona, which he described as
+being unique in Fort Chipewyan.
+[13] By way of relevant background, Fort Chipewyan is a small town on the southwestern
+corner of Lake Athabasca, near the confluence of the Peace and Slave rivers. Its population is
+just upwards of 800 and the hamlet covers a small, compact geographic area. It is inaccessible by
+road between spring breakup and the opening of the ice roads in the winter and would have been
+isolated from outside vehicular traffic at the time of these events. Consequently, the police had
+strong reason to infer that the dangerous acts being filmed in the vehicle were happening
+contemporaneously in the community. They immediately left the caller’s residence in search of
+the vehicle.
+[14] The Hyundai and its occupants were not hard to find. Sgt Davison and Constable
+Borowdaka spotted the vehicle moments after leaving the caller’s home, driving down the town’s
+main road. They radioed ahead to their backup officer, Corporal Phillips, and the suspect vehicle
+passed him moments later as he exited the detachment.
+[15] Corporal Phillips pulled in behind the Hyundai and initiated a traffic stop. The vehicle
+turned off the main road and parked in the lot of a housing development. Corporal Phillips pulled
+up behind it, and Sgt. Davison and Constable Borowdaka’s vehicle arrived moments later.
+[16] The RCMP officers exited their vehicles with rifles drawn and executed a high-risk
+takedown. Through verbal commands they directed the men in the Hyundai to exit the vehicle
+one by one. Their emergence and arrest was captured with clarity by the dash camera of Corporal
+Phillips’ cruiser.
+[17]    The first to exit, from the rear passenger seat of the Kona, was Kylar Flett. He was
+wearing the same black hoodie with white writing, and grey baseball cap with a distinctive white
+logo, appearing to be that of the Blue Jays, seen in the Snapchat video. He visibly responded to
+his name when it was used in verbal commands, and walked backwards to the police cars, as
+directed.
+[18] As he approached the officers, Mr. Flett pulled up his balaclava to cover his mouth and
+nose, precisely as had been seen in the video. He also behaved in a flippant manner by taking out
+his cell phone while re-donning the balaclava. He can be heard on the video yelling about why he
+was being arrested and saying “where’s the weapon” somewhat sarcastically.
+                                              Page: 4
+
+
+[19] Mr. Flett did not comply with the physical arrest procedure. Sgt Davison had to use force,
+and required the assistance of Constable Borowdaka, to take Mr. Flett to the ground and secure
+him in handcuffs. This behaviour is the genesis of the resisting charge laid against him as Count
+15. It was not captured on the dashcam video as it occurred behind Corporal Phillips’ cruiser.
+[20] The second man to exit, again from the same seating position he occupied in the video,
+being the rear driver’s side seat, was Mr. Mills-Bruno. He also wore the same attire seen in the
+
+
+
+
+                                                                                                     2026 ABKB 296 (CanLII)
+video: a grey hoodie and a black ball cap featuring a distinctive white star logo. He cooperated
+and was taken into custody.
+[21] The next man to exit the car was the front seat passenger. It was, as predicted by the
+video, Jimmy Houle. He also wore the same clothing as in the video, specifically a grey hoodie
+and a grey baseball cap with a black rim and a distinctive circular black and white logo. He was
+taken into custody without incident.
+[22] Finally, the driver, George Lepine, exited the vehicle. He was wearing blue sweatpants
+and a matching sweater, consistent with the small glimpses caught of his extremities on the
+Snapchat video. He was also arrested without incident.
+[23]    The vehicle was then searched. It was messy. The rear bench seat, on the passenger side,
+was visibly detached from the vehicle’s frame. In the resulting gap, Corporal Phillips found a
+handgun. The hammer of the gun was cocked when it was located. The gun was photographed as
+found in situ, before being proven safe. It was loaded and had a round chambered. In total, two
+unfired rounds were ejected from the gun.
+[24] The weapon was a 1911-style Chiappa, chambered in .22 calibre. The frame and the slide
+were made of black anodized metal and showed significant finish wear. The grip was adorned
+with a reddish-brown textured material, sporting the Chiappa logo, screwed onto the frame.
+
+           The gun seen in the video compared to the one found in real life
+
+[25] The Crown produced enlarged freeze-frames from the Snapchat videos. One image (at
+page 4) shows the gun in Mr. Flett’s hand relatively clearly. It is possible to discern brown
+colouration on the grip. Wear marks on the muzzle and along a curve in the slide can be seen in
+the video frame, where the finish has rubbed off the metal. These exactly match what is seen on
+photos of the gun seized in the vehicle.
+[26] The gun was found with the grip facing into the vehicle, the hammer towards the top
+corner of the seat opening, and the barrel pointing towards the back of the vehicle. This
+orientation is consistent with the rear passenger holding the gun in their inboard (left) hand,
+reaching down, and tucking it under the seat.
+[27] Both a fresh and a spent .22 cartridge were found in the front passenger area, one along
+the door sill and the other along the centre console, both lying in plain sight.
+
+The parties’ positions on admissibility of the videos
+[28] The Crown sought to admit the videos on the basis that they provided compelling
+evidence of the accused’s guilt, showing them openly committing the offences charged at times
+closely proximate to their arrest. This evidence, the Crown alleged, was seminally relevant to the
+accused’s state of knowledge regarding the firearm at the time it was recovered from the vehicle.
+                                                Page: 5
+
+
+[29] Relying on R v Bulldog, 2015 ABCA 251 at para 37, the Crown argued that the videos
+were “authenticated” by the circumstantial evidence of what the police found in real life very
+shortly after viewing them.
+[30] The defence strenuously opposed admissibility of the videos. They argued that they were
+not properly authenticated, there was no evidence of where, when, how, or under what
+circumstances they had been created, and that alteration or outright falsification had not been
+
+
+
+
+                                                                                                          2026 ABKB 296 (CanLII)
+disproven.
+
+Principles of admissibility of social media videos
+[31] Whether a video is admissible, versus whether it provides reliable evidence of what it
+depicts that should be accorded weight in the trial, are two different and discrete inquiries. The
+first is conducted by the trial judge on an admissibility voir dire, the second is part of the trier of
+facts’ core function. The governing principles of these analyses are helpfully summarized in
+Gerald Chan & Susan Magotiaux, Digital Evidence, 3rd ed (Toronto: Emond Publishing,
+forthcoming) Part III.
+[32] The first stage in assessing the admissibility of a video (or any electronic document) is
+“authentication”. The name of this step, while deeply ingrained in the common law and relevant
+statutes, is misleading. This step is neither a determination of the document’s ultimate
+authenticity, nor of whether it should be “believed” and accorded weight in the trial. Rather, it is
+a preliminary inquiry into whether there is evidence capable of proving that the video in fact
+shows what it is advertised to show, and may thus go to the trier of fact to evaluate, accept, or
+reject: R v CB, 2019 ONCA 380 at para 78. This step might be better called “threshold
+authenticity”.
+
+            Threshold authenticity
+
+[33] For electronic documents, this step is governed by s 31.1 of the Canada Evidence Act,
+RSC, 1985, c C‑5. This provision codifies the common law requirements for “authentication”:
+        Authentication of electronic documents
+        31.1 Any person seeking to admit an electronic document as evidence has the
+        burden of proving its authenticity by evidence capable of supporting a finding that
+        the electronic document is that which it is purported to be. [emphasis added]
+[34] Critically, answering this question does not determine conclusively whether the
+document is what it purports to be. The party tendering social media videos does not have to
+prove that they are “real” for them to be admissible: SJ c R, 2024 QCCA 253 at para 87. At this
+stage, the Court is only deciding whether the trier of fact would have a basis to find that the
+videos accurately depict their purported contents, not whether they should make that finding.
+[35] Ultimate authenticity of the video, and assessment of what, if any weight should be
+accorded to it, are questions for the trier of fact: CB at para 72; R v Martin, 2021 NLCA 1 at
+para 49; R v Oland, 2015 NBQB 245 at para 56, citing Watt’s Manual of Criminal Law
+(Carswell, 2015) notes at p. 1088.
+[36] Threshold authenticity is a modest evidentiary requirement: CB at para 67-68: SJ at para
+84. All that must be shown is that evidence exists which is capable of proving that the document
+                                                Page: 6
+
+
+is what it is said to be: CB at paras 66-68. The voir dire judge does not make a final
+determination on the veracity and value of the corroborative evidence any more than on the
+accuracy and worth of the video itself. Rather, the task is to determine that admissible evidence
+exists that could satisfy the trier of fact that the video is an accurate depiction of what it is said to
+be. As stated in Digital Evidence, “Authentication is, therefore, nothing more than a threshold
+test requiring that there be some basis for leaving the evidence to the fact-finder for ultimate
+
+
+
+
+                                                                                                            2026 ABKB 296 (CanLII)
+evaluation.”
+[37] Logically, the standard of proof required to meet this “not onerous” threshold is less than
+balance of probabilities. In my view, the question is best conceptually addressed in similar
+fashion to the function of a committal judge at a preliminary hearing. Where direct evidence is
+proffered that the video is what it purports to be, its threshold authenticity is proven and the
+evidence goes to the trier of fact, subject to any other admissibility issues. For instance, if a
+witness says: “I was there and that’s what it looked like”, threshold authenticity is satisfied.
+[38] There is equally no question that the threshold authenticity of a video may be established
+through circumstantial evidence: Bulldog at para 37. Where the corroborative evidence is
+circumstantial, the Supreme Court’s refinement of the “some evidence” requirement applies: R v
+Arcuri, 2001 SCC 54 at para 23, and the judge may engage in limited weighing of the inference
+being advanced and any competing evidence undermining it. It is important, however, that a
+judge performing this function does not trench on the trier of fact’s domain by slipping into an
+ultimate determination of authenticity: R v Jackson, 2016 ONCA 736 at para 26.
+[39] Just as at a preliminary inquiry, any other applicable admissibility requirements need to
+be met. For instance, in cases where a mere viewer of the video (as opposed to someone who
+could compare it to their own real-life experiences) purports to identify individuals in the video,
+the principles for such identification articulated in R v Leaney, 1989 CanLII 28 (SCC), [1989] 2
+SCR 393 would apply. Where an accused person’s statement to an individual in authority is
+relied on for authentication, the requirements of voluntariness would apply, etc.
+
+Authentication in this case
+[40] The videos in this case purport to be a series of social media stories showing the accused
+in a car, waving a handgun, acting like wanna-be gangsters. The evidence offered as capable of
+showing that the videos in fact accurately depict this, is that the officers located, within minutes,
+the very vehicle and occupants seen in the videos, dressed the same and seated in the same
+positions, sitting atop a handgun matching the one shown in the video, found exactly where one
+would expect if the person brandishing it in the video had tucked it in the under-seat hiding spot.
+[41] The complete similarity of the real-life findings to what is seen on the videos is evidence
+capable of confirming what the video shows. This convergence of real-life circumstances
+provides ample evidence from which a trier of fact could decide that the videos accurately depict
+their advertised content. This evidence meets the threshold standard of proof, however defined.
+[42] The defence focus on the quality of the identification of the men from the video is a red
+herring. The officers’ belief that they knew who was in the videos is peripheral to the real issue.
+In this somewhat unique case, the mechanism of authentication is that the police found, in the
+flesh, the exact scene depicted in the videos, moments after watching them.
+                                                       Page: 7
+
+
+[43] In short, identification of the accused flows from their definitive identification when
+arrested in real life, to establish that they were the men seen in the video, not the other way
+around. I accept the officers’ evidence that they knew the men in the car from their work in the
+community, and specifically identified them as they exited the vehicle and were arrested.
+[44] This is a case where someone who did not make the visual representation at issue, or
+even have any firsthand knowledge of its production, can identify it as accurately depicting
+
+
+
+
+                                                                                                                       2026 ABKB 296 (CanLII)
+something they do have firsthand knowledge of in real life: R v George, 2023 ONCJ at para 23.
+[45] Since I am not reliant on the identification of the accused from the videos as
+corroboration of their contents, I need not engage in a Leaney analysis of those identifications.1
+Rather, I can look to the fact that four people were found in a car, dressed exactly the same as in
+the video (right down to Mr. Flett’s face covering), seated as in the video, waving the same gun
+as seen in the video, behaving (in Mr. Flett’s case) with the same ignorant bravado seen in the
+video. Matching those first-hand, real-life observations to the contents of the videos is capable of
+proving that the videos depict these same four men and their behaviours, relatively recently.
+[46] Finally, the fact that the Snapchat profile name shown on the videos matched the
+nickname of the person believed to be recording it provides additional circumstantial evidence
+for authentication: R v Hirsch, 2017 SKCA 14 at paras 19-21.
+[47]     The Crown has easily satisfied s 31.1 and threshold authenticity is established.
+
+             The Best Evidence rule
+
+[48] The fact that what was tendered before the Court is a copy of a copy of a video ostensibly
+posted on social media also matters little to the question of admissibility: Martin at paras 26-29;
+SJ at para 90. The concepts of documentary ‘originals’ and the best evidence rule have had to
+adapt to digital realities, where these concepts apply differently, if at all. The Canada Evidence
+Act now deals with the “best evidence” of electronic documents as follows:
+         31.2 (1) The best evidence rule in respect of an electronic document is satisfied
+         (a) on proof of the integrity of the electronic documents system by or in which the
+         electronic document was recorded or stored;
+[49] In the case of a screen recording taken of a screen capture, the system whose integrity
+must be established is that of the recorder whose version is presented in court. This is a low
+threshold, usually easily met: Martin at para 49; SJ at para 89. The Ontario Court of Justice dealt
+effectively with this point in R v Francis-Simms, 2020 ONCJ 632 at para 110, a case also
+involving screen-captured evidence of Snapchat videos, where West J. held that:
+         Under s. 31.3(a), if a witness provided evidence that a video was shown on a cell
+         phone using the Snapchat app and they then used their cell phone to record the
+         video they had watched and when they replayed the video they recorded on their
+         phone, it was the same as the original Snapchat video they had watched, this
+         would be circumstantial evidence that the electronic document systems (the two
+         cell phones) were operating properly....
+
+
+  The caller’s hearsay identifications are not evidence for the truth of their contents and are included simply as a
+[1]
+
+narrative of how the vehicle was found and arrests made. The same is true for the clocks displayed on the phones.
+                                             Page: 8
+
+
+[50] I agree with and adopt this analysis. In this case, it was clear that the RCMP officers had
+successfully recorded the video playing on the caller’s phone and could present this recording to
+the Court. Questions of quality loss between copies of copies of electronic documents will
+generally go to their weight. The best evidence rule is satisfied.
+
+           Authorship not a concern
+
+
+
+
+                                                                                                     2026 ABKB 296 (CanLII)
+[51] Authorship of the video is not relevant in this case, as it does not go to any essential
+issue: see Digital Evidence.
+
+Alteration or fabrication
+[52] Defence counsel argued that the recent and rapid rise of AI-generated video and
+“deepfakes” should lead the Court to rule the videos inadmissible absent evidence they are real
+and unaltered. As a starting point, the Court is alive and sympathetic to these concerns. The
+lightning advance of technology has brought into question the reality of far too many things once
+held sacredly accurate.
+[53] That said, whether a social media post is real and unaltered is normally not a question
+going to admissibility. Concerns over tampering or distortion are questions of weight, not
+admissibility. The rise of AI has not changed this foundational principle. As the Court of Appeal
+held in CB at para 72:
+       [E]ven if there were an air of reality to such a claim [of tampering or
+       falsification], the low threshold for authentication, whether at common law or
+       under s. 31.1 of the CEA, would seem to assign such a prospect to an assessment
+       of weight.
+[54] I do not rule out the possibility that, in an appropriate case, evidence of alteration or
+fabrication could be led at the admissibility stage in an attempt to overcome circumstantial
+evidence of authenticity. How such a contest of evidence would play out in an Arcuri-informed
+analysis is for another day. However, merely raising the spectre of “deepfakes” in the abstract is
+not enough to undercut circumstantial threshold authenticity.
+[55] In this case, no evidence was presented that called the provenance and integrity of the
+video into question, and the subsequent discovery of the very scene depicted in it powerfully
+implies its ultimate authenticity.
+
+Conclusion on admissibility
+[56] There is ample evidence capable of proving that the video depicts the two accused, and
+two other known individuals, riding in a car with one of them brandishing a handgun. The phone
+on which the copy presented to the court captured it was functioning properly, and the version
+available as evidence is admissible.
+
+Trial Decision
+[57] On the trial, I must determine whether the Crown has proven each charge beyond a
+reasonable doubt. I bear in mind that proof beyond a reasonable doubt is much closer to certainty
+than a balance of probabilities and requires that I be sure of the Accused’s guilt. The burden
+                                              Page: 9
+
+
+never shifts to the Accused to prove their innocence, no matter how suspicious the
+circumstances. Equally, the grave dangers, and societal concerns, associated with the unlawful
+possession of firearms, and their reckless display and handling, in no way operates to prove the
+charge or reduce the strict burden of proof – the natural prejudice against such activity forms no
+part of this Court’s consideration.
+[58] Similarly, Mr. Flett’s status as an individual prohibited from the possession of firearms
+
+
+
+
+                                                                                                     2026 ABKB 296 (CanLII)
+also does not diminish the Crown’s strict obligation to prove the charges. While this status
+implies prior bad conduct, that in no way assists the Crown in proving the charges.
+[59]   The Crown must satisfy its burden solely on the evidence presented before the Court.
+
+           The charges and elements of the offences
+
+[60] Mr. Flett has been charged with possession of a restricted firearm together with readily
+accessible ammunition, contrary to s 95(1); possession of a weapon dangerous to the public
+peace, contrary to s 88(1); careless handling of a firearm, contrary to s 86(1); unauthorized
+possession of a firearm, contrary to s 92(1); and possession of a firearm while prohibited,
+contrary to s 117.01(1).
+[61]     To establish possession of a restricted firearm together with readily accessible
+ammunition, contrary to s 95(1), the Crown must prove beyond a reasonable doubt that Mr. Flett:
+(a) possessed a firearm; (b) the firearm was a restricted firearm; (c) the firearm was loaded or
+ammunition for it was readily accessible; and (d) he did not have the licence and registration
+certificate required to possess it, nor an authorization to possess it in the circumstances. The
+Crown must also prove beyond a reasonable doubt that Mr. Flett knew, or was wilfully blind to
+the fact, that the firearm was loaded (or that ammunition was readily accessible); recklessness is
+insufficient: R v Eastgaard, 2011 ABCA 152, aff’d 2012 SCC 11.
+[62] To establish possession of a weapon dangerous to the public peace, contrary to s 88(1),
+the Crown must prove beyond a reasonable doubt that: (a) Mr. Flett possessed a weapon; and (b)
+his purpose in possessing it was a purpose dangerous to the public peace.
+[63] To establish careless handling of a firearm, contrary to s 86(1), the Crown must prove
+beyond a reasonable doubt that Mr. Flett used, carried, handled, shipped, transported, or stored a
+firearm in a careless manner, without lawful excuse.
+[64] To establish unauthorized possession of a firearm, contrary to s 92(1), the Crown must
+prove beyond a reasonable doubt that Mr. Flett possessed a firearm and that he knew he was not
+authorized to possess it.
+
+Analysis
+[65] I accept the evidence of the police officers of what they saw and experienced in the
+course of their interception and search of Mr. Lepine’s vehicle. They knew these men, identified
+them upon arrest, and found the gun and shell casings in the vehicle.
+[66] Given the overwhelming similarity between who and what is seen in the Snapchat videos
+and who and what was found in the car, I find that the videos show the two accused, along with
+Mr. Lepine and the late Mr. Houle, driving around Fort Chipewyan and showing off the gun.
+                                              Page: 10
+
+
+[67] That similarity also creates a powerful inference that the video was recorded close in time
+to the vehicle stop and the arrest of the accused. I accept that inference. That inference is
+consistent with the time indication on the Snapchat videos, though I need not rely on this hearsay
+for anything other than collateral comfort.
+[68] I find as a fact that the gun seen in the videos, in Mr. Flett’s inboard hand, is the .22
+calibre Chiappa 1911 later found under his seat by the police and proven to be a working firearm
+
+
+
+
+                                                                                                        2026 ABKB 296 (CanLII)
+by subsequent testing.
+[69] I find as a fact, and am satisfied beyond a reasonable doubt, that it is Mr. Flett seen
+holding the gun in the Snapchat videos. I make this finding for several reasons. First, he was
+positively identified upon arrest. Both Sgt. Davison and Constable Borowdaka knew him well.
+They had extensive dealings with him in the year before these events, and his photograph was
+displayed at the RCMP detachment as part of another investigation and seen by them daily.
+[70] Second, Mr. Flett’s seating position in the video was the same as where he was found in
+real life. Third, when his mask was down, the man in the video, and even more so the man being
+arrested, resembles Mr. Flett as he appeared before me in Court. Fourth, the man in the video has
+the same prominent neck and hands tattoos as Mr. Flett visibly displayed in the courtroom and
+on arrest. Fifth, the clothing Mr. Flett wore when he exited the vehicle matched exactly what he
+wore in the video, right down to the mask he clowned the police with during the arrest.
+[71] I pause to note that the fact that Mr. Flett was apparently well known to police in Fort
+Chipewyan carries no weight in proving his possession of the firearm. It simply explains why the
+police knew him and could identify him.
+[72] Finally, Mr. Flett responded to his name when directed to exit the car and answered to the
+charges under his name in court. There is no doubt it is he who was arrested, and no doubt he
+was the man seen in the video. For these reasons, I am satisfied beyond a reasonable doubt that
+Mr. Flett was in possession of the firearm both in the motor vehicle immediately before his
+arrest, as well as at the time the video was filmed.
+[73] The videos’ origin timeline also establishes that he had possessed the weapon for at least
+some time, and not in a trifling or passing manner. Its heft and real feel would not have escaped
+him. Moreover, the presence of fresh and spent .22 rounds in the vehicle strengthen the inference
+that he knew the weapon to be a real firearm.
+[74] For these reasons, I am satisfied beyond a reasonable doubt that Mr. Flett knew the gun
+was real. I am equally satisfied that he knew, or was at least wilfully blind, to the fact it was
+loaded. The casings found outside the gun particularly bolster this already dominant inference.
+[75] The facts that (i) the gun met the legal definition of a firearm; (ii) was a restricted
+handgun; (iii) had been stolen; that (iv) Mr. Flett had no license to possess it, and in fact (v) was
+barred from possessing it by a lifetime section 109 Order, and (vi) was further bound to keep the
+peace and be of good behaviour under a probation order at the time of these events, were all
+proven by documents and certificates entered as exhibits by agreement.
+[76] Finally, waving a loaded handgun around in a crowded car, and especially cocking it
+while loaded, is inherently dangerous and therefore the Crown has proven beyond a reasonable
+doubt that Mr. Flett used the firearm in a careless manner.
+                                             Page: 11
+
+
+[77] I find that the Crown has established the elements of Counts 1- 4 and Count 9 beyond a
+reasonable doubt. Therefore, I find Mr. Flett guilty of:
+     Count 1 – possession of a restricted firearm together with readily accessible ammunition,
+               contrary to section 95(1);
+     Count 2 – careless handling of a firearm, contrary to section 86(1);
+
+
+
+
+                                                                                                       2026 ABKB 296 (CanLII)
+     Count 3 – possession of a weapon dangerous to the public peace, contrary to section 88(1);
+     Count 4 – unauthorized possession of a firearm, contrary to section 92(1); and
+     Count 9 – possession of a firearm while prohibited, contrary to section 117.01(1).
+[78] The Crown concedes that there is insufficient evidence to conclude beyond a reasonable
+doubt that Mr. Flett knew the weapon was stolen, as the doctrine of recent possession does not
+apply. He is found not guilty on Count 6. The Crown also properly did not seek a duplicative
+conviction on Count 5, knowingly being in a vehicle with a firearm present.
+
+           The alleged threat
+
+[79] Mr. Flett is also charged with threatening Sgt. Davison, about “fireworks” and ASAP
+“popping off”. ASAP was known to him as a local gang. While I am quite sure this was intended
+as a threat, the evidence about what he said was quite vague. I am not satisfied beyond a
+reasonable doubt that this was a threat specifically to Sgt. Davison, as charged, as opposed to a
+generic statement that the gang might be displeased about his arrest. Mr. Flett is found not guilty
+on Count 7.
+
+           Resisting arrest
+
+[80] The actus reus of resisting arrest, contrary to s 129(a) of the Criminal Code is active
+resistance by forcible means: R v Kennedy, 2016 ONCA 879 at paras 28-36. The antics Mr.
+Flett engaged in while walking backwards towards the police would not suffice to make out the
+charge. They are, however, consistent with a general attitude or contempt and non-cooperation,
+consistent with the level of physical resistance described.
+[81] The level of force required to fully gain control of Mr. Flett and handcuff him does
+satisfy the physical element of resisting arrest. I accept the officers’ effectively unchallenged
+descriptions of those events. Mr. Flett pulled away when they tried to take his phone, requiring
+two officers to control him and ultimately take him to the ground. While at the lower end of the
+spectrum of resistance, the offence is proven. Viewed in context of his antecedent behaviour, the
+mens rea is clear. I find Mr. Flett guilty of Count 15, resisting arrest, contrary to section 129(a)
+of the Code.
+
+           Disguise
+
+[82] Mr. Flett is charged that he had his face masked with intent to commit an indictable
+offence, contrary to section 351(2). I do not find that there was a sufficient nexus between the
+masking and the offences committed to make out the requisite intent, as confirmed by his
+removal of the mask in the final video. He is found not guilty on Count 8.
+                                             Page: 12
+
+
+Mr. Mills-Bruno
+[83] The Crown seeks a conviction of Mr. Mills-Bruno only on Count 4, knowingly being in a
+vehicle where a firearm is present. This offence, as particularized in the Indictment, requires
+proof beyond a reasonable doubt that:
+          i.   there was a restricted handgun in the car;
+
+
+
+
+                                                                                                     2026 ABKB 296 (CanLII)
+         ii.   the accused knew it was there; and
+        iii.   the accused knew it was a restricted handgun.
+[84] No suggestion was raised that Mr. Mills-Bruno had grounds to believe anyone in the
+vehicle was authorized to possess the firearm. The presence of the gun, and its characterization
+as a restricted firearm, were clearly proven, and not contested. The remaining issue is Mr. Mills-
+Bruno’s subjective state of mind regarding the weapon. From the video, there is no doubt that he
+knew of the gun’s presence. He was inches from it as Mr. Flett waved it around.
+[85] Therefore, the only issue is whether the Crown has proven beyond a reasonable doubt
+that Mr. Mills-Bruno knew it was a real firearm, or was wilfully blind to that fact. Wilful
+blindness is a form of true, full subjective knowledge that may support a conviction for a full-
+knowledge offence, such as that created by s 94(1): R v Briscoe, 2010 SCC 13 at para 21.
+[86] A number of circumstances are relevant to this determination. First, unlike many people
+who face this charge, I find that Mr. Mills-Bruno obviously knew the gun-shaped object was in
+the car. It was inches away from his face. Second, that proximity would let him have a good look
+at it. Third, he had been in the car with Mr. Flett and the gun for some time, given the sequence
+of events. Fourth, the gun was being used in a context conveying criminal menace.
+[87] Finally, as mentioned above, two spent .22 calibre casings were located in the vehicle.
+This gives rise to an inference that the firearm was discharged at some point, either in the
+vehicle, or by individuals closely associated with the vehicle.
+[88] For these reasons, I am satisfied that Mr. Mills-Bruno was at least wilfully blind to the
+fact that the gun was real. As Sopinka J. stated in R v Jorgensen, 1995 CanLII 85 (SCC), [1995]
+4 SCR 55 at para. 103, “[a] finding of wilful blindness involves an affirmative answer to the
+question: Did the accused shut his eyes because he knew or strongly suspected that looking
+would fix him with knowledge?”
+[89] The arrest video shows that Mr. Mills-Bruno was coherent and functional. I am satisfied
+that, even if he did not concretely know the gun was real (which I am sure he did), he certainly
+knew that he needed to ask and chose not to, because the answer would land him in the criminal
+predicament where he now finds himself.
+[90] While the burden rests solely on the Crown to prove Mr. Mills-Bruno’s mens rea, I note,
+for sake of completeness, that there are no circumstances present or proven that would have
+pointed him away from having a strong subjective concern that the gun was real.
+[91]   For these reasons, I find Mr. Mills-Bruno guilty on Count 5.
+                                            Page: 13
+
+
+           Breach of Probation
+
+[92] Mr. Mills-Bruno was proven to be bound be a Peace Bond at the time of the gun incident,
+which he obviously breached by his behaviour as proven in this case, contrary to section 127(1).
+He is found guilty on Count 14.
+
+
+
+
+                                                                                                   2026 ABKB 296 (CanLII)
+Heard on the 10th, 11th and 12th day of March, 2026.
+Dated at the City of Ft. McMurray, Alberta this 17th day of April, 2026.
+
+
+
+
+                                                    N.E. Devlin
+                                                    J.C.K.B.A.
+
+Appearances:
+
+Anna Gillespie
+      for the Crown
+
+Yodit Russom Kidane
+       for the Accused Kylar Flett
+
+Graham MacArthur Johnson
+      For the Accused Dominic Mills-Bruno
+

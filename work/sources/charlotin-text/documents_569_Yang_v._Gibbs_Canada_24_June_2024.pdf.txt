@@ -1,0 +1,280 @@
+                                                          Date Issued: June 27, 2024
+
+
+
+
+                                                                                        2024 BCCRT 613 (CanLII)
+                                                               File: SC-2023-005421
+
+                                                                  Type: Small Claims
+
+
+                              Civil Resolution Tribunal
+
+      Indexed as: Yang v. Gibbs (dba D & G Cedar Fencing), 2024 BCCRT 613
+
+
+  BETWEEN:
+
+
+            ZHONGXUN YANG and QIANXIN MO
+
+                                                                    APPLICANTS
+
+
+  AND:
+
+
+            DARYL GIBBS (Doing Business As D & G CEDAR FENCING)
+
+                                                                   RESPONDENT
+
+
+
+                            REASONS FOR DECISION
+
+
+Tribunal Member:                                                       Alison Wake
+
+
+INTRODUCTION
+
+1. The applicants, Zhongxun Yang and Qianxin Mo, hired the respondent, Daryl Gibbs
+   (doing business as D & G Cedar Fencing), to repair their fence. The applicants say
+   they sent a $4,300 deposit for the fence by e-transfer as instructed by Mr. Gibbs.
+   When Mr. Gibbs denied receiving the e-transfer, the applicants ultimately paid Mr.
+   Gibbs for the fence by cheque. The applicants say that Mr. Gibbs has been unjustly
+    enriched by the duplicate payments, and they claim $4,300 as a refund for the alleged
+    overpayment.
+
+2. Mr. Gibbs denies receiving the e-transfer from the applicants. He says he only
+
+
+
+
+                                                                                                  2024 BCCRT 613 (CanLII)
+    received the cheque payment. So, Mr. Gibbs asks me to dismiss this dispute.
+
+3. Mr. Yang represents the applicants. Mr. Gibbs is self-represented.
+
+4. For the following reasons, I dismiss the applicants’ claims.
+
+
+JURISDICTION AND PROCEDURE
+
+5. These are the formal written reasons of the Civil Resolution Tribunal (CRT). The CRT
+    has jurisdiction over small claims brought under section 118 of the Civil Resolution
+    Tribunal Act (CRTA). CRTA section 2 says that the CRT’s mandate is to provide
+    dispute resolution services accessibly, quickly, economically, informally, and flexibly.
+
+6. CRTA section 39 says the CRT has discretion to decide the format of the hearing,
+    including by writing, telephone, videoconferencing, email, or a combination of these.
+    Although neither party requested an oral hearing, I considered whether one would be
+    appropriate given the credibility issues involved in this dispute. While credibility issues
+    can, in some cases, be resolved by an oral hearing, the advantages of an oral hearing
+    must be weighed against the CRT’s mandate for speedy, economical and
+    proportionate dispute resolution. Here, the central issue is whether Mr. Gibbs
+    received the e-transfer as the applicants allege. The parties have addressed this
+    issue in their written submissions and evidence. Given this, and the relatively small
+    amount involved, I decided that the benefit of an oral hearing does not outweigh the
+    efficiency of a hearing by written submissions. So, I decided this dispute on the written
+    material before me.
+
+7. CRTA section 42 says the CRT may accept as evidence information that it considers
+    relevant, necessary and appropriate, whether or not the information would be
+    admissible in court.
+
+
+
+
+                                              2
+ISSUE
+
+8. The issue in this dispute is whether Mr. Gibbs received the applicants’ $4,300 e-
+    transfer and if so, whether he must refund it to them.
+
+
+
+
+                                                                                             2024 BCCRT 613 (CanLII)
+EVIDENCE AND ANALYSIS
+
+9. In this civil proceeding, the applicants must prove their claims on a balance of
+    probabilities, meaning more likely than not. While I have considered all the parties’
+    evidence and submissions, I only refer to what is necessary to explain my decision.
+
+10. The background facts are undisputed. On May 1, 2023, Mr. Yang emailed Mr. Gibbs
+    and requested a quote for repairing or replacing some broken fence panels and posts
+    in the applicants’ yard. Mr. Gibbs emailed Mr. Yang a quote on May 5. The quote
+    itself is not in evidence, but the emails show that Mr. Yang agreed to it and asked if
+    Mr. Gibbs accepted transfer or cheque for payment.
+
+11. Later the same day, Mr. Yang emailed Mr. Gibbs again asking how to pay. Mr. Yang
+    says that Mr. Gibbs responded the next day, May 6, and instructed him to e-transfer
+    $4,300 to a Gmail address. This email is in evidence, and shows that it was sent by
+    Mr. Gibbs’ business email address, which is a Hotmail address. The Gmail address
+    in the body of the email does not include Mr. Gibbs’ name or business name.
+
+12. The applicants say that Qianxin Mo e-transferred $4,300 to the Gmail address on
+    May 6. They provided a screenshot of the e-transfer confirmation in evidence.
+
+13. On May 6, Mr. Yang emailed Mr. Gibbs at the Hotmail address and advised that
+    Qianxin Mo had transferred $4,300. A May 8 response from the Hotmail address says
+    “Yes, we received the payment. Thank you.”
+
+14. Mr. Gibbs denies receiving the e-transfer, and denies sending the email providing the
+    Gmail address to the applicants for payment. In support of this, Mr. Gibbs provided a
+    screenshot of his email account’s “sent” folder, which does not show any sent emails
+    on May 6. Mr. Gibbs also provided his business bank account statements for April
+
+
+
+                                            3
+    and May 2023, which do not show any deposits on May 6. The statements show an
+    ATM deposit of $4,300 on May 11, which Mr. Gibbs says is from the cheque that the
+    applicants later provided.
+
+
+
+
+                                                                                               2024 BCCRT 613 (CanLII)
+15. I find neither of these documents is determinative about whether Mr. Gibbs received
+    the e-transfer. I say this because Mr. Gibbs could have deleted an email from his sent
+    folder, and could have deposited the e-transfer into a different account. However, I
+    acknowledge that it would be difficult for Mr. Gibbs to entirely disprove receiving an
+    e-transfer. With this in mind, I find this evidence persuasive and consistent with Mr.
+    Gibbs’ description of the events.
+
+16. As noted, the applicants bear the burden of proving their claims on a balance of
+    probabilities. The applicants say that Mr. Gibbs has been unjustly enriched by the
+    duplicate payments. To prove unjust enrichment, the applicants must show that a)
+    Mr. Gibbs was enriched, b) the applicants suffered a corresponding loss, and c) there
+    was no “juristic reason” or valid basis for the enrichment.1
+
+17. Here, I find the applicants have not proven that Mr. Gibbs was enriched. In other
+    words, I find they have not proven that Mr. Gibbs received the e-transfer. Mr. Gibbs
+    denies receiving it, and I find the applicants’ own conduct after sending the e-transfer
+    shows that they accepted that Mr. Gibbs likely did not receive it. For example, in a
+    May 9 text message to Mr. Gibbs, Mr. Yang said that he had contacted his bank and
+    the e-transfer would be reported to police for investigation. In the message, Mr. Yang
+    said “Meanwhile, just a reminder that your email might be hacked and accessed by
+    someone else. You need to change the password to prevent this happening again to
+    the other customers.” Mr. Yang also asked for Mr. Gibbs’ permission to share the
+    email threads with the bank and the police for investigation.
+
+18. The applicants also provided an email that Mr. Yang sent to the Gmail address on
+    May 10. He addressed the recipient as “Debra”, which matches the first name of the
+    e-transfer confirmation. In the email, Mr. Yang advised that he believed he had been
+
+
+1 Moore v. Sweet, 2018 SCC 52.
+
+
+
+
+                                             4
+    given the wrong email address for the e-transfer. He asked the recipient to send the
+    money back, and said that they could keep $300 if they returned $4,000.
+
+19. I find this evidence shows that in the days following the e-transfer, the applicants
+
+
+
+
+                                                                                            2024 BCCRT 613 (CanLII)
+    accepted Mr. Gibbs’ explanation that he had not received it. However, the applicants
+    say that they then conducted an analysis which showed that Mr. Gibbs’ email
+    attaching the quote and the email requesting e-transfer payment originated from the
+    same source. So, I infer they argue that Mr. Gibbs sent the email requesting the e-
+    transfer payment to the Gmail address.
+
+20. In support of this, the applicants provided a January 26, 2024 interaction with
+    ChatGPT, an artificial intelligence tool. The interaction shows that a user labeled
+    “Anonymous” uploaded Mr. Gibbs’ quote email and the email requesting the e-
+    transfer payment, and instructed ChatGPT to check if the emails were sent from the
+    same device.
+
+21. The response from ChatGPT says that based on the emails’ “headers”, including the
+    originating IP addresses and the structure of the “Message ID” headers, it is highly
+    likely that the two emails were sent from the same device or at least the same local
+    network. However, it notes that it is not possible to state this without absolute
+    certainty.
+
+22. The BC Supreme Court recently discussed the risks of relying on generative artificial
+    intelligence tools such as ChatGPT in a case in which ChatGPT generated references
+    to non-existent court decisions.2 The court noted that there is an express warning on
+    the ChatGPT website that the output could be inaccurate, and that using ChatGPT is
+    not a substitute for professional advice. Similarly, the Ontario Superior Court of
+    Justice has noted the inherent risks of unregulated artificial intelligence tools and
+    declined to rely on ChatGPT-generated research.3 Based on these decisions and
+    absent any evidence to the contrary, I find information provided by ChatGPT is
+
+
+
+2 Zhang v. Chen, 2024 BCSC 285.
+3 Floryan v. Luke et al., 2023 ONSC 5108.
+
+
+
+
+                                             5
+    unreliable at best. So, I give no weight to the applicants’ ChatGPT evidence about
+    the origin of the emails they received.
+
+23. The applicants also say that Mr. Yang’s educational and professional background
+
+
+
+
+                                                                                              2024 BCCRT 613 (CanLII)
+    make him capable of detecting and preventing digital fraud. They say that Mr. Yang
+    verified the authenticity of the email requesting the e-transfer by thoroughly checking
+    the email headers and scrutinizing the email content before sending payment. CRT
+    Rule 8.3(7) says that a party generally cannot act as their own expert in a CRT dispute
+    because they lack neutrality, so I do not accept Mr. Yang’s submissions as expert
+    evidence of the emails’ origin. In any event, even if the applicants took reasonable
+    precautions before sending the e-transfer, this does not mean that Mr. Gibbs received
+    the e-transfer.
+
+24. In summary, I find the applicants have not proven on a balance of probabilities that
+    Mr. Gibbs was enriched by the $4,300 e-transfer. So, I find their claim for unjust
+    enrichment must fail.
+
+25. I also considered whether the applicants may recover the e-transfer under the
+    doctrine of mistake of fact. An applicant may recover money that they have paid under
+    an honest mistake of fact.4 However, this doctrine requires that the mistake must be
+    between the person paying the money and the person receiving it. For the reasons
+    explained above, I find the applicants have not proven that Mr. Gibbs received the
+    $4,300 e-transfer. So, I find mistake of fact does not apply in these circumstances. I
+    dismiss the applicants’ claim for reimbursement of the $4,300 e-transfer.
+
+26. Under CRTA section 49 and the CRT Rules, the CRT will generally order an
+    unsuccessful party to reimburse a successful party for CRT fees and reasonable
+    dispute-related expenses. As the applicants were unsuccessful, I dismiss their claim
+    for CRT fees. Mr. Gibbs did not pay CRT fees, and none of the parties claimed
+    dispute-related expenses, so I make no order for them.
+
+
+
+
+4 Dyson et al. v. Moser, 2003 BCSC 1720.
+
+
+
+
+                                              6
+ORDER
+
+27. I dismiss the applicants’ claims and this dispute.
+
+
+
+
+                                                                                        2024 BCCRT 613 (CanLII)
+                                                         Alison Wake, Tribunal Member
+
+
+
+
+                                             7
+

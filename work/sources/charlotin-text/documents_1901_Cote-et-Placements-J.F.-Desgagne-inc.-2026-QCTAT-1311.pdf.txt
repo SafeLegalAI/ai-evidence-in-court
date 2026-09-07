@@ -1,0 +1,585 @@
+Côté et Placements J.F. Desgagné inc.                                       2026 QCTAT 1311
+
+
+
+            TRIBUNAL ADMINISTRATIF DU TRAVAIL
+                      (Division de la santé et de la sécurité du travail)
+
+
+
+
+                                                                                                2026 QCTAT 1311 (CanLII)
+Région :                         Gaspésie–Îles-de-la-Madeleine, Bas-Saint-Laurent et
+                                 Côte-Nord
+
+Dossier :                        1381563-01A-2408
+
+Dossier CNESST :                 511442360
+
+
+Lévis,                   le 26 mars 2026
+______________________________________________________________________
+
+DEVANT LE JUGE ADMINISTRATIF :              Jean-François LeBel
+______________________________________________________________________
+
+
+Jean-François Côté
+      Partie demanderesse
+
+et
+
+Placements J.F. Desgagné inc.
+     Partie mise en cause
+
+______________________________________________________________________
+
+                               DÉCISION
+______________________________________________________________________
+
+L’APERÇU
+
+[1]    Monsieur Jean-François Côté occupe un poste de gérant à la pharmacie Brunet
+de Trois-Pistoles, laquelle est détenue à l’époque des faits pertinents à la présente affaire
+par les Placements J.F. Desgagné inc.
+
+[2]     La Commission des normes, de l’équité, de la santé et de la sécurité du travail
+accepte la réclamation du travailleur pour une lésion professionnelle survenue le
+1er février 2022 dont les diagnostics sont une tendinite à l’épaule droite et une
+1381563-01A-2408                                                                                 2
+
+
+ténosynovite de la longue portion du biceps droit1. Un diagnostic de déchirure partielle de
+la coiffe des rotateurs droite est également accepté par la suite2.
+
+[3]    Le travailleur conteste au Tribunal une décision rendue par la Commission à la
+
+
+
+
+                                                                                                     2026 QCTAT 1311 (CanLII)
+suite d’une révision administrative3 selon laquelle le diagnostic d’arthrose acromio-
+claviculaire n’est pas en relation avec la lésion professionnelle initiale.
+
+[4]   À l’audience, ce dernier est présent, mais non représenté. Il demande de
+reconnaître qu’il y a bel et bien une relation entre ce nouveau diagnostic et la lésion
+professionnelle du 1er février 2022.
+
+[5]   Pour sa part, l’employeur est absent à l’audience sans avoir avisé le Tribunal
+malgré qu’il ait été dûment convoqué.
+
+[6]    Le Tribunal doit déterminer si le diagnostic d’arthrose acromio-claviculaire est en
+relation avec la lésion professionnelle subie par le travailleur le 1er février 2022.
+
+[7]   Pour les motifs qui suivent, la contestation du travailleur est accueillie et il a droit
+aux prestations prévues à la Loi sur les accidents du travail et les maladies
+professionnelles4, la Loi, pour cette condition.
+
+L’ANALYSE
+
+L’arthrose acromio-claviculaire est-elle en relation avec la lésion professionnelle
+subie par le travailleur le 1er février 2022?
+
+[8]   Le travailleur prétend que c’est bien le cas et le Tribunal est du même avis pour
+les motifs qui suivent.
+
+[9]    La détermination de l’existence d’une relation causale entre un diagnostic et une
+lésion professionnelle reconnue est une question essentiellement juridique. L’analyse
+consiste à déterminer s’il existe un lien « logique, plausible et suffisamment étroit »5 entre
+les nouveaux diagnostics et les circonstances de la lésion professionnelle initiale, ou ses
+conséquences.
+
+
+
+
+1      Dans une décision de révision administrative rendue le 21 septembre 2022.
+2      Dans une décision rendue le 26 juillet 2023.
+3      Rendue le 22 août 2024.
+4      RLRQ, c. A-3.001.
+5      Godbout c. Pagé, [2017] CSC 18.
+1381563-01A-2408                                                                                     3
+
+
+[10] Le fardeau de démontrer l’existence d’un tel lien de causalité appartient au
+travailleur. Cette preuve peut être effectuée par tout moyen, bien que la preuve de nature
+médicale apporte généralement un éclairage important6. Par ailleurs, la jurisprudence
+enseigne que le seul témoignage du travailleur, bien que pertinent, n’est pas suffisant
+
+
+
+
+                                                                                                         2026 QCTAT 1311 (CanLII)
+pour l’établir de manière prépondérante7.
+
+[11] L’affaire Supermarché Gilles Bariteau inc. et Caron8 précise les facteurs à analyser
+afin de conclure à l’existence d’une relation causale entre un nouveau diagnostic et une
+lésion professionnelle déjà reconnue :
+
+      [42]    La relation entre le nouveau diagnostic et l’événement initial est une question de
+      nature essentiellement juridique. Afin de statuer sur cette question, le Tribunal doit se
+      fonder sur l’ensemble de la preuve dont il dispose et, à ce titre, l’opinion d’experts et la
+      preuve médicale peuvent apporter un éclairage important.
+
+      [43]   Plusieurs décisions5 du présent Tribunal réfèrent aux critères suivants à titre de
+      guide dans l’évaluation de l’existence de cette relation, bien qu’aucun d’entre eux ne soit
+      déterminant à lui seul :
+
+          la nature du fait accidentel ou des facteurs de risque;
+          le site de la lésion;
+          la relation temporelle entre l’apparition de la pathologie et la sollicitation de la
+           structure anatomique visée;
+          l’évolution de la pathologie et la présence, le cas échéant, d’une condition
+           personnelle préexistante.
+
+      Note omise
+
+[12] Au même effet, le Tribunal fait sien le passage suivant de l’affaire Park et Centre
+d’hébergement de LaSalle9 :
+
+      [33]    Ainsi, dans l’analyse d’un lien de causalité entre un diagnostic et la lésion
+      professionnelle, le Tribunal doit considérer les éléments suivants :
+
+
+             Le mécanisme de production de la lésion professionnelle;
+
+             Les structures anatomiques impliquées lors de l’accident;
+
+             Les causes entourant l’apparition du nouveau diagnostic;
+
+
+
+
+6     Supermarché Gilles Bariteau inc. et Caron, 2022 QCTAT 4893.
+7     Morin et Résidence Cookshire-Eaton inc., 2022 QCTAT 3737.
+8     Précitée, note 6.
+9     2021 QCTAT 5363.
+1381563-01A-2408                                                                                                 4
+
+
+               Le délai d’apparition des symptômes ou du diagnostic;
+
+               L’importance des séquelles résultant de la lésion professionnelle;
+
+               La présence d’une condition personnelle préexistante;
+
+
+
+
+                                                                                                                     2026 QCTAT 1311 (CanLII)
+               La présence ou l’absence de consultation médicale ainsi que le suivi
+                médical.
+
+       [34]      Il s’agit d’éléments, d’indices, dont l’importance peut varier selon la trame factuelle.
+       Enfin, le fardeau de preuve est celui de la prépondérance de preuve, soit, « la preuve qui
+       rend l’existence d’un fait plus probable que son inexistence »14 et « la question de la relation n’est
+       pas une question médicale proprement dite, il s’agit plutôt d’une question d’ordre juridique qui relève
+       du tribunal, même si la preuve médicale et l’opinion des experts sont importantes »15.
+
+
+       [35]     L’idée n’est pas de déterminer si la travailleuse est victime d’un accident du travail,
+       cet élément n’est pas remis en cause. Il s’agit plutôt d’évaluer s’il existe une relation
+       causale entre le diagnostic de « tendinopathie de la coiffe des rotateurs » et cet événement
+       initial.
+
+
+       [Notes omises]
+
+[13] Dans la présente affaire, le Tribunal analyse les prétentions du travailleur sous
+deux angles différents, soit :
+
+       -   L’arthrose acromio-claviculaire secondaire à la tendinopathie traumatique
+           survenue au travail;
+
+       -   L’arthrose acromio-claviculaire rendue symptomatique ou aggravée par le
+           travail.
+
+L’arthrose acromio-claviculaire secondaire à la tendinopathie traumatique
+survenue au travail
+
+[14] Le travailleur allègue que l’arthrose acromio-claviculaire dont il est porteur est une
+conséquence secondaire à la tendinopathie traumatique survenue au travail.
+
+[15]   Le Tribunal ne partage pas l’avis du travailleur pour les motifs qui suivent.
+
+[16] En l’espèce, la preuve à cet effet relève principalement sur les prétentions
+exprimées à maintes reprises par la docteure Marjorie Duchesne, spécialiste en
+médecine familiale et professionnelle de la santé qui a charge du travailleur, ainsi que sur
+le contenu d’un échange de type question-réponse avec une intelligence artificielle.
+1381563-01A-2408                                                                                              5
+
+
+L’avis des docteurs Duchesne et Primeau
+
+[17] Selon la docteure Duchesne, le travailleur a développé une arthrose acromio-
+claviculaire secondaire à sa tendinopathie traumatique survenue au travail, tel que
+
+
+
+
+                                                                                                                  2026 QCTAT 1311 (CanLII)
+précisé à l’ensemble des rapport médicaux complétés pour la Commission ainsi qu’à une
+note clinique du 1er mai 2024.
+
+[18] Le travailleur s’appuie également sur les observations émises par le docteur
+Tommy Primeau, chirurgien orthopédiste, à une note du 18 juillet 2023 selon laquelle ce
+dernier est d’avis que « la majorité de sa douleur est causée par son articulation
+acromioclaviculaire » pour laquelle une infiltration de cortisone est effectuée. Il complète
+un rapport médical auquel il retient un diagnostic d’arthrose acromio-claviculaire droite.
+
+[19] Le Tribunal est d’avis que ces prétentions ne sont pas probantes et doivent être
+écartées. À cet effet, il fait siennes les conclusions du docteur Stéphane Bachand,
+chirurgien orthopédiste et professionnel de la santé désigné par la Commission, émises
+à son rapport d’expertise du 20 août 2024. Selon celles-ci, l’arthrose acromio-claviculaire
+n’a pas été induite par un événement survenu au travail ni par des mouvements forcés
+fréquents et elle n’est pas la conséquence d’une tendinopathie de la coiffe10 :
+
+      […] L’arthrose acromioclaviculaire n’est pas la conséquence d’un incident survenu au travail ou
+      induit par des mouvements forcés fréquents. L’arthrose acromioclaviculaire n’est pas la
+      conséquence d’une tendinopathie de la coiffe telle que relatée par le médecin traitant. Au contraire,
+      la présence d’arthrose acromioclaviculaire peut provoquer un effet de masse dans l’espace sous-
+      acromial et faire apparaître des phénomènes d’abuttement sous-acromial qui avec les années
+      peuvent mener à une déchirure de la coiffe des rotateurs. Il s’agit donc d’un processus évolutif sur
+      de nombreuses années. L’arthrose acromioclaviculaire est donc une cause d’apparition de
+      phénomènes d’abuttement sous-acromial et d’apparition de dégénérescence/déchirure de la coiffe
+      des rotateurs et non l’inverse.
+
+
+       [Nos soulignements]
+
+[20]    À la lumière de ce qui précède, le Tribunal écarte l’avis de la docteure Duchesne,
+ainsi que celui du docteur Primeau, selon lesquels l’arthrose acromio-claviculaire est une
+conséquence secondaire à la tendinopathie traumatique survenue au travail et adhère à
+l’avis du docteur Bachand.
+
+La preuve documentaire obtenue par l’entremise d’une intelligence artificielle
+
+
+
+
+10     Page 21 du rapport d’expertise du 20 août 2024.
+1381563-01A-2408                                                                                 6
+
+
+[21] Le travailleur produit à l’audience une volumineuse preuve obtenue par l’entremise
+d’une intelligence artificielle afin d’établir que l’arthrose acromio-claviculaire découle de
+sa tendinopathie traumatique survenue au travail.
+
+
+
+
+                                                                                                     2026 QCTAT 1311 (CanLII)
+[22] D’entrée de jeu, cette preuve est écartée dans son ensemble puisque celle-ci
+comporte des lacunes importantes qui en affectent sa valeur probante.
+
+[23] En l’espèce, le travailleur a procédé à de longues recherches à l’aide d’une
+intelligence artificielle et soumet les réponses obtenues lors de celles-ci afin d’étayer sa
+théorie de cause.
+
+[24] Le Tribunal constate, à l’analyse des questions et des réponses obtenues par le
+travailleur, un manque de fiabilité quant à l’information obtenue. Pour être fiable, la source
+des informations doit être clairement identifiée afin que les résultats obtenus soient
+reproductibles et puissent permettre une analyse de leur prépondérance. Dans les faits,
+le travailleur produit un document intitulé « Quelques-unes des sources internet des
+différentes questions posées à l’intelligence artificielle du moteur de recherche Google
+pour cet argumentaire : ». Cette table de référence ne permet aucunement d’associer
+une réponse à sa source d’information, et par conséquent, d’en évaluer la valeur
+probante.
+
+[25] Le travailleur est maître de sa preuve et doit s’assurer de bien identifier la source
+dont elle provient afin de permettre d’en apprécier la valeur probante. Malheureusement,
+l’information soumise dans sa forme actuelle ne permet pas cet exercice. Les références
+fournies de façon générique, sans préciser à quelle question elles répondent, sont de peu
+d’utilité. Il s’agit d’un vice majeur qui affecte irrémédiablement la valeur probante de la
+preuve obtenue par l’entremise d’une intelligence artificielle dans la présente affaire.
+
+[26] Par ailleurs, l’analyse des réponses de l’intelligence artificielle permet de constater
+un manque de mise en contexte. Les informations obtenues sont fragmentaires et ne
+s’inscrivent aucunement dans le cadre d’un recours formé devant un Tribunal
+administratif. Aucune référence ne découle de sources légales, d’articles de Loi
+pertinents, des critères applicables, de la jurisprudence, ou de tout autre principe
+découlant de l’application d’une Loi à caractère social.
+
+[27] De plus, les réponses obtenues reposent sur des concepts qui ne sont pas définis
+les uns par rapport aux autres et dont la portée demeure questionnable. Les questions
+ne semblent pas s’interpréter les unes par rapport aux autres, mais plutôt en silo. Par
+exemple, voici quelques-unes des questions posées par le travailleur ainsi que les limites
+qui en découlent : « Relation entre la levée de charges pesantes à bout de bras de façon
+répétitives [sic] et l’apparition d’arthrose acromio-claviculaire? ».
+1381563-01A-2408                                                                                                      7
+
+
+[28] Le Tribunal ignore ce que l’intelligence artificielle considère comme étant une
+« charge pesante » ainsi que l’interprétation applicable au concept de « façon répétitive ».
+
+[29]    Un autre exemple est de mise : « Existe-t-il une relation entre l’arthrose acromio-
+
+
+
+
+                                                                                                                          2026 QCTAT 1311 (CanLII)
+claviculaire et les mouvements répétitifs avec charges lourdes plus haut que l’épaule? ».
+
+[30] Ici encore, la définition de « mouvements répétitifs » appliquée est inconnue et il en
+est de même pour celle de « charge lourde ».
+
+[31]     Un dernier exemple s’impose : « Lien entre arthrose acromio claviculaire et du travail
+à l’ordinateur de façon non ergonomique durant plusieurs années? ».
+
+[32]   La réponse à cette question s’évalue et s’interprète difficilement :
+
+       L’arthrose acromio-claviculaire, qui résulte de l’usure progressive du cartilage entre la clavicule et
+       l’omoplate, peut être favorisée ou aggravée par un poste de travail non ergonomique utilisé sur le
+       long terme.
+
+       En 2026, les experts soulignent que l’exposition prolongée à des contraintes posturales statiques transforme
+       des micro-sollicitations en lésions chroniques.
+
+
+[33] Le Tribunal ignore qui sont ces experts, dans quels domaines ils œuvrent ainsi
+que la source de ces informations.
+
+[34] Par ailleurs, une certaine confusion se dégage de l’information obtenue de
+l’intelligence artificielle. D’une part, celle-ci est utilisée à titre de substitut de l’avis d’un
+spécialiste de la santé alors que dans d’autres occasions, elle semble plutôt se substituer
+à la plaidoirie d’un avocat. Il en découle une confusion de rôle qui en affecte la valeur
+probante.
+
+[35] Certes, les informations recueillies à l’aide d’une intelligence artificielle peuvent
+constituer un début de preuve, mais celles produites dans la présente affaire comportent
+d’importantes lacunes qui en affectent irrémédiablement leur valeur probante.
+
+[36] Force est de conclure que la preuve prépondérante ne permet pas d’établir que
+l’arthrose acromio-claviculaire est une conséquence secondaire à la tendinopathie
+traumatique survenue au travail. Le Tribunal est d’avis qu’il s’agit plutôt d’une condition
+d’origine personnelle.
+1381563-01A-2408                                                                                 8
+
+
+L’arthrose acromio-claviculaire rendue symptomatique ou aggravée par le travail
+
+[37] Le Tribunal est d’avis que la preuve prépondérante démontre que l’arthrose
+acromio-claviculaire du travailleur a été rendue symptomatique ou aggravée par le travail.
+
+
+
+
+                                                                                                     2026 QCTAT 1311 (CanLII)
+Ainsi, la contestation du travailleur doit être accueillie.
+
+[38] À ce sujet, le témoignage sincère, crédible et non contredit du travailleur, de la
+docteure Duchesne ainsi que les éléments de preuve suivants sont retenus.
+
+[39] La preuve révèle qu’au moment de la survenance de la lésion professionnelle
+initiale, la condition personnelle d’arthrose acromio-claviculaire à l’épaule droite est alors
+inconnue du travailleur et est asymptomatique.
+
+[40] Une imagerie diagnostique réalisée le 27 avril 2022, soit seulement quelques
+semaines après la survenance de la lésion professionnelle initiale, révèle la présence
+d’une discrète arthrose acromio-claviculaire à l’épaule droite sans autre anomalie ni
+calcification pathologique identifiée.
+
+[41] Cette condition arthrosique évolue dans le temps puisqu’elle est qualifiée de
+modérée à une imagerie par résonance magnétique de l’épaule droite effectuée le
+4 mars 2023 : « Arthrose acromio-claviculaire modérée avec œdème osseux associé de part et
+d’autre de l’interligne, prédominant au versant claviculaire et léger œdème dans les tissus
+mous ».
+
+[42] Le Tribunal est d’avis que cette progression de l’arthrose acromio-claviculaire tire
+son origine de deux éléments distincts, soit l’utilisation d’un poste de travail non
+ergonomique ainsi qu’une modification aux tâches de travail en raison d’un manque de
+personnel. Cette modification a fait en sorte que le travailleur a sollicité davantage son
+épaule droite alors qu’il a dû réaliser la réception et la manipulation de la marchandise
+dans l’entrepôt ainsi que dans la pharmacie par la suite.
+
+Le poste de travail non ergonomique
+
+[43] Sur la base des réponses de la docteure Duchesne lorsque questionnée à
+l’audience, le Tribunal comprend que le poste de travail non ergonomique du travailleur
+est la première composante responsable de l’arthrose acromio-claviculaire rendue
+symptomatique ou aggravée par le travail.
+1381563-01A-2408                                                                               9
+
+
+[44] Tel qu’il appert des photographies produites en preuve à l’audience11, le poste de
+travail situé dans l’entrepôt est exigu, la chaise de travail ne comporte aucun ajustement
+et la souris repose directement sur la même tablette où l’écran est posé.
+
+
+
+
+                                                                                                   2026 QCTAT 1311 (CanLII)
+[45] Ainsi, le poste de travail non ergonomique a pour effet que la structure de l’épaule
+droite est sollicitée puisque la manipulation de la souris nécessite que le bras droit soit
+maintenu en extension, car les appuie-bras de la chaise ne peuvent servir. Ceci crée une
+contrainte biomécanique directe sur l’articulation acromio-claviculaire.
+
+[46] Ce positionnement éloigné de la souris a pour effet de forcer l’épaule dans une
+position de protraction ou de surélévation qui entraine une compression de l’espace
+articulaire, ce qui accélère l’usure du cartilage.
+
+[47] Le Tribunal précise que l’utilisation d’un bureau non ergonomique a été dénoncée
+à la Commission par la docteure Duchesne dans un rapport médical émis dès le
+11 août 2022, par lequel elle demande une adaptation de celui-ci.
+
+[48] En octobre 2023, le poste de travail fait l’objet d’une analyse et un Rapport
+d’évaluation ergonomique est produit par MEDIAL Services-conseils-SST12. Ce dernier
+confirme que le poste de travail est non ergonomique et nécessite des ajustements et
+modifications puisque, à titre d’exemples :
+
+              -   Le support à clavier et souris est contraignant;
+              -   Les coudes ne sont pas au même niveau que le clavier et la souris;
+              -   La souris n’est pas au même niveau que le clavier;
+              -   Les appuie-bras ne permettent pas de maintenir les bras près du corps;
+              -   Les épaules ne sont pas relâchées, le support lombaire n’est pas situé
+                  dans le creux du dos;
+              -   Les avant-bras ne sont pas parallèles au sol lors de la saisie au clavier;
+              -   L’utilisation du clavier standard engendre une adduction au niveau des
+                  poignets;
+              -   Les coudes ne sont pas près du corps;
+              -   L’écran est mal positionné devant l’utilisateur;
+
+
+
+
+11    Voir la pièce T5 produite à l’audience par le travailleur.
+12    Voir la pièce T4 produite à l’audience par le travailleur.
+1381563-01A-2408                                                                             10
+
+
+              -   La profondeur de la surface est insuffisante (moins de 30 pouces).
+
+
+[49] Selon le travailleur, ce n’est qu’en février 2024 que le poste de travail adapté et
+
+
+
+
+                                                                                                  2026 QCTAT 1311 (CanLII)
+ergonomique est finalement mis en place.
+
+[50] Le Tribunal est d’avis que ces éléments peuvent expliquer que l’arthrose acromio-
+claviculaire présente chez le travailleur a pu devenir symptomatique ou s’être aggravée
+en raison du poste de travail non ergonomique.
+
+[51]   Mais il y a plus encore.
+
+Le travail d’entrepôt en raison d’un manque de personnel
+
+[52] Le Tribunal considère que le travail d’entrepôt réalisé par le travailleur en raison
+d’un manque de personnel est également responsable d’avoir rendu symptomatique ou
+d’avoir aggravé l’arthrose acromio-claviculaire à l’épaule droite.
+
+[53] À ce sujet, la preuve révèle qu’en plus d’occuper son poste de gérant, lequel
+implique la gestion du personnel, de la comptabilité, des commandes de marchandises
+et de la mise en marché, le travailleur a été appelé à effectuer du travail d’entrepôt en
+raison d’un manque de personnel affecté à cette tâche.
+
+[54] Malgré sa lésion professionnelle à l’épaule droite, le travailleur demeure au travail
+dans son poste de gérant de pharmacie. En raison d’un manque de personnel, il n’a
+d’autre choix que d’effectuer la réception de la marchandise de façon continue entre le
+mois de juin 2021 et le 1er février 2022, soit la date de la lésion professionnelle initiale. A
+raison de trois réceptions de marchandises par semaine les lundis, mercredis et jeudis,
+pour une durée estimée entre huit et dix heures par semaine, il s’affaire à réceptionner
+entre 500 et 800 caisses de différentes marchandises pesant entre 30 et 50 livres, comme
+des caisses d’eau ou d’eau de javel par exemple. Il place ces caisses dans un entrepôt
+dans lequel est situé son bureau de travail. Il déplace aussi les marchandises de
+l’entrepôt au plancher de la pharmacie à tous les jours.
+
+[55] Pour ce faire, à l’aide d’un autre employé, il soulève chacune des caisses dans la
+remorque du camion de livraison et les pousse sur un tapis roulant qui fait le pont entre
+la remorque et l’entrepôt. À cet endroit, il saisit la caisse, la soulève et la place sur un
+chariot à roulettes sur lequel il empile plusieurs caisses. Il pousse ensuite celui-ci dans
+l’entrepôt et reprend les caisses une à une pour les placer au sol. Il répète ces
+manœuvres jusqu’à ce que la remorque soit vide.
+
+[56] Une fois que la marchandise est entreposée dans l’entrepôt, elle doit être déplacée
+de nouveau dans la pharmacie. Ainsi, les mardis et vendredis, le travailleur charge de
+1381563-01A-2408                                                                                11
+
+
+nouveau les caisses sur des chariots, lesquels sont poussés dans le magasin et
+déchargés à cet endroit.
+
+[57] Après plusieurs mois à réaliser les tâches de manutention lors des livraisons en
+
+
+
+
+                                                                                                     2026 QCTAT 1311 (CanLII)
+raison du manque de personnel, le travailleur consulte le docteur Primeau le
+18 juillet 2023, lequel précise à un rapport médical qu’il est d’avis que la majorité de la
+douleur présentée par ce dernier est causée par l’articulation acromio-claviculaire à
+laquelle il effectue une infiltration de cortisone.
+
+[58] En septembre 2023, après un été exigeant à avoir manipulé la marchandise, le
+travailleur ressent une douleur additionnelle à celle ressentie en raison de la lésion
+professionnelle, laquelle irradie à partir de l’épaule jusqu’au cou ainsi qu’à la main droite
+sous forme d’engourdissements. Il consulte la docteure Duchesne, laquelle ordonne un
+arrêt de travail pour une période de quatre semaines et complète un billet médical auquel
+elle précise qu’il y a exacerbation de la douleur suite au travail réalisé avec les bras en
+élévation à l’été 2023 pour lever des charges.
+
+[59] Selon la docteure Duchesne, le fait de soulever, pousser et déplacer des charges
+avec le membre supérieur droit a provoqué une surcharge de l’articulation acromio-
+claviculaire. Le Tribunal partage cette position et est d’avis que la manipulation des
+caisses afin de décharger la marchandise a certainement rendu symptomatique, accéléré
+et aggravé le phénomène dégénératif retrouvé au niveau de l’articulation acromio-
+claviculaire de l’épaule droite.
+
+[60] À la lumière de ce qui précède, la preuve prépondérante, à savoir le témoignage
+du travailleur, celui de la docteure Duchesne ainsi que le rapport d’analyse ergonomique
+du poste de travail, milite en faveur de la reconnaissance de la relation causale13 entre
+l’arthrose acromio-claviculaire rendue symptomatique ou aggravée par le poste de travail
+non ergonomique ainsi que par les tâches relatives à la réception de la marchandise et
+la lésion professionnelle du 1er février 2022.
+
+[61] Au final, le Tribunal conclut qu’en toute probabilité, la condition personnelle
+d’’arthrose acromio-claviculaire a été rendue symptomatique ou a été aggravée par le
+poste de travail non ergonomique ainsi que par le travail d’entrepôt réalisé en raison du
+manque de personnel.
+
+[62] Par conséquent, la contestation du travailleur est accueillie et il a droit aux
+prestations prévues à la Loi.
+
+
+
+
+13     Selon les critères établis dans l’affaire Cité de Dorval et Kuczynski, 2023 QCTAT 126.
+1381563-01A-2408                                                                         12
+
+
+PAR CES MOTIFS, LE TRIBUNAL ADMINISTRATIF DU TRAVAIL :
+
+ACCUEILLE la contestation du travailleur, monsieur Jean-François Côté;
+
+
+
+
+                                                                                              2026 QCTAT 1311 (CanLII)
+INFIRME la décision de la Commission des normes, de l’équité, de la santé et de la
+sécurité du travail rendue le 22 août 2024 à la suite d’une révision administrative;
+
+DÉCLARE que l’arthrose acromio-claviculaire a été rendue symptomatique ou a été
+aggravée par le travail et qu’elle est en relation avec la lésion professionnelle subie par
+le travailleur le 1er février 2022;
+
+DÉCLARE que le travailleur a droit aux prestations prévues à la Loi sur les accidents du
+travail et les maladies professionnelles.
+
+
+
+
+                                               __________________________________
+                                               Jean-François LeBel
+
+
+
+M. Jean-François Côté
+Pour lui-même
+
+Mme Marie-Christine Gratton
+MÉDIAL CONSEIL SANTÉ SÉCURITÉ INC.
+Pour la partie mise en cause
+
+Date de la mise en délibéré :      19 janvier 2026
+

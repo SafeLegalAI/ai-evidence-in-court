@@ -1,0 +1,425 @@
+                      SUPERIOR COURT, STATE OF CALIFORNIA
+                             COUNTY OF SANTA CLARA
+                                      Department 6
+                        Honorable Evette D. Pennypacker, Presiding
+                                    David Criswell, Courtroom Clerk
+                                191 North First Street, San Jose, CA 95113
+                                       Telephone: (408) 882-2160
+
+                          DATE: APRIL 27, 2023 TIME: 9:00 A.M.
+
+TO REQUEST ORAL ARGUMENT: Before 4:00 PM today you must notify the:
+       (1) Court by calling (408) 808-6856 and
+       (2) Other side by phone or email that you plan to appear at the hearing to contest the ruling
+If you do not notify the other side and/or the Court, the Court will not hear oral argument and will adopt the
+tentative. (California Rule of Court 3.1308(a)(1) and Local Rule 8.E.)
+
+IN PERSON HEARINGS: The Court strongly prefers in person appearances for contested law and motion
+matters. We are open and look forward to seeing you in person again.
+
+
+VIRTUAL HEARINGS: Whenever possible, please use video when appearing for your hearing virtually
+through Microsoft Teams. To attend virtually, click or copy and paste this link into your internet browser, and
+scroll down to Department 6: https://www.scscourt.org/general_info/ra_teams/video_hearings_teams.shtml
+
+
+TO HAVE YOUR HEARING REPORTED: The Court does not provide official court reporters. If you want a
+court reporter to report your hearing, you must submit the appropriate form, which can be found here:
+https://www.scscourt.org/general_info/court_reporters.shtml
+    LINE #      CASE #             CASE TITLE                                   RULING
+LINE 1       20CV368784   The National Collection           Parties are ordered to appear for the hearing on
+                          Agency Inc vs RICK                order of examination.
+                          PROVENZANO BUILDERS,
+                          INC.
+LINE 2       22CV404254   Antonio Reza vs Santa Clara       Defendants’ special motion to strike the Complaint
+                          University et al                  is GRANTED. Please scroll down to Line 2 for full
+                                                            tentative opinion. Court to prepare formal order.
+
+LINE 3       22CV406803   Strike Cupertino VFP, LLC, l      Defendant’s Demurrer to the First Cause of Action
+                          vs Vallco Property Owner,         for Specific Performance is OVERRULED.
+                          LLC
+                                                            Please scroll down to Line 3 for full tentative
+                                                            opinion. Court to prepare formal order.
+LINE 4       19CV346663   Sz Huang et al vs Tesla Inc. et   Plaintiffs’ Motion to Compel Written Discovery,
+                          al                                Elon Musk’s Deposition and for Sanctions is
+                                                            GRANTED, IN PART. Please scroll down to
+                                                            Line 4 for full tentative opinion. Court to prepare
+                                                            formal order.
+LINE 5       19CV346663   Sz Huang et al vs Tesla Inc. et   The Court has no Opposition to Plaintiffs’ Motion
+                          al                                to Compel Person Most Qualified Deposition. It
+                                                            also does not appear to the Court that as of the
+                                                            time the motion was filed the Parties had
+                                                            completed their meet and confer. Accordingly, the
+                                                            Court requests that the Parties appear at the
+                                                            hearing to provide an update regarding this Motion
+                                                            to Compel.
+
+
+
+
+                                                 2
+Calendar Lines 4 and 5
+Case Name: Sz Huang et al v. Tesla, Inc. et. al.
+Case No.: 19CV346663
+
+        Before the Court is Plaintiffs’ Motion to Compel Further Responses to Requests for Admission
+(set 2 and 3), Request for Admission as to Genuineness of Documents (Set 3), Form Interrogatory No.
+71.1, Special Interrogatories (Set 3, 4 and 5), Request for Production (Set 5 and 6), the Deposition of
+Elon Musk and for Sanctions. Pursuant to California Rule of Court 3.1308, the Court issues its tentative
+ruling as follows:
+
+I.     Factual Background
+
+        This is a product liability action. Plaintiffs are the wife and children of Walter Huang who
+suffered a fatal crash while driving his Tesla Model X in 2018. Mr. Huang added Autopilot when he
+purchased his Tesla, but he did not purchase the “Full Driving Capability Package.” According to Tesla,
+Autopilot provides numerous warnings and instructions to its users, both in the manual and in the car
+while the Tesla is in use, making clear that drivers need to keep their hands on the wheel and “be
+prepared to take over at any time” even while Autopilot is engaged. Tesla also argues that consumers
+are made aware of Autopilot’s limitations in areas where, for example, the lanes are unclear, the light is
+low or the Tesla’s cameras are obstructed in some way.
+
+         Mr. Huang’s crash occurred on March 23, 2018, approximately four months after he purchased
+his Tesla Model X. He was driving his regular morning route when he approached the junction of 101
+South and State Route 85 where a high-occupancy vehicle (HOV) lane splits off southbound 101 to the
+left to go up a ramp. A concrete median eventually begins in the middle of the two lanes, which middle
+is called a “gore.” Mr. Huang apparently had experienced the Tesla veering towards this gore in his
+morning route, and complained of this to others, including his wife. On the morning of March 23, 2018,
+Mr. Huang’s Tesla Model X veered toward the gore point, crashing into the median. Mr. Huang was
+pronounced dead at the scene.
+
+       According to Tesla, Mr. Huang’s hands were not detected on the wheel multiple times during the
+19 minutes leading up to the crash, Autopilot issued two visual and one audible alert for hands-off
+driving, Mr. Huang’s hands were not on the wheel for the final six seconds before the crash, and Mr.
+Huang was playing the video game Three Kingdoms on his phone at the time of the crash.
+
+       Relevant to this motion, Plaintiffs claim Mr. Musk made the following public statements
+concerning Autopilot:
+
+         In June 2014: “I’m confident that—in less than a year—you’ll be able to go from
+         onramp to highway exit without touching any controls.”
+
+         In October 2014: “But what [Tesla is] doing is. . .incorporating a lot of active safety
+         features so that the car will stay in its lane, will automatically brake, will maintain a
+         distance to other cars, will avoid like highway barriers and other obstacles.”
+
+
+
+
+                                                    22
+In March 2015: Mr. Musk announced Tesla would be adding “autosteering” to its
+vehicles, stating “Our main test route that we’re evaluating is the San Francisco to
+Seattle route, and we’re now almost able to travel all the way from San Francisco to
+Seattle without the driver touching any controls at all.” And, when asked if
+customers would be required to periodically put their hands on the wheel, Mr. Musk
+replied “We don’t have that in mind. . .I think like actually some of the manufacturers
+have it kind of backwards. It’s like if you take your hands off the wheel for a certain
+period of time, the auto steering stops working. But I mean what if somebody’s
+distracted or conceivably fell asleep or something, then you don’t want to have the
+car not steer. That seems backwards.”
+
+In January 2016: Tesla added a webpage entitled “tesla 7.0 Autopilot: a perfect
+commuter feature”, which website stated “the new Autosteer feature set a milestone
+in automotive development. It is the first time a serial production car can drive safely
+on its own on freeways.” That same month, Musk referred to Autosteer as
+“autonomous mode” and said “I believe that it is probably better than human at this
+point in highway driving or certainly will be as the fleet learning gets more and more
+sophisticated. That’s actually been my observation when I’ve been testing the cars,
+that it’s certainly better than human at staying in the center of the lane compared to
+other cars on the road. . .I’m actually not aware of any cases where the autopilot
+caused an accident.. . .In fact, even the cases where people did pretty crazy things like
+they set the car in autonomous mode and then got into the backseat and that kind of
+thing.”
+
+In June 2016: “I really consider autonomous driving a solved problem. I think we
+are less than two years away from complete autonomy, safer than humans, but
+regulations should take at least another year. . .On highways, particularly highways
+that have barriers so that you don’t have pedestrians. That’s also relatively easy. A
+Model S and Model X, at this point, can drive autonomously with greater safety than
+a person. Right now.”
+
+July 20, 2016: Mr. Musk released a blog post entitled “Master Plan, Part Deux” in
+which he explained that Autopilot “is not beta software in any normal sense of the
+word. . . It is called beta in order to decrease complacency and indicate that it will
+continue to improve. . . .”
+
+September 11, 2016: Mr. Musk published a blog post entitled “Upgrading Autopilot:
+Seeing the World in Radar”, representing that Teslas equipped with the most recently
+released software “should almost always hit the brakes correctly even if a UFO were
+to land on the freeway in zero visibility conditions.” He further stated “I beta tested—
+true beta test, alpha test really—the software personally. I feel strongly in using
+myself and make sure it’s good before anyone else uses it. I used it on an alpha basis
+to confirm and it’s good.”
+
+October 2016: A promotional video Plaintiffs claim Mr. Musk finalized the details
+for states “The person in the driver’s seat is only there for legal reasons. He is not
+
+
+                                           23
+         doing anything. The car is driving itself.” The video, according to Plaintiffs, then
+         shows a Tesla Model X obeying traffic lights and signs and reacting to pedestrians,
+         seemingly displaying a technology that, according to Plaintiffs, multiple Tesla
+         engineers admit did not exist at the time.
+
+         November 2017: “I think it’s really quite unequivocal that Autopilot improves safety.
+         . . And I think it would be morally wrong to withhold functionalities that improve
+         safety simply in order to avoid criticisms or for fear of being involved in lawsuits.”
+
+         According to Plaintiffs, some of the above statements were recorded in interviews and test drives
+with journalists, including Bloomberg and Gayle King, and other statements were made during investor
+calls, in tweets and blogs and in Ted Talks.
+
+II.    Procedural Background
+
+       Plaintiffs filed this action on April 26, 2019 asserting claims against Tesla for
+Negligence/Wrongful Death, Strict Liability, Negligence (post-sale), and Survival. The parties have
+engaged in extensive discovery since, including hundreds of hours of depositions, voluminous document
+production and third party discovery, and hundreds of written discovery requests.
+
+        On February 23, 2023, the Court heard argument regarding Plaintiffs’ Motion to Compel Tesla’s
+further responses to Requests for Admission (Set Four), Requests for Production of Documents (Set 6),
+Form Interrogatories (Set 3), and Special Interrogatories (Set 3) all of which focused on Mr. Musk’s
+public statements, Plaintiff’s Motion to Compel Mr. Musk’s deposition, and Tesla’s Motion for
+Protective Order Regarding Mr. Musk’s deposition. The Court issued an order dated March 10, 2023,
+with the following rulings:
+
+               [T]he Court GRANTS Plaintiffs’ motion to compel further responses to
+           Requests for Admissions, except for No. 36, which the Court finds not to be
+           relevant to any issue in the case. (Tesla already agreed to supplement Nos.
+           16, 37, 42, 43, 44, 45, and 46.)
+
+               The Court GRANTS Plaintiffs’ motion to compel further responses to
+           Form Interrogatory No. 17.1 (which relates to Tesla’s responses to the
+           Requests for Admission), Special Interrogatory Nos. 46-48, and Request for
+           Production No. 214. If Tesla’s current response to Special Interrogatory No.
+           46 is the only fact in Tesla’s possession, custody and control responsive to
+           Interrogatory No. 46, then Tesla must so state. Similarly, if the single
+           document referenced in response to Tesla’s response to Request for
+           Production 214 is the only responsive document in Tesla’s possession,
+           custody or control, then it must so state in its written response. In addition, if
+           Tesla has responsive privileged, work product documents created before this
+           lawsuit was filed, it must place them on a privilege log.
+
+
+
+
+                                                    24
+              Tesla is ordered to serve the supplemental discovery outlined herein by
+           March 31, 2023 and to respond to any further Requests for Admissions or
+           Special Interrogatories permitted herein according to Code.
+
+               The Court GRANTS Tesla’s motion for protective order, pending its
+           responses to the additional written discovery ordered herein. The Court sets a
+           further hearing regarding the present motion for April 27, 2023 at 9am in
+           Department 6.
+
+        Plaintiff has now filed a motion to compel the deposition of Mr. Musk and for issue sanctions
+related to the discovery ordered (and permitted) by the Court on March 10, 2023.
+
+III.   Relevant Discovery Standards
+
+        Discovery is generally permitted “regarding any matter, not privileged, that is relevant to the
+subject matter involved in the pending action or to the determination of any motion made in that action,
+if the matter either is itself admissible in evidence or appears reasonably calculated to lead to the
+discovery of admissible evidence.” (Cal. Code Civ. Pro. § 2017.010.) Everything that is relevant to the
+subject matter is presumed to be discoverable. (Id.) The Discovery Act further declares that “the court
+shall limit the scope of discovery” if it determines that the burden, expense, or intrusiveness of that
+discovery “clearly outweighs the likelihood that the information sought will lead to the discovery of
+admissible evidence.” (Cal. Code Civ. Pro. § 2017.020(a); Greyhound Corp. v. Superior Court (1961)
+56 C.2d 355, 383-385.) The California Supreme Court teaches in Greyhound that the judge exercising
+discretion to limit discovery should construe disputed facts liberally in favor of discovery; reject
+objections such as hearsay that only apply at trial; permit fishing expeditions (within limits), avoid
+extending limitations on discovery, such as privileges; and, whenever possible, impose only partial
+limitations rather than denying discovery entirely. (Greyhound Corp. v. Superior Court (1961) 56 C.2d
+355, 383-385; see also Tylo v. Superior Court (1997) 55 Cal.App.4th 1379, 1386.)
+
+       Requests for admissions are different than other discovery devices; they are designed to compel
+admission as to all matters that cannot reasonably be controverted in order to expedite trial by reducing
+the number of triable issues that must be adjudicated. (City of Glendale v. Marcus Cable Assoc., LLC
+(2015) 235 Cal.App.4th 344, 352; Doe v. Los Angeles County Dep’t of Children & family Servs. (2019)
+37 Cal.App.5th 675, 690; Orange County Water Dist. v. The Arnold Eng’g Co. (2018) 31 Cal.App.5th 96,
+119.) However, requests for admission are not restricted to just facts and documents. They are also
+applicable to conclusions, opinions, and legal questions. (City of Glendale v. Marcus Cable Assoc., LLC
+(2015) 235 Cal.App.4th 344.) A party to a civil action that denies a pretrial request for admission
+without a reasonable basis can be ordered to pay to the propounding party the reasonable expenses
+incurred, including attorney’s fees and costs, in proving the matter covered by the request. (See Cal.
+Code Civ. Pro. §2033.420(a); Spahn v. Richards (2021)72 Cal.App.5th 208, 216.) Unlike other
+discovery sanctions, an award under this Code section is not a penalty, but is instead designed to
+reimburse the reasonable expenses a party incurred in proving the truth of a requested admission when
+the admission sought was of substantial importance, such that the trial would have been expedited or
+shortened if the request had been admitted. (City of Glendale, LLC 235 Cal.App.4th at 359; Grace v.
+Mansourian (2015) Cal.App.4th 523, 526, 532-537.)
+
+
+
+                                                   25
+         When a plaintiff seeks to depose a corporate president or other official at the highest level of
+corporate management . . . the trial court should first determine whether the plaintiff has shown good
+cause that the official has unique or superior personal knowledge of discoverable information.” (Liberty
+Mutual Ins. Co. v. Superior Court (1992) 10 Cal.App.4th 1282, 1287; Cal. Code of Civ. Pro. §2025(i)).
+If the answer to that inquiry is “no”, then the trial court should “first require the plaintiff to obtain the
+necessary discovery through less intrusive methods. These would include interrogatories directed to the
+high-level official to explore the state of his or her knowledge or involvement in plaintiff’s case or
+involvement in plaintiff’s case; the deposition of lower level employees with appropriate knowledge and
+involvement in the subject matter of the litigation; and the organizational deposition of the operation
+itself.” (Id.) Only after these avenues are exhausted, and the “plaintiff makes a colorable showing of
+good cause that the high-level official possesses necessary information to the case, the trial court may
+then lift the protective order and allow the deposition to proceed.” (Id.)
+
+        Code of Civil Procedure section 2031.310(i) provides: “if a party fails to obey an order
+compelling further responses, the court may make those orders that are just, including the imposition of
+an issue sanction, an evidence sanction, or a terminating sanction.” (See also Department of Forestry &
+Fire Protection v. Howell (2017) 18 Cal.App.5th 154.) There are four types of terminating sanctions:
+(1) striking pleadings in whole or in part; (2) staying further proceedings by a party until it obeys a
+discovery order; (3) dismissing the action or part of it; and (4) rendering a default judgment. (Code of
+Civ. Pro. §2023.030(d).) An issue sanction either orders that designated facts be taken as established or
+prohibits a party from supporting or opposing designated claims or defenses. (Code of Civ. Pro.
+§2023.030(b); Kuhns v. State (1992) 8 Cal.App.4th 982, 989; Marriage of Chakko (2004) 115
+Cal.App.4th 104, 109-110.
+
+IV.    Analysis
+
+        The Court does not find on this record that issue sanctions are appropriate. It is clear to the
+Court that Tesla made efforts to respond to Plaintiffs’ discovery requests. As detailed below, in some
+cases, Plaintiffs simply do not like the answers received, however, in others it appears to the Court that
+Tesla continues to try and have it both ways in a way that is untenable. The Court addresses each of
+Plaintiff’s requests by set below.
+
+        Request for Production, Set Six (No. 214): This request seeks “All DOCUMENTS that support
+Elon Musk’s assertion, in an April 2018 test drive of the Tesla model 3 with CBS’s Gayle King, that
+Tesla Autopilot can reduce accidents by a factor of ten.” Tesla responds by stating that there “is no
+single set of documents or studies underpinning Mr. Musk’s general statements about the potential for
+driver assistance features, like Autopilot, to save lives” then identifies publicly available documents by
+url. If these are the documents Tesla contends underpin this statement, those are the documents Tesla
+will be limited to for any dispositive motion practice and at trial. Thus, Plaintiffs’ motion to compel a
+further response is DENIED.
+
+       Special Interrogatories, Set Three (46-48) and Set Five (72-105): These Special Interrogatories,
+which are quite extensive, are directed to obtaining facts, documents and witnesses with knowledge to
+support the various statements Plaintiffs contend Mr. Musk made and that were quoted in the Court’s
+March 10, 2023 Order. Tesla provided a lengthy answer that largely incorporates what it said
+elsewhere. However, it is a response to the questions posed. The Court DENIES Plaintiffs’ motion to
+
+
+                                                     26
+compel further responses to these interrogatories. Of course, this means that unless it provides further
+information, Tesla is confined to the content of these responses in the event the specific documents, facts
+and/or witnesses with knowledge regarding these alleged statements become an issue at trial.
+
+        Special Interrogatories, Set Four (49-51 and 64-69): All of these interrogatories are directed in
+different ways to gather information about Tesla’s response, if any, to NTSB Safety Recommendation
+H-17-042. This subject was not addressed during the February 23, 2023 hearing or the Court’s March
+10, 2023 Order that resulted from that hearing. Tesla avers that Plaintiffs have not met and conferred
+regarding these responses. In any event, the Court has reviewed the responses and DENIES Plaintiffs’
+motion to compel further responses to these interrogatories. Again, this means that unless it provides
+further information, Tesla is confined to the content of these responses in the event its response to the
+NTSB Safety Recommendation H-17-042, if any, becomes an issue at trial.
+
+        Request for Production of Documents, Set Seven: These requests are all directed to obtaining
+data to support certain numerical conclusions by Tesla or what appear to the Court to be naming
+conventions. None of these requests has anything to do with the issues presented during the February
+23, 2023 hearing or the March 10, 2023 order that resulted from that hearing. Further, it seems clear to
+the Court that the parties have not met and conferred adequately regarding these requests. It is also not
+clear to the Court the relevance of the material sought, despite the fact that it does appear that it would
+be burdensome to collect and produce. Thus, on this record, Plaintiffs’ motion to compel is DENIED.
+Tesla is, however, ordered to continue collecting and producing documents it has already agreed to
+produce in its written responses.
+
+        Requests for Admission, Set Two; Form Interrogatory 17.1; Requests for Admissions, Set Three:
+All of these Requests for Admission relate to confirming whether Mr. Musk (or in some cases Tesla)
+made certain statements during various interviews or other public engagements. The Court made clear
+during the February 23, 2023 hearing and in both its tentative and final rulings related to that hearing,
+that the Court was granting Tesla’s Motion for Protective Order regarding Mr. Musk’s deposition on the
+condition that it provide fulsome responses to the written discovery regarding the statements outlined
+with specificity in the Court’s March 10, 2023 Order. In other words, the Court was giving Tesla a
+chance to provide the information Plaintiffs sought in writing, which would have obviated the need for
+Mr. Musk’s deposition.
+
+       Also important, is that the Court has already ruled that at this discovery stage, the consumer
+expectation test is “still in play.” (March 10, 2023 Order, p. 8.) Thus, objections and arguments about
+relevance are not well taken at this stage of the motion practice. It is with this backdrop, that the Court
+makes the following additional rulings and analysis regarding particular Requests for Admission.
+
+        Plaintiffs’ Motion to Compel regarding Requests 16, 27, 28, 37, 42, 44, 46, 67 and 69 is
+DENIED. The Court agrees that Request 27 is too vague; the other Requests are sufficiently admitted.
+Plaintiff’s motion regarding Requests 19, 43 and 45 is GRANTED – there is no reason why Tesla cannot
+simply admit these Requests without referring to another Request.
+
+        Tesla objects that Requests 61, 62, 63, 66 and 68 are from its website and are not statements
+Plaintiffs allege were made by Mr. Musk, and therefore outside the scope of the Court’s March 10, 2023
+order. Tesla is incorrect. These Requests relate directly to citations set forth in the Court’s March 10
+
+
+                                                    27
+order. Tesla needs to indicate whether these are Tesla statements or statements from a customer.
+Plaintiffs’ Motion to Compel as to these Requests is GRANTED.
+
+       Citing to Smith v. Circle P Ranch Co., Inc. (1978) 87 Cal.App.3d 267, 275, in response to
+Requests 26, 31, 60, 64, and 65, Tesla contends it has answered adequately because Plaintiffs’ Requests
+do not contain a correct quotation. Smith does stand for the proposition that a response that states “As
+framed, denied” is a sworn denial. However, Smith goes on to find that the party providing that sworn
+denial had a duty to investigate, failed to do so, and that sanctions were therefore justified for such
+responses. It appears to the Court that Tesla is really concerned that the quotations are taken out of
+context. If that is the case, as Tesla itself states elsewhere, Tesla must state the part it can admit and
+include the rest of the quotation it thinks needs for the answer to be complete. Thus, Plaintiffs’ motion
+to compel complete responses to these Requests is GRANTED.
+
+       For the rest of the Requests in these sets and for all of Request for Admissions Re Genuineness,
+Set Three, Tesla states something akin to the following:
+
+       Tesla has undertaken a good faith investigation of sources reasonably available to
+       it and is unable to admit or deny the request as Tesla does not maintain
+       possession, control or custody of a recording of the discussion. Tesla does not
+       maintain a repository of Elon Musk’s public statements or media interviews. Mr.
+       Musk confirmed he did not independently record the discussion or maintain a
+       copy of the original video, nor did he take notes, and therefore cannot recall the
+       details sufficiently to admit or deny their accuracy. Consequently, while Tesla
+       does not expect the file has been altered or manipulated, it cannot authenticate a
+       non-Tesla document that it cannot independently validate, and is not obligated to
+       otherwise admit the accuracy of a statement untethered to its source as presented
+       in this request.
+
+        This is where the Court views Tesla as still trying to have it both ways, or, perhaps put more
+accurately, Telsa is trying to avoid at all costs tying itself to Mr. Musk’s statements or denying outright
+that Mr. Musk made the statements. Tesla’s argument that it cannot commit one way or another to the
+statements, or in some cases even admit that it is Mr. Musk in the videos, because of the ease with which
+deep fakes can be made is unconvincing for several reasons. First, the Court reviewed Exhibits B and C
+to the Declaration of Lauren O. Miller, in which audio is attributed to Mr. Musk that he says he did not
+say. Tellingly, Mr. Musk is able to identify that these videos are fake because (as must be the case) he
+can recall that he did not give that particular TedTalk (even though he did give a TedTalk) or actually
+give an interview about nude photos. Thus, plainly, Mr. Musk is able to have some recall as to what
+interviews he did and did not do.
+
+        Next, as the Court already stated at the February 23, 2023 hearing, it is not necessary to have a
+chain of custody like history for a video for a person depicted in the video to confirm (a) if that is the
+person, (b) if the person did or did not perform the act shown in the video and/or (c) if the person did or
+did not say something depicted in the video. Mr. Musk was either at these places or he was not; he
+either said these things or he did not. Ironically, Tesla’s refusal to answer these questions only makes a
+clearer record that Mr. Musk is the only person that has this information to respond to this discovery,
+one of the pre-requisites to permitting an Apex deposition.
+
+
+                                                    28
+       Finally, what Tesla is contending is deeply troubling to the Court. Their position is that because
+Mr. Musk is famous and might be more of a target for deep fakes, his public statements are immune. In
+other words, Mr. Musk, and others in his position, can simply say whatever they like in the public
+domain, then hide behind the potential for their recorded statements being a deep fake to avoid taking
+ownership of what they did actually say and do. The Court is unwilling to set such a precedent by
+condoning Tesla’s approach here.
+
+       As a result, the Court now finds it appropriate to order a limited deposition of Mr. Musk. The
+deposition shall be limited to three hours and can only address the Requests for Admission seeking to
+confirm that Mr. Musk was at specific interviews and made specific already identified statements during
+those interviews. Plaintiffs must bring the recorded statements and show them to Mr. Musk at the
+deposition, so that he can state under oath whether or not he made the statements.
+
+       To the extent not already explicitly addressed above, Plaintiffs’ motion is DENIED.
+
+
+                                                - oo0oo –
+
+
+
+
+                                                   29
+
