@@ -138,14 +138,14 @@ Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) r
 
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "AI-generated evidence and deepfakes in court", v0.1.2, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court — CC BY 4.0. Canonical: https://safelegalai.com/courts/evidence
+> SafeLegalAI (Cognesio LLP), "AI-generated evidence and deepfakes in court", v0.1.3, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court — CC BY 4.0. Canonical: https://safelegalai.com/courts/evidence
 
 ```bibtex
-@dataset{safelegalai_ai_evidence_in_court_0_1_2,
+@dataset{safelegalai_ai_evidence_in_court_0_1_3,
   title        = {AI-generated evidence and deepfakes in court},
   author       = {{SafeLegalAI (Cognesio LLP)}},
   year         = {2026},
-  version      = {0.1.2},
+  version      = {0.1.3},
   url          = {https://safelegalai.com/courts/evidence},
   note         = {Mirror: https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court. Data CC BY 4.0. Built 2026-09-08.}
 }
