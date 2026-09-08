@@ -149,6 +149,7 @@ def card(tables: dict, manifest: dict) -> str:
             lines = "\n".join(f"| {k} | {v} |" for k, v in list(st.get(f"by_{f}", {}).items())[:15])
             statblocks.append(f"### `{t}` by `{f}`\n\n| value | rows |\n|---|---|\n{lines}\n")
     gh = manifest["repository"]; hf = manifest["huggingface"]; can = manifest["canonical"]
+    ATTRIBUTION = ("\n**Attribution for leads.** " + CFG["attribution"] + "\n") if CFG.get("attribution") else ""
     return f"""---
 license: cc-by-4.0
 pretty_name: "{CFG['pretty_name']} (SafeLegalAI)"
@@ -180,7 +181,7 @@ Every row carries `source_url`, `fetched_at` and, where the Wayback Machine acce
 ## Method
 
 {CFG['method']}
-
+{ATTRIBUTION}
 SafeLegalAI records what courts, regulators, legislatures and vendors' own public pages state; it does not infer, rank or advise. Coding columns are SafeLegalAI's good-faith reading for comparison, not findings about any person or body. Corrections and right of reply: [{SITE.removeprefix('https://')}/report]({SITE}/report).
 
 ## Licence and notices

@@ -195,7 +195,7 @@
     "link-only",
     "mirror-read"
    ],
-   "description": "fetched-and-read = official copy read; mirror-read = the court-authored document was read from a public mirror (e.g. a CC0 database's PDF) and the official URL is pending; page-read-no-document; link-only"
+   "description": "fetched-and-read = official copy read; mirror-read = the court-authored document was read from a public mirror (e.g. the PDF held by a public database such as Damien Charlotin's, CC BY 4.0) and the official URL is pending; page-read-no-document; link-only"
   },
   "lead_source": {
    "type": "array",

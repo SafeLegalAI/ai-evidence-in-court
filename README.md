@@ -118,7 +118,9 @@ A `decisions` row is one ruling: `evidence_type`, `ai_role` (alleged-deepfake ·
 
 ## Method
 
-Leads: Damien Charlotin's CC0 deepfakes and AI-evidence databases, the Federal Judicial Center survey in the May 2026 Evidence Rules agenda book, CourtListener discovery searches, news. Every US decision was read from the court's own site or the public RECAP archive; Canadian, Australian and UK decisions were read by a human one at a time on CanLII/AustLII/Find Case Law and are linked, not reproduced. Rule status is taken from uscourts.gov committee materials and legislatures and re-checked after each committee meeting. No media is hosted or linked.
+Leads: Damien Charlotin's deepfakes and AI-evidence databases (CC BY 4.0, damiencharlotin.com — confirmed by the author on 8 September 2026), the Federal Judicial Center survey in the May 2026 Evidence Rules agenda book, CourtListener discovery searches, news. Every US decision was read from the court's own site or the public RECAP archive; Canadian, Australian and UK decisions were read by a human one at a time on CanLII/AustLII/Find Case Law and are linked, not reproduced. Rule status is taken from uscourts.gov committee materials and legislatures and re-checked after each committee meeting. No media is hosted or linked.
+
+**Attribution for leads.** Leads from Damien Charlotin's Deepfakes and AI-Evidence databases (CC BY 4.0), damiencharlotin.com; each decision re-read and coded by SafeLegalAI.
 
 SafeLegalAI records what courts, regulators, legislatures and vendors' own public pages state; it does not infer, rank or advise. Coding columns are SafeLegalAI's good-faith reading for comparison, not findings about any person or body. Corrections and right of reply: [safelegalai.com/report](https://safelegalai.com/report).
 
@@ -136,14 +138,14 @@ Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) r
 
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "AI-generated evidence and deepfakes in court", v0.1.1, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court — CC BY 4.0. Canonical: https://safelegalai.com/courts/evidence
+> SafeLegalAI (Cognesio LLP), "AI-generated evidence and deepfakes in court", v0.1.2, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court — CC BY 4.0. Canonical: https://safelegalai.com/courts/evidence
 
 ```bibtex
-@dataset{safelegalai_ai_evidence_in_court_0_1_1,
+@dataset{safelegalai_ai_evidence_in_court_0_1_2,
   title        = {AI-generated evidence and deepfakes in court},
   author       = {{SafeLegalAI (Cognesio LLP)}},
   year         = {2026},
-  version      = {0.1.1},
+  version      = {0.1.2},
   url          = {https://safelegalai.com/courts/evidence},
   note         = {Mirror: https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court. Data CC BY 4.0. Built 2026-09-08.}
 }

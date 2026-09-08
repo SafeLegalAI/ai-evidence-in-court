@@ -12,7 +12,7 @@
   "generative-ai"
  ],
  "what_a_row_is": "A `decisions` row is one ruling: `evidence_type`, `ai_role` (alleged-deepfake · ai-enhanced · ai-generated-submitted · acknowledged-ai-output · deepfake-defence · voice-clone), `offered_by`, `challenge`, `ruling` (admitted · excluded · authentication-ordered · expert-required · no-weight · sanction · not-adjudicated), `rules_cited[]`, the court's finding quoted (`court_finding_quote`), a 40–60-word summary and `sensitive`/`publication_ban_checked` flags. An `instruments` row is one rule, proposed rule, statute, bench card or guidance with `status`, `status_date`, `status_quote`, `next_event` and the `operative_text`.",
- "method": "Leads: Damien Charlotin's CC0 deepfakes and AI-evidence databases, the Federal Judicial Center survey in the May 2026 Evidence Rules agenda book, CourtListener discovery searches, news. Every US decision was read from the court's own site or the public RECAP archive; Canadian, Australian and UK decisions were read by a human one at a time on CanLII/AustLII/Find Case Law and are linked, not reproduced. Rule status is taken from uscourts.gov committee materials and legislatures and re-checked after each committee meeting. No media is hosted or linked.",
+ "method": "Leads: Damien Charlotin's deepfakes and AI-evidence databases (CC BY 4.0, damiencharlotin.com — confirmed by the author on 8 September 2026), the Federal Judicial Center survey in the May 2026 Evidence Rules agenda book, CourtListener discovery searches, news. Every US decision was read from the court's own site or the public RECAP archive; Canadian, Australian and UK decisions were read by a human one at a time on CanLII/AustLII/Find Case Law and are linked, not reproduced. Rule status is taken from uscourts.gov committee materials and legislatures and re-checked after each committee meeting. No media is hosted or linked.",
  "licence_note": "US opinions and federal committee materials are public domain; state statutes are edicts. Non-US judgments are quoted at ≤25 words and linked.",
  "banned_hosts": [
   "advance.lexis.com",
@@ -62,5 +62,6 @@
   }
  },
  "repo": "ai-evidence-in-court",
- "version": "0.1.0"
+ "version": "0.1.0",
+ "attribution": "Leads from Damien Charlotin's Deepfakes and AI-Evidence databases (CC BY 4.0), damiencharlotin.com; each decision re-read and coded by SafeLegalAI."
 }
