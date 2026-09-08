@@ -28,6 +28,8 @@ configs:
 
 # AI-generated evidence and deepfakes in court
 
+> Part of the [SafeLegalAI datasets](https://safelegalai.com/datasets) — CC BY 4.0, mirrored on [Hugging Face](https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court). Every row links to its record page and its primary source. Found an error in a row? [Open an issue](https://github.com/SafeLegalAI/ai-evidence-in-court/issues/new?template=row-error.yml) or use [safelegalai.com/report](https://safelegalai.com/report).
+
 **60 court decisions worldwide on AI-generated, AI-altered or AI-"enhanced" evidence, deepfake defences and AI outputs tendered as evidence, coded by evidence type, challenge and ruling, plus 10 rules, proposals and guidance instruments with dated status (including proposed Federal Rule of Evidence 707).**
 
 Built 2026-09-07 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/courts/evidence](https://safelegalai.com/courts/evidence) · repository, pipeline and issues: [https://github.com/SafeLegalAI/ai-evidence-in-court](https://github.com/SafeLegalAI/ai-evidence-in-court) · this mirror: [https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court](https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court).
