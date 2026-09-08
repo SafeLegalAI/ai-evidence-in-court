@@ -55,9 +55,15 @@ def build_table(tname: str, tcfg: dict, version: str):
     validator = jsonschema.Draft202012Validator(schema)
     idf, banned = tcfg["id_field"], tuple(CFG.get("banned_hosts", []))
     rows, rejected, seen = [], [], {}
+    # Rows withdrawn by an editor (e.g. the document turned out not to be court-authored) stay in
+    # the source files for the audit trail but are excluded from every release.
+    wf = ROOT / "work" / "withdrawn.json"
+    withdrawn = {w[idf]: w for w in json.loads(wf.read_text()) if idf in w} if wf.exists() else {}
     files = sorted(WORK.glob(f"{tname}-*.jsonl")) + ([WORK / f"{tname}.jsonl"] if (WORK / f"{tname}.jsonl").exists() else [])
     for f in files:
         for r in read_jsonl(f):
+            if r.get(idf) in withdrawn:
+                continue
             errs = [e.message for e in validator.iter_errors(r)]
             for uf in tcfg.get("url_fields", ["source_url"]):
                 if is_banned(r.get(uf), banned):
@@ -98,7 +104,7 @@ def build_table(tname: str, tcfg: dict, version: str):
     pq.write_table(pa.Table.from_pylist(strflat), DATA / f"{tname}.parquet", compression="zstd")
     if rejected:
         (ROOT / "work" / f"rejected-{tname}.json").write_text(json.dumps(rejected, indent=1, ensure_ascii=False))
-    stats = {"rows": len(rows), "rejected": len(rejected)}
+    stats = {"rows": len(rows), "rejected": len(rejected), "withdrawn": len(withdrawn)}
     for f in tcfg.get("count_fields", []):
         vals = []
         for r in rows:
@@ -116,6 +122,8 @@ def main():
                 "repository": f"https://github.com/SafeLegalAI/{CFG['repo']}", "huggingface": f"https://huggingface.co/datasets/{HF_ORG}/{CFG['repo']}",
                 "license_data": "CC BY 4.0 (SafeLegalAI, Cognesio LLP); underlying official documents keep their own status (see NOTICE)",
                 "notice": NOTICE, "tables": {}}
+    if CFG.get("quality"):
+        manifest["quality"] = CFG["quality"]
     tables = {}
     for tname, tcfg in CFG["tables"].items():
         rows, stats = build_table(tname, tcfg, a.version)
@@ -150,6 +158,18 @@ def card(tables: dict, manifest: dict) -> str:
             statblocks.append(f"### `{t}` by `{f}`\n\n| value | rows |\n|---|---|\n{lines}\n")
     gh = manifest["repository"]; hf = manifest["huggingface"]; can = manifest["canonical"]
     ATTRIBUTION = ("\n**Attribution for leads.** " + CFG["attribution"] + "\n") if CFG.get("attribution") else ""
+    q = CFG.get("quality")
+    QUALITY = ""
+    if q:
+        checks = "\n".join(f"- **{c['date']}** — {c['what']} {c['result']}" for c in q.get("checks", []))
+        QUALITY = f"""## Quality and known limits
+
+{q['summary']}
+
+{checks}
+
+{q.get('limits', '')}
+"""
     return f"""---
 license: cc-by-4.0
 pretty_name: "{CFG['pretty_name']} (SafeLegalAI)"
@@ -178,6 +198,7 @@ Every row carries `source_url`, `fetched_at` and, where the Wayback Machine acce
 {CFG['what_a_row_is']}
 
 {chr(10).join(statblocks)}
+{QUALITY}
 ## Method
 
 {CFG['method']}
