@@ -157,7 +157,7 @@ language:
 size_categories:
   - {size}
 tags:
-{chr(10).join('  - ' + t for t in CFG['tags'] + ['legal', 'safelegalai'])}
+{chr(10).join('  - ' + t for t in dict.fromkeys(CFG['tags'] + ['legal', 'law', 'courts', 'ai-regulation', 'ai-safety', 'ai-governance', 'safelegalai']))}
 configs:
 {cfgs}
 ---
@@ -189,9 +189,26 @@ SafeLegalAI records what courts, regulators, legislatures and vendors' own publi
 
 {NOTICE} See `DISCLAIMER.md` and `NOTICE` in this repository.
 
+## Uses
+
+**Suited to:** counting and comparing what the record shows (by court, jurisdiction, date, actor, outcome, status); building watch-lists and alerts from `source_url`/`fetched_at`; grounding retrieval or summarisation on cited primary documents; teaching and library guides that need a dated, sourced list.
+
+**Not suited to:** ranking products, people or courts; inferring prevalence beyond what a court or regulator has itself stated; any use that treats a coding column as a finding of fact or law. Where a row names a person or organisation it does so as they appear in a public document; anyone named may request a correction or right of reply at {SITE}/report.
+
 ## Cite
 
 > SafeLegalAI (Cognesio LLP), "{CFG['title']}", v{manifest['version']}, {manifest['built']}. {hf} — CC BY 4.0. Canonical: {can}
+
+```bibtex
+@dataset{{safelegalai_{CFG['repo'].replace('-', '_')}_{manifest['version'].replace('.', '_')},
+  title        = {{{CFG['title']}}},
+  author       = {{{{SafeLegalAI (Cognesio LLP)}}}},
+  year         = {{{manifest['built'][:4]}}},
+  version      = {{{manifest['version']}}},
+  url          = {{{can}}},
+  note         = {{Mirror: {hf}. Data CC BY 4.0. Built {manifest['built']}.}}
+}}
+```
 """
 
 

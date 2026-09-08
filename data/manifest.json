@@ -1,7 +1,7 @@
 {
  "dataset": "AI-generated evidence and deepfakes in court — decisions and rule status",
  "version": "0.1.1",
- "built": "2026-09-07",
+ "built": "2026-09-08",
  "canonical": "https://safelegalai.com/courts/evidence",
  "repository": "https://github.com/SafeLegalAI/ai-evidence-in-court",
  "huggingface": "https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court",

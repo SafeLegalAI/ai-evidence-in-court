@@ -13,6 +13,10 @@ tags:
   - fre-707
   - generative-ai
   - legal
+  - law
+  - ai-regulation
+  - ai-safety
+  - ai-governance
   - safelegalai
 configs:
   - config_name: decisions
@@ -28,11 +32,9 @@ configs:
 
 # AI-generated evidence and deepfakes in court
 
-> Part of the [SafeLegalAI datasets](https://safelegalai.com/datasets) — CC BY 4.0, mirrored on [Hugging Face](https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court). Every row links to its record page and its primary source. Found an error in a row? [Open an issue](https://github.com/SafeLegalAI/ai-evidence-in-court/issues/new?template=row-error.yml) or use [safelegalai.com/report](https://safelegalai.com/report).
-
 **60 court decisions worldwide on AI-generated, AI-altered or AI-"enhanced" evidence, deepfake defences and AI outputs tendered as evidence, coded by evidence type, challenge and ruling, plus 10 rules, proposals and guidance instruments with dated status (including proposed Federal Rule of Evidence 707).**
 
-Built 2026-09-07 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/courts/evidence](https://safelegalai.com/courts/evidence) · repository, pipeline and issues: [https://github.com/SafeLegalAI/ai-evidence-in-court](https://github.com/SafeLegalAI/ai-evidence-in-court) · this mirror: [https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court](https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court).
+Built 2026-09-08 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/courts/evidence](https://safelegalai.com/courts/evidence) · repository, pipeline and issues: [https://github.com/SafeLegalAI/ai-evidence-in-court](https://github.com/SafeLegalAI/ai-evidence-in-court) · this mirror: [https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court](https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court).
 
 | table | rows | one row is |
 |---|---|---|
@@ -126,6 +128,23 @@ US opinions and federal committee materials are public domain; state statutes ar
 
 Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) records what courts, regulators, legislatures and vendors' own public pages state; the linked official documents are the record. Names and marks belong to their owners. Anyone named may reply: https://safelegalai.com/report. Full terms: https://safelegalai.com/disclaimer See `DISCLAIMER.md` and `NOTICE` in this repository.
 
+## Uses
+
+**Suited to:** counting and comparing what the record shows (by court, jurisdiction, date, actor, outcome, status); building watch-lists and alerts from `source_url`/`fetched_at`; grounding retrieval or summarisation on cited primary documents; teaching and library guides that need a dated, sourced list.
+
+**Not suited to:** ranking products, people or courts; inferring prevalence beyond what a court or regulator has itself stated; any use that treats a coding column as a finding of fact or law. Where a row names a person or organisation it does so as they appear in a public document; anyone named may request a correction or right of reply at https://safelegalai.com/report.
+
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "AI-generated evidence and deepfakes in court", v0.1.1, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court — CC BY 4.0. Canonical: https://safelegalai.com/courts/evidence
+> SafeLegalAI (Cognesio LLP), "AI-generated evidence and deepfakes in court", v0.1.1, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court — CC BY 4.0. Canonical: https://safelegalai.com/courts/evidence
+
+```bibtex
+@dataset{safelegalai_ai_evidence_in_court_0_1_1,
+  title        = {AI-generated evidence and deepfakes in court},
+  author       = {{SafeLegalAI (Cognesio LLP)}},
+  year         = {2026},
+  version      = {0.1.1},
+  url          = {https://safelegalai.com/courts/evidence},
+  note         = {Mirror: https://huggingface.co/datasets/safelegalaidata/ai-evidence-in-court. Data CC BY 4.0. Built 2026-09-08.}
+}
+```
